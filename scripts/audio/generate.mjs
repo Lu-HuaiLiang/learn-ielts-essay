@@ -10,7 +10,13 @@ function runSynthesis(item, output) {
   return new Promise((resolve, reject) => {
     const child = spawn(process.execPath, [path.join(root, 'scripts/audio/synthesize.mjs'), item.text, output], {stdio: 'inherit'});
     child.on('error', reject);
-    child.on('exit', code => code === 0 ? resolve() : reject(new Error(`synthesis exited with ${code}`)));
+    child.on('exit', code => {
+      if (code === 0) return resolve();
+      if (code !== 13) return reject(new Error(`synthesis exited with ${code}`));
+      const fallback = spawn('python3', [path.join(root, 'scripts/audio/synthesize_python.py'), item.text, output], {stdio: 'inherit'});
+      fallback.on('error', reject);
+      fallback.on('exit', fallbackCode => fallbackCode === 0 ? resolve() : reject(new Error(`synthesis fallback exited with ${fallbackCode}`)));
+    });
   });
 }
 
