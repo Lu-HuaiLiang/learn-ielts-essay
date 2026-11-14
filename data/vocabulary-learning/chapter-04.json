@@ -1,0 +1,1374 @@
+[
+  {
+    "ids": [
+      "04-001",
+      "04-003"
+    ],
+    "examples": [
+      {
+        "en": "Our galaxy is only a small part of the universe.",
+        "zh": "我们的星系只是宇宙的一小部分。"
+      },
+      {
+        "en": "Studying a distant galaxy can help us understand the early universe.",
+        "zh": "研究遥远的星系可以帮助我们了解早期宇宙。"
+      },
+      {
+        "en": "The exhibition places our galaxy within a much larger picture of the universe.",
+        "zh": "展览把我们的星系置于更宏大的宇宙图景之中。"
+      }
+    ],
+    "collocations": {
+      "04-001": [
+        "a distant galaxy",
+        "遥远的星系"
+      ],
+      "04-003": [
+        "the observable universe",
+        "可观测宇宙"
+      ]
+    },
+    "related": [
+      {
+        "word": "star",
+        "meaning": "恒星",
+        "relation": "同场景"
+      },
+      {
+        "word": "Milky Way",
+        "meaning": "银河系",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-002",
+      "04-006",
+      "04-009"
+    ],
+    "examples": [
+      {
+        "en": "The astronaut described the cosmos while pointing to a celestial object on the screen.",
+        "zh": "宇航员指着屏幕上的一个天体，讲述宇宙的情况。"
+      },
+      {
+        "en": "A celestial map helped the astronaut explain how we observe the cosmos.",
+        "zh": "一张天体图帮助这位宇航员解释我们如何观测宇宙。"
+      },
+      {
+        "en": "The astronaut hoped that each new celestial discovery would deepen our knowledge of the cosmos.",
+        "zh": "这位宇航员希望每一项新的天体发现都能加深我们对宇宙的了解。"
+      }
+    ],
+    "collocations": {
+      "04-002": [
+        "explore the cosmos",
+        "探索宇宙"
+      ],
+      "04-006": [
+        "a celestial body",
+        "天体"
+      ],
+      "04-009": [
+        "a trained astronaut",
+        "训练有素的宇航员"
+      ]
+    },
+    "related": [
+      {
+        "word": "space",
+        "meaning": "太空",
+        "relation": "同场景"
+      },
+      {
+        "word": "discovery",
+        "meaning": "发现",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-004",
+      "04-005"
+    ],
+    "examples": [
+      {
+        "en": "The museum contrasts terrestrial life with the imagined challenges of interstellar travel.",
+        "zh": "博物馆将地球生命与设想中的星际旅行挑战进行对照。"
+      },
+      {
+        "en": "Interstellar missions would need to carry equipment tested under terrestrial conditions.",
+        "zh": "星际任务需要携带在地球条件下测试过的设备。"
+      },
+      {
+        "en": "The novel describes an interstellar journey that changes how its characters view their terrestrial home.",
+        "zh": "小说描写了一段星际旅程，改变了人物看待地球家园的方式。"
+      }
+    ],
+    "collocations": {
+      "04-004": [
+        "interstellar travel",
+        "星际旅行"
+      ],
+      "04-005": [
+        "terrestrial life",
+        "地球上的生命"
+      ]
+    },
+    "related": [
+      {
+        "word": "planet",
+        "meaning": "行星",
+        "relation": "同场景"
+      },
+      {
+        "word": "habitat",
+        "meaning": "栖息地",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-007",
+      "04-008"
+    ],
+    "examples": [
+      {
+        "en": "Astronomy studies celestial objects scientifically, whereas astrology links them to human affairs.",
+        "zh": "天文学以科学方式研究天体，而占星学把天体与人类事务联系起来。"
+      },
+      {
+        "en": "Her interest in astronomy led her to question the claims made by astrology.",
+        "zh": "对天文学的兴趣使她开始质疑占星学的说法。"
+      },
+      {
+        "en": "The course explains why astronomy and astrology use some similar terms but rely on different methods.",
+        "zh": "这门课程解释了天文学和占星学为何使用一些相似术语，却采用不同的方法。"
+      }
+    ],
+    "collocations": {
+      "04-007": [
+        "study astronomy",
+        "学习天文学"
+      ],
+      "04-008": [
+        "believe in astrology",
+        "相信占星学"
+      ]
+    },
+    "related": [
+      {
+        "word": "observation",
+        "meaning": "观测",
+        "relation": "同场景"
+      },
+      {
+        "word": "evidence",
+        "meaning": "证据",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-010",
+      "04-011",
+      "04-012"
+    ],
+    "examples": [
+      {
+        "en": "The display compares a comet with a meteorite beside a model of an impact crater.",
+        "zh": "展品在一个撞击坑模型旁对比介绍彗星和陨石。"
+      },
+      {
+        "en": "A comet travels through space, while a meteorite reaches the ground and may leave a crater.",
+        "zh": "彗星在太空运行，而陨石落到地面后可能留下撞击坑。"
+      },
+      {
+        "en": "The children drew a comet above a crater and placed a small meteorite in the foreground.",
+        "zh": "孩子们在撞击坑上方画了一颗彗星，并在前景放了一小块陨石。"
+      }
+    ],
+    "collocations": {
+      "04-010": [
+        "a passing comet",
+        "经过的彗星"
+      ],
+      "04-011": [
+        "a meteorite impact",
+        "陨石撞击"
+      ],
+      "04-012": [
+        "an impact crater",
+        "撞击坑"
+      ]
+    },
+    "related": [
+      {
+        "word": "asteroid",
+        "meaning": "小行星",
+        "relation": "同场景"
+      },
+      {
+        "word": "impact",
+        "meaning": "撞击",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-013",
+      "04-014",
+      "04-016"
+    ],
+    "examples": [
+      {
+        "en": "A chunk of burnt wood lay beneath a layer of dust and ash.",
+        "zh": "一块烧焦的木头躺在一层灰尘和灰烬下面。"
+      },
+      {
+        "en": "The workers removed each chunk of debris before sweeping away the dust and ash.",
+        "zh": "工人先移走一块块残骸，再扫去灰尘和灰烬。"
+      },
+      {
+        "en": "She brushed dust and ash off a chunk of rock recovered from the site.",
+        "zh": "她把现场取回的一块岩石上的灰尘和灰烬刷掉了。"
+      }
+    ],
+    "collocations": {
+      "04-013": [
+        "a cloud of dust",
+        "一团尘土"
+      ],
+      "04-014": [
+        "volcanic ash",
+        "火山灰"
+      ],
+      "04-016": [
+        "a chunk of rock",
+        "一大块岩石"
+      ]
+    },
+    "related": [
+      {
+        "word": "debris",
+        "meaning": "残骸",
+        "relation": "同场景"
+      },
+      {
+        "word": "layer",
+        "meaning": "层",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-015"
+    ],
+    "examples": [
+      {
+        "en": "A thin envelope of gas surrounded the experimental capsule.",
+        "zh": "实验舱周围包裹着一层薄薄的气体。"
+      },
+      {
+        "en": "The diagram shows the gaseous envelope around the planet.",
+        "zh": "示意图展示了行星周围的气体包层。"
+      },
+      {
+        "en": "The balloon rose as the air inside its envelope became warmer.",
+        "zh": "气球包体内的空气变暖时，气球升了起来。"
+      }
+    ],
+    "collocations": {
+      "04-015": [
+        "a gaseous envelope",
+        "气体包层"
+      ]
+    },
+    "related": [
+      {
+        "word": "outer layer",
+        "meaning": "外层",
+        "relation": "同场景"
+      },
+      {
+        "word": "atmosphere",
+        "meaning": "大气层",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-017",
+      "04-018",
+      "04-019"
+    ],
+    "examples": [
+      {
+        "en": "The museum displays a spacecraft, a fictional spaceship and a robotic probe.",
+        "zh": "博物馆展示了一艘航天器、一艘虚构的宇宙飞船和一台机器人探测器。"
+      },
+      {
+        "en": "Unlike the crewed spaceship in the film, the research spacecraft carries a probe rather than passengers.",
+        "zh": "研究航天器搭载的是探测器，而不是电影中载人宇宙飞船上的乘客。"
+      },
+      {
+        "en": "The engineer used a model spaceship to explain how a spacecraft could release a probe.",
+        "zh": "工程师用宇宙飞船模型解释航天器如何释放探测器。"
+      }
+    ],
+    "collocations": {
+      "04-017": [
+        "launch a spacecraft",
+        "发射航天器"
+      ],
+      "04-018": [
+        "a crewed spaceship",
+        "载人宇宙飞船"
+      ],
+      "04-019": [
+        "a space probe",
+        "太空探测器"
+      ]
+    },
+    "related": [
+      {
+        "word": "mission",
+        "meaning": "任务",
+        "relation": "同场景"
+      },
+      {
+        "word": "launch",
+        "meaning": "发射",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-020",
+      "04-021",
+      "04-022"
+    ],
+    "examples": [
+      {
+        "en": "Engineers checked the pressure inside the module before testing the propulsion system.",
+        "zh": "工程师在测试推进系统之前检查了舱内压力。"
+      },
+      {
+        "en": "The module remained sealed while the team monitored its pressure and propulsion controls.",
+        "zh": "团队监测压力和推进控制装置时，舱段保持密封。"
+      },
+      {
+        "en": "A warning about low pressure delayed the propulsion test for the new module.",
+        "zh": "低压警报导致新舱段的推进测试推迟。"
+      }
+    ],
+    "collocations": {
+      "04-020": [
+        "a lunar module",
+        "登月舱"
+      ],
+      "04-021": [
+        "a propulsion system",
+        "推进系统"
+      ],
+      "04-022": [
+        "air pressure",
+        "气压"
+      ]
+    },
+    "related": [
+      {
+        "word": "engine",
+        "meaning": "发动机",
+        "relation": "同场景"
+      },
+      {
+        "word": "seal",
+        "meaning": "密封",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-023",
+      "04-024",
+      "04-027"
+    ],
+    "examples": [
+      {
+        "en": "The students used dynamics to explain why the motion followed a curve.",
+        "zh": "学生运用动力学解释运动轨迹为何呈曲线。"
+      },
+      {
+        "en": "A course in dynamics helped her model the motion of a ball along a curve.",
+        "zh": "一门动力学课程帮助她模拟球沿曲线的运动。"
+      },
+      {
+        "en": "The animation shows the curve of the motion and introduces the dynamics behind it.",
+        "zh": "动画展示了运动的曲线，并介绍其背后的动力学原理。"
+      }
+    ],
+    "collocations": {
+      "04-023": [
+        "fluid dynamics",
+        "流体动力学"
+      ],
+      "04-024": [
+        "circular motion",
+        "圆周运动"
+      ],
+      "04-027": [
+        "a smooth curve",
+        "平滑的曲线"
+      ]
+    },
+    "related": [
+      {
+        "word": "trajectory",
+        "meaning": "轨迹",
+        "relation": "同场景"
+      },
+      {
+        "word": "force",
+        "meaning": "力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-025",
+      "04-026"
+    ],
+    "examples": [
+      {
+        "en": "A small vent near the tail allowed warm air to escape.",
+        "zh": "尾部附近的一个小排气口让热空气排出。"
+      },
+      {
+        "en": "The mechanic inspected the tail and cleared the blocked vent.",
+        "zh": "机械师检查了尾部，并疏通堵塞的排气口。"
+      },
+      {
+        "en": "Smoke emerging from a vent beneath the tail prompted an immediate inspection.",
+        "zh": "尾部下方一个排气口冒出的烟引发了立即检查。"
+      }
+    ],
+    "collocations": {
+      "04-025": [
+        "an air vent",
+        "通风口"
+      ],
+      "04-026": [
+        "the tail of an aircraft",
+        "飞机尾部"
+      ]
+    },
+    "related": [
+      {
+        "word": "exhaust",
+        "meaning": "废气；排出",
+        "relation": "同场景"
+      },
+      {
+        "word": "airflow",
+        "meaning": "气流",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-028",
+      "04-029",
+      "04-030"
+    ],
+    "examples": [
+      {
+        "en": "The expedition planned a flyby as the first stage of its exploration.",
+        "zh": "这次探险把飞掠观测安排为探索的第一阶段。"
+      },
+      {
+        "en": "A successful flyby gave the expedition new data for further exploration.",
+        "zh": "一次成功的飞掠为探险队的后续探索提供了新数据。"
+      },
+      {
+        "en": "The documentary follows an expedition whose exploration begins with a distant flyby.",
+        "zh": "纪录片追踪了一项从远距离飞掠开始的探险任务。"
+      }
+    ],
+    "collocations": {
+      "04-028": [
+        "space exploration",
+        "太空探索"
+      ],
+      "04-029": [
+        "a scientific expedition",
+        "科学考察"
+      ],
+      "04-030": [
+        "a planetary flyby",
+        "行星飞掠"
+      ]
+    },
+    "related": [
+      {
+        "word": "survey",
+        "meaning": "勘测",
+        "relation": "同场景"
+      },
+      {
+        "word": "mission",
+        "meaning": "任务",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-031",
+      "04-032",
+      "04-033"
+    ],
+    "examples": [
+      {
+        "en": "Visitors used the telescope at the observatory to watch the lunar spectacle.",
+        "zh": "游客用天文台的望远镜观看月球奇观。"
+      },
+      {
+        "en": "The observatory opened its telescope to the public during the rare celestial spectacle.",
+        "zh": "在罕见的天象出现期间，天文台向公众开放了望远镜。"
+      },
+      {
+        "en": "Through the observatory telescope, the rings of Saturn formed an unforgettable spectacle.",
+        "zh": "透过天文台的望远镜，土星环构成了一幅难忘的奇观。"
+      }
+    ],
+    "collocations": {
+      "04-031": [
+        "an astronomical observatory",
+        "天文台"
+      ],
+      "04-032": [
+        "a powerful telescope",
+        "高倍望远镜"
+      ],
+      "04-033": [
+        "a breathtaking spectacle",
+        "令人惊叹的奇观"
+      ]
+    },
+    "related": [
+      {
+        "word": "observation",
+        "meaning": "观测",
+        "relation": "同场景"
+      },
+      {
+        "word": "night sky",
+        "meaning": "夜空",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-034",
+      "04-035"
+    ],
+    "examples": [
+      {
+        "en": "The chart shows the orbit of Earth and marks the ecliptic across the sky.",
+        "zh": "图表展示了地球轨道，并在天空中标出黄道。"
+      },
+      {
+        "en": "Her model connects the plane of the orbit with the position of the ecliptic.",
+        "zh": "她的模型将轨道平面与黄道的位置联系起来。"
+      },
+      {
+        "en": "The teacher used an orbit diagram to explain why the Sun appears to follow the ecliptic.",
+        "zh": "老师借助轨道示意图解释太阳为何看起来沿黄道移动。"
+      }
+    ],
+    "collocations": {
+      "04-034": [
+        "enter orbit",
+        "进入轨道"
+      ],
+      "04-035": [
+        "the plane of the ecliptic",
+        "黄道面"
+      ]
+    },
+    "related": [
+      {
+        "word": "orbital plane",
+        "meaning": "轨道平面",
+        "relation": "同场景"
+      },
+      {
+        "word": "apparent path",
+        "meaning": "视运动轨迹",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-036",
+      "04-037"
+    ],
+    "examples": [
+      {
+        "en": "The diameter of a circle is twice its radius.",
+        "zh": "圆的直径是其半径的两倍。"
+      },
+      {
+        "en": "She calculated the radius after measuring the diameter of the dish.",
+        "zh": "她测量碟子的直径后计算了半径。"
+      },
+      {
+        "en": "The diagram labels both the radius and the diameter of the circular window.",
+        "zh": "示意图标出了圆形窗户的半径和直径。"
+      }
+    ],
+    "collocations": {
+      "04-036": [
+        "measure the diameter",
+        "测量直径"
+      ],
+      "04-037": [
+        "within a radius of ten kilometres",
+        "在十公里半径范围内"
+      ]
+    },
+    "related": [
+      {
+        "word": "circle",
+        "meaning": "圆",
+        "relation": "同场景"
+      },
+      {
+        "word": "circumference",
+        "meaning": "圆周长",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-038",
+      "04-039",
+      "04-040"
+    ],
+    "examples": [
+      {
+        "en": "The chemist analysed the composition of the substance to identify the unknown compound.",
+        "zh": "化学家分析了这种物质的成分，以确定未知化合物的身份。"
+      },
+      {
+        "en": "A change in composition made the substance behave differently from the original compound.",
+        "zh": "成分变化使这种物质表现得与原化合物不同。"
+      },
+      {
+        "en": "Before using the substance, the team checked whether its composition included the harmful compound.",
+        "zh": "使用这种物质前，团队检查了其成分是否含有该有害化合物。"
+      }
+    ],
+    "collocations": {
+      "04-038": [
+        "a chemical substance",
+        "化学物质"
+      ],
+      "04-039": [
+        "chemical composition",
+        "化学成分"
+      ],
+      "04-040": [
+        "an organic compound",
+        "有机化合物"
+      ]
+    },
+    "related": [
+      {
+        "word": "element",
+        "meaning": "元素",
+        "relation": "同场景"
+      },
+      {
+        "word": "mixture",
+        "meaning": "混合物",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-041",
+      "04-042",
+      "04-043"
+    ],
+    "examples": [
+      {
+        "en": "The fossil became the most valuable specimen in the rock sample collection.",
+        "zh": "这块化石成了岩石样本收藏中最珍贵的标本。"
+      },
+      {
+        "en": "Researchers compared the fossil specimen with a fresh sample from the same site.",
+        "zh": "研究人员将化石标本与同一地点新采集的样本作了比较。"
+      },
+      {
+        "en": "Each sample received a label, but the fragile fossil specimen needed extra protection.",
+        "zh": "每个样本都贴上了标签，而脆弱的化石标本需要额外保护。"
+      }
+    ],
+    "collocations": {
+      "04-041": [
+        "a fossil record",
+        "化石记录"
+      ],
+      "04-042": [
+        "collect a sample",
+        "采集样本"
+      ],
+      "04-043": [
+        "a preserved specimen",
+        "保存完好的标本"
+      ]
+    },
+    "related": [
+      {
+        "word": "preservation",
+        "meaning": "保存",
+        "relation": "同场景"
+      },
+      {
+        "word": "sediment",
+        "meaning": "沉积物",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-044",
+      "04-045",
+      "04-046"
+    ],
+    "examples": [
+      {
+        "en": "The diagram compares a dust particle, a water molecule and a single atom.",
+        "zh": "示意图对比了尘粒、水分子和单个原子。"
+      },
+      {
+        "en": "An atom may form part of a molecule, while a dust particle can contain many molecules.",
+        "zh": "原子可以构成分子的一部分，而一粒尘埃可含有许多分子。"
+      },
+      {
+        "en": "The textbook distinguishes the general term particle from the more specific terms molecule and atom.",
+        "zh": "教材区分了一般术语“粒子”和更具体的术语“分子”“原子”。"
+      }
+    ],
+    "collocations": {
+      "04-044": [
+        "a tiny particle",
+        "微小的颗粒"
+      ],
+      "04-045": [
+        "a water molecule",
+        "水分子"
+      ],
+      "04-046": [
+        "a single atom",
+        "单个原子"
+      ]
+    },
+    "related": [
+      {
+        "word": "microscopic",
+        "meaning": "微观的",
+        "relation": "同场景"
+      },
+      {
+        "word": "structure",
+        "meaning": "结构",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-047",
+      "04-048",
+      "04-049"
+    ],
+    "examples": [
+      {
+        "en": "In the quantum model, the electron belongs to an ion with a net electrical charge.",
+        "zh": "在这个量子模型中，电子属于一个带净电荷的离子。"
+      },
+      {
+        "en": "The lecture uses quantum theory to explain what happens when an ion gains an electron.",
+        "zh": "讲座用量子理论解释离子获得一个电子时会发生什么。"
+      },
+      {
+        "en": "A quantum calculation helped the researchers describe the electron in the trapped ion.",
+        "zh": "量子计算帮助研究人员描述被俘获离子中的电子。"
+      }
+    ],
+    "collocations": {
+      "04-047": [
+        "a positive ion",
+        "正离子"
+      ],
+      "04-048": [
+        "an electron beam",
+        "电子束"
+      ],
+      "04-049": [
+        "quantum theory",
+        "量子理论"
+      ]
+    },
+    "related": [
+      {
+        "word": "electric charge",
+        "meaning": "电荷",
+        "relation": "同场景"
+      },
+      {
+        "word": "energy level",
+        "meaning": "能级",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-050",
+      "04-056"
+    ],
+    "examples": [
+      {
+        "en": "Under this unusual circumstance, the usual method may need to be adjusted.",
+        "zh": "在这种特殊情况下，常用方法可能需要调整。"
+      },
+      {
+        "en": "The unexpected circumstance forced the team to choose a safer method.",
+        "zh": "意外情况迫使团队选择更安全的方法。"
+      },
+      {
+        "en": "A method that works in one circumstance may fail in another.",
+        "zh": "在一种情况下奏效的方法，在另一种情况下可能失败。"
+      }
+    ],
+    "collocations": {
+      "04-050": [
+        "an exceptional circumstance",
+        "特殊情况"
+      ],
+      "04-056": [
+        "a reliable method",
+        "可靠的方法"
+      ]
+    },
+    "related": [
+      {
+        "word": "condition",
+        "meaning": "条件",
+        "relation": "同场景"
+      },
+      {
+        "word": "procedure",
+        "meaning": "程序；步骤",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-051",
+      "04-052",
+      "04-053"
+    ],
+    "examples": [
+      {
+        "en": "A liquid is a fluid, whereas a solid usually retains its shape.",
+        "zh": "液体是一种流体，而固体通常保持其形状。"
+      },
+      {
+        "en": "The experiment compares how a fluid such as liquid water behaves beside a solid block.",
+        "zh": "实验比较了液态水这类流体与固体块的表现。"
+      },
+      {
+        "en": "The model represents the solid wall separately from the liquid flowing through the fluid chamber.",
+        "zh": "模型将固体壁与流经流体室的液体分别表示。"
+      }
+    ],
+    "collocations": {
+      "04-051": [
+        "a clear liquid",
+        "透明液体"
+      ],
+      "04-052": [
+        "fluid flow",
+        "流体流动"
+      ],
+      "04-053": [
+        "a solid object",
+        "固体物体"
+      ]
+    },
+    "related": [
+      {
+        "word": "gas",
+        "meaning": "气体",
+        "relation": "同场景"
+      },
+      {
+        "word": "state of matter",
+        "meaning": "物态",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-054",
+      "04-055"
+    ],
+    "examples": [
+      {
+        "en": "The researchers hope to synthesise a material that supports the formation of a protective layer.",
+        "zh": "研究人员希望合成一种有助于保护层形成的材料。"
+      },
+      {
+        "en": "To study crystal formation, the team will synthesise the compound in the laboratory.",
+        "zh": "为研究晶体形成，团队将在实验室合成该化合物。"
+      },
+      {
+        "en": "A new technique can synthesise the substance while limiting the formation of unwanted particles.",
+        "zh": "一种新技术能够合成该物质，同时限制不需要的颗粒形成。"
+      }
+    ],
+    "collocations": {
+      "04-054": [
+        "synthesise a compound",
+        "合成化合物"
+      ],
+      "04-055": [
+        "the formation of crystals",
+        "晶体的形成"
+      ]
+    },
+    "related": [
+      {
+        "word": "reaction",
+        "meaning": "反应",
+        "relation": "同场景"
+      },
+      {
+        "word": "laboratory",
+        "meaning": "实验室",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-057",
+      "04-059",
+      "04-060"
+    ],
+    "examples": [
+      {
+        "en": "The instrument detected a signal at a particular frequency within the radio spectrum.",
+        "zh": "仪器在无线电频谱内的某一频率检测到一个信号。"
+      },
+      {
+        "en": "Engineers searched the spectrum for a frequency that would carry the signal clearly.",
+        "zh": "工程师在频谱中寻找能够清晰传输信号的频率。"
+      },
+      {
+        "en": "The chart plots the signal across the spectrum and highlights its strongest frequency.",
+        "zh": "图表绘出了信号在频谱中的分布，并突出显示其最强频率。"
+      }
+    ],
+    "collocations": {
+      "04-057": [
+        "the visible spectrum",
+        "可见光谱"
+      ],
+      "04-059": [
+        "a high frequency",
+        "高频"
+      ],
+      "04-060": [
+        "transmit a signal",
+        "传输信号"
+      ]
+    },
+    "related": [
+      {
+        "word": "wavelength",
+        "meaning": "波长",
+        "relation": "同场景"
+      },
+      {
+        "word": "transmission",
+        "meaning": "传输",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-058"
+    ],
+    "examples": [
+      {
+        "en": "Time adds another dimension to the model of motion.",
+        "zh": "时间为运动模型增加了另一个维度。"
+      },
+      {
+        "en": "The report examines the social dimension of space exploration.",
+        "zh": "报告考察了太空探索的社会层面。"
+      },
+      {
+        "en": "Students must label each dimension of the three-dimensional drawing.",
+        "zh": "学生必须标注三维图中的每一个维度。"
+      }
+    ],
+    "collocations": {
+      "04-058": [
+        "a new dimension",
+        "新的维度；新的层面"
+      ]
+    },
+    "related": [
+      {
+        "word": "perspective",
+        "meaning": "视角",
+        "relation": "同场景"
+      },
+      {
+        "word": "measurement",
+        "meaning": "测量",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-061",
+      "04-062"
+    ],
+    "examples": [
+      {
+        "en": "The technician connected the antenna to the receiver circuit.",
+        "zh": "技术员将天线连接到接收器电路。"
+      },
+      {
+        "en": "A fault in the circuit prevented the antenna from sending a clear signal.",
+        "zh": "电路故障使天线无法发送清晰的信号。"
+      },
+      {
+        "en": "The design places the antenna above the main circuit to save space.",
+        "zh": "该设计将天线置于主电路上方，以节省空间。"
+      }
+    ],
+    "collocations": {
+      "04-061": [
+        "a radio antenna",
+        "无线电天线"
+      ],
+      "04-062": [
+        "an electrical circuit",
+        "电路"
+      ]
+    },
+    "related": [
+      {
+        "word": "receiver",
+        "meaning": "接收器",
+        "relation": "同场景"
+      },
+      {
+        "word": "transmitter",
+        "meaning": "发射器",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-063",
+      "04-064"
+    ],
+    "examples": [
+      {
+        "en": "The experiment measures the refraction of ultraviolet light through the material.",
+        "zh": "实验测量紫外光穿过该材料时的折射。"
+      },
+      {
+        "en": "Researchers selected a special lens to study ultraviolet refraction.",
+        "zh": "研究人员选用一种特殊透镜研究紫外光折射。"
+      },
+      {
+        "en": "The diagram traces an ultraviolet ray before and after refraction.",
+        "zh": "示意图描绘了一条紫外光线折射前后的路径。"
+      }
+    ],
+    "collocations": {
+      "04-063": [
+        "the refraction of light",
+        "光的折射"
+      ],
+      "04-064": [
+        "ultraviolet radiation",
+        "紫外线辐射"
+      ]
+    },
+    "related": [
+      {
+        "word": "lens",
+        "meaning": "透镜",
+        "relation": "同场景"
+      },
+      {
+        "word": "reflection",
+        "meaning": "反射",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-065"
+    ],
+    "examples": [
+      {
+        "en": "The laboratory stores radioactive material in a specially designed container.",
+        "zh": "实验室将放射性材料存放在专门设计的容器中。"
+      },
+      {
+        "en": "Workers measured the radioactive waste before moving it to secure storage.",
+        "zh": "工作人员在将放射性废物移入安全储存区之前对其进行了测量。"
+      },
+      {
+        "en": "The damaged instrument was checked for radioactive contamination.",
+        "zh": "受损仪器接受了放射性污染检测。"
+      }
+    ],
+    "collocations": {
+      "04-065": [
+        "radioactive waste",
+        "放射性废物"
+      ]
+    },
+    "related": [
+      {
+        "word": "radiation",
+        "meaning": "辐射",
+        "relation": "同场景"
+      },
+      {
+        "word": "contamination",
+        "meaning": "污染",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-066",
+      "04-067",
+      "04-068"
+    ],
+    "examples": [
+      {
+        "en": "The two images show a distinct difference, although the smaller mark is barely discernible and the finest detail is invisible.",
+        "zh": "两幅图有明显差异，不过较小的标记几乎难以辨认，最细微的细节则看不见。"
+      },
+      {
+        "en": "Under the microscope, a once invisible pattern became discernible and formed a distinct outline.",
+        "zh": "在显微镜下，原本看不见的图案变得可辨认，并呈现出清晰的轮廓。"
+      },
+      {
+        "en": "The report treats a faint but discernible object as distinct from one that remains invisible.",
+        "zh": "报告将微弱但可辨认的物体与仍然看不见的物体明确区分。"
+      }
+    ],
+    "collocations": {
+      "04-066": [
+        "a distinct difference",
+        "明显差异"
+      ],
+      "04-067": [
+        "barely discernible",
+        "几乎难以辨认"
+      ],
+      "04-068": [
+        "invisible to the naked eye",
+        "肉眼不可见"
+      ]
+    },
+    "related": [
+      {
+        "word": "visible",
+        "meaning": "可见的",
+        "relation": "同场景"
+      },
+      {
+        "word": "resolution",
+        "meaning": "分辨率",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-069",
+      "04-070",
+      "04-071"
+    ],
+    "examples": [
+      {
+        "en": "A collision could squash the thin shell and leave a sharp fragment behind.",
+        "zh": "碰撞可能压扁薄壳，并留下锋利的碎片。"
+      },
+      {
+        "en": "The test simulated a collision strong enough to squash the panel without releasing a fragment.",
+        "zh": "测试模拟了足以压扁面板但不会产生碎片的碰撞。"
+      },
+      {
+        "en": "After the collision, engineers found a fragment near the device used to squash the damaged frame.",
+        "zh": "碰撞后，工程师在用于压扁受损框架的设备附近发现了一块碎片。"
+      }
+    ],
+    "collocations": {
+      "04-069": [
+        "a head-on collision",
+        "迎面碰撞"
+      ],
+      "04-070": [
+        "squash a can",
+        "压扁罐子"
+      ],
+      "04-071": [
+        "a fragment of glass",
+        "一块玻璃碎片"
+      ]
+    },
+    "related": [
+      {
+        "word": "impact",
+        "meaning": "冲击",
+        "relation": "同场景"
+      },
+      {
+        "word": "debris",
+        "meaning": "碎片；残骸",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-072",
+      "04-073"
+    ],
+    "examples": [
+      {
+        "en": "The cataclysmic flood left the small town with an overwhelming need for help.",
+        "zh": "灾难性的洪水使这个小镇极其需要援助。"
+      },
+      {
+        "en": "An overwhelming sense of loss followed the cataclysmic earthquake.",
+        "zh": "灾难性的地震过后，人们产生了强烈的失落感。"
+      },
+      {
+        "en": "The film portrays the overwhelming challenge of rebuilding after a cataclysmic event.",
+        "zh": "影片描绘了灾难性事件后重建所面临的巨大挑战。"
+      }
+    ],
+    "collocations": {
+      "04-072": [
+        "a cataclysmic event",
+        "灾难性事件"
+      ],
+      "04-073": [
+        "an overwhelming challenge",
+        "巨大挑战"
+      ]
+    },
+    "related": [
+      {
+        "word": "disaster",
+        "meaning": "灾难",
+        "relation": "同场景"
+      },
+      {
+        "word": "recovery",
+        "meaning": "恢复",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "04-074",
+      "04-075",
+      "04-076"
+    ],
+    "examples": [
+      {
+        "en": "Although the situation looked hopeless, the desperate family refused to give in to despair.",
+        "zh": "尽管情况看起来毫无希望，这个心急如焚的家庭仍拒绝陷入绝望。"
+      },
+      {
+        "en": "The rescue team gave the desperate survivors a reason to resist despair when escape seemed hopeless.",
+        "zh": "当逃生似乎无望时，救援队让焦急的幸存者有理由不陷入绝望。"
+      },
+      {
+        "en": "Despair can make a difficult problem seem hopeless and drive people to desperate measures.",
+        "zh": "绝望会让困难的问题显得无解，并迫使人们采取孤注一掷的措施。"
+      }
+    ],
+    "collocations": {
+      "04-074": [
+        "in despair",
+        "绝望地"
+      ],
+      "04-075": [
+        "desperate measures",
+        "孤注一掷的措施"
+      ],
+      "04-076": [
+        "a hopeless situation",
+        "绝望的处境"
+      ]
+    },
+    "related": [
+      {
+        "word": "hope",
+        "meaning": "希望",
+        "relation": "同场景"
+      },
+      {
+        "word": "resilience",
+        "meaning": "韧性",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

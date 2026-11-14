@@ -1,0 +1,1868 @@
+[
+  {
+    "ids": [
+      "02-004",
+      "02-005",
+      "02-006"
+    ],
+    "examples": [
+      {
+        "en": "This perennial herb is part of the island's native vegetation.",
+        "zh": "这种多年生草本是岛上本土植被的一部分。"
+      },
+      {
+        "en": "Restoring native vegetation helped this perennial herb return to the hillside.",
+        "zh": "恢复本土植被帮助这种多年生草本重回山坡。"
+      },
+      {
+        "en": "The survey found a rare perennial herb beneath the dense vegetation.",
+        "zh": "调查在茂密植被下发现了一种罕见的多年生草本。"
+      }
+    ],
+    "collocations": {
+      "02-004": [
+        "native vegetation",
+        "本土植被"
+      ],
+      "02-005": [
+        "a medicinal herb",
+        "药草"
+      ],
+      "02-006": [
+        "a perennial plant",
+        "多年生植物"
+      ]
+    },
+    "related": [
+      {
+        "word": "annual",
+        "meaning": "一年生的",
+        "relation": "反义"
+      },
+      {
+        "word": "ground cover",
+        "meaning": "地被植物",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-007",
+      "02-008",
+      "02-009"
+    ],
+    "examples": [
+      {
+        "en": "Botany and ecology help explain how plants support a forest ecosystem.",
+        "zh": "植物学和生态学有助于解释植物如何维持森林生态系统。"
+      },
+      {
+        "en": "The course combines botany with ecology through a study of the wetland ecosystem.",
+        "zh": "课程通过研究湿地生态系统，将植物学与生态学结合。"
+      },
+      {
+        "en": "Students use botany to identify species and ecology to understand their roles in the ecosystem.",
+        "zh": "学生用植物学识别物种，用生态学理解它们在生态系统中的作用。"
+      }
+    ],
+    "collocations": {
+      "02-007": [
+        "study botany",
+        "研究植物学"
+      ],
+      "02-008": [
+        "forest ecology",
+        "森林生态学"
+      ],
+      "02-009": [
+        "a marine ecosystem",
+        "海洋生态系统"
+      ]
+    },
+    "related": [
+      {
+        "word": "botanical",
+        "meaning": "植物学的",
+        "relation": "词形"
+      },
+      {
+        "word": "ecological",
+        "meaning": "生态的",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-010",
+      "02-011",
+      "02-012"
+    ],
+    "examples": [
+      {
+        "en": "An eco-friendly approach to horticulture considers each organism living in the soil.",
+        "zh": "环保的园艺方法会考虑土壤中的每一种生物。"
+      },
+      {
+        "en": "Students of horticulture tested whether an eco-friendly pesticide harmed a beneficial organism.",
+        "zh": "园艺学生测试一种环保农药是否会伤害某种有益生物。"
+      },
+      {
+        "en": "Eco-friendly horticulture protects soil health instead of treating every unfamiliar organism as a pest.",
+        "zh": "环保园艺保护土壤健康，而非将每种陌生生物都视为害虫。"
+      }
+    ],
+    "collocations": {
+      "02-010": [
+        "eco-friendly packaging",
+        "环保包装"
+      ],
+      "02-011": [
+        "urban horticulture",
+        "城市园艺"
+      ],
+      "02-012": [
+        "a living organism",
+        "生物体"
+      ]
+    },
+    "related": [
+      {
+        "word": "sustainable",
+        "meaning": "可持续的",
+        "relation": "同场景"
+      },
+      {
+        "word": "cultivation",
+        "meaning": "栽培",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-001",
+      "02-002",
+      "02-003",
+      "02-039"
+    ],
+    "examples": [
+      {
+        "en": "Plants use sunlight and carbon dioxide for photosynthesis, but they also respire.",
+        "zh": "植物利用阳光和二氧化碳进行光合作用，但它们也会呼吸。"
+      },
+      {
+        "en": "Although sunlight drives photosynthesis, plants respire continuously and release carbon dioxide.",
+        "zh": "虽然阳光驱动光合作用，植物仍持续呼吸并释放二氧化碳。"
+      },
+      {
+        "en": "When sunlight fades, photosynthesis stops, yet the leaves continue to respire and produce carbon dioxide.",
+        "zh": "阳光消失时，光合作用停止，但叶片继续呼吸并产生二氧化碳。"
+      }
+    ],
+    "collocations": {
+      "02-001": [
+        "leaf photosynthesis",
+        "叶片光合作用"
+      ],
+      "02-002": [
+        "respire at night",
+        "夜间呼吸"
+      ],
+      "02-003": [
+        "carbon dioxide",
+        "二氧化碳"
+      ],
+      "02-039": [
+        "direct sunlight",
+        "直射阳光"
+      ]
+    },
+    "related": [
+      {
+        "word": "chlorophyll",
+        "meaning": "叶绿素",
+        "relation": "同场景"
+      },
+      {
+        "word": "oxygen",
+        "meaning": "氧气",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-040",
+      "02-041"
+    ],
+    "examples": [
+      {
+        "en": "A short-day plant is not necessarily shade-tolerant, because day length differs from light intensity.",
+        "zh": "短日照植物不一定耐阴，因为日照时长不同于光照强度。"
+      },
+      {
+        "en": "The greenhouse separates short-day plants from shade-tolerant species requiring different light conditions.",
+        "zh": "温室将短日照植物与需要不同光照条件的耐阴物种分开。"
+      },
+      {
+        "en": "Researchers compared flowering in a short-day crop with growth in a shade-tolerant herb.",
+        "zh": "研究人员比较了一种短日照作物的开花与一种耐阴草本的生长。"
+      }
+    ],
+    "collocations": {
+      "02-040": [
+        "short-day plants",
+        "短日照植物"
+      ],
+      "02-041": [
+        "shade-tolerant species",
+        "耐阴物种"
+      ]
+    },
+    "related": [
+      {
+        "word": "photoperiod",
+        "meaning": "光周期",
+        "relation": "同场景"
+      },
+      {
+        "word": "canopy",
+        "meaning": "树冠层",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-091",
+      "02-092",
+      "02-093",
+      "02-094"
+    ],
+    "examples": [
+      {
+        "en": "An enzyme acts as a catalyst in a reaction that can release carbon dioxide, contributing to emission from soil.",
+        "zh": "酶在可释放二氧化碳的反应中充当催化剂，促成土壤的排放。"
+      },
+      {
+        "en": "The study linked soil carbon emission to an enzyme serving as a catalyst in processes that release energy.",
+        "zh": "研究将土壤碳排放与在释放能量过程中充当催化剂的一种酶联系起来。"
+      },
+      {
+        "en": "By controlling this enzyme, a natural catalyst, scientists changed the rate of gas release and measured the resulting emission.",
+        "zh": "科学家通过控制这种作为天然催化剂的酶改变气体释放速率，并测量由此产生的排放。"
+      }
+    ],
+    "collocations": {
+      "02-091": [
+        "an active enzyme",
+        "活性酶"
+      ],
+      "02-092": [
+        "a biological catalyst",
+        "生物催化剂"
+      ],
+      "02-093": [
+        "release energy",
+        "释放能量"
+      ],
+      "02-094": [
+        "carbon emission",
+        "碳排放"
+      ]
+    },
+    "related": [
+      {
+        "word": "reaction",
+        "meaning": "反应",
+        "relation": "同场景"
+      },
+      {
+        "word": "catalysis",
+        "meaning": "催化作用",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-095",
+      "02-096",
+      "02-097",
+      "02-098",
+      "02-099"
+    ],
+    "examples": [
+      {
+        "en": "Roots absorb each nutrient through uptake mechanisms whose demand may exceed the supply maintained by water circulation.",
+        "zh": "根通过吸收机制吸收每一种养分，其需求可能超过水循环维持的供应量。"
+      },
+      {
+        "en": "If nutrient uptake rates exceed replenishment, roots cannot absorb enough despite continuous water circulation.",
+        "zh": "若养分吸收速率超过补充速率，即使水持续循环，根也无法充分吸收。"
+      },
+      {
+        "en": "Improved water circulation helps roots absorb a nutrient, but uptake cannot exceed the plant's physiological capacity.",
+        "zh": "改善水循环有助于根吸收某种养分，但吸收量不能超过植物的生理能力。"
+      }
+    ],
+    "collocations": {
+      "02-095": [
+        "absorb water",
+        "吸收水分"
+      ],
+      "02-096": [
+        "water circulation",
+        "水循环"
+      ],
+      "02-097": [
+        "exceed a limit",
+        "超过限度"
+      ],
+      "02-098": [
+        "nutrient uptake",
+        "养分吸收"
+      ],
+      "02-099": [
+        "an essential nutrient",
+        "必需养分"
+      ]
+    },
+    "related": [
+      {
+        "word": "transport",
+        "meaning": "运输",
+        "relation": "同场景"
+      },
+      {
+        "word": "root hair",
+        "meaning": "根毛",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-100",
+      "02-101",
+      "02-102"
+    ],
+    "examples": [
+      {
+        "en": "A plant's energy budget depends on its surroundings and its mechanism for capturing light.",
+        "zh": "植物的能量收支取决于其生长环境和捕光机制。"
+      },
+      {
+        "en": "Researchers studied the mechanism that saves energy when a plant's surroundings become dry.",
+        "zh": "研究人员研究了植物周围环境变干时节省能量的机制。"
+      },
+      {
+        "en": "In shaded surroundings, an efficient light-capturing mechanism helps seedlings obtain enough energy.",
+        "zh": "在阴暗环境中，高效的捕光机制帮助幼苗获取足够能量。"
+      }
+    ],
+    "collocations": {
+      "02-100": [
+        "solar energy",
+        "太阳能"
+      ],
+      "02-101": [
+        "natural surroundings",
+        "自然环境"
+      ],
+      "02-102": [
+        "a defence mechanism",
+        "防御机制"
+      ]
+    },
+    "related": [
+      {
+        "word": "adaptation",
+        "meaning": "适应",
+        "relation": "同场景"
+      },
+      {
+        "word": "resource",
+        "meaning": "资源",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-013",
+      "02-014",
+      "02-015",
+      "02-016"
+    ],
+    "examples": [
+      {
+        "en": "Genetics explains how a mutation creates variation that can contribute to diversity.",
+        "zh": "遗传学解释了突变如何产生可能促进多样性的变异。"
+      },
+      {
+        "en": "The genetics team linked unusual variation to a mutation rather than to greater species diversity.",
+        "zh": "遗传学团队将异常变异与一个突变联系起来，而非更高的物种多样性。"
+      },
+      {
+        "en": "Students of genetics studied mutation and variation before measuring diversity in wild populations.",
+        "zh": "遗传学学生先研究突变与变异，再测量野生种群的多样性。"
+      }
+    ],
+    "collocations": {
+      "02-013": [
+        "plant genetics",
+        "植物遗传学"
+      ],
+      "02-014": [
+        "a genetic mutation",
+        "基因突变"
+      ],
+      "02-015": [
+        "genetic variation",
+        "遗传变异"
+      ],
+      "02-016": [
+        "species diversity",
+        "物种多样性"
+      ]
+    },
+    "related": [
+      {
+        "word": "heredity",
+        "meaning": "遗传",
+        "relation": "同场景"
+      },
+      {
+        "word": "gene",
+        "meaning": "基因",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-017",
+      "02-018",
+      "02-019",
+      "02-020",
+      "02-021"
+    ],
+    "examples": [
+      {
+        "en": "As conditions fluctuate, plants reproduce and evolve, while hybridisation can make them harder to classify.",
+        "zh": "随着条件波动，植物繁殖并演化，而杂交可能增加分类难度。"
+      },
+      {
+        "en": "Researchers classify plants that reproduce after hybridisation and examine how they evolve when temperatures fluctuate.",
+        "zh": "研究人员对杂交后繁殖的植物进行分类，并考察它们在温度波动时如何演化。"
+      },
+      {
+        "en": "When populations fluctuate, the plants that reproduce successfully may evolve differently, making hybridisation outcomes difficult to classify.",
+        "zh": "种群波动时，成功繁殖的植物可能沿不同方向演化，使杂交结果难以分类。"
+      }
+    ],
+    "collocations": {
+      "02-017": [
+        "plant hybridisation",
+        "植物杂交"
+      ],
+      "02-018": [
+        "classify species",
+        "分类物种"
+      ],
+      "02-019": [
+        "reproduce sexually",
+        "有性繁殖"
+      ],
+      "02-020": [
+        "evolve over time",
+        "随时间演化"
+      ],
+      "02-021": [
+        "fluctuate seasonally",
+        "季节性波动"
+      ]
+    },
+    "related": [
+      {
+        "word": "adaptation",
+        "meaning": "适应",
+        "relation": "同场景"
+      },
+      {
+        "word": "population",
+        "meaning": "种群",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-044",
+      "02-045",
+      "02-046"
+    ],
+    "examples": [
+      {
+        "en": "After pollen fertilises the ovule, a seed develops and may later germinate.",
+        "zh": "花粉使胚珠受精后，种子发育形成，之后可能萌发。"
+      },
+      {
+        "en": "The class followed pollen from a flower to the formation of a seed that could germinate.",
+        "zh": "学生追踪花粉从花朵到形成能够萌发的种子的过程。"
+      },
+      {
+        "en": "Without compatible pollen, this plant cannot produce a viable seed to germinate next spring.",
+        "zh": "没有相容花粉，这种植物无法产生能在来年春天萌发的活种子。"
+      }
+    ],
+    "collocations": {
+      "02-044": [
+        "wind-borne pollen",
+        "风媒花粉"
+      ],
+      "02-045": [
+        "germinate rapidly",
+        "迅速萌发"
+      ],
+      "02-046": [
+        "sow a seed",
+        "播下一粒种子"
+      ]
+    },
+    "related": [
+      {
+        "word": "pollination",
+        "meaning": "授粉",
+        "relation": "同场景"
+      },
+      {
+        "word": "seedling",
+        "meaning": "幼苗",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-047",
+      "02-048",
+      "02-049"
+    ],
+    "examples": [
+      {
+        "en": "As new shoots burgeon, each bud gradually opens into a flower.",
+        "zh": "新枝蓬勃生长时，每个花蕾逐渐绽放成花。"
+      },
+      {
+        "en": "Warm weather helps the garden burgeon as bud after bud becomes a flower.",
+        "zh": "温暖天气使花园蓬勃生长，一个接一个花蕾绽放成花。"
+      },
+      {
+        "en": "We watched the plants burgeon, recording when each bud produced its first flower.",
+        "zh": "我们观察植物茁壮生长，记录每个花蕾何时开出第一朵花。"
+      }
+    ],
+    "collocations": {
+      "02-047": [
+        "burgeon in spring",
+        "春季迅速生长"
+      ],
+      "02-048": [
+        "a flower bud",
+        "花蕾"
+      ],
+      "02-049": [
+        "a white flower",
+        "白花"
+      ]
+    },
+    "related": [
+      {
+        "word": "shoot",
+        "meaning": "嫩芽",
+        "relation": "同场景"
+      },
+      {
+        "word": "petal",
+        "meaning": "花瓣",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-050",
+      "02-051",
+      "02-052",
+      "02-053"
+    ],
+    "examples": [
+      {
+        "en": "Cherry blossom filled the garden with scent while aromatic herbs began to bloom.",
+        "zh": "樱花令花园充满香气，芳香草本也开始开花。"
+      },
+      {
+        "en": "In full bloom, the blossom had a delicate scent beside the stronger aromatic lavender.",
+        "zh": "盛开时，花朵散发淡雅香气，旁边薰衣草的芳香更浓。"
+      },
+      {
+        "en": "Visitors enjoyed the blossom and its scent as the aromatic borders came into bloom.",
+        "zh": "芳香的花坛进入花期时，游客欣赏花朵及其香气。"
+      }
+    ],
+    "collocations": {
+      "02-050": [
+        "cherry blossom",
+        "樱花"
+      ],
+      "02-051": [
+        "in full bloom",
+        "盛开"
+      ],
+      "02-052": [
+        "a floral scent",
+        "花香"
+      ],
+      "02-053": [
+        "aromatic leaves",
+        "芳香的叶片"
+      ]
+    },
+    "related": [
+      {
+        "word": "fragrance",
+        "meaning": "香气",
+        "relation": "近义"
+      },
+      {
+        "word": "flowering",
+        "meaning": "开花",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-054",
+      "02-055"
+    ],
+    "examples": [
+      {
+        "en": "Leave the fruit on the tree to ripen naturally.",
+        "zh": "将水果留在树上自然成熟。"
+      },
+      {
+        "en": "Some fruit will continue to ripen after harvest.",
+        "zh": "有些水果采收后仍会继续成熟。"
+      },
+      {
+        "en": "Cool weather delayed the time needed for the fruit to ripen.",
+        "zh": "凉爽天气延长了水果成熟所需的时间。"
+      }
+    ],
+    "collocations": {
+      "02-054": [
+        "ripen naturally",
+        "自然成熟"
+      ],
+      "02-055": [
+        "fresh fruit",
+        "新鲜水果"
+      ]
+    },
+    "related": [
+      {
+        "word": "ripe",
+        "meaning": "成熟的",
+        "relation": "词形"
+      },
+      {
+        "word": "orchard",
+        "meaning": "果园",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-042",
+      "02-043"
+    ],
+    "examples": [
+      {
+        "en": "The mould covering the bread is a type of fungus.",
+        "zh": "覆盖面包的霉菌是一种真菌。"
+      },
+      {
+        "en": "A damp cellar encourages mould and other fungus growth.",
+        "zh": "潮湿地窖会促进霉菌及其他真菌生长。"
+      },
+      {
+        "en": "This fungus releases spores, as does the mould found on stored fruit.",
+        "zh": "这种真菌会释放孢子，储藏水果上的霉菌也是如此。"
+      }
+    ],
+    "collocations": {
+      "02-042": [
+        "an edible fungus",
+        "食用菌"
+      ],
+      "02-043": [
+        "black mould",
+        "黑霉"
+      ]
+    },
+    "related": [
+      {
+        "word": "spore",
+        "meaning": "孢子",
+        "relation": "同场景"
+      },
+      {
+        "word": "dampness",
+        "meaning": "潮湿",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-056",
+      "02-057",
+      "02-058",
+      "02-059",
+      "02-060"
+    ],
+    "examples": [
+      {
+        "en": "Leaves wither, stale bread grows mould, and both eventually decompose through rot and decay.",
+        "zh": "叶片枯萎，陈面包长霉，两者最终都通过腐烂和腐解而分解。"
+      },
+      {
+        "en": "The compost contains plants that wither in autumn and stale food left to decompose through rot and decay.",
+        "zh": "堆肥含有秋天枯萎的植物和留待通过腐烂、腐解而分解的不新鲜食物。"
+      },
+      {
+        "en": "When plants wither, their tissues decompose; like stale food, they undergo rot and decay.",
+        "zh": "植物枯萎后，组织会分解；它们像不新鲜的食物一样经历腐烂和腐解。"
+      }
+    ],
+    "collocations": {
+      "02-056": [
+        "wither in heat",
+        "在高温中枯萎"
+      ],
+      "02-057": [
+        "decompose naturally",
+        "自然分解"
+      ],
+      "02-058": [
+        "root rot",
+        "根腐病"
+      ],
+      "02-059": [
+        "leaf decay",
+        "落叶腐解"
+      ],
+      "02-060": [
+        "stale bread",
+        "不新鲜的面包"
+      ]
+    },
+    "related": [
+      {
+        "word": "decomposition",
+        "meaning": "分解",
+        "relation": "词形"
+      },
+      {
+        "word": "compost",
+        "meaning": "堆肥",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-022",
+      "02-023",
+      "02-024",
+      "02-025"
+    ],
+    "examples": [
+      {
+        "en": "Farmers reclaim unused land, cultivate the soil, sow wheat and harvest it in summer.",
+        "zh": "农民开垦闲置土地、耕作土壤、播种小麦，并在夏季收割。"
+      },
+      {
+        "en": "Before they sow or harvest crops, they must reclaim the plot and cultivate its compacted soil.",
+        "zh": "播种或收获作物前，他们必须开垦地块并耕松板结土壤。"
+      },
+      {
+        "en": "The project helps families reclaim fields, cultivate vegetables, sow suitable varieties and harvest fresh food.",
+        "zh": "项目帮助家庭开垦田地、种植蔬菜、播种合适品种并收获新鲜食物。"
+      }
+    ],
+    "collocations": {
+      "02-022": [
+        "reclaim land",
+        "开垦土地"
+      ],
+      "02-023": [
+        "cultivate crops",
+        "种植作物"
+      ],
+      "02-024": [
+        "sow seeds",
+        "播种"
+      ],
+      "02-025": [
+        "harvest wheat",
+        "收割小麦"
+      ]
+    },
+    "related": [
+      {
+        "word": "cultivation",
+        "meaning": "耕作",
+        "relation": "词形"
+      },
+      {
+        "word": "irrigation",
+        "meaning": "灌溉",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-026",
+      "02-027",
+      "02-028",
+      "02-029"
+    ],
+    "examples": [
+      {
+        "en": "Families rear goats, pick apples and pluck tea leaves to supplement the rice yield.",
+        "zh": "家庭通过养山羊、采苹果和摘茶叶来补充稻米产量带来的收入。"
+      },
+      {
+        "en": "Workers pluck young leaves and pick ripe berries, while neighbours rear animals and record their crop yield.",
+        "zh": "工人摘嫩叶、采熟浆果，邻居则饲养动物并记录作物产量。"
+      },
+      {
+        "en": "The farm's yield supports families who rear poultry, pick fruit and pluck herbs for market.",
+        "zh": "农场的收成供养着养家禽、摘水果并采草药出售的家庭。"
+      }
+    ],
+    "collocations": {
+      "02-026": [
+        "pluck a leaf",
+        "摘下一片叶子"
+      ],
+      "02-027": [
+        "pick fruit",
+        "采摘水果"
+      ],
+      "02-028": [
+        "crop yield",
+        "作物产量"
+      ],
+      "02-029": [
+        "rear livestock",
+        "饲养牲畜"
+      ]
+    },
+    "related": [
+      {
+        "word": "husbandry",
+        "meaning": "畜牧业",
+        "relation": "同场景"
+      },
+      {
+        "word": "harvesting",
+        "meaning": "采收",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-030",
+      "02-031",
+      "02-032",
+      "02-033"
+    ],
+    "examples": [
+      {
+        "en": "On this arable plot, we plough large areas and use a spade and rake around the edges.",
+        "zh": "在这片耕地上，我们犁耕大片区域，并用铲子和耙子处理边缘。"
+      },
+      {
+        "en": "A farmer may plough arable land mechanically but still need a spade and rake for smaller beds.",
+        "zh": "农民可能机械犁耕耕地，但处理小菜畦仍需铲子和耙子。"
+      },
+      {
+        "en": "Bring a spade and rake after we plough the arable field.",
+        "zh": "我们犁完这块耕地后，请带来铲子和耙子。"
+      }
+    ],
+    "collocations": {
+      "02-030": [
+        "arable land",
+        "耕地"
+      ],
+      "02-031": [
+        "plough a field",
+        "犁田"
+      ],
+      "02-032": [
+        "a garden spade",
+        "园艺铲"
+      ],
+      "02-033": [
+        "a leaf rake",
+        "落叶耙"
+      ]
+    },
+    "related": [
+      {
+        "word": "tillage",
+        "meaning": "耕作",
+        "relation": "同场景"
+      },
+      {
+        "word": "furrow",
+        "meaning": "犁沟",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-034",
+      "02-035",
+      "02-036",
+      "02-037",
+      "02-038"
+    ],
+    "examples": [
+      {
+        "en": "A vase held a bunch of flowers beside a bundle of straw, a stack of hay and a heap of leaves.",
+        "zh": "花瓶里插着一束花，旁边是一捆稻草、一垛干草和一堆树叶。"
+      },
+      {
+        "en": "She took a bundle from the straw stack, cleared a heap of leaves and placed a bunch of flowers in a vase.",
+        "zh": "她从草垛取下一捆稻草，清走一堆树叶，并在花瓶里插上一束花。"
+      },
+      {
+        "en": "For the display, put the bunch in a vase and place the bundle beside the hay stack and leaf heap.",
+        "zh": "布展时，将花束插入花瓶，把草捆放在草垛和树叶堆旁。"
+      }
+    ],
+    "collocations": {
+      "02-034": [
+        "a stack of hay",
+        "一垛干草"
+      ],
+      "02-035": [
+        "a heap of leaves",
+        "一堆树叶"
+      ],
+      "02-036": [
+        "a bundle of straw",
+        "一捆稻草"
+      ],
+      "02-037": [
+        "a bunch of flowers",
+        "一束花"
+      ],
+      "02-038": [
+        "a glass vase",
+        "玻璃花瓶"
+      ]
+    },
+    "related": [
+      {
+        "word": "storage",
+        "meaning": "储藏",
+        "relation": "同场景"
+      },
+      {
+        "word": "arrangement",
+        "meaning": "摆放",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-061",
+      "02-062",
+      "02-063",
+      "02-064",
+      "02-065"
+    ],
+    "examples": [
+      {
+        "en": "Beyond the field, a tea plantation climbed the terrace towards dense jungle and intact rainforest.",
+        "zh": "越过田地，一片茶园沿梯田向茂密丛林和完整雨林延伸。"
+      },
+      {
+        "en": "The map distinguishes rainforest and jungle from a plantation, a cultivated field and a mountain terrace.",
+        "zh": "地图区分雨林和丛林，与种植园、农田及山地梯田。"
+      },
+      {
+        "en": "Converting rainforest or jungle into a plantation, field or terrace can change local water cycles.",
+        "zh": "将雨林或丛林变成种植园、农田或梯田可能改变当地水循环。"
+      }
+    ],
+    "collocations": {
+      "02-061": [
+        "tropical rainforest",
+        "热带雨林"
+      ],
+      "02-062": [
+        "dense jungle",
+        "茂密丛林"
+      ],
+      "02-063": [
+        "a tea plantation",
+        "茶园"
+      ],
+      "02-064": [
+        "a wheat field",
+        "麦田"
+      ],
+      "02-065": [
+        "a cultivated terrace",
+        "耕作梯田"
+      ]
+    },
+    "related": [
+      {
+        "word": "canopy",
+        "meaning": "树冠层",
+        "relation": "同场景"
+      },
+      {
+        "word": "land use",
+        "meaning": "土地利用",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-066",
+      "02-067",
+      "02-068",
+      "02-070"
+    ],
+    "examples": [
+      {
+        "en": "Sustainable forestry turns a harvested log into timber while using suitable waste for charcoal.",
+        "zh": "可持续林业把采下的原木加工成木材，并用合适废料制木炭。"
+      },
+      {
+        "en": "The forestry cooperative sells timber and charcoal rather than exporting every log unprocessed.",
+        "zh": "林业合作社出售木材和木炭，而非将每根原木未经加工出口。"
+      },
+      {
+        "en": "A forestry student traced one log from the forest to timber production and charcoal manufacture.",
+        "zh": "一名林业学生追踪一根原木从森林到木材加工和木炭制造的过程。"
+      }
+    ],
+    "collocations": {
+      "02-066": [
+        "sustainable timber",
+        "可持续来源木材"
+      ],
+      "02-067": [
+        "wood charcoal",
+        "木炭"
+      ],
+      "02-068": [
+        "a fallen log",
+        "倒下的原木"
+      ],
+      "02-070": [
+        "sustainable forestry",
+        "可持续林业"
+      ]
+    },
+    "related": [
+      {
+        "word": "logging",
+        "meaning": "采伐",
+        "relation": "同场景"
+      },
+      {
+        "word": "sawmill",
+        "meaning": "锯木厂",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-069"
+    ],
+    "examples": [
+      {
+        "en": "The company printed its logo on recycled packaging.",
+        "zh": "公司将标志印在再生包装上。"
+      },
+      {
+        "en": "A simple logo helps customers recognise the brand.",
+        "zh": "简洁的标志帮助顾客识别品牌。"
+      },
+      {
+        "en": "The new logo features a green leaf.",
+        "zh": "新标志包含一片绿叶。"
+      }
+    ],
+    "collocations": {
+      "02-069": [
+        "a company logo",
+        "公司标志"
+      ]
+    },
+    "related": [
+      {
+        "word": "brand",
+        "meaning": "品牌",
+        "relation": "同场景"
+      },
+      {
+        "word": "emblem",
+        "meaning": "徽记",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-071",
+      "02-072",
+      "02-073",
+      "02-074"
+    ],
+    "examples": [
+      {
+        "en": "The heavy bough split from the trunk, leaving a smaller branch hanging above an exposed root.",
+        "zh": "粗大的树枝从树干裂开，留下一根较小树枝悬在裸露树根上方。"
+      },
+      {
+        "en": "We measured the trunk, sampled a root and compared a young branch with an old bough.",
+        "zh": "我们测量树干、采集树根样本，并比较嫩枝与老的大枝。"
+      },
+      {
+        "en": "A strong root anchored the trunk while snow weighed down each branch and bough.",
+        "zh": "牢固的树根固定着树干，积雪则压在每根大小树枝上。"
+      }
+    ],
+    "collocations": {
+      "02-071": [
+        "a tree branch",
+        "树枝"
+      ],
+      "02-072": [
+        "a thick trunk",
+        "粗壮树干"
+      ],
+      "02-073": [
+        "a heavy bough",
+        "粗大树枝"
+      ],
+      "02-074": [
+        "a deep root",
+        "深根"
+      ]
+    },
+    "related": [
+      {
+        "word": "bark",
+        "meaning": "树皮",
+        "relation": "同场景"
+      },
+      {
+        "word": "twig",
+        "meaning": "细枝",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-075",
+      "02-076",
+      "02-077",
+      "02-078"
+    ],
+    "examples": [
+      {
+        "en": "The farmer stored hay and straw beside a reed mat, taking care to remove a sharp thorn.",
+        "zh": "农民把干草和麦秆存放在芦苇席旁，小心取出一根尖刺。"
+      },
+      {
+        "en": "A thorn caught my sleeve as I carried hay past a straw roof and a reed fence.",
+        "zh": "我搬着干草经过麦秆屋顶和芦苇篱笆时，一根尖刺勾住了袖子。"
+      },
+      {
+        "en": "The nest contained hay, straw and reed fibres, with a thorn lodged in its outer wall.",
+        "zh": "巢里有干草、麦秆和芦苇纤维，外壁还卡着一根尖刺。"
+      }
+    ],
+    "collocations": {
+      "02-075": [
+        "hay for cattle",
+        "喂牛的干草"
+      ],
+      "02-076": [
+        "wheat straw",
+        "麦秆"
+      ],
+      "02-077": [
+        "a water reed",
+        "芦苇"
+      ],
+      "02-078": [
+        "a sharp thorn",
+        "尖刺"
+      ]
+    },
+    "related": [
+      {
+        "word": "fodder",
+        "meaning": "饲料",
+        "relation": "同场景"
+      },
+      {
+        "word": "thatch",
+        "meaning": "茅草屋顶材料",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-079",
+      "02-080",
+      "02-081",
+      "02-082"
+    ],
+    "examples": [
+      {
+        "en": "A plant dismissed as a weed on a lawn may belong naturally among grass in a meadow.",
+        "zh": "在草坪上被当作杂草的植物，可能天然属于草甸中的草本群落。"
+      },
+      {
+        "en": "Unlike a closely cut lawn, the meadow supports tall grass and flowers some gardeners call a weed.",
+        "zh": "与修剪整齐的草坪不同，草甸生长着高草和一些被园丁称为杂草的花。"
+      },
+      {
+        "en": "We removed an invasive weed from the meadow but left native grass beside the lawn.",
+        "zh": "我们从草甸清除一种入侵杂草，但保留了草坪旁的本土草类。"
+      }
+    ],
+    "collocations": {
+      "02-079": [
+        "remove a weed",
+        "清除杂草"
+      ],
+      "02-080": [
+        "cut grass",
+        "割草"
+      ],
+      "02-081": [
+        "a wildflower meadow",
+        "野花草甸"
+      ],
+      "02-082": [
+        "mow the lawn",
+        "修剪草坪"
+      ]
+    },
+    "related": [
+      {
+        "word": "turf",
+        "meaning": "草皮",
+        "relation": "同场景"
+      },
+      {
+        "word": "wildflower",
+        "meaning": "野花",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-083",
+      "02-084",
+      "02-085"
+    ],
+    "examples": [
+      {
+        "en": "An olive tree and a grape vine grew below the pine-covered hill.",
+        "zh": "一棵橄榄树和一株葡萄藤生长在长满松树的山坡下。"
+      },
+      {
+        "en": "The garden has a pine beside an old olive tree and a vine trained along the wall.",
+        "zh": "花园里，一棵松树长在老橄榄树旁，一株藤蔓沿墙攀爬。"
+      },
+      {
+        "en": "Drought damaged the vine and olive tree, while the mature pine survived.",
+        "zh": "干旱损伤了葡萄藤和橄榄树，而成年的松树存活了下来。"
+      }
+    ],
+    "collocations": {
+      "02-083": [
+        "an olive tree",
+        "橄榄树"
+      ],
+      "02-084": [
+        "a pine forest",
+        "松林"
+      ],
+      "02-085": [
+        "a grape vine",
+        "葡萄藤"
+      ]
+    },
+    "related": [
+      {
+        "word": "orchard",
+        "meaning": "果园",
+        "relation": "同场景"
+      },
+      {
+        "word": "conifer",
+        "meaning": "针叶树",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-086",
+      "02-087",
+      "02-088"
+    ],
+    "examples": [
+      {
+        "en": "A violet grew beside a red tulip and a pot of mint.",
+        "zh": "一株紫罗兰长在一株红郁金香和一盆薄荷旁。"
+      },
+      {
+        "en": "She planted a tulip near the violet and kept the spreading mint in a container.",
+        "zh": "她在紫罗兰附近种了一株郁金香，并将会蔓延的薄荷养在容器里。"
+      },
+      {
+        "en": "The botanical sketch shows the flower of a violet, the bulb of a tulip and the leaves of mint.",
+        "zh": "植物素描展示紫罗兰的花、郁金香的鳞茎以及薄荷的叶片。"
+      }
+    ],
+    "collocations": {
+      "02-086": [
+        "a wild violet",
+        "野生紫罗兰"
+      ],
+      "02-087": [
+        "a red tulip",
+        "红色郁金香"
+      ],
+      "02-088": [
+        "fresh mint",
+        "新鲜薄荷"
+      ]
+    },
+    "related": [
+      {
+        "word": "petal",
+        "meaning": "花瓣",
+        "relation": "同场景"
+      },
+      {
+        "word": "herb",
+        "meaning": "草本植物",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-089",
+      "02-090"
+    ],
+    "examples": [
+      {
+        "en": "This alga grows on rocks near the reef.",
+        "zh": "这种藻类长在珊瑚礁附近的岩石上。"
+      },
+      {
+        "en": "An invasive alga has spread across part of the reef.",
+        "zh": "一种入侵藻类已蔓延至部分珊瑚礁。"
+      },
+      {
+        "en": "The survey measured how much reef surface this alga covered.",
+        "zh": "调查测量了这种藻类覆盖的珊瑚礁表面积。"
+      }
+    ],
+    "collocations": {
+      "02-089": [
+        "a coral reef",
+        "珊瑚礁"
+      ],
+      "02-090": [
+        "a marine alga",
+        "海藻"
+      ]
+    },
+    "related": [
+      {
+        "word": "coral",
+        "meaning": "珊瑚",
+        "relation": "同场景"
+      },
+      {
+        "word": "seaweed",
+        "meaning": "海藻",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-103",
+      "02-104",
+      "02-105",
+      "02-106"
+    ],
+    "examples": [
+      {
+        "en": "Conservation projects protect species and preserve habitats, but may not fully counterbalance losses elsewhere.",
+        "zh": "自然保护项目保护物种并保存栖息地，但可能无法完全抵消别处的损失。"
+      },
+      {
+        "en": "To counterbalance development pressures, conservation funds help protect wetlands and preserve ancient woodland.",
+        "zh": "为抵消开发压力，自然保护资金帮助保护湿地并保存古老林地。"
+      },
+      {
+        "en": "Successful conservation can counterbalance past damage if policies protect whole ecosystems and preserve their diversity.",
+        "zh": "若政策保护完整生态系统并保存其多样性，成功的自然保护便能抵消以往损害。"
+      }
+    ],
+    "collocations": {
+      "02-103": [
+        "counterbalance losses",
+        "抵消损失"
+      ],
+      "02-104": [
+        "protect wildlife",
+        "保护野生生物"
+      ],
+      "02-105": [
+        "preserve habitats",
+        "保存栖息地"
+      ],
+      "02-106": [
+        "nature conservation",
+        "自然保护"
+      ]
+    },
+    "related": [
+      {
+        "word": "restoration",
+        "meaning": "修复",
+        "relation": "同场景"
+      },
+      {
+        "word": "protection",
+        "meaning": "保护",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-107",
+      "02-108"
+    ],
+    "examples": [
+      {
+        "en": "Crews worked through the night to extinguish the bush fire.",
+        "zh": "消防队连夜奋战扑灭灌木林火。"
+      },
+      {
+        "en": "Heavy rain helped firefighters extinguish the bush fire.",
+        "zh": "大雨帮助消防员扑灭灌木林火。"
+      },
+      {
+        "en": "Aircraft dropped water to extinguish the bush fire near the village.",
+        "zh": "飞机洒水扑灭村庄附近的灌木林火。"
+      }
+    ],
+    "collocations": {
+      "02-107": [
+        "an uncontrolled bush fire",
+        "失控的灌木林火"
+      ],
+      "02-108": [
+        "extinguish a fire",
+        "扑灭火灾"
+      ]
+    },
+    "related": [
+      {
+        "word": "firebreak",
+        "meaning": "防火隔离带",
+        "relation": "同场景"
+      },
+      {
+        "word": "firefighter",
+        "meaning": "消防员",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-109"
+    ],
+    "examples": [
+      {
+        "en": "The damaged satellite was programmed to self-destruct.",
+        "zh": "这颗损坏的卫星被设定为自毁。"
+      },
+      {
+        "en": "The device will self-destruct if someone opens its sealed casing.",
+        "zh": "如果有人打开密封外壳，这个装置就会自毁。"
+      },
+      {
+        "en": "Engineers disabled the mechanism that could make the prototype self-destruct.",
+        "zh": "工程师关闭了可能使原型自毁的机制。"
+      }
+    ],
+    "collocations": {
+      "02-109": [
+        "self-destruct",
+        "自毁"
+      ]
+    },
+    "related": [
+      {
+        "word": "destruction",
+        "meaning": "破坏",
+        "relation": "词形"
+      },
+      {
+        "word": "destroy",
+        "meaning": "摧毁",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-110",
+      "02-111",
+      "02-112"
+    ],
+    "examples": [
+      {
+        "en": "Plans to demolish the old barn could ruin a nesting site and cause young birds to perish.",
+        "zh": "拆除旧谷仓的计划可能毁坏筑巢地点，导致幼鸟死亡。"
+      },
+      {
+        "en": "Careless crews can ruin habitats when they demolish structures, leaving trapped animals to perish.",
+        "zh": "施工队拆除建筑时若疏忽大意，可能毁坏栖息地，令被困动物死亡。"
+      },
+      {
+        "en": "Before workers demolish the bridge, ecologists will relocate nests so chicks do not perish and machinery does not ruin the riverbank.",
+        "zh": "工人拆桥前，生态学家将迁移鸟巢，避免雏鸟死亡及机械毁坏河岸。"
+      }
+    ],
+    "collocations": {
+      "02-110": [
+        "ruin a habitat",
+        "毁坏栖息地"
+      ],
+      "02-111": [
+        "perish in a fire",
+        "在火灾中死亡"
+      ],
+      "02-112": [
+        "demolish a building",
+        "拆除建筑"
+      ]
+    },
+    "related": [
+      {
+        "word": "destruction",
+        "meaning": "破坏",
+        "relation": "同场景"
+      },
+      {
+        "word": "survival",
+        "meaning": "存活",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-113",
+      "02-114",
+      "02-115"
+    ],
+    "examples": [
+      {
+        "en": "Illegal logging can infringe community rights, undermine conservation and accelerate extinction.",
+        "zh": "非法采伐可能侵犯社区权利、损害保护工作并加速灭绝。"
+      },
+      {
+        "en": "Policies that infringe indigenous rights may undermine cooperation needed to prevent extinction.",
+        "zh": "侵犯原住民权利的政策可能破坏防止物种灭绝所需的合作。"
+      },
+      {
+        "en": "Mining could infringe protected boundaries, undermine habitat recovery and push a rare plant towards extinction.",
+        "zh": "采矿可能侵入保护边界、损害栖息地恢复，并将一种珍稀植物推向灭绝。"
+      }
+    ],
+    "collocations": {
+      "02-113": [
+        "infringe legal rights",
+        "侵犯合法权利"
+      ],
+      "02-114": [
+        "undermine conservation",
+        "损害保护工作"
+      ],
+      "02-115": [
+        "species extinction",
+        "物种灭绝"
+      ]
+    },
+    "related": [
+      {
+        "word": "violation",
+        "meaning": "违反",
+        "relation": "同场景"
+      },
+      {
+        "word": "endangerment",
+        "meaning": "濒危状态",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-116",
+      "02-117",
+      "02-118",
+      "02-119",
+      "02-120"
+    ],
+    "examples": [
+      {
+        "en": "The experimental outcome revealed a seasonal growth pattern and the impact of reduced rainfall.",
+        "zh": "实验结果揭示了季节性生长规律及降雨减少的影响。"
+      },
+      {
+        "en": "Researchers compared each experimental outcome to identify a seasonal pattern in pollution's impact.",
+        "zh": "研究人员比较各项实验结果，以识别污染影响中的季节性规律。"
+      },
+      {
+        "en": "The seasonal pattern affected the experimental outcome, making the fertiliser's impact harder to isolate.",
+        "zh": "季节性规律影响了实验结果，使肥料的作用更难单独识别。"
+      }
+    ],
+    "collocations": {
+      "02-116": [
+        "an observable pattern",
+        "可观察的规律"
+      ],
+      "02-117": [
+        "an experimental outcome",
+        "实验结果"
+      ],
+      "02-118": [
+        "environmental impact",
+        "环境影响"
+      ],
+      "02-119": [
+        "seasonal growth",
+        "季节性生长"
+      ],
+      "02-120": [
+        "experimental evidence",
+        "实验证据"
+      ]
+    },
+    "related": [
+      {
+        "word": "observation",
+        "meaning": "观察",
+        "relation": "同场景"
+      },
+      {
+        "word": "result",
+        "meaning": "结果",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-121",
+      "02-122",
+      "02-123",
+      "02-124"
+    ],
+    "examples": [
+      {
+        "en": "Favourable weather and efficient irrigation made the land productive, while an effective spray controlled disease.",
+        "zh": "有利天气和高效灌溉使土地产量提高，有效喷剂则控制了病害。"
+      },
+      {
+        "en": "An effective, efficient watering system keeps the soil productive even when conditions are less favourable.",
+        "zh": "有效且高效的浇灌系统即使在条件不太有利时，也能保持土壤生产力。"
+      },
+      {
+        "en": "The most productive plots combined favourable soil, effective pest control and efficient resource use.",
+        "zh": "最高产的地块结合了有利土壤条件、有效病虫害防治和高效资源利用。"
+      }
+    ],
+    "collocations": {
+      "02-121": [
+        "favourable conditions",
+        "有利条件"
+      ],
+      "02-122": [
+        "productive land",
+        "高产土地"
+      ],
+      "02-123": [
+        "an effective treatment",
+        "有效处理方法"
+      ],
+      "02-124": [
+        "efficient irrigation",
+        "高效灌溉"
+      ]
+    },
+    "related": [
+      {
+        "word": "efficiency",
+        "meaning": "效率",
+        "relation": "词形"
+      },
+      {
+        "word": "productivity",
+        "meaning": "生产力",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-125",
+      "02-126",
+      "02-127"
+    ],
+    "examples": [
+      {
+        "en": "Massive deforestation caused considerable damage and placed immense pressure on surviving wildlife.",
+        "zh": "大规模毁林造成相当大的损害，并给幸存野生生物带来巨大压力。"
+      },
+      {
+        "en": "Restoring this immense forest requires considerable funding after a massive fire.",
+        "zh": "一场大火之后，恢复这片辽阔森林需要相当多的资金。"
+      },
+      {
+        "en": "The massive irrigation scheme brought considerable benefits but consumed an immense amount of water.",
+        "zh": "大规模灌溉工程带来相当大的好处，但消耗了巨量水资源。"
+      }
+    ],
+    "collocations": {
+      "02-125": [
+        "considerable damage",
+        "相当大的损害"
+      ],
+      "02-126": [
+        "massive deforestation",
+        "大规模毁林"
+      ],
+      "02-127": [
+        "immense pressure",
+        "巨大压力"
+      ]
+    },
+    "related": [
+      {
+        "word": "substantial",
+        "meaning": "大量的",
+        "relation": "近义"
+      },
+      {
+        "word": "magnitude",
+        "meaning": "规模",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "02-128",
+      "02-129",
+      "02-130"
+    ],
+    "examples": [
+      {
+        "en": "Optimal conditions support maximal growth with minimal waste.",
+        "zh": "最佳条件支持最大生长量，同时将浪费降至最低。"
+      },
+      {
+        "en": "The greenhouse seeks maximal yield through optimal watering and minimal chemical use.",
+        "zh": "温室通过最佳浇灌和最少化学品使用来追求最高产量。"
+      },
+      {
+        "en": "Minimal disturbance may create optimal conditions, although maximal harvest is not always the conservation goal.",
+        "zh": "最小干扰可能创造最佳条件，但最大收获量并不总是保护目标。"
+      }
+    ],
+    "collocations": {
+      "02-128": [
+        "maximal growth",
+        "最大生长量"
+      ],
+      "02-129": [
+        "minimal disturbance",
+        "最小干扰"
+      ],
+      "02-130": [
+        "optimal conditions",
+        "最佳条件"
+      ]
+    },
+    "related": [
+      {
+        "word": "maximum",
+        "meaning": "最大值",
+        "relation": "词形"
+      },
+      {
+        "word": "optimum",
+        "meaning": "最佳条件",
+        "relation": "词形"
+      }
+    ]
+  }
+]

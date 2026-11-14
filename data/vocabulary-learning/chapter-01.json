@@ -1,0 +1,3351 @@
+[
+  {
+    "ids": [
+      "01-001",
+      "01-002",
+      "01-003"
+    ],
+    "examples": [
+      {
+        "en": "Water moves between the atmosphere, hydrosphere and lithosphere.",
+        "zh": "水在大气圈、水圈和岩石圈之间移动。"
+      },
+      {
+        "en": "Pollution can pass from the atmosphere into the hydrosphere and eventually the lithosphere.",
+        "zh": "污染物可能从大气圈进入水圈，最终进入岩石圈。"
+      },
+      {
+        "en": "Scientists model exchanges of heat among the atmosphere, hydrosphere and lithosphere.",
+        "zh": "科学家模拟大气圈、水圈与岩石圈之间的热量交换。"
+      }
+    ],
+    "collocations": {
+      "01-001": [
+        "the Earth's atmosphere",
+        "地球大气层"
+      ],
+      "01-002": [
+        "the global hydrosphere",
+        "全球水圈"
+      ],
+      "01-003": [
+        "the upper lithosphere",
+        "上部岩石圈"
+      ]
+    },
+    "related": [
+      {
+        "word": "biosphere",
+        "meaning": "生物圈",
+        "relation": "同场景"
+      },
+      {
+        "word": "Earth system",
+        "meaning": "地球系统",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-008",
+      "01-009",
+      "01-010"
+    ],
+    "examples": [
+      {
+        "en": "The crust lies above the mantle, which surrounds the core.",
+        "zh": "地壳位于地幔上方，地幔包围着地核。"
+      },
+      {
+        "en": "The model shows the thin crust, thick mantle and central core.",
+        "zh": "模型展示了薄薄的地壳、厚厚的地幔以及中心的地核。"
+      },
+      {
+        "en": "Seismic waves reveal differences between the crust, mantle and core.",
+        "zh": "地震波揭示了地壳、地幔与地核之间的差异。"
+      }
+    ],
+    "collocations": {
+      "01-008": [
+        "the Earth's core",
+        "地核"
+      ],
+      "01-009": [
+        "the Earth's crust",
+        "地壳"
+      ],
+      "01-010": [
+        "the Earth's mantle",
+        "地幔"
+      ]
+    },
+    "related": [
+      {
+        "word": "tectonics",
+        "meaning": "地壳构造",
+        "relation": "同场景"
+      },
+      {
+        "word": "layer",
+        "meaning": "层",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-004",
+      "01-005",
+      "01-006",
+      "01-007"
+    ],
+    "examples": [
+      {
+        "en": "Hydrogen reacts with oxygen to form water, while burning carbon produces the oxide known as carbon dioxide.",
+        "zh": "氢与氧反应生成水，而碳燃烧产生称为二氧化碳的氧化物。"
+      },
+      {
+        "en": "Unlike carbon dioxide, a carbon oxide, water consists of hydrogen and oxygen.",
+        "zh": "与碳的氧化物二氧化碳不同，水由氢和氧组成。"
+      },
+      {
+        "en": "The chart compares hydrogen and oxygen with the compounds carbon dioxide and iron oxide.",
+        "zh": "图表将氢和氧与二氧化碳、氧化铁这两种化合物进行比较。"
+      }
+    ],
+    "collocations": {
+      "01-004": [
+        "dissolved oxygen",
+        "溶解氧"
+      ],
+      "01-005": [
+        "iron oxide",
+        "氧化铁"
+      ],
+      "01-006": [
+        "carbon dioxide emissions",
+        "二氧化碳排放"
+      ],
+      "01-007": [
+        "hydrogen fuel",
+        "氢燃料"
+      ]
+    },
+    "related": [
+      {
+        "word": "combustion",
+        "meaning": "燃烧",
+        "relation": "同场景"
+      },
+      {
+        "word": "element",
+        "meaning": "元素",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-011",
+      "01-012",
+      "01-013",
+      "01-014"
+    ],
+    "examples": [
+      {
+        "en": "The survey recorded longitude, latitude and altitude before measuring the sun above the horizon.",
+        "zh": "调查先记录经度、纬度及海拔，再测量太阳在地平线以上的高度。"
+      },
+      {
+        "en": "At this latitude and longitude, the hill's altitude gives observers a clear view of the horizon.",
+        "zh": "在这个经纬度位置，这座山的海拔使观察者可以清晰看到地平线。"
+      },
+      {
+        "en": "Enter your longitude, latitude and altitude to predict where the moon will rise above the horizon.",
+        "zh": "输入经度、纬度及海拔，即可预测月亮从地平线升起的位置。"
+      }
+    ],
+    "collocations": {
+      "01-011": [
+        "longitude and latitude",
+        "经纬度"
+      ],
+      "01-012": [
+        "high latitude",
+        "高纬度"
+      ],
+      "01-013": [
+        "above the horizon",
+        "地平线上方"
+      ],
+      "01-014": [
+        "at high altitude",
+        "在高海拔处"
+      ]
+    },
+    "related": [
+      {
+        "word": "coordinate",
+        "meaning": "坐标",
+        "relation": "同场景"
+      },
+      {
+        "word": "elevation",
+        "meaning": "海拔",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-064",
+      "01-065",
+      "01-066"
+    ],
+    "examples": [
+      {
+        "en": "The globe shows how the equator separates one hemisphere from the other.",
+        "zh": "地球仪展示了赤道如何将两个半球分开。"
+      },
+      {
+        "en": "Find the equator on the globe, then locate Australia in the southern hemisphere.",
+        "zh": "在地球仪上找到赤道，再找出南半球的澳大利亚。"
+      },
+      {
+        "en": "On this globe, each hemisphere is labelled above or below the equator.",
+        "zh": "这个地球仪在赤道上方和下方分别标明了各半球。"
+      }
+    ],
+    "collocations": {
+      "01-064": [
+        "a classroom globe",
+        "教室里的地球仪"
+      ],
+      "01-065": [
+        "the northern hemisphere",
+        "北半球"
+      ],
+      "01-066": [
+        "cross the equator",
+        "越过赤道"
+      ]
+    },
+    "related": [
+      {
+        "word": "meridian",
+        "meaning": "子午线",
+        "relation": "同场景"
+      },
+      {
+        "word": "tropics",
+        "meaning": "热带地区",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-067",
+      "01-068",
+      "01-069",
+      "01-070",
+      "01-071"
+    ],
+    "examples": [
+      {
+        "en": "The Earth's axis runs through each pole, linking the Arctic and Antarctic polar regions.",
+        "zh": "地轴穿过两极，连接北极与南极的极地区域。"
+      },
+      {
+        "en": "A tilted axis explains seasonal daylight around each pole in the Arctic and Antarctic polar zones.",
+        "zh": "倾斜的地轴解释了北极和南极各极点周围极地区域的季节性日照。"
+      },
+      {
+        "en": "The diagram marks each pole on the axis and compares Arctic and Antarctic polar ice.",
+        "zh": "图示在地轴上标出两极，并比较北极和南极的极地冰层。"
+      }
+    ],
+    "collocations": {
+      "01-067": [
+        "Arctic ice",
+        "北极冰"
+      ],
+      "01-068": [
+        "Antarctic research",
+        "南极研究"
+      ],
+      "01-069": [
+        "the North Pole",
+        "北极"
+      ],
+      "01-070": [
+        "polar regions",
+        "极地地区"
+      ],
+      "01-071": [
+        "the Earth's axis",
+        "地轴"
+      ]
+    },
+    "related": [
+      {
+        "word": "rotation",
+        "meaning": "自转",
+        "relation": "同场景"
+      },
+      {
+        "word": "ice cap",
+        "meaning": "冰盖",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-025",
+      "01-026",
+      "01-027",
+      "01-028"
+    ],
+    "examples": [
+      {
+        "en": "A magnet attracted the pebble, suggesting it contained an iron mineral found in ore.",
+        "zh": "磁铁吸住了鹅卵石，表明其中含有矿石中常见的铁矿物。"
+      },
+      {
+        "en": "Students used a magnet to compare a river pebble with ore rich in a magnetic mineral.",
+        "zh": "学生用磁铁比较河中鹅卵石与富含磁性矿物的矿石。"
+      },
+      {
+        "en": "The mineral in this ore responds to a magnet, unlike the quartz pebble.",
+        "zh": "这种矿石中的矿物会被磁铁吸引，而石英鹅卵石不会。"
+      }
+    ],
+    "collocations": {
+      "01-025": [
+        "a smooth pebble",
+        "光滑鹅卵石"
+      ],
+      "01-026": [
+        "a strong magnet",
+        "强磁铁"
+      ],
+      "01-027": [
+        "iron ore",
+        "铁矿石"
+      ],
+      "01-028": [
+        "a valuable mineral",
+        "有价值的矿物"
+      ]
+    },
+    "related": [
+      {
+        "word": "magnetism",
+        "meaning": "磁性",
+        "relation": "同场景"
+      },
+      {
+        "word": "rock sample",
+        "meaning": "岩石样本",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-029",
+      "01-030",
+      "01-031",
+      "01-176"
+    ],
+    "examples": [
+      {
+        "en": "In geology class, we compared marble with granite and identified quartz within the granite.",
+        "zh": "地质课上，我们比较大理石与花岗岩，并辨认花岗岩中的石英。"
+      },
+      {
+        "en": "The geology museum displays polished marble beside granite containing large quartz crystals.",
+        "zh": "地质博物馆将抛光大理石与含大颗粒石英晶体的花岗岩并列展示。"
+      },
+      {
+        "en": "Understanding geology helps builders distinguish marble from quartz-rich granite.",
+        "zh": "地质学知识帮助建筑商区分大理石与富含石英的花岗岩。"
+      }
+    ],
+    "collocations": {
+      "01-029": [
+        "polished marble",
+        "抛光大理石"
+      ],
+      "01-030": [
+        "a quartz crystal",
+        "石英晶体"
+      ],
+      "01-031": [
+        "a granite cliff",
+        "花岗岩峭壁"
+      ],
+      "01-176": [
+        "study geology",
+        "研究地质学"
+      ]
+    },
+    "related": [
+      {
+        "word": "igneous",
+        "meaning": "火成的",
+        "relation": "同场景"
+      },
+      {
+        "word": "metamorphic",
+        "meaning": "变质的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-160",
+      "01-161",
+      "01-162",
+      "01-163",
+      "01-164"
+    ],
+    "examples": [
+      {
+        "en": "Muddy water carried sediment containing silt, clay and dirt washed from the road.",
+        "zh": "浑浊的水携带沉积物，包括粉沙、黏土和从路上冲下来的泥土。"
+      },
+      {
+        "en": "The flood left dirt and muddy sediment, with silt above a layer of clay.",
+        "zh": "洪水留下泥土和泥状沉积物，粉沙覆在一层黏土上。"
+      },
+      {
+        "en": "Scientists analysed muddy sediment to separate fine clay and silt from coarser dirt.",
+        "zh": "科学家分析泥状沉积物，将细黏土及粉沙与较粗泥土分开。"
+      }
+    ],
+    "collocations": {
+      "01-160": [
+        "river sediment",
+        "河流沉积物"
+      ],
+      "01-161": [
+        "fine silt",
+        "细粉沙"
+      ],
+      "01-162": [
+        "muddy water",
+        "浑浊的水"
+      ],
+      "01-163": [
+        "clay soil",
+        "黏土土壤"
+      ],
+      "01-164": [
+        "a layer of dirt",
+        "一层泥土"
+      ]
+    },
+    "related": [
+      {
+        "word": "erosion",
+        "meaning": "侵蚀",
+        "relation": "同场景"
+      },
+      {
+        "word": "deposition",
+        "meaning": "沉积",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-053",
+      "01-054",
+      "01-055"
+    ],
+    "examples": [
+      {
+        "en": "The continent contains varied terrain, from a flat coastal landscape to rugged mountains.",
+        "zh": "这片大陆地形多样，从平坦海岸地貌到崎岖山地皆有。"
+      },
+      {
+        "en": "Satellite images reveal how terrain shapes the landscape across the continent.",
+        "zh": "卫星图像揭示了整个大陆上地形如何塑造景观。"
+      },
+      {
+        "en": "Crossing the continent, travellers encounter unfamiliar terrain and a constantly changing landscape.",
+        "zh": "穿越大陆时，旅行者会遇到陌生地形和不断变化的景观。"
+      }
+    ],
+    "collocations": {
+      "01-053": [
+        "rugged terrain",
+        "崎岖地形"
+      ],
+      "01-054": [
+        "a dramatic landscape",
+        "壮丽地貌"
+      ],
+      "01-055": [
+        "a vast continent",
+        "辽阔大陆"
+      ]
+    },
+    "related": [
+      {
+        "word": "landform",
+        "meaning": "地貌",
+        "relation": "同场景"
+      },
+      {
+        "word": "topography",
+        "meaning": "地形",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-056",
+      "01-057",
+      "01-058"
+    ],
+    "examples": [
+      {
+        "en": "A glacier once filled the valley below the cliff and the entrance to the cave.",
+        "zh": "冰川曾填满悬崖与洞口下方的山谷。"
+      },
+      {
+        "en": "From the cave, we saw ice break from the glacier near the cliff.",
+        "zh": "我们从洞穴中看到悬崖附近的冰川崩落冰块。"
+      },
+      {
+        "en": "The guide warned us to avoid the cliff and cave beneath the unstable glacier.",
+        "zh": "导游警告我们避开不稳定冰川下的悬崖和洞穴。"
+      }
+    ],
+    "collocations": {
+      "01-056": [
+        "a limestone cave",
+        "石灰岩洞穴"
+      ],
+      "01-057": [
+        "a steep cliff",
+        "陡峭悬崖"
+      ],
+      "01-058": [
+        "a retreating glacier",
+        "退缩的冰川"
+      ]
+    },
+    "related": [
+      {
+        "word": "ice melt",
+        "meaning": "融冰",
+        "relation": "同场景"
+      },
+      {
+        "word": "rock face",
+        "meaning": "岩壁",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-059",
+      "01-060",
+      "01-061",
+      "01-062",
+      "01-063"
+    ],
+    "examples": [
+      {
+        "en": "The map marks a swamp in the delta, a broad plain, a high plateau and an oasis.",
+        "zh": "地图标出了三角洲中的沼泽、宽阔平原、高原及绿洲。"
+      },
+      {
+        "en": "Water from the plateau crosses a plain, feeds an oasis and eventually reaches a swamp in the delta.",
+        "zh": "高原的水流过平原、滋养绿洲，最终到达三角洲的沼泽。"
+      },
+      {
+        "en": "The expedition crossed a plateau and plain, stopped at an oasis and surveyed a swamp near the delta.",
+        "zh": "考察队穿越高原和平原，在绿洲休息，并调查三角洲附近的沼泽。"
+      }
+    ],
+    "collocations": {
+      "01-059": [
+        "a coastal swamp",
+        "海岸沼泽"
+      ],
+      "01-060": [
+        "a river delta",
+        "河流三角洲"
+      ],
+      "01-061": [
+        "a flood plain",
+        "洪泛平原"
+      ],
+      "01-062": [
+        "a high plateau",
+        "高原"
+      ],
+      "01-063": [
+        "a desert oasis",
+        "沙漠绿洲"
+      ]
+    },
+    "related": [
+      {
+        "word": "wetland",
+        "meaning": "湿地",
+        "relation": "同场景"
+      },
+      {
+        "word": "landform",
+        "meaning": "地貌",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-103",
+      "01-104",
+      "01-105"
+    ],
+    "examples": [
+      {
+        "en": "The map of Oceania shows a peninsula projecting from mainland Australia.",
+        "zh": "大洋洲地图显示了从澳大利亚大陆伸出的一个半岛。"
+      },
+      {
+        "en": "Travellers exploring Oceania reached the peninsula by road from the mainland.",
+        "zh": "探索大洋洲的旅行者从大陆经公路抵达半岛。"
+      },
+      {
+        "en": "A study of Oceania compared coastal erosion on the peninsula with conditions elsewhere on the mainland.",
+        "zh": "一项大洋洲研究将该半岛的海岸侵蚀与大陆其他地区的情况比较。"
+      }
+    ],
+    "collocations": {
+      "01-103": [
+        "islands of Oceania",
+        "大洋洲岛屿"
+      ],
+      "01-104": [
+        "mainland Australia",
+        "澳大利亚大陆"
+      ],
+      "01-105": [
+        "a narrow peninsula",
+        "狭长半岛"
+      ]
+    },
+    "related": [
+      {
+        "word": "archipelago",
+        "meaning": "群岛",
+        "relation": "同场景"
+      },
+      {
+        "word": "isthmus",
+        "meaning": "地峡",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-139",
+      "01-140",
+      "01-141",
+      "01-142"
+    ],
+    "examples": [
+      {
+        "en": "They plan to mount an expedition to the highest peak in this mountain range.",
+        "zh": "他们计划组织考察，前往这条山脉的最高峰。"
+      },
+      {
+        "en": "The team will mount another attempt to reach the mountain peak at the western end of the range.",
+        "zh": "队伍将再次组织尝试，登上山脉西端的山峰。"
+      },
+      {
+        "en": "Before we mount a rescue, locate the climbers below the peak of the tallest mountain in the range.",
+        "zh": "组织救援前，先确定登山者在山脉最高山峰下方的位置。"
+      }
+    ],
+    "collocations": {
+      "01-139": [
+        "reach the peak",
+        "登上顶峰"
+      ],
+      "01-140": [
+        "mount an expedition",
+        "组织考察"
+      ],
+      "01-141": [
+        "a high mountain",
+        "高山"
+      ],
+      "01-142": [
+        "a mountain range",
+        "山脉"
+      ]
+    },
+    "related": [
+      {
+        "word": "summit",
+        "meaning": "山顶",
+        "relation": "近义"
+      },
+      {
+        "word": "ascent",
+        "meaning": "攀登",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-143",
+      "01-144",
+      "01-145",
+      "01-146",
+      "01-147"
+    ],
+    "examples": [
+      {
+        "en": "Paths on the ridge and hillside overlook a valley below the steep slope.",
+        "zh": "山脊和山腰的小径俯瞰陡坡下的山谷。"
+      },
+      {
+        "en": "We climbed the hillside slope to reach a ridge and overlook the valley.",
+        "zh": "我们攀上山腰斜坡到达山脊，俯瞰山谷。"
+      },
+      {
+        "en": "Houses on the hillside overlook the valley, while a narrow ridge rises above the opposite slope.",
+        "zh": "山腰房屋俯瞰山谷，一道狭窄山脊则耸立于对面的斜坡上方。"
+      }
+    ],
+    "collocations": {
+      "01-143": [
+        "a narrow ridge",
+        "狭窄山脊"
+      ],
+      "01-144": [
+        "a steep slope",
+        "陡坡"
+      ],
+      "01-145": [
+        "a deep valley",
+        "深谷"
+      ],
+      "01-146": [
+        "a wooded hillside",
+        "林木覆盖的山坡"
+      ],
+      "01-147": [
+        "overlook a valley",
+        "俯瞰山谷"
+      ]
+    },
+    "related": [
+      {
+        "word": "viewpoint",
+        "meaning": "观景点",
+        "relation": "同场景"
+      },
+      {
+        "word": "incline",
+        "meaning": "斜坡",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-077",
+      "01-078",
+      "01-079",
+      "01-080"
+    ],
+    "examples": [
+      {
+        "en": "The atlas compares the Mediterranean with the Atlantic and Pacific ocean basins.",
+        "zh": "地图集比较地中海与大西洋、太平洋海盆。"
+      },
+      {
+        "en": "Unlike the Mediterranean, the Atlantic and Pacific each form a vast ocean.",
+        "zh": "与地中海不同，大西洋和太平洋各自构成广阔的大洋。"
+      },
+      {
+        "en": "The vessel crossed the Atlantic, entered the Pacific ocean basin and later returned to the Mediterranean.",
+        "zh": "船横渡大西洋、进入太平洋海盆，之后返回地中海。"
+      }
+    ],
+    "collocations": {
+      "01-077": [
+        "Mediterranean waters",
+        "地中海水域"
+      ],
+      "01-078": [
+        "the Atlantic Ocean",
+        "大西洋"
+      ],
+      "01-079": [
+        "the Pacific Ocean",
+        "太平洋"
+      ],
+      "01-080": [
+        "ocean currents",
+        "洋流"
+      ]
+    },
+    "related": [
+      {
+        "word": "strait",
+        "meaning": "海峡",
+        "relation": "同场景"
+      },
+      {
+        "word": "basin",
+        "meaning": "海盆",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-081",
+      "01-082",
+      "01-083"
+    ],
+    "examples": [
+      {
+        "en": "Safe navigation through the gulf requires charts that also identify protected marine habitats.",
+        "zh": "安全穿越海湾需要海图，其中还须标出受保护的海洋栖息地。"
+      },
+      {
+        "en": "Marine pollution in the gulf increased after a navigation error caused an oil spill.",
+        "zh": "一次航行失误导致漏油后，海湾的海洋污染加重。"
+      },
+      {
+        "en": "New navigation rules protect marine life while allowing vessels to enter the gulf.",
+        "zh": "新的航行规定保护海洋生物，同时允许船舶进入海湾。"
+      }
+    ],
+    "collocations": {
+      "01-081": [
+        "marine life",
+        "海洋生物"
+      ],
+      "01-082": [
+        "safe navigation",
+        "安全航行"
+      ],
+      "01-083": [
+        "a sheltered gulf",
+        "受遮蔽的海湾"
+      ]
+    },
+    "related": [
+      {
+        "word": "shipping",
+        "meaning": "航运",
+        "relation": "同场景"
+      },
+      {
+        "word": "estuary",
+        "meaning": "河口",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-084",
+      "01-085",
+      "01-086",
+      "01-087",
+      "01-088"
+    ],
+    "examples": [
+      {
+        "en": "A strong current and rising tide made the beach unsafe along this part of the coast and shore.",
+        "zh": "强水流和涨潮使这段沿海岸边的沙滩变得不安全。"
+      },
+      {
+        "en": "The tide carried driftwood along the coast, while the current pushed it towards the beach and shore.",
+        "zh": "潮水沿海岸带动浮木，水流则将其推向沙滩和岸边。"
+      },
+      {
+        "en": "We left the beach as the tide rose and watched a current sweep along the rocky coast near the shore.",
+        "zh": "涨潮时我们离开沙滩，看着水流沿岸边的岩石海岸奔流。"
+      }
+    ],
+    "collocations": {
+      "01-084": [
+        "a sandy beach",
+        "沙滩"
+      ],
+      "01-085": [
+        "a rocky coast",
+        "岩石海岸"
+      ],
+      "01-086": [
+        "the lake shore",
+        "湖岸"
+      ],
+      "01-087": [
+        "a rising tide",
+        "涨潮"
+      ],
+      "01-088": [
+        "a strong current",
+        "强水流"
+      ]
+    },
+    "related": [
+      {
+        "word": "rip current",
+        "meaning": "离岸流",
+        "relation": "同场景"
+      },
+      {
+        "word": "coastline",
+        "meaning": "海岸线",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-089",
+      "01-090",
+      "01-091"
+    ],
+    "examples": [
+      {
+        "en": "The brook joins a larger stream near the river's source.",
+        "zh": "小溪在河流源头附近汇入一条较大的溪流。"
+      },
+      {
+        "en": "We followed the stream uphill until a narrow brook led us to its source.",
+        "zh": "我们沿溪流上行，最后一条窄小溪流引我们找到其源头。"
+      },
+      {
+        "en": "Pollution near the source spread from the brook into the main stream.",
+        "zh": "源头附近的污染从小溪扩散到主溪流。"
+      }
+    ],
+    "collocations": {
+      "01-089": [
+        "an upland brook",
+        "高地溪流"
+      ],
+      "01-090": [
+        "a mountain stream",
+        "山溪"
+      ],
+      "01-091": [
+        "a river source",
+        "河流源头"
+      ]
+    },
+    "related": [
+      {
+        "word": "tributary",
+        "meaning": "支流",
+        "relation": "同场景"
+      },
+      {
+        "word": "headwater",
+        "meaning": "源流",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-212",
+      "01-213",
+      "01-214",
+      "01-215"
+    ],
+    "examples": [
+      {
+        "en": "Water from a spring feeds the reservoir, then flows past a waterfall to a village fountain.",
+        "zh": "泉水注入水库，再流经瀑布，抵达村中喷泉。"
+      },
+      {
+        "en": "The path passes a spring, a waterfall and the reservoir before ending at a fountain.",
+        "zh": "小径经过泉水、瀑布和水库，最终到达喷泉。"
+      },
+      {
+        "en": "Engineers traced water from the village fountain back through the reservoir to a spring above the waterfall.",
+        "zh": "工程师从村中喷泉沿水库追溯水源，找到瀑布上方的一处泉眼。"
+      }
+    ],
+    "collocations": {
+      "01-212": [
+        "a water reservoir",
+        "水库"
+      ],
+      "01-213": [
+        "a spectacular waterfall",
+        "壮观瀑布"
+      ],
+      "01-214": [
+        "a drinking fountain",
+        "饮水喷泉"
+      ],
+      "01-215": [
+        "a natural spring",
+        "天然泉水"
+      ]
+    },
+    "related": [
+      {
+        "word": "catchment",
+        "meaning": "集水区",
+        "relation": "同场景"
+      },
+      {
+        "word": "groundwater",
+        "meaning": "地下水",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-092",
+      "01-093",
+      "01-094",
+      "01-095"
+    ],
+    "examples": [
+      {
+        "en": "The shallow pool covered a flat, smooth slab with only superficial scratches.",
+        "zh": "浅水池盖住一块平坦光滑的石板，石板只有表面划痕。"
+      },
+      {
+        "en": "A superficial inspection missed the shallow cracks in the otherwise flat and smooth rock.",
+        "zh": "粗略检查遗漏了原本平坦光滑岩石上的浅裂缝。"
+      },
+      {
+        "en": "The builder found superficial wear on a smooth, flat tile beneath the shallow water.",
+        "zh": "建筑工人在浅水下的一块光滑平坦瓷砖上发现表面磨损。"
+      }
+    ],
+    "collocations": {
+      "01-092": [
+        "shallow water",
+        "浅水"
+      ],
+      "01-093": [
+        "superficial damage",
+        "表面损伤"
+      ],
+      "01-094": [
+        "a flat surface",
+        "平坦表面"
+      ],
+      "01-095": [
+        "a smooth stone",
+        "光滑石头"
+      ]
+    },
+    "related": [
+      {
+        "word": "surface",
+        "meaning": "表面",
+        "relation": "同场景"
+      },
+      {
+        "word": "texture",
+        "meaning": "质地",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-096",
+      "01-097",
+      "01-098"
+    ],
+    "examples": [
+      {
+        "en": "The rough trail crossed sandy ground before becoming stony.",
+        "zh": "崎岖小径越过沙地，之后石头渐多。"
+      },
+      {
+        "en": "Sandy soil supports different plants from the rough, stony slopes nearby.",
+        "zh": "沙质土壤供养的植物不同于附近崎岖多石斜坡上的植物。"
+      },
+      {
+        "en": "Wear strong boots on the rough, stony track beyond the sandy beach.",
+        "zh": "穿过沙滩后的小路崎岖多石，需穿结实靴子。"
+      }
+    ],
+    "collocations": {
+      "01-096": [
+        "rough ground",
+        "崎岖地面"
+      ],
+      "01-097": [
+        "sandy soil",
+        "沙质土壤"
+      ],
+      "01-098": [
+        "a stony path",
+        "多石小路"
+      ]
+    },
+    "related": [
+      {
+        "word": "gravel",
+        "meaning": "砾石",
+        "relation": "同场景"
+      },
+      {
+        "word": "texture",
+        "meaning": "质地",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-099",
+      "01-100",
+      "01-101",
+      "01-102"
+    ],
+    "examples": [
+      {
+        "en": "Two parallel paths climb the steep slope beside a narrow gorge with vertical walls.",
+        "zh": "两条平行小径沿陡坡上升，旁边是有垂直岩壁的狭窄峡谷。"
+      },
+      {
+        "en": "The narrow staircase is steep, with parallel rails fixed to a vertical wall.",
+        "zh": "狭窄楼梯很陡，平行扶手固定于垂直墙面。"
+      },
+      {
+        "en": "We avoided the steep, narrow route and followed a parallel path below the vertical cliff.",
+        "zh": "我们避开陡峭狭窄的路线，沿垂直悬崖下的一条平行小路行进。"
+      }
+    ],
+    "collocations": {
+      "01-099": [
+        "an almost vertical wall",
+        "近乎垂直的岩壁"
+      ],
+      "01-100": [
+        "a steep path",
+        "陡峭小径"
+      ],
+      "01-101": [
+        "parallel lines",
+        "平行线"
+      ],
+      "01-102": [
+        "a narrow passage",
+        "狭窄通道"
+      ]
+    },
+    "related": [
+      {
+        "word": "gradient",
+        "meaning": "坡度",
+        "relation": "同场景"
+      },
+      {
+        "word": "perpendicular",
+        "meaning": "垂直的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-106",
+      "01-107",
+      "01-108"
+    ],
+    "examples": [
+      {
+        "en": "Meteorology studies weather, while long-term observations help us understand climate.",
+        "zh": "气象学研究天气，长期观测则帮助我们理解气候。"
+      },
+      {
+        "en": "Advances in meteorology improve weather forecasts and provide data for climate research.",
+        "zh": "气象学进展改善天气预报，并为气候研究提供数据。"
+      },
+      {
+        "en": "Students of meteorology distinguish today's weather from the region's long-term climate.",
+        "zh": "气象学学生区分今日天气与该地区长期气候。"
+      }
+    ],
+    "collocations": {
+      "01-106": [
+        "climate change",
+        "气候变化"
+      ],
+      "01-107": [
+        "extreme weather",
+        "极端天气"
+      ],
+      "01-108": [
+        "study meteorology",
+        "研究气象学"
+      ]
+    },
+    "related": [
+      {
+        "word": "climatology",
+        "meaning": "气候学",
+        "relation": "同场景"
+      },
+      {
+        "word": "forecasting",
+        "meaning": "天气预测",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-109",
+      "01-110",
+      "01-111",
+      "01-112",
+      "01-113"
+    ],
+    "examples": [
+      {
+        "en": "Mild weather and good thermal insulation keep rooms warm with moderate heating.",
+        "zh": "温和天气和良好保温使房间只需适度供暖就能保持温暖。"
+      },
+      {
+        "en": "Thermal curtains reduce heating needs and keep a warm room at a moderate temperature during a mild winter.",
+        "zh": "保温窗帘减少供暖需求，在温和冬天让温暖房间保持适中温度。"
+      },
+      {
+        "en": "A mild climate permits moderate heating, while thermal mass in walls keeps the room warm.",
+        "zh": "温和气候使适度供暖成为可能，墙体的蓄热能力则让房间保持温暖。"
+      }
+    ],
+    "collocations": {
+      "01-109": [
+        "mild winters",
+        "温和冬季"
+      ],
+      "01-110": [
+        "central heating",
+        "中央供暖"
+      ],
+      "01-111": [
+        "moderate temperatures",
+        "适中温度"
+      ],
+      "01-112": [
+        "warm air",
+        "暖空气"
+      ],
+      "01-113": [
+        "thermal insulation",
+        "保温隔热"
+      ]
+    },
+    "related": [
+      {
+        "word": "insulation",
+        "meaning": "隔热",
+        "relation": "同场景"
+      },
+      {
+        "word": "heat pump",
+        "meaning": "热泵",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-114",
+      "01-115",
+      "01-116",
+      "01-117",
+      "01-118"
+    ],
+    "examples": [
+      {
+        "en": "Even in the tropics, arid areas contrast with humid forests where moist soil keeps walls damp.",
+        "zh": "即使在热带，干旱地区也与空气潮湿、湿润土壤使墙面受潮的森林形成对照。"
+      },
+      {
+        "en": "Unlike an arid interior, this part of the tropics has humid air, moist ground and damp buildings.",
+        "zh": "与干旱内陆不同，热带这一地区空气湿润、地面湿润、建筑潮湿。"
+      },
+      {
+        "en": "The exhibit contrasts arid deserts with humid parts of the tropics, showing moist soil and damp forest floors.",
+        "zh": "展览将干旱沙漠与热带湿润地区比较，展示湿润土壤及潮湿林地表面。"
+      }
+    ],
+    "collocations": {
+      "01-114": [
+        "in the tropics",
+        "在热带"
+      ],
+      "01-115": [
+        "an arid region",
+        "干旱地区"
+      ],
+      "01-116": [
+        "moist soil",
+        "湿润土壤"
+      ],
+      "01-117": [
+        "a damp wall",
+        "潮湿墙面"
+      ],
+      "01-118": [
+        "humid air",
+        "潮湿空气"
+      ]
+    },
+    "related": [
+      {
+        "word": "humidity",
+        "meaning": "湿度",
+        "relation": "词形"
+      },
+      {
+        "word": "moisture",
+        "meaning": "水分",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-136",
+      "01-137",
+      "01-138"
+    ],
+    "examples": [
+      {
+        "en": "The forecast predicts a temperature of thirty degrees Celsius.",
+        "zh": "预报预计气温为三十摄氏度。"
+      },
+      {
+        "en": "A temperature below zero degrees Celsius appeared in the overnight forecast.",
+        "zh": "夜间预报显示气温将降至零摄氏度以下。"
+      },
+      {
+        "en": "The forecast was revised after the temperature rose five degrees Celsius.",
+        "zh": "气温上升五摄氏度后，预报作了修订。"
+      }
+    ],
+    "collocations": {
+      "01-136": [
+        "degrees Celsius",
+        "摄氏度"
+      ],
+      "01-137": [
+        "a rising temperature",
+        "上升的温度"
+      ],
+      "01-138": [
+        "a weather forecast",
+        "天气预报"
+      ]
+    },
+    "related": [
+      {
+        "word": "thermometer",
+        "meaning": "温度计",
+        "relation": "同场景"
+      },
+      {
+        "word": "Fahrenheit",
+        "meaning": "华氏温标",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-032",
+      "01-033",
+      "01-034",
+      "01-035"
+    ],
+    "examples": [
+      {
+        "en": "During the monsoon, a gentle breeze became a gale, with each gust shaking the windows.",
+        "zh": "季风期间，微风变成大风，一阵阵强风震动窗户。"
+      },
+      {
+        "en": "A forecast for the monsoon warned that a breeze could strengthen into a gale with a powerful gust.",
+        "zh": "季风预报警告，微风可能增强为大风，并出现强烈阵风。"
+      },
+      {
+        "en": "After the monsoon gale passed, only an occasional gust interrupted the soft breeze.",
+        "zh": "季风带来的大风过去后，只有偶尔的阵风打断柔和微风。"
+      }
+    ],
+    "collocations": {
+      "01-032": [
+        "a sudden gust",
+        "突来阵风"
+      ],
+      "01-033": [
+        "a gentle breeze",
+        "微风"
+      ],
+      "01-034": [
+        "the summer monsoon",
+        "夏季季风"
+      ],
+      "01-035": [
+        "a fierce gale",
+        "强劲大风"
+      ]
+    },
+    "related": [
+      {
+        "word": "wind speed",
+        "meaning": "风速",
+        "relation": "同场景"
+      },
+      {
+        "word": "air pressure",
+        "meaning": "气压",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-036",
+      "01-037",
+      "01-038"
+    ],
+    "examples": [
+      {
+        "en": "A hurricane and a typhoon are regional names for tropical cyclones, unlike a tornado.",
+        "zh": "飓风和台风是热带气旋的地区名称，与龙卷风不同。"
+      },
+      {
+        "en": "The training explains shelter procedures for a hurricane, a tornado and a typhoon.",
+        "zh": "培训讲解飓风、龙卷风和台风的避险程序。"
+      },
+      {
+        "en": "A hurricane or typhoon may affect a vast area, while a tornado usually follows a narrower path.",
+        "zh": "飓风或台风可能影响广阔地区，龙卷风通常沿较窄路径移动。"
+      }
+    ],
+    "collocations": {
+      "01-036": [
+        "a powerful hurricane",
+        "强飓风"
+      ],
+      "01-037": [
+        "a destructive tornado",
+        "破坏性龙卷风"
+      ],
+      "01-038": [
+        "an approaching typhoon",
+        "逼近的台风"
+      ]
+    },
+    "related": [
+      {
+        "word": "cyclone",
+        "meaning": "气旋",
+        "relation": "同场景"
+      },
+      {
+        "word": "storm surge",
+        "meaning": "风暴潮",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-128",
+      "01-129",
+      "01-130",
+      "01-131"
+    ],
+    "examples": [
+      {
+        "en": "Lightning flashed and thunder rolled as stormy weather brought a sudden downpour.",
+        "zh": "闪电划过、雷声隆隆，暴风雨天气带来突降暴雨。"
+      },
+      {
+        "en": "During the stormy afternoon, a downpour arrived with thunder and lightning.",
+        "zh": "暴风雨频发的下午，暴雨伴着雷电到来。"
+      },
+      {
+        "en": "Thunder and lightning forced us indoors before a downpour made the evening even more stormy.",
+        "zh": "雷电迫使我们进屋，随后暴雨使夜晚风雨更甚。"
+      }
+    ],
+    "collocations": {
+      "01-128": [
+        "rolling thunder",
+        "隆隆雷声"
+      ],
+      "01-129": [
+        "a lightning strike",
+        "一次雷击"
+      ],
+      "01-130": [
+        "stormy weather",
+        "暴风雨天气"
+      ],
+      "01-131": [
+        "a sudden downpour",
+        "突降暴雨"
+      ]
+    },
+    "related": [
+      {
+        "word": "thunderstorm",
+        "meaning": "雷暴",
+        "relation": "同场景"
+      },
+      {
+        "word": "shelter",
+        "meaning": "避雨处",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-132",
+      "01-133",
+      "01-134",
+      "01-135"
+    ],
+    "examples": [
+      {
+        "en": "A light sprinkle became a shower, adding to the rainfall before sunshine revealed a rainbow.",
+        "zh": "零星小雨变成阵雨，增加了降雨量，随后阳光映出彩虹。"
+      },
+      {
+        "en": "The rainfall record counted the brief shower, though a sprinkle continued beneath the rainbow.",
+        "zh": "降雨记录计入了那场短阵雨，尽管彩虹下仍飘着零星小雨。"
+      },
+      {
+        "en": "After days without rainfall, a shower brought a rainbow and enough water to sprinkle the seedlings.",
+        "zh": "多日无雨后，一场阵雨带来彩虹，也带来足够给幼苗洒浇的水。"
+      }
+    ],
+    "collocations": {
+      "01-132": [
+        "annual rainfall",
+        "年降雨量"
+      ],
+      "01-133": [
+        "sprinkle water",
+        "洒水"
+      ],
+      "01-134": [
+        "a bright rainbow",
+        "明亮彩虹"
+      ],
+      "01-135": [
+        "a brief shower",
+        "短阵雨"
+      ]
+    },
+    "related": [
+      {
+        "word": "precipitation",
+        "meaning": "降水",
+        "relation": "同场景"
+      },
+      {
+        "word": "sunlight",
+        "meaning": "阳光",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-119",
+      "01-120",
+      "01-121"
+    ],
+    "examples": [
+      {
+        "en": "The snowy morning followed a night of hail and severe frost.",
+        "zh": "下雪的早晨之前，夜里下了冰雹并出现严霜。"
+      },
+      {
+        "en": "Farmers protected crops from frost after hail damaged leaves during the snowy week.",
+        "zh": "在下雪的一周里冰雹损伤叶片后，农民保护作物免受霜冻。"
+      },
+      {
+        "en": "The forecast warned of snowy roads, overnight frost and possible hail.",
+        "zh": "预报警告道路可能积雪、夜间有霜冻，也可能下冰雹。"
+      }
+    ],
+    "collocations": {
+      "01-119": [
+        "snowy weather",
+        "下雪天气"
+      ],
+      "01-120": [
+        "a severe frost",
+        "严霜"
+      ],
+      "01-121": [
+        "a hail storm",
+        "冰雹风暴"
+      ]
+    },
+    "related": [
+      {
+        "word": "sleet",
+        "meaning": "雨夹雪",
+        "relation": "同场景"
+      },
+      {
+        "word": "ice",
+        "meaning": "冰",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-122",
+      "01-123",
+      "01-124",
+      "01-125"
+    ],
+    "examples": [
+      {
+        "en": "Frigid air can freeze pipes before a thaw ends the winter chill.",
+        "zh": "严寒空气可能在解冻消除冬日寒意之前冻住水管。"
+      },
+      {
+        "en": "The lake will freeze in this frigid chill and remain icy until the thaw.",
+        "zh": "湖泊会在这种严寒中结冰，并一直冻结到解冻时节。"
+      },
+      {
+        "en": "A brief thaw gave way to frigid conditions, causing puddles to freeze again in the chill.",
+        "zh": "短暂解冻后转为严寒，寒气使水洼再次冻结。"
+      }
+    ],
+    "collocations": {
+      "01-122": [
+        "spring thaw",
+        "春季解冻"
+      ],
+      "01-123": [
+        "a winter chill",
+        "冬日寒意"
+      ],
+      "01-124": [
+        "freeze solid",
+        "冻硬"
+      ],
+      "01-125": [
+        "frigid air",
+        "严寒空气"
+      ]
+    },
+    "related": [
+      {
+        "word": "frozen",
+        "meaning": "冻结的",
+        "relation": "词形"
+      },
+      {
+        "word": "defrost",
+        "meaning": "解冻",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-126",
+      "01-127"
+    ],
+    "examples": [
+      {
+        "en": "Wet clothes made her shiver and her hands tremble.",
+        "zh": "湿衣服使她打寒战，双手发抖。"
+      },
+      {
+        "en": "We began to shiver as we watched the cold puppy tremble.",
+        "zh": "我们看着受冻的小狗发抖时，也开始打寒战。"
+      },
+      {
+        "en": "The wind made the children shiver and their lips tremble.",
+        "zh": "风使孩子们打寒战，嘴唇颤抖。"
+      }
+    ],
+    "collocations": {
+      "01-126": [
+        "tremble with cold",
+        "冷得发抖"
+      ],
+      "01-127": [
+        "shiver in the wind",
+        "在风中打寒战"
+      ]
+    },
+    "related": [
+      {
+        "word": "shivering",
+        "meaning": "颤抖",
+        "relation": "词形"
+      },
+      {
+        "word": "hypothermia",
+        "meaning": "失温",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-015",
+      "01-016",
+      "01-017",
+      "01-018"
+    ],
+    "examples": [
+      {
+        "en": "What began as a minor mishap became a catastrophic disaster and a national calamity.",
+        "zh": "起初的小事故演变为灾难性事件，成为国家灾难。"
+      },
+      {
+        "en": "Unlike a minor mishap, this disaster caused catastrophic losses and was remembered as a calamity.",
+        "zh": "与小事故不同，这场灾害造成灾难性损失，被人们铭记为大灾难。"
+      },
+      {
+        "en": "The inquiry asked how a preventable mishap became a disaster with catastrophic consequences and widespread calamity.",
+        "zh": "调查追问，一个可预防的小事故为何演变为后果惨重、灾祸广泛的灾难。"
+      }
+    ],
+    "collocations": {
+      "01-015": [
+        "a natural disaster",
+        "自然灾害"
+      ],
+      "01-016": [
+        "a minor mishap",
+        "小事故"
+      ],
+      "01-017": [
+        "catastrophic damage",
+        "灾难性破坏"
+      ],
+      "01-018": [
+        "a national calamity",
+        "国家灾难"
+      ]
+    },
+    "related": [
+      {
+        "word": "catastrophe",
+        "meaning": "灾难",
+        "relation": "近义"
+      },
+      {
+        "word": "emergency",
+        "meaning": "紧急情况",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-019",
+      "01-020",
+      "01-021"
+    ],
+    "examples": [
+      {
+        "en": "Destructive winds endanger residents and jeopardise rescue operations.",
+        "zh": "破坏性强风危及居民，并威胁救援行动。"
+      },
+      {
+        "en": "Destructive mining practices can endanger wildlife and jeopardise local water supplies.",
+        "zh": "破坏性采矿可能危及野生生物并威胁当地供水。"
+      },
+      {
+        "en": "Building on unstable slopes may endanger lives and jeopardise recovery after a destructive storm.",
+        "zh": "在不稳定坡地建房可能危及生命，并损害破坏性风暴后的恢复工作。"
+      }
+    ],
+    "collocations": {
+      "01-019": [
+        "endanger lives",
+        "危及生命"
+      ],
+      "01-020": [
+        "jeopardise safety",
+        "危及安全"
+      ],
+      "01-021": [
+        "destructive winds",
+        "破坏性强风"
+      ]
+    },
+    "related": [
+      {
+        "word": "threaten",
+        "meaning": "威胁",
+        "relation": "近义"
+      },
+      {
+        "word": "damage",
+        "meaning": "损害",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-022",
+      "01-023",
+      "01-024"
+    ],
+    "examples": [
+      {
+        "en": "El Nino is a natural phenomenon that interacts with a climate altered by greenhouse gases.",
+        "zh": "厄尔尼诺是一种自然现象，会与被温室气体改变的气候相互作用。"
+      },
+      {
+        "en": "The lecture distinguished the El Nino phenomenon from the greenhouse effect.",
+        "zh": "讲座区分了厄尔尼诺现象与温室效应。"
+      },
+      {
+        "en": "Scientists examine how greenhouse warming may affect the El Nino phenomenon.",
+        "zh": "科学家研究温室变暖可能如何影响厄尔尼诺现象。"
+      }
+    ],
+    "collocations": {
+      "01-022": [
+        "an El Nino event",
+        "厄尔尼诺事件"
+      ],
+      "01-023": [
+        "the greenhouse effect",
+        "温室效应"
+      ],
+      "01-024": [
+        "a natural phenomenon",
+        "自然现象"
+      ]
+    },
+    "related": [
+      {
+        "word": "climate system",
+        "meaning": "气候系统",
+        "relation": "同场景"
+      },
+      {
+        "word": "warming",
+        "meaning": "变暖",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-039",
+      "01-040",
+      "01-041",
+      "01-042"
+    ],
+    "examples": [
+      {
+        "en": "Thermodynamic changes in magma can help explain when a volcano may erupt.",
+        "zh": "岩浆的热力学变化有助于解释火山何时可能喷发。"
+      },
+      {
+        "en": "Scientists model thermodynamic processes as magma rises inside a volcano that could erupt.",
+        "zh": "科学家模拟可能喷发的火山内岩浆上升时的热力学过程。"
+      },
+      {
+        "en": "A volcano may erupt when magma pressure rises, though thermodynamic models cannot predict every event.",
+        "zh": "岩浆压力升高时火山可能喷发，但热力学模型无法预测每次喷发。"
+      }
+    ],
+    "collocations": {
+      "01-039": [
+        "an active volcano",
+        "活火山"
+      ],
+      "01-040": [
+        "erupt violently",
+        "猛烈喷发"
+      ],
+      "01-041": [
+        "molten magma",
+        "熔融岩浆"
+      ],
+      "01-042": [
+        "thermodynamic processes",
+        "热力学过程"
+      ]
+    },
+    "related": [
+      {
+        "word": "lava",
+        "meaning": "熔岩",
+        "relation": "同场景"
+      },
+      {
+        "word": "geothermal",
+        "meaning": "地热的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-046",
+      "01-047",
+      "01-048",
+      "01-049"
+    ],
+    "examples": [
+      {
+        "en": "After years of drought, a torrent caused flooding, while the coast faced a separate tsunami warning.",
+        "zh": "多年干旱后，一股急流引发洪灾，海岸则另行面临海啸警报。"
+      },
+      {
+        "en": "The plan addresses drought and flooding, including damage from a mountain torrent or coastal tsunami.",
+        "zh": "计划应对干旱和洪灾，包括山区急流或沿海海啸造成的破坏。"
+      },
+      {
+        "en": "A tsunami differs from flooding caused by a torrent, and neither necessarily ends a regional drought.",
+        "zh": "海啸不同于急流造成的洪灾，两者也不一定终结地区干旱。"
+      }
+    ],
+    "collocations": {
+      "01-046": [
+        "a devastating tsunami",
+        "毁灭性海啸"
+      ],
+      "01-047": [
+        "a prolonged drought",
+        "长期干旱"
+      ],
+      "01-048": [
+        "severe flooding",
+        "严重洪灾"
+      ],
+      "01-049": [
+        "a raging torrent",
+        "汹涌急流"
+      ]
+    },
+    "related": [
+      {
+        "word": "inundation",
+        "meaning": "淹没",
+        "relation": "同场景"
+      },
+      {
+        "word": "water scarcity",
+        "meaning": "缺水",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-050",
+      "01-051",
+      "01-052"
+    ],
+    "examples": [
+      {
+        "en": "Seismic shaking from the earthquake triggered an avalanche.",
+        "zh": "地震产生的震动引发了雪崩。"
+      },
+      {
+        "en": "The seismic station recorded the earthquake moments before an avalanche blocked the valley.",
+        "zh": "地震台记录地震后不久，一场雪崩堵塞山谷。"
+      },
+      {
+        "en": "An earthquake can cause an avalanche even where seismic risk is usually considered low.",
+        "zh": "即使在通常被认为地震风险低的地方，地震也可能引起雪崩。"
+      }
+    ],
+    "collocations": {
+      "01-050": [
+        "a major earthquake",
+        "大地震"
+      ],
+      "01-051": [
+        "seismic activity",
+        "地震活动"
+      ],
+      "01-052": [
+        "a snow avalanche",
+        "雪崩"
+      ]
+    },
+    "related": [
+      {
+        "word": "tectonic",
+        "meaning": "地壳构造的",
+        "relation": "同场景"
+      },
+      {
+        "word": "landslide",
+        "meaning": "滑坡",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-043",
+      "01-044",
+      "01-045"
+    ],
+    "examples": [
+      {
+        "en": "Morning mist obscured the smog outside as laboratory staff worked beneath a fume hood.",
+        "zh": "晨雾遮住了室外烟雾，实验室人员则在通风橱下工作。"
+      },
+      {
+        "en": "The monitor distinguished smog from mist, while a fume extractor removed gases indoors.",
+        "zh": "监测器区分烟雾与薄雾，室内则用排气装置清除气体。"
+      },
+      {
+        "en": "Unlike harmless mist, smog can contain hazardous gases that require a fume extraction system in workplaces.",
+        "zh": "与无害薄雾不同，烟雾可能含有有害气体，工作场所需用排气系统处理。"
+      }
+    ],
+    "collocations": {
+      "01-043": [
+        "urban smog",
+        "城市烟雾"
+      ],
+      "01-044": [
+        "a fume hood",
+        "通风橱"
+      ],
+      "01-045": [
+        "morning mist",
+        "晨雾"
+      ]
+    },
+    "related": [
+      {
+        "word": "exhaust",
+        "meaning": "废气",
+        "relation": "同场景"
+      },
+      {
+        "word": "visibility",
+        "meaning": "能见度",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-172",
+      "01-173",
+      "01-174",
+      "01-175"
+    ],
+    "examples": [
+      {
+        "en": "A toxic pollutant can contaminate groundwater and cause long-term pollution.",
+        "zh": "有毒污染物可能污染地下水并造成长期污染。"
+      },
+      {
+        "en": "Factories must control toxic pollution so that no pollutant can escape and contaminate rivers.",
+        "zh": "工厂必须控制有毒污染，防止任何污染物泄漏并污染河流。"
+      },
+      {
+        "en": "Researchers traced the pollution to a toxic pollutant that could contaminate nearby wells.",
+        "zh": "研究人员追溯出污染源是一种可能污染附近水井的有毒污染物。"
+      }
+    ],
+    "collocations": {
+      "01-172": [
+        "toxic waste",
+        "有毒废物"
+      ],
+      "01-173": [
+        "water pollution",
+        "水污染"
+      ],
+      "01-174": [
+        "a persistent pollutant",
+        "持久性污染物"
+      ],
+      "01-175": [
+        "contaminate water",
+        "污染水源"
+      ]
+    },
+    "related": [
+      {
+        "word": "toxicity",
+        "meaning": "毒性",
+        "relation": "词形"
+      },
+      {
+        "word": "contamination",
+        "meaning": "污染",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-072",
+      "01-073",
+      "01-074",
+      "01-075",
+      "01-076"
+    ],
+    "examples": [
+      {
+        "en": "As conditions deteriorate, storms erode banks and degrade soil, so we must upgrade drainage rather than aggravate runoff.",
+        "zh": "情况恶化时，风暴侵蚀河岸并使土壤退化，因此我们必须升级排水，而非加剧径流。"
+      },
+      {
+        "en": "Poor roads aggravate flooding, erode slopes and degrade habitats; an upgrade can help before conditions deteriorate further.",
+        "zh": "劣质道路加剧洪水、侵蚀斜坡并破坏栖息地，升级可在情况进一步恶化前有所帮助。"
+      },
+      {
+        "en": "To stop land quality from continuing to deteriorate, upgrade channels that erode banks, aggravate runoff and degrade wetlands.",
+        "zh": "要阻止土地质量持续恶化，需改造那些侵蚀河岸、加剧径流并损害湿地的水道。"
+      }
+    ],
+    "collocations": {
+      "01-072": [
+        "deteriorate rapidly",
+        "迅速恶化"
+      ],
+      "01-073": [
+        "aggravate erosion",
+        "加剧侵蚀"
+      ],
+      "01-074": [
+        "degrade soil",
+        "使土壤退化"
+      ],
+      "01-075": [
+        "upgrade infrastructure",
+        "升级基础设施"
+      ],
+      "01-076": [
+        "erode the coast",
+        "侵蚀海岸"
+      ]
+    },
+    "related": [
+      {
+        "word": "degradation",
+        "meaning": "退化",
+        "relation": "词形"
+      },
+      {
+        "word": "restoration",
+        "meaning": "修复",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-190",
+      "01-191",
+      "01-192"
+    ],
+    "examples": [
+      {
+        "en": "If developers deforest this wilderness, dry land may eventually become desert.",
+        "zh": "若开发者砍伐这片荒野的林木，干旱土地最终可能变成沙漠。"
+      },
+      {
+        "en": "The plan would deforest land bordering the desert and reduce the remaining wilderness.",
+        "zh": "这项计划会砍伐沙漠边缘林地，并缩小剩余荒野。"
+      },
+      {
+        "en": "Not every desert results from damage, but attempts to deforest dry wilderness can worsen land degradation.",
+        "zh": "并非所有沙漠都由破坏造成，但砍伐干旱荒野中的林木可能加剧土地退化。"
+      }
+    ],
+    "collocations": {
+      "01-190": [
+        "unspoilt wilderness",
+        "未受破坏的荒野"
+      ],
+      "01-191": [
+        "a hot desert",
+        "炎热沙漠"
+      ],
+      "01-192": [
+        "deforest a hillside",
+        "砍伐山坡林木"
+      ]
+    },
+    "related": [
+      {
+        "word": "deforestation",
+        "meaning": "毁林",
+        "relation": "词形"
+      },
+      {
+        "word": "desertification",
+        "meaning": "荒漠化",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-193",
+      "01-194",
+      "01-195"
+    ],
+    "examples": [
+      {
+        "en": "Farmers fertilise the barren plot to make its soil more fertile.",
+        "zh": "农民给贫瘠地块施肥，使土壤更肥沃。"
+      },
+      {
+        "en": "A fertile field can become barren if growers fertilise carelessly and damage its soil.",
+        "zh": "若种植者不当施肥并损坏土壤，肥沃田地可能变得贫瘠。"
+      },
+      {
+        "en": "Compost helps fertilise barren ground, but restoring fertile soil also requires water and time.",
+        "zh": "堆肥帮助贫瘠土地增加养分，但恢复肥沃土壤还需水和时间。"
+      }
+    ],
+    "collocations": {
+      "01-193": [
+        "barren land",
+        "贫瘠土地"
+      ],
+      "01-194": [
+        "fertile soil",
+        "肥沃土壤"
+      ],
+      "01-195": [
+        "fertilise a field",
+        "给田地施肥"
+      ]
+    },
+    "related": [
+      {
+        "word": "fertility",
+        "meaning": "肥力",
+        "relation": "词形"
+      },
+      {
+        "word": "compost",
+        "meaning": "堆肥",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-148",
+      "01-149",
+      "01-150",
+      "01-151",
+      "01-152"
+    ],
+    "examples": [
+      {
+        "en": "The southern route runs from the southeast coast to the southwest hills, bypassing northeast and northwest districts.",
+        "zh": "南线从东南海岸通往西南丘陵，绕过东北和西北地区。"
+      },
+      {
+        "en": "Southern rainfall spread from the southwest to the southeast, while the northeast and northwest stayed dry.",
+        "zh": "南部降雨从西南扩展到东南，东北和西北仍干燥。"
+      },
+      {
+        "en": "The map divides the southern region into southeast and southwest zones below its northeast and northwest neighbours.",
+        "zh": "地图将南部地区划为东南和西南两区，位于东北和西北相邻地区下方。"
+      }
+    ],
+    "collocations": {
+      "01-148": [
+        "southern regions",
+        "南部地区"
+      ],
+      "01-149": [
+        "the southeast coast",
+        "东南海岸"
+      ],
+      "01-150": [
+        "a southwest wind",
+        "西南风"
+      ],
+      "01-151": [
+        "the northeast corner",
+        "东北角"
+      ],
+      "01-152": [
+        "the northwest boundary",
+        "西北边界"
+      ]
+    },
+    "related": [
+      {
+        "word": "compass",
+        "meaning": "指南针",
+        "relation": "同场景"
+      },
+      {
+        "word": "bearing",
+        "meaning": "方向角",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-153",
+      "01-154"
+    ],
+    "examples": [
+      {
+        "en": "The gallery on the eastern waterfront was historically advertised as a museum of oriental art.",
+        "zh": "东部滨水区的画廊曾以东方艺术博物馆为名进行宣传。"
+      },
+      {
+        "en": "An old catalogue calls objects from the eastern Mediterranean oriental, reflecting the terminology of its period.",
+        "zh": "旧目录把东地中海物件称为“东方的”，反映了当时的用语。"
+      },
+      {
+        "en": "The eastern wing now uses specific regional labels instead of the broad historical category of oriental art.",
+        "zh": "东翼如今使用具体地区标签，取代过去笼统的“东方艺术”分类。"
+      }
+    ],
+    "collocations": {
+      "01-153": [
+        "the eastern coast",
+        "东海岸"
+      ],
+      "01-154": [
+        "oriental art",
+        "东方艺术"
+      ]
+    },
+    "related": [
+      {
+        "word": "East Asian",
+        "meaning": "东亚的",
+        "relation": "同场景"
+      },
+      {
+        "word": "easternmost",
+        "meaning": "最东端的",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-165",
+      "01-166",
+      "01-167",
+      "01-168"
+    ],
+    "examples": [
+      {
+        "en": "Beyond the suburb and city outskirts, a remote road connects rural communities.",
+        "zh": "越过郊区和城市外围，一条偏僻道路连接农村社区。"
+      },
+      {
+        "en": "The bus links a remote rural village to the outskirts and then a residential suburb.",
+        "zh": "公交连接一座偏远农村村庄、城市外围及住宅郊区。"
+      },
+      {
+        "en": "Housing spread from the suburb into the outskirts, while remote rural areas continued to lose residents.",
+        "zh": "住宅从郊区扩展到城市外围，而偏远农村地区继续流失居民。"
+      }
+    ],
+    "collocations": {
+      "01-165": [
+        "rural communities",
+        "农村社区"
+      ],
+      "01-166": [
+        "a residential suburb",
+        "住宅郊区"
+      ],
+      "01-167": [
+        "the city outskirts",
+        "城市外围"
+      ],
+      "01-168": [
+        "a remote village",
+        "偏远村庄"
+      ]
+    },
+    "related": [
+      {
+        "word": "urban",
+        "meaning": "城市的",
+        "relation": "反义"
+      },
+      {
+        "word": "commute",
+        "meaning": "通勤",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-169",
+      "01-170",
+      "01-171"
+    ],
+    "examples": [
+      {
+        "en": "The desolate village occupies land adjacent to the road beneath a distant mountain.",
+        "zh": "荒凉村庄位于远山下、毗邻道路的土地上。"
+      },
+      {
+        "en": "Distant lights were visible from the desolate plain adjacent to the abandoned airfield.",
+        "zh": "从废弃机场旁的荒凉平原上可以看见远方灯光。"
+      },
+      {
+        "en": "The survey compared a distant desolate island with the inhabited mainland and adjacent waters.",
+        "zh": "调查将一座遥远荒岛与有人居住的大陆及相邻水域比较。"
+      }
+    ],
+    "collocations": {
+      "01-169": [
+        "a desolate landscape",
+        "荒凉景观"
+      ],
+      "01-170": [
+        "a distant mountain",
+        "远山"
+      ],
+      "01-171": [
+        "adjacent land",
+        "毗邻土地"
+      ]
+    },
+    "related": [
+      {
+        "word": "isolated",
+        "meaning": "孤立的",
+        "relation": "同场景"
+      },
+      {
+        "word": "nearby",
+        "meaning": "附近的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-177",
+      "01-178",
+      "01-179"
+    ],
+    "examples": [
+      {
+        "en": "The border follows the river margin along the forest fringe.",
+        "zh": "边界沿森林边缘的河岸延伸。"
+      },
+      {
+        "en": "Settlement on the forest fringe approached the border at the lake's eastern margin.",
+        "zh": "森林边缘的聚居地逐渐接近湖泊东缘的边界。"
+      },
+      {
+        "en": "We surveyed the woodland fringe, the river margin and the international border separately.",
+        "zh": "我们分别调查林地边缘、河流边缘及国界。"
+      }
+    ],
+    "collocations": {
+      "01-177": [
+        "cross a border",
+        "越过边界"
+      ],
+      "01-178": [
+        "the river margin",
+        "河缘"
+      ],
+      "01-179": [
+        "the forest fringe",
+        "森林边缘"
+      ]
+    },
+    "related": [
+      {
+        "word": "boundary",
+        "meaning": "边界",
+        "relation": "近义"
+      },
+      {
+        "word": "edge",
+        "meaning": "边缘",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-180",
+      "01-181",
+      "01-182",
+      "01-183"
+    ],
+    "examples": [
+      {
+        "en": "Movement of a tectonic plate opened a crack and a gap that filled with debris.",
+        "zh": "构造板块运动造成裂缝和缺口，随后被碎石填满。"
+      },
+      {
+        "en": "Debris fell into the gap as a crack widened near the plate boundary.",
+        "zh": "板块边界附近的裂缝扩大时，碎石落入缺口。"
+      },
+      {
+        "en": "The model shows a moving plate, a widening crack, scattered debris and a gap between rock faces.",
+        "zh": "模型展示移动的板块、扩大的裂缝、散落的碎石及岩壁间的缺口。"
+      }
+    ],
+    "collocations": {
+      "01-180": [
+        "a tectonic plate",
+        "构造板块"
+      ],
+      "01-181": [
+        "falling debris",
+        "掉落碎片"
+      ],
+      "01-182": [
+        "a deep crack",
+        "深裂缝"
+      ],
+      "01-183": [
+        "a narrow gap",
+        "狭窄缺口"
+      ]
+    },
+    "related": [
+      {
+        "word": "fracture",
+        "meaning": "断裂",
+        "relation": "同场景"
+      },
+      {
+        "word": "fault line",
+        "meaning": "断层线",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-155",
+      "01-156",
+      "01-157"
+    ],
+    "examples": [
+      {
+        "en": "Storms occur irregularly, but continued erosion makes some irreversible loss inevitable.",
+        "zh": "风暴不定期发生，但持续侵蚀使某些不可逆损失不可避免。"
+      },
+      {
+        "en": "Although rainfall arrives irregularly, irreversible desertification is not inevitable if land is protected.",
+        "zh": "尽管降雨不规律，若土地得到保护，不可逆荒漠化并非不可避免。"
+      },
+      {
+        "en": "The glacier retreats irregularly, yet an irreversible change now appears inevitable.",
+        "zh": "冰川不规则地退缩，但如今不可逆变化似乎不可避免。"
+      }
+    ],
+    "collocations": {
+      "01-155": [
+        "inevitable change",
+        "不可避免的变化"
+      ],
+      "01-156": [
+        "irreversible damage",
+        "不可逆的损害"
+      ],
+      "01-157": [
+        "occur irregularly",
+        "不定期发生"
+      ]
+    },
+    "related": [
+      {
+        "word": "reversible",
+        "meaning": "可逆的",
+        "relation": "反义"
+      },
+      {
+        "word": "variability",
+        "meaning": "变化性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-158",
+      "01-159"
+    ],
+    "examples": [
+      {
+        "en": "Inappropriate irrigation worsened the damage caused by abnormal heat.",
+        "zh": "不当灌溉加剧了异常高温造成的损害。"
+      },
+      {
+        "en": "It is inappropriate to infer climate trends from one abnormal day.",
+        "zh": "仅凭一个异常日来推断气候趋势是不恰当的。"
+      },
+      {
+        "en": "The report blamed inappropriate land use and abnormal rainfall for the flooding.",
+        "zh": "报告将洪灾归因于不当土地利用和异常降雨。"
+      }
+    ],
+    "collocations": {
+      "01-158": [
+        "inappropriate development",
+        "不当开发"
+      ],
+      "01-159": [
+        "abnormal temperatures",
+        "异常温度"
+      ]
+    },
+    "related": [
+      {
+        "word": "appropriate",
+        "meaning": "适当的",
+        "relation": "反义"
+      },
+      {
+        "word": "normal",
+        "meaning": "正常的",
+        "relation": "反义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-184",
+      "01-185",
+      "01-186"
+    ],
+    "examples": [
+      {
+        "en": "The magnificent view combined splendid waterfalls with the grand sweep of the valley.",
+        "zh": "壮丽景观将绝美瀑布与山谷的宏阔曲线融为一体。"
+      },
+      {
+        "en": "A splendid trail led to a magnificent viewpoint above the grand canyon.",
+        "zh": "一条绝美小径通往宏伟峡谷上方的壮丽观景点。"
+      },
+      {
+        "en": "Visitors praised the splendid gardens, magnificent cliffs and grand scale of the landscape.",
+        "zh": "游客赞叹绝美花园、壮丽悬崖及景观的宏大规模。"
+      }
+    ],
+    "collocations": {
+      "01-184": [
+        "splendid scenery",
+        "绝美景色"
+      ],
+      "01-185": [
+        "a grand canyon",
+        "宏伟峡谷"
+      ],
+      "01-186": [
+        "a magnificent view",
+        "壮丽景观"
+      ]
+    },
+    "related": [
+      {
+        "word": "breathtaking",
+        "meaning": "令人惊叹的",
+        "relation": "近义"
+      },
+      {
+        "word": "vista",
+        "meaning": "远景",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-187",
+      "01-188",
+      "01-189"
+    ],
+    "examples": [
+      {
+        "en": "We had a super view of an interesting rock arch and the dramatic cliffs beyond it.",
+        "zh": "我们极好地看到了有趣的岩拱及其后壮观的悬崖。"
+      },
+      {
+        "en": "The guide gave a super explanation of the interesting forces behind this dramatic landscape.",
+        "zh": "导游精彩地解释了塑造这片壮观景观的有趣力量。"
+      },
+      {
+        "en": "It was interesting to watch the dramatic sunset from such a super viewpoint.",
+        "zh": "从如此棒的观景点欣赏壮丽日落很有意思。"
+      }
+    ],
+    "collocations": {
+      "01-187": [
+        "a super view",
+        "极好的景色"
+      ],
+      "01-188": [
+        "an interesting feature",
+        "有趣特征"
+      ],
+      "01-189": [
+        "a dramatic change",
+        "剧烈变化"
+      ]
+    },
+    "related": [
+      {
+        "word": "striking",
+        "meaning": "显著的",
+        "relation": "近义"
+      },
+      {
+        "word": "remarkable",
+        "meaning": "非凡的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-196",
+      "01-197",
+      "01-198",
+      "01-201"
+    ],
+    "examples": [
+      {
+        "en": "The calendar lists dates for a solar eclipse and a lunar eclipse.",
+        "zh": "日历列出了日食和月食的日期。"
+      },
+      {
+        "en": "Astronomers used the calendar to plan observations of both a solar and a lunar eclipse.",
+        "zh": "天文学家使用日历安排日食和月食的观测。"
+      },
+      {
+        "en": "A lunar eclipse differs from a solar eclipse, though both can be predicted and marked on a calendar.",
+        "zh": "月食与日食不同，但两者都能预测并标在日历上。"
+      }
+    ],
+    "collocations": {
+      "01-196": [
+        "a solar eclipse",
+        "日食"
+      ],
+      "01-197": [
+        "a lunar eclipse",
+        "月食"
+      ],
+      "01-198": [
+        "a lunar calendar",
+        "阴历"
+      ],
+      "01-201": [
+        "observe an eclipse",
+        "观测日月食"
+      ]
+    },
+    "related": [
+      {
+        "word": "orbit",
+        "meaning": "轨道",
+        "relation": "同场景"
+      },
+      {
+        "word": "alignment",
+        "meaning": "排列成线",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-199",
+      "01-200",
+      "01-202"
+    ],
+    "examples": [
+      {
+        "en": "We left at sunrise and returned after sunset, when dusk softened the hills.",
+        "zh": "我们日出时出发，日落后返回，此时暮色柔化了群山。"
+      },
+      {
+        "en": "Bird counts began at sunrise and resumed around sunset before dusk.",
+        "zh": "鸟类计数从日出开始，并在日落前后的黄昏来临前恢复。"
+      },
+      {
+        "en": "The camera recorded sunrise, sunset and the changing colours of dusk.",
+        "zh": "相机记录了日出、日落及黄昏变换的色彩。"
+      }
+    ],
+    "collocations": {
+      "01-199": [
+        "at sunrise",
+        "日出时"
+      ],
+      "01-200": [
+        "watch the sunset",
+        "看日落"
+      ],
+      "01-202": [
+        "at dusk",
+        "黄昏时"
+      ]
+    },
+    "related": [
+      {
+        "word": "dawn",
+        "meaning": "黎明",
+        "relation": "同场景"
+      },
+      {
+        "word": "twilight",
+        "meaning": "暮光",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-203",
+      "01-204",
+      "01-205"
+    ],
+    "examples": [
+      {
+        "en": "With warm sunshine and clear water, the island felt like paradise and heaven on earth.",
+        "zh": "阳光温暖、海水清澈，这座岛宛如乐园和人间天堂。"
+      },
+      {
+        "en": "For tired hikers, sunshine over the valley made the campsite seem like paradise, almost heaven.",
+        "zh": "对疲惫的徒步者而言，山谷上方的阳光使营地宛如乐园，近似天堂。"
+      },
+      {
+        "en": "Tourism brochures promise sunshine and paradise, but preserving this heaven on earth requires careful management.",
+        "zh": "旅游宣传册承诺阳光与乐园，但保护这处人间天堂需要精心管理。"
+      }
+    ],
+    "collocations": {
+      "01-203": [
+        "heaven on earth",
+        "人间天堂"
+      ],
+      "01-204": [
+        "a tropical paradise",
+        "热带乐园"
+      ],
+      "01-205": [
+        "bright sunshine",
+        "明媚阳光"
+      ]
+    },
+    "related": [
+      {
+        "word": "idyllic",
+        "meaning": "田园诗般的",
+        "relation": "同场景"
+      },
+      {
+        "word": "serenity",
+        "meaning": "宁静",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-206",
+      "01-207"
+    ],
+    "examples": [
+      {
+        "en": "We rested in the shade while the tree cast a long shadow.",
+        "zh": "我们在阴凉处休息，树投下长长的影子。"
+      },
+      {
+        "en": "The building's shadow provided shade during the afternoon.",
+        "zh": "建筑的影子在下午提供了阴凉。"
+      },
+      {
+        "en": "As the shadow moved, the bench gradually lost its shade.",
+        "zh": "随着影子移动，长椅逐渐失去遮阴。"
+      }
+    ],
+    "collocations": {
+      "01-206": [
+        "in the shade",
+        "在阴凉处"
+      ],
+      "01-207": [
+        "cast a shadow",
+        "投下影子"
+      ]
+    },
+    "related": [
+      {
+        "word": "shelter",
+        "meaning": "遮蔽处",
+        "relation": "同场景"
+      },
+      {
+        "word": "shady",
+        "meaning": "阴凉的",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-208",
+      "01-209",
+      "01-210",
+      "01-211"
+    ],
+    "examples": [
+      {
+        "en": "Water can evaporate into vapour, circulate through the atmosphere and precipitate as rain.",
+        "zh": "水可以蒸发为水汽，在大气中循环，并以雨的形式降落。"
+      },
+      {
+        "en": "Heat makes water evaporate; the vapour can circulate before cooling and forming droplets that precipitate.",
+        "zh": "热使水蒸发，水汽循环后冷却，形成降落的水滴。"
+      },
+      {
+        "en": "In the model, water will evaporate, vapour will circulate, and condensed droplets will precipitate.",
+        "zh": "模型中，水会蒸发，水汽会循环，凝结的水滴会降落。"
+      }
+    ],
+    "collocations": {
+      "01-208": [
+        "water vapour",
+        "水蒸气"
+      ],
+      "01-209": [
+        "evaporate quickly",
+        "迅速蒸发"
+      ],
+      "01-210": [
+        "circulate through the air",
+        "在空气中循环"
+      ],
+      "01-211": [
+        "precipitate as rain",
+        "以雨的形式降落"
+      ]
+    },
+    "related": [
+      {
+        "word": "condensation",
+        "meaning": "凝结",
+        "relation": "同场景"
+      },
+      {
+        "word": "water cycle",
+        "meaning": "水循环",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-216",
+      "01-217",
+      "01-218",
+      "01-219",
+      "01-220"
+    ],
+    "examples": [
+      {
+        "en": "Dew began to drip as rain started to pour, forcing crews to drain a pool where small animals could drown.",
+        "zh": "雨开始倾泻时露水滴落，迫使工作人员排空可能使小动物溺水的水池。"
+      },
+      {
+        "en": "We watched dew drip from leaves, then saw rain pour into a blocked drain where insects might drown.",
+        "zh": "我们看着露水从叶片滴落，随后看雨水涌入堵塞排水口，昆虫可能在那里淹死。"
+      },
+      {
+        "en": "After collecting dew, let excess water drip away and pour the rest into a safe drain so trapped insects do not drown.",
+        "zh": "收集露水后，让多余水滴走，将剩余水倒入安全排水口，避免被困昆虫淹死。"
+      }
+    ],
+    "collocations": {
+      "01-216": [
+        "morning dew",
+        "晨露"
+      ],
+      "01-217": [
+        "pour water",
+        "倒水"
+      ],
+      "01-218": [
+        "drain a pool",
+        "排空池水"
+      ],
+      "01-219": [
+        "a slow drip",
+        "缓慢滴水"
+      ],
+      "01-220": [
+        "drown in water",
+        "溺水"
+      ]
+    },
+    "related": [
+      {
+        "word": "runoff",
+        "meaning": "径流",
+        "relation": "同场景"
+      },
+      {
+        "word": "drowning",
+        "meaning": "溺水",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-221",
+      "01-222",
+      "01-223"
+    ],
+    "examples": [
+      {
+        "en": "A puff of wind began to blow across the spring as water continued to gush from the rock.",
+        "zh": "一阵风开始吹过泉眼，水继续从岩石中涌出。"
+      },
+      {
+        "en": "We heard the wind blow, saw steam puff from a vent and watched hot water gush nearby.",
+        "zh": "我们听风吹，看蒸汽从通气口喷出，热水在附近涌流。"
+      },
+      {
+        "en": "If you blow into the tube with a sudden puff, water will gush from the other end.",
+        "zh": "若你朝管中猛吹一口气，水就会从另一端喷出。"
+      }
+    ],
+    "collocations": {
+      "01-221": [
+        "blow strongly",
+        "猛烈吹动"
+      ],
+      "01-222": [
+        "a puff of wind",
+        "一阵风"
+      ],
+      "01-223": [
+        "gush from a pipe",
+        "从管中喷涌"
+      ]
+    },
+    "related": [
+      {
+        "word": "airflow",
+        "meaning": "气流",
+        "relation": "同场景"
+      },
+      {
+        "word": "surge",
+        "meaning": "涌动",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-227",
+      "01-228",
+      "01-229"
+    ],
+    "examples": [
+      {
+        "en": "A flash illuminated the lake as we watched a log emerge and float downstream.",
+        "zh": "一道闪光照亮湖面，我们看着原木浮出水面并顺流漂去。"
+      },
+      {
+        "en": "Fish emerge beneath plants that float on the pond, then disappear in a flash.",
+        "zh": "鱼从漂浮在池塘上的植物下出现，转瞬消失。"
+      },
+      {
+        "en": "After a flash of lightning, shapes began to emerge from the mist and float across the dark water.",
+        "zh": "闪电过后，一些轮廓开始从薄雾中显现，漂过黑暗水面。"
+      }
+    ],
+    "collocations": {
+      "01-227": [
+        "emerge from water",
+        "从水中出现"
+      ],
+      "01-228": [
+        "a flash of light",
+        "一道闪光"
+      ],
+      "01-229": [
+        "float on water",
+        "漂浮在水上"
+      ]
+    },
+    "related": [
+      {
+        "word": "buoyancy",
+        "meaning": "浮力",
+        "relation": "同场景"
+      },
+      {
+        "word": "reflection",
+        "meaning": "反射",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-224",
+      "01-225",
+      "01-226"
+    ],
+    "examples": [
+      {
+        "en": "Rainfall intensity affected dense vegetation differently from nearby land under intensive farming.",
+        "zh": "降雨强度对茂密植被的影响不同于附近的集约农业用地。"
+      },
+      {
+        "en": "Intensive fieldwork measured light intensity beneath a dense forest canopy.",
+        "zh": "密集的野外工作测量了茂密林冠下的光照强度。"
+      },
+      {
+        "en": "Dense planting under intensive cultivation can reduce the intensity of light reaching the soil.",
+        "zh": "集约栽培中的密植可能降低到达土壤的光照强度。"
+      }
+    ],
+    "collocations": {
+      "01-224": [
+        "dense vegetation",
+        "茂密植被"
+      ],
+      "01-225": [
+        "rainfall intensity",
+        "降雨强度"
+      ],
+      "01-226": [
+        "intensive farming",
+        "集约农业"
+      ]
+    },
+    "related": [
+      {
+        "word": "density",
+        "meaning": "密度",
+        "relation": "词形"
+      },
+      {
+        "word": "intensify",
+        "meaning": "增强",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-230",
+      "01-231",
+      "01-232",
+      "01-233"
+    ],
+    "examples": [
+      {
+        "en": "The report describes the environment, the condition of surrounding land and the current water situation.",
+        "zh": "报告描述了环境、周边土地状况及当前水资源局面。"
+      },
+      {
+        "en": "A change in the surrounding environment worsened the river's condition and created an urgent situation.",
+        "zh": "周围环境的变化使河流状况恶化，造成紧急局面。"
+      },
+      {
+        "en": "To understand this situation, assess the river's condition and the surrounding environment.",
+        "zh": "要理解这一局面，需评估河流状况及周围环境。"
+      }
+    ],
+    "collocations": {
+      "01-230": [
+        "natural environment",
+        "自然环境"
+      ],
+      "01-231": [
+        "surrounding land",
+        "周边土地"
+      ],
+      "01-232": [
+        "a critical condition",
+        "危急状况"
+      ],
+      "01-233": [
+        "a difficult situation",
+        "困难局面"
+      ]
+    },
+    "related": [
+      {
+        "word": "surroundings",
+        "meaning": "周围环境",
+        "relation": "词形"
+      },
+      {
+        "word": "context",
+        "meaning": "背景",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-234",
+      "01-235",
+      "01-236",
+      "01-237"
+    ],
+    "examples": [
+      {
+        "en": "The exhibit contrasts natural materials found in nature with artificial products made from synthetic fibres.",
+        "zh": "展览将自然界中的天然材料与合成纤维制成的人造产品比较。"
+      },
+      {
+        "en": "Synthetic fibres and artificial dyes can affect nature when they replace biodegradable natural materials.",
+        "zh": "合成纤维和人工染料替代可降解天然材料时可能影响自然环境。"
+      },
+      {
+        "en": "A natural appearance does not prove a product comes from nature rather than artificial or synthetic processes.",
+        "zh": "外观天然并不能证明产品来自自然，而非人工或合成工艺。"
+      }
+    ],
+    "collocations": {
+      "01-234": [
+        "protect nature",
+        "保护自然"
+      ],
+      "01-235": [
+        "natural materials",
+        "天然材料"
+      ],
+      "01-236": [
+        "artificial lighting",
+        "人工照明"
+      ],
+      "01-237": [
+        "synthetic fibres",
+        "合成纤维"
+      ]
+    },
+    "related": [
+      {
+        "word": "man-made",
+        "meaning": "人造的",
+        "relation": "近义"
+      },
+      {
+        "word": "organic",
+        "meaning": "有机的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "01-238",
+      "01-239",
+      "01-240",
+      "01-241"
+    ],
+    "examples": [
+      {
+        "en": "Petrol, also called gasoline, is refined from petroleum, while natural gas is a different fuel.",
+        "zh": "汽油也称gasoline，由石油炼制而成，天然气则是另一种燃料。"
+      },
+      {
+        "en": "Rising petroleum prices pushed up petrol and gasoline costs, while natural gas followed a separate market.",
+        "zh": "石油涨价推高了汽油成本，而天然气遵循另一个市场。"
+      },
+      {
+        "en": "The refinery processes petroleum into petrol or gasoline and also handles gas produced during refining.",
+        "zh": "炼油厂将石油加工为汽油，并处理炼制过程中产生的气体。"
+      }
+    ],
+    "collocations": {
+      "01-238": [
+        "unleaded petrol",
+        "无铅汽油"
+      ],
+      "01-239": [
+        "natural gas",
+        "天然气"
+      ],
+      "01-240": [
+        "gasoline prices",
+        "汽油价格"
+      ],
+      "01-241": [
+        "crude petroleum",
+        "原油"
+      ]
+    },
+    "related": [
+      {
+        "word": "refinery",
+        "meaning": "炼油厂",
+        "relation": "同场景"
+      },
+      {
+        "word": "fossil fuel",
+        "meaning": "化石燃料",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2218 @@
+[
+  {
+    "ids": [
+      "03-001",
+      "03-002",
+      "03-003",
+      "03-004"
+    ],
+    "examples": [
+      {
+        "en": "A biologist led a zoologist, an ecologist and a botanist in surveying the island.",
+        "zh": "一位生物学家带领动物学家、生态学家和植物学家调查该岛。"
+      },
+      {
+        "en": "The zoologist counted animals, the botanist identified plants, and the ecologist helped the biologist interpret their interactions.",
+        "zh": "动物学家清点动物，植物学家辨认植物，生态学家帮助生物学家解读它们的相互关系。"
+      },
+      {
+        "en": "The biologist asked a botanist about the vegetation, a zoologist about the fauna and an ecologist about the ecosystem.",
+        "zh": "生物学家向植物学家询问植被、向动物学家询问动物群，并向生态学家询问生态系统。"
+      }
+    ],
+    "collocations": {
+      "03-001": [
+        "a marine biologist",
+        "海洋生物学家"
+      ],
+      "03-002": [
+        "a field zoologist",
+        "野外动物学家"
+      ],
+      "03-003": [
+        "a forest ecologist",
+        "森林生态学家"
+      ],
+      "03-004": [
+        "a field botanist",
+        "野外植物学家"
+      ]
+    },
+    "related": [
+      {
+        "word": "fieldwork",
+        "meaning": "野外研究",
+        "relation": "同场景"
+      },
+      {
+        "word": "biodiversity",
+        "meaning": "生物多样性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-005",
+      "03-006",
+      "03-007"
+    ],
+    "examples": [
+      {
+        "en": "Every primate is a mammal, and every mammal is a vertebrate.",
+        "zh": "每种灵长类动物都是哺乳动物，每种哺乳动物都是脊椎动物。"
+      },
+      {
+        "en": "The exhibit explains why a primate belongs to both the mammal group and the wider vertebrate group.",
+        "zh": "展览解释了为何灵长类动物既属于哺乳动物，也属于范围更大的脊椎动物类群。"
+      },
+      {
+        "en": "A vertebrate need not be a mammal, just as a mammal need not be a primate.",
+        "zh": "脊椎动物不一定是哺乳动物，正如哺乳动物不一定是灵长类动物。"
+      }
+    ],
+    "collocations": {
+      "03-005": [
+        "a marine mammal",
+        "海洋哺乳动物"
+      ],
+      "03-006": [
+        "a non-human primate",
+        "非人类灵长类动物"
+      ],
+      "03-007": [
+        "a terrestrial vertebrate",
+        "陆生脊椎动物"
+      ]
+    },
+    "related": [
+      {
+        "word": "backbone",
+        "meaning": "脊柱",
+        "relation": "同场景"
+      },
+      {
+        "word": "classification",
+        "meaning": "分类",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-008",
+      "03-009",
+      "03-010",
+      "03-011"
+    ],
+    "examples": [
+      {
+        "en": "The survey classifies each reptile and amphibian by diet, distinguishing a carnivore from a herbivore.",
+        "zh": "调查按食性为每种爬行动物和两栖动物分类，区分食肉动物与食草动物。"
+      },
+      {
+        "en": "A reptile may be a carnivore or a herbivore, while a young amphibian may change its diet as it grows.",
+        "zh": "爬行动物可能食肉或食草，幼年两栖动物的食性可能随成长而改变。"
+      },
+      {
+        "en": "The keeper prepared food for a carnivore, a herbivore, a reptile and an amphibian in separate enclosures.",
+        "zh": "饲养员为分养的食肉动物、食草动物、爬行动物和两栖动物准备食物。"
+      }
+    ],
+    "collocations": {
+      "03-008": [
+        "a cold-blooded reptile",
+        "冷血爬行动物"
+      ],
+      "03-009": [
+        "an aquatic amphibian",
+        "水生两栖动物"
+      ],
+      "03-010": [
+        "a large carnivore",
+        "大型食肉动物"
+      ],
+      "03-011": [
+        "a grazing herbivore",
+        "食草动物"
+      ]
+    },
+    "related": [
+      {
+        "word": "predation",
+        "meaning": "捕食",
+        "relation": "同场景"
+      },
+      {
+        "word": "diet",
+        "meaning": "食性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-012",
+      "03-013",
+      "03-014",
+      "03-015",
+      "03-016"
+    ],
+    "examples": [
+      {
+        "en": "Protecting wildlife means conserving flora and fauna, including every threatened species and the smallest creature.",
+        "zh": "保护野生生物意味着保护植物群和动物群，包括每个受威胁物种和最微小的生物。"
+      },
+      {
+        "en": "The wildlife survey recorded flora and fauna and identified one tiny creature as a previously unknown species.",
+        "zh": "野生生物调查记录了植物群和动物群，并确定一种小生物是此前未知的物种。"
+      },
+      {
+        "en": "A creature cannot survive in isolation, so species protection considers the surrounding wildlife, flora and fauna.",
+        "zh": "生物无法孤立生存，因此物种保护须考虑周围的野生生物及动植物群。"
+      }
+    ],
+    "collocations": {
+      "03-012": [
+        "an endangered creature",
+        "濒危生物"
+      ],
+      "03-013": [
+        "protect wildlife",
+        "保护野生生物"
+      ],
+      "03-014": [
+        "native fauna",
+        "本土动物群"
+      ],
+      "03-015": [
+        "native flora",
+        "本土植物群"
+      ],
+      "03-016": [
+        "an endangered species",
+        "濒危物种"
+      ]
+    },
+    "related": [
+      {
+        "word": "biodiversity",
+        "meaning": "生物多样性",
+        "relation": "同场景"
+      },
+      {
+        "word": "conservation",
+        "meaning": "保护",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-031"
+    ],
+    "examples": [
+      {
+        "en": "Genetic evidence identifies this population as a distinct subgroup.",
+        "zh": "遗传证据确定这个种群是一个独特亚群。"
+      },
+      {
+        "en": "One subgroup feeds mainly at night.",
+        "zh": "一个亚群主要在夜间觅食。"
+      },
+      {
+        "en": "Researchers compared the behaviour of each subgroup.",
+        "zh": "研究人员比较了各亚群的行为。"
+      }
+    ],
+    "collocations": {
+      "03-031": [
+        "a distinct subgroup",
+        "独特的亚群"
+      ]
+    },
+    "related": [
+      {
+        "word": "classification",
+        "meaning": "分类",
+        "relation": "同场景"
+      },
+      {
+        "word": "population",
+        "meaning": "种群",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-017",
+      "03-018",
+      "03-019"
+    ],
+    "examples": [
+      {
+        "en": "A flock of birds flew above a herd of cattle as a swarm of bees crossed the field.",
+        "zh": "一群鸟从牛群上空飞过，一群蜜蜂同时穿过田野。"
+      },
+      {
+        "en": "The farmer moved the herd away from a swarm of bees while a flock settled nearby.",
+        "zh": "农民将牛群赶离蜂群，一群鸟则在附近落下。"
+      },
+      {
+        "en": "The wetland supports a flock of geese, a grazing herd and a seasonal swarm of insects.",
+        "zh": "湿地供养着一群鹅、一群食草动物和季节性聚集的昆虫群。"
+      }
+    ],
+    "collocations": {
+      "03-017": [
+        "a flock of birds",
+        "一群鸟"
+      ],
+      "03-018": [
+        "a herd of cattle",
+        "一群牛"
+      ],
+      "03-019": [
+        "a swarm of bees",
+        "一群蜜蜂"
+      ]
+    },
+    "related": [
+      {
+        "word": "migration",
+        "meaning": "迁徙",
+        "relation": "同场景"
+      },
+      {
+        "word": "aggregation",
+        "meaning": "聚集",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-020",
+      "03-021",
+      "03-022",
+      "03-023",
+      "03-024"
+    ],
+    "examples": [
+      {
+        "en": "A crowd joined the throng around the cage, condemning the brute for his cruel treatment of the beast.",
+        "zh": "一群人加入笼子周围的人群，谴责那个暴徒残酷对待野兽。"
+      },
+      {
+        "en": "The crowd watched a cruel brute drag the beast through a throng of frightened spectators.",
+        "zh": "人群看着一个残暴的人拖着野兽穿过惊恐的观众群。"
+      },
+      {
+        "en": "A throng gathered after the crowd heard that a brute had been arrested for being cruel to a captive beast.",
+        "zh": "人群听说一名暴徒因残酷对待圈养野兽被捕后，更多人聚集过来。"
+      }
+    ],
+    "collocations": {
+      "03-020": [
+        "a throng of visitors",
+        "一大群游客"
+      ],
+      "03-021": [
+        "a large crowd",
+        "一大群人"
+      ],
+      "03-022": [
+        "a wild beast",
+        "野兽"
+      ],
+      "03-023": [
+        "a violent brute",
+        "残暴的人"
+      ],
+      "03-024": [
+        "cruel treatment",
+        "残酷对待"
+      ]
+    },
+    "related": [
+      {
+        "word": "cruelty",
+        "meaning": "残忍",
+        "relation": "词形"
+      },
+      {
+        "word": "spectator",
+        "meaning": "观众",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-025",
+      "03-026",
+      "03-027"
+    ],
+    "examples": [
+      {
+        "en": "These traits derive from inherited changes, originate in earlier populations and stem from evolutionary processes.",
+        "zh": "这些特征源自遗传变化、起于早期种群，并来自演化过程。"
+      },
+      {
+        "en": "Differences that stem from habitat may originate locally rather than derive from separate ancestry.",
+        "zh": "由栖息地造成的差异可能在本地产生，而非来自不同祖系。"
+      },
+      {
+        "en": "Scientists ask whether these features derive from a common ancestor, originate independently or stem from similar environments.",
+        "zh": "科学家探究这些特征是源自共同祖先、独立产生，还是来自相似环境。"
+      }
+    ],
+    "collocations": {
+      "03-025": [
+        "derive from an ancestor",
+        "源自某祖先"
+      ],
+      "03-026": [
+        "originate in Africa",
+        "起源于非洲"
+      ],
+      "03-027": [
+        "stem from a change",
+        "源于变化"
+      ]
+    },
+    "related": [
+      {
+        "word": "origin",
+        "meaning": "起源",
+        "relation": "词形"
+      },
+      {
+        "word": "ancestry",
+        "meaning": "祖系",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-028",
+      "03-029",
+      "03-030"
+    ],
+    "examples": [
+      {
+        "en": "Each descendant carries genetic material passed from an ancestor through generations of offspring.",
+        "zh": "每个后代都带有祖先通过一代代子代传下的遗传物质。"
+      },
+      {
+        "en": "The offspring of this rare bird may become the last living descendant of a once-common ancestor.",
+        "zh": "这种珍稀鸟的子代可能成为一个曾经常见祖先的最后存活后裔。"
+      },
+      {
+        "en": "Researchers compared an ancient ancestor with a modern descendant and its offspring.",
+        "zh": "研究人员比较了一种古代祖先、现代后裔及其子代。"
+      }
+    ],
+    "collocations": {
+      "03-028": [
+        "a common ancestor",
+        "共同祖先"
+      ],
+      "03-029": [
+        "a direct descendant",
+        "直系后代"
+      ],
+      "03-030": [
+        "healthy offspring",
+        "健康后代"
+      ]
+    },
+    "related": [
+      {
+        "word": "inheritance",
+        "meaning": "遗传",
+        "relation": "同场景"
+      },
+      {
+        "word": "lineage",
+        "meaning": "血统",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-032",
+      "03-033",
+      "03-034",
+      "03-035"
+    ],
+    "examples": [
+      {
+        "en": "Breeders feed the animals carefully, breed selected lines and test whether those lines interbreed or hybridise successfully.",
+        "zh": "育种者精心喂养动物，繁育选定品系，并测试这些品系能否成功交配杂交。"
+      },
+      {
+        "en": "To breed healthy animals, farmers must feed them well and understand which populations can interbreed or hybridise.",
+        "zh": "要繁育健康动物，农民必须良好喂养，并了解哪些种群能够交配或杂交。"
+      },
+      {
+        "en": "Researchers feed captive fish, breed them under controlled conditions and observe whether related species interbreed and hybridise.",
+        "zh": "研究人员喂养圈养鱼类，在受控条件下繁育，并观察近缘物种是否交配杂交。"
+      }
+    ],
+    "collocations": {
+      "03-032": [
+        "feed livestock",
+        "喂养牲畜"
+      ],
+      "03-033": [
+        "breed cattle",
+        "繁育牛"
+      ],
+      "03-034": [
+        "interbreed successfully",
+        "成功杂交"
+      ],
+      "03-035": [
+        "hybridise varieties",
+        "杂交品种"
+      ]
+    },
+    "related": [
+      {
+        "word": "breeding",
+        "meaning": "繁育",
+        "relation": "词形"
+      },
+      {
+        "word": "hybrid",
+        "meaning": "杂种",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-036",
+      "03-037",
+      "03-038",
+      "03-039"
+    ],
+    "examples": [
+      {
+        "en": "Courtship helps an animal find a mate, but sterility prevents its lineage from continuing to proliferate.",
+        "zh": "求偶帮助动物找到配偶，但不育会阻止其后代继续繁衍。"
+      },
+      {
+        "en": "The study examined how sterility and disrupted courtship affect populations that normally mate and proliferate quickly.",
+        "zh": "研究考察不育和求偶受干扰如何影响通常交配并快速繁衍的种群。"
+      },
+      {
+        "en": "Even where animals proliferate, unsuccessful courtship or sterility may leave an individual unable to reproduce with a mate.",
+        "zh": "即使动物种群繁衍旺盛，求偶失败或不育也可能使个体无法与配偶繁殖。"
+      }
+    ],
+    "collocations": {
+      "03-036": [
+        "proliferate rapidly",
+        "迅速增殖"
+      ],
+      "03-037": [
+        "male sterility",
+        "雄性不育"
+      ],
+      "03-038": [
+        "find a mate",
+        "寻找配偶"
+      ],
+      "03-039": [
+        "courtship behaviour",
+        "求偶行为"
+      ]
+    },
+    "related": [
+      {
+        "word": "fertility",
+        "meaning": "生育力",
+        "relation": "反义"
+      },
+      {
+        "word": "reproduction",
+        "meaning": "繁殖",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-040",
+      "03-041",
+      "03-042",
+      "03-043",
+      "03-044"
+    ],
+    "examples": [
+      {
+        "en": "Birds lay eggs that hatch into a brood, while fish spawn and their young mature in water.",
+        "zh": "鸟产卵并孵出一窝雏鸟，而鱼在水中产卵，幼鱼也在水中成长。"
+      },
+      {
+        "en": "Students watched birds lay eggs, chicks hatch into a brood, and fish spawn before their young began to mature.",
+        "zh": "学生观察鸟产卵、雏鸟成窝孵出，以及鱼产卵后幼鱼开始成长。"
+      },
+      {
+        "en": "The film follows a brood from eggs birds lay and hatch, then shows fish spawn and mature.",
+        "zh": "影片先跟拍一窝鸟从产卵到孵化，再展示鱼的产卵及成长。"
+      }
+    ],
+    "collocations": {
+      "03-040": [
+        "lay eggs",
+        "产卵"
+      ],
+      "03-041": [
+        "hatch from an egg",
+        "孵化出壳"
+      ],
+      "03-042": [
+        "a brood of chicks",
+        "一窝雏鸟"
+      ],
+      "03-043": [
+        "spawn in rivers",
+        "在河中产卵"
+      ],
+      "03-044": [
+        "mature rapidly",
+        "迅速成熟"
+      ]
+    },
+    "related": [
+      {
+        "word": "incubation",
+        "meaning": "孵化",
+        "relation": "同场景"
+      },
+      {
+        "word": "juvenile",
+        "meaning": "幼体",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-045",
+      "03-046",
+      "03-047",
+      "03-048",
+      "03-049"
+    ],
+    "examples": [
+      {
+        "en": "The vet examined the mammal's skin, paw and claw, the bird's beak and the fish's fin.",
+        "zh": "兽医检查了哺乳动物的皮肤、脚爪和爪尖、鸟的喙以及鱼的鳍。"
+      },
+      {
+        "en": "A claw helps grip, a paw supports movement, a beak handles food, a fin aids swimming, and skin provides protection.",
+        "zh": "尖爪帮助抓握，脚爪支撑运动，喙处理食物，鳍帮助游泳，皮肤提供保护。"
+      },
+      {
+        "en": "The exhibit compares a furry paw and claw with a scaly fin, a bird's beak and reptile skin.",
+        "zh": "展览将长毛的脚爪和尖爪，与带鳞的鳍、鸟喙和爬行动物皮肤相比较。"
+      }
+    ],
+    "collocations": {
+      "03-045": [
+        "thick skin",
+        "厚皮"
+      ],
+      "03-046": [
+        "a sharp claw",
+        "尖爪"
+      ],
+      "03-047": [
+        "an injured paw",
+        "受伤的脚爪"
+      ],
+      "03-048": [
+        "a pointed beak",
+        "尖嘴"
+      ],
+      "03-049": [
+        "a dorsal fin",
+        "背鳍"
+      ]
+    },
+    "related": [
+      {
+        "word": "anatomy",
+        "meaning": "解剖结构",
+        "relation": "同场景"
+      },
+      {
+        "word": "adaptation",
+        "meaning": "适应",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-050",
+      "03-051",
+      "03-052",
+      "03-053",
+      "03-054"
+    ],
+    "examples": [
+      {
+        "en": "The display compares a wing feather and a decorative plume with mammal fur and a stiff bristle.",
+        "zh": "展品比较了翅膀飞羽、装饰羽毛、哺乳动物毛皮与硬鬃毛。"
+      },
+      {
+        "en": "A damaged wing feather lay beside a long plume, while another tray held fur and a bristle.",
+        "zh": "一根受损飞羽放在长羽毛旁，另一只托盘里有毛皮和鬃毛。"
+      },
+      {
+        "en": "Students examined the wing, plume and feather under magnification before comparing fur with a coarse bristle.",
+        "zh": "学生放大观察了翅膀、长羽毛和单根羽毛，再比较毛皮与粗鬃毛。"
+      }
+    ],
+    "collocations": {
+      "03-050": [
+        "spread a wing",
+        "展开翅膀"
+      ],
+      "03-051": [
+        "a decorative plume",
+        "装饰性羽毛"
+      ],
+      "03-052": [
+        "a flight feather",
+        "飞羽"
+      ],
+      "03-053": [
+        "thick fur",
+        "浓密毛皮"
+      ],
+      "03-054": [
+        "a stiff bristle",
+        "硬鬃毛"
+      ]
+    },
+    "related": [
+      {
+        "word": "plumage",
+        "meaning": "鸟的全身羽毛",
+        "relation": "同场景"
+      },
+      {
+        "word": "insulation",
+        "meaning": "隔热",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-055",
+      "03-073",
+      "03-074",
+      "03-075"
+    ],
+    "examples": [
+      {
+        "en": "The sculpture shows a curl in the elephant's trunk beside carved ivory and a replica horn.",
+        "zh": "雕塑展示了象鼻的卷曲，旁边是象牙雕刻和仿制兽角。"
+      },
+      {
+        "en": "A curl of the trunk appears in the painting, but neither ivory nor horn was used to frame it.",
+        "zh": "画中象鼻卷起，但画框既未使用象牙也未使用兽角。"
+      },
+      {
+        "en": "The museum contrasts a ram's horn with ivory and shows how a curl forms in an elephant's flexible trunk.",
+        "zh": "博物馆比较公羊角与象牙，并展示灵活的象鼻如何形成卷曲。"
+      }
+    ],
+    "collocations": {
+      "03-055": [
+        "a tight curl",
+        "紧卷"
+      ],
+      "03-073": [
+        "an elephant's trunk",
+        "象鼻"
+      ],
+      "03-074": [
+        "the ivory trade",
+        "象牙贸易"
+      ],
+      "03-075": [
+        "a curved horn",
+        "弯角"
+      ]
+    },
+    "related": [
+      {
+        "word": "tusk",
+        "meaning": "长牙",
+        "relation": "同场景"
+      },
+      {
+        "word": "keratin",
+        "meaning": "角蛋白",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-056",
+      "03-057",
+      "03-058",
+      "03-059"
+    ],
+    "examples": [
+      {
+        "en": "This insect is a crop pest, while that worm is a parasite of livestock.",
+        "zh": "这种昆虫是作物害虫，而那种蠕虫寄生于牲畜。"
+      },
+      {
+        "en": "The farmer distinguished a beneficial insect from a pest and a harmless worm from a parasite.",
+        "zh": "农民区分有益昆虫与害虫，也区分无害蠕虫与寄生虫。"
+      },
+      {
+        "en": "A parasite may be a worm or an insect, but not every small animal is a pest.",
+        "zh": "寄生虫可能是蠕虫或昆虫，但并非每种小动物都是害虫。"
+      }
+    ],
+    "collocations": {
+      "03-056": [
+        "an insect bite",
+        "昆虫叮咬"
+      ],
+      "03-057": [
+        "an earth-dwelling worm",
+        "土栖蠕虫"
+      ],
+      "03-058": [
+        "an agricultural pest",
+        "农业害虫"
+      ],
+      "03-059": [
+        "an intestinal parasite",
+        "肠道寄生虫"
+      ]
+    },
+    "related": [
+      {
+        "word": "host",
+        "meaning": "宿主",
+        "relation": "同场景"
+      },
+      {
+        "word": "infestation",
+        "meaning": "侵扰",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-060",
+      "03-061",
+      "03-062",
+      "03-063"
+    ],
+    "examples": [
+      {
+        "en": "A spider caught a mosquito while a butterfly rested near a chirping cricket.",
+        "zh": "蜘蛛捕住一只蚊子，一只蝴蝶则停在鸣叫的蟋蟀附近。"
+      },
+      {
+        "en": "The garden supports a butterfly, a cricket and a spider that helps control mosquito numbers.",
+        "zh": "花园供养着蝴蝶、蟋蟀以及帮助控制蚊子数量的蜘蛛。"
+      },
+      {
+        "en": "Children watched a butterfly land, a cricket jump and a spider trap a mosquito.",
+        "zh": "孩子们看蝴蝶降落、蟋蟀跳跃，以及蜘蛛捕住蚊子。"
+      }
+    ],
+    "collocations": {
+      "03-060": [
+        "a spider web",
+        "蜘蛛网"
+      ],
+      "03-061": [
+        "a colourful butterfly",
+        "色彩鲜艳的蝴蝶"
+      ],
+      "03-062": [
+        "a mosquito bite",
+        "蚊子叮咬"
+      ],
+      "03-063": [
+        "a chirping cricket",
+        "鸣叫的蟋蟀"
+      ]
+    },
+    "related": [
+      {
+        "word": "arthropod",
+        "meaning": "节肢动物",
+        "relation": "同场景"
+      },
+      {
+        "word": "pollinator",
+        "meaning": "传粉动物",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-064",
+      "03-065",
+      "03-066",
+      "03-067"
+    ],
+    "examples": [
+      {
+        "en": "The film follows a penguin and a seal at sea before visiting a tortoise and a turtle on tropical islands.",
+        "zh": "影片先跟拍海中的企鹅与海豹，再探访热带岛屿的陆龟与海龟。"
+      },
+      {
+        "en": "Unlike a tortoise, a sea turtle swims efficiently, as do a penguin and a seal.",
+        "zh": "与陆龟不同，海龟善于游泳，企鹅和海豹也是如此。"
+      },
+      {
+        "en": "The rescue centre separated the injured turtle from the tortoise, penguin and seal.",
+        "zh": "救护中心将受伤海龟与陆龟、企鹅及海豹分开。"
+      }
+    ],
+    "collocations": {
+      "03-064": [
+        "an emperor penguin",
+        "帝企鹅"
+      ],
+      "03-065": [
+        "a grey seal",
+        "灰海豹"
+      ],
+      "03-066": [
+        "a giant tortoise",
+        "巨型陆龟"
+      ],
+      "03-067": [
+        "a sea turtle",
+        "海龟"
+      ]
+    },
+    "related": [
+      {
+        "word": "flipper",
+        "meaning": "鳍状肢",
+        "relation": "同场景"
+      },
+      {
+        "word": "coastline",
+        "meaning": "海岸线",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-068",
+      "03-069",
+      "03-070",
+      "03-071",
+      "03-072"
+    ],
+    "examples": [
+      {
+        "en": "A whale, kangaroo, camel, panda and elephant are all mammals adapted to very different environments.",
+        "zh": "鲸、袋鼠、骆驼、熊猫和象都是适应迥异环境的哺乳动物。"
+      },
+      {
+        "en": "The programme compared how a whale swims, a kangaroo hops, a camel walks, a panda climbs and an elephant travels.",
+        "zh": "节目比较了鲸游泳、袋鼠跳跃、骆驼行走、熊猫攀爬和象迁移的方式。"
+      },
+      {
+        "en": "Conservation funding supported a whale sanctuary, a kangaroo reserve and breeding projects for the camel, panda and elephant.",
+        "zh": "保护资金支持鲸庇护区、袋鼠保护区，以及骆驼、熊猫和象的繁育项目。"
+      }
+    ],
+    "collocations": {
+      "03-068": [
+        "a blue whale",
+        "蓝鲸"
+      ],
+      "03-069": [
+        "a red kangaroo",
+        "红袋鼠"
+      ],
+      "03-070": [
+        "a desert camel",
+        "沙漠骆驼"
+      ],
+      "03-071": [
+        "a giant panda",
+        "大熊猫"
+      ],
+      "03-072": [
+        "an Asian elephant",
+        "亚洲象"
+      ]
+    },
+    "related": [
+      {
+        "word": "mammal",
+        "meaning": "哺乳动物",
+        "relation": "同场景"
+      },
+      {
+        "word": "adaptation",
+        "meaning": "适应",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-076",
+      "03-077",
+      "03-078",
+      "03-079"
+    ],
+    "examples": [
+      {
+        "en": "The tale features a bear, a wolf and a fox who outwit a dragon.",
+        "zh": "故事讲述熊、狼和狐狸智胜巨龙。"
+      },
+      {
+        "en": "Unlike the imaginary dragon, the bear, wolf and fox in this story are real animals.",
+        "zh": "与虚构的龙不同，故事中的熊、狼和狐狸是真实动物。"
+      },
+      {
+        "en": "A carved dragon guarded the entrance to an exhibit on the bear, wolf and fox in folklore.",
+        "zh": "一条雕刻的龙守在展览入口，该展览介绍民间传说中的熊、狼和狐狸。"
+      }
+    ],
+    "collocations": {
+      "03-076": [
+        "a brown bear",
+        "棕熊"
+      ],
+      "03-077": [
+        "a grey wolf",
+        "灰狼"
+      ],
+      "03-078": [
+        "a mythical dragon",
+        "神话中的龙"
+      ],
+      "03-079": [
+        "a red fox",
+        "赤狐"
+      ]
+    },
+    "related": [
+      {
+        "word": "folklore",
+        "meaning": "民间传说",
+        "relation": "同场景"
+      },
+      {
+        "word": "carnivore",
+        "meaning": "食肉动物",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-080",
+      "03-081",
+      "03-082",
+      "03-083"
+    ],
+    "examples": [
+      {
+        "en": "The rescue team cared for a lion cub, an elephant calf, a seal pup and an orphaned lamb.",
+        "zh": "救援队照料一只幼狮、一头小象、一只小海豹和一只失去母亲的羔羊。"
+      },
+      {
+        "en": "A cub, calf, pup and lamb all depend on adult care early in life.",
+        "zh": "幼兽、小牛类幼崽、小犬类幼崽和羔羊在生命早期都依赖成年动物照料。"
+      },
+      {
+        "en": "The vet weighed each cub, calf, pup and lamb before preparing its milk.",
+        "zh": "兽医给每只幼兽、小牛、小犬和羔羊称重后，再调配奶液。"
+      }
+    ],
+    "collocations": {
+      "03-080": [
+        "a lion cub",
+        "幼狮"
+      ],
+      "03-081": [
+        "an elephant calf",
+        "小象"
+      ],
+      "03-082": [
+        "a seal pup",
+        "小海豹"
+      ],
+      "03-083": [
+        "a newborn lamb",
+        "新生羔羊"
+      ]
+    },
+    "related": [
+      {
+        "word": "juvenile",
+        "meaning": "幼体",
+        "relation": "同场景"
+      },
+      {
+        "word": "nursing",
+        "meaning": "哺乳",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-084",
+      "03-085",
+      "03-086",
+      "03-087"
+    ],
+    "examples": [
+      {
+        "en": "The cattle grazed while an ox pulled a cart, a bull stood nearby and a buffalo cooled in water.",
+        "zh": "牛群吃草时，一头役牛拉车，一头公牛站在附近，一头水牛在水中纳凉。"
+      },
+      {
+        "en": "The farm keeps cattle, uses an ox for work and houses its bull separately from the buffalo.",
+        "zh": "农场养牛，用役牛干活，并将公牛与水牛分开圈养。"
+      },
+      {
+        "en": "A vet inspected the cattle herd, checking a working ox, a breeding bull and an injured buffalo.",
+        "zh": "兽医检查牛群，查看役牛、种公牛及一头受伤水牛。"
+      }
+    ],
+    "collocations": {
+      "03-084": [
+        "rear cattle",
+        "养牛"
+      ],
+      "03-085": [
+        "a draught ox",
+        "役用阉牛"
+      ],
+      "03-086": [
+        "a breeding bull",
+        "种公牛"
+      ],
+      "03-087": [
+        "a water buffalo",
+        "水牛"
+      ]
+    },
+    "related": [
+      {
+        "word": "livestock",
+        "meaning": "牲畜",
+        "relation": "同场景"
+      },
+      {
+        "word": "pasture",
+        "meaning": "牧场",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-088",
+      "03-089",
+      "03-090",
+      "03-091",
+      "03-092"
+    ],
+    "examples": [
+      {
+        "en": "The horse wore a saddle, the donkey pulled in a harness, and the zebra grazed beyond the fence.",
+        "zh": "马配着鞍，驴套着挽具拉车，斑马在篱笆外吃草。"
+      },
+      {
+        "en": "Unlike the zebra, the trained horse accepted a saddle and the donkey tolerated a harness.",
+        "zh": "与斑马不同，受训的马接受装鞍，驴也能适应挽具。"
+      },
+      {
+        "en": "The keeper stored a saddle and harness near the horse and donkey enclosures, away from the zebra.",
+        "zh": "饲养员把鞍和挽具存放在马、驴围栏附近，远离斑马。"
+      }
+    ],
+    "collocations": {
+      "03-088": [
+        "a riding horse",
+        "骑乘马"
+      ],
+      "03-089": [
+        "a striped zebra",
+        "斑马"
+      ],
+      "03-090": [
+        "a pack donkey",
+        "驮货驴"
+      ],
+      "03-091": [
+        "a leather saddle",
+        "皮马鞍"
+      ],
+      "03-092": [
+        "a safety harness",
+        "安全挽具"
+      ]
+    },
+    "related": [
+      {
+        "word": "bridle",
+        "meaning": "马勒",
+        "relation": "同场景"
+      },
+      {
+        "word": "hoof",
+        "meaning": "蹄",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-093",
+      "03-094",
+      "03-095",
+      "03-096"
+    ],
+    "examples": [
+      {
+        "en": "A falcon, hawk, eagle and owl each uses sharp talons to capture prey.",
+        "zh": "隼、鹰、雕和猫头鹰都用锐利脚爪捕捉猎物。"
+      },
+      {
+        "en": "The falcon and hawk hunted by day, while the owl emerged after the eagle returned to its nest.",
+        "zh": "隼和鹰白天捕猎，雕归巢后，猫头鹰才出来活动。"
+      },
+      {
+        "en": "Rescuers released the falcon and hawk but kept the injured eagle and owl for treatment.",
+        "zh": "救援人员放飞隼和鹰，但留下受伤的雕和猫头鹰治疗。"
+      }
+    ],
+    "collocations": {
+      "03-093": [
+        "a hunting falcon",
+        "捕猎中的隼"
+      ],
+      "03-094": [
+        "a soaring hawk",
+        "翱翔的鹰"
+      ],
+      "03-095": [
+        "a golden eagle",
+        "金雕"
+      ],
+      "03-096": [
+        "a nocturnal owl",
+        "夜行的猫头鹰"
+      ]
+    },
+    "related": [
+      {
+        "word": "raptor",
+        "meaning": "猛禽",
+        "relation": "同场景"
+      },
+      {
+        "word": "talon",
+        "meaning": "猛禽利爪",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-097",
+      "03-098",
+      "03-099",
+      "03-100"
+    ],
+    "examples": [
+      {
+        "en": "A swallow flew over a sparrow, a pigeon and a crow feeding in the square.",
+        "zh": "燕子飞过广场上觅食的麻雀、鸽子和乌鸦。"
+      },
+      {
+        "en": "The survey recorded a swallow near the river, a sparrow in a hedge, a pigeon on a roof and a crow in a tree.",
+        "zh": "调查记录了河边的燕子、篱笆中的麻雀、屋顶的鸽子和树上的乌鸦。"
+      },
+      {
+        "en": "Unlike the visiting swallow, the sparrow, pigeon and crow remained through winter.",
+        "zh": "与季节性到访的燕子不同，麻雀、鸽子和乌鸦整个冬天都留在当地。"
+      }
+    ],
+    "collocations": {
+      "03-097": [
+        "a migrating swallow",
+        "迁徙的燕子"
+      ],
+      "03-098": [
+        "a house sparrow",
+        "家麻雀"
+      ],
+      "03-099": [
+        "a city pigeon",
+        "城市鸽子"
+      ],
+      "03-100": [
+        "a black crow",
+        "黑乌鸦"
+      ]
+    },
+    "related": [
+      {
+        "word": "roost",
+        "meaning": "栖息处",
+        "relation": "同场景"
+      },
+      {
+        "word": "nestling",
+        "meaning": "雏鸟",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-101",
+      "03-102",
+      "03-103"
+    ],
+    "examples": [
+      {
+        "en": "A swan and a goose swam past the farm as a cock crowed.",
+        "zh": "天鹅和鹅游过农场时，一只公鸡啼叫。"
+      },
+      {
+        "en": "The cock stayed in the yard while the swan and goose entered the pond.",
+        "zh": "公鸡留在院子里，天鹅和鹅则进入池塘。"
+      },
+      {
+        "en": "A child fed the goose, watched the swan and laughed at the noisy cock.",
+        "zh": "孩子喂了鹅，看着天鹅，并被吵闹的公鸡逗笑。"
+      }
+    ],
+    "collocations": {
+      "03-101": [
+        "a white swan",
+        "白天鹅"
+      ],
+      "03-102": [
+        "a wild goose",
+        "野雁"
+      ],
+      "03-103": [
+        "a crowing cock",
+        "啼叫的公鸡"
+      ]
+    },
+    "related": [
+      {
+        "word": "waterfowl",
+        "meaning": "水禽",
+        "relation": "同场景"
+      },
+      {
+        "word": "poultry",
+        "meaning": "家禽",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-104",
+      "03-105",
+      "03-106",
+      "03-107",
+      "03-108"
+    ],
+    "examples": [
+      {
+        "en": "A camera recorded a mouse, rat and squirrel near the barn, a hare in the field and a frog by the pond.",
+        "zh": "相机拍到谷仓附近的老鼠、大鼠和松鼠，以及田里的野兔和池塘边的青蛙。"
+      },
+      {
+        "en": "The flood displaced a mouse, a rat, a squirrel and a hare, while the frog moved into shallow water.",
+        "zh": "洪水使老鼠、大鼠、松鼠和野兔失去栖身处，青蛙则移入浅水。"
+      },
+      {
+        "en": "A mouse and rat ate grain, a squirrel carried nuts, a hare grazed and a frog caught insects.",
+        "zh": "老鼠和大鼠吃谷粒，松鼠搬坚果，野兔吃草，青蛙捕虫。"
+      }
+    ],
+    "collocations": {
+      "03-104": [
+        "a field mouse",
+        "田鼠"
+      ],
+      "03-105": [
+        "a brown rat",
+        "褐家鼠"
+      ],
+      "03-106": [
+        "a red squirrel",
+        "红松鼠"
+      ],
+      "03-107": [
+        "a wild hare",
+        "野兔"
+      ],
+      "03-108": [
+        "a common frog",
+        "普通蛙"
+      ]
+    },
+    "related": [
+      {
+        "word": "rodent",
+        "meaning": "啮齿动物",
+        "relation": "同场景"
+      },
+      {
+        "word": "amphibian",
+        "meaning": "两栖动物",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-109",
+      "03-110",
+      "03-111"
+    ],
+    "examples": [
+      {
+        "en": "Understanding animal behaviour reduces the risk of a bite or sting.",
+        "zh": "理解动物行为可减少被咬或蜇的风险。"
+      },
+      {
+        "en": "The keeper studied warning behaviour before approaching an animal likely to bite or sting.",
+        "zh": "饲养员在接近可能咬人或蜇人的动物前研究其警示行为。"
+      },
+      {
+        "en": "A bite or sting may be defensive behaviour rather than an attempt to hunt.",
+        "zh": "咬或蜇可能是防御行为，而非捕猎行为。"
+      }
+    ],
+    "collocations": {
+      "03-109": [
+        "animal behaviour",
+        "动物行为"
+      ],
+      "03-110": [
+        "a dog bite",
+        "狗咬伤"
+      ],
+      "03-111": [
+        "a bee sting",
+        "蜂蜇伤"
+      ]
+    },
+    "related": [
+      {
+        "word": "aggression",
+        "meaning": "攻击行为",
+        "relation": "同场景"
+      },
+      {
+        "word": "defence",
+        "meaning": "防御",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-112",
+      "03-113",
+      "03-114"
+    ],
+    "examples": [
+      {
+        "en": "We heard a dog bark and a lion roar, then watched a bear rub against a tree.",
+        "zh": "我们听到狗吠和狮吼，随后看到熊蹭树。"
+      },
+      {
+        "en": "Animals may bark or roar to communicate, or rub against objects to leave scent.",
+        "zh": "动物可能通过吠叫或吼叫交流，也可能蹭物体留下气味。"
+      },
+      {
+        "en": "Visitors heard the lion roar as the dogs began to bark and a nearby cat continued to rub against the fence.",
+        "zh": "狮子吼叫时狗开始吠叫，附近的猫继续蹭篱笆，游客听见了这些声音。"
+      }
+    ],
+    "collocations": {
+      "03-112": [
+        "bark loudly",
+        "大声吠叫"
+      ],
+      "03-113": [
+        "a lion's roar",
+        "狮吼"
+      ],
+      "03-114": [
+        "rub against a tree",
+        "蹭树"
+      ]
+    },
+    "related": [
+      {
+        "word": "vocalisation",
+        "meaning": "发声",
+        "relation": "同场景"
+      },
+      {
+        "word": "scent marking",
+        "meaning": "气味标记",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-115",
+      "03-116"
+    ],
+    "examples": [
+      {
+        "en": "The cat began to creep closer as the beetle continued to crawl.",
+        "zh": "甲虫继续爬行时，猫开始悄悄靠近。"
+      },
+      {
+        "en": "We watched a lizard crawl across the rock and a snake creep through the grass.",
+        "zh": "我们看蜥蜴爬过岩石，蛇在草丛中缓缓潜行。"
+      },
+      {
+        "en": "Hunters creep towards prey, while some small animals crawl into narrow shelters.",
+        "zh": "捕猎者悄悄接近猎物，一些小动物则爬进狭窄藏身处。"
+      }
+    ],
+    "collocations": {
+      "03-115": [
+        "creep through grass",
+        "在草丛中悄行"
+      ],
+      "03-116": [
+        "crawl along the ground",
+        "沿地爬行"
+      ]
+    },
+    "related": [
+      {
+        "word": "stealth",
+        "meaning": "悄悄行动",
+        "relation": "同场景"
+      },
+      {
+        "word": "locomotion",
+        "meaning": "运动方式",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-117",
+      "03-118",
+      "03-119",
+      "03-120"
+    ],
+    "examples": [
+      {
+        "en": "The habitat survey recorded a bird's nest and a bee hive with an unusually large cell.",
+        "zh": "栖息地调查记录了一个鸟巢和一个有异常大蜂房的蜂巢。"
+      },
+      {
+        "en": "Protecting this habitat keeps the nest undisturbed and the hive intact, down to each wax cell.",
+        "zh": "保护这一栖息地让鸟巢免受打扰，使蜂巢完整保存，直至每个蜡制蜂房。"
+      },
+      {
+        "en": "A hollow tree provides habitat for a nest or hive, whose bees build each cell from wax.",
+        "zh": "树洞可为鸟巢或蜂巢提供栖息处，蜜蜂在蜂巢中用蜡建造每个蜂房。"
+      }
+    ],
+    "collocations": {
+      "03-117": [
+        "natural habitat",
+        "天然栖息地"
+      ],
+      "03-118": [
+        "a bird's nest",
+        "鸟巢"
+      ],
+      "03-119": [
+        "a bee hive",
+        "蜂巢"
+      ],
+      "03-120": [
+        "a honeycomb cell",
+        "蜂房"
+      ]
+    },
+    "related": [
+      {
+        "word": "shelter",
+        "meaning": "庇护处",
+        "relation": "同场景"
+      },
+      {
+        "word": "colony",
+        "meaning": "群体",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-121",
+      "03-122",
+      "03-123"
+    ],
+    "examples": [
+      {
+        "en": "The farm has a recovery cage near the stable and a large barn for cattle.",
+        "zh": "农场在马厩附近设有康复笼，并有一个大型牛棚。"
+      },
+      {
+        "en": "Workers cleaned the cage, repaired the stable door and replaced the barn roof.",
+        "zh": "工人清理笼子、修理马厩门并更换牛棚屋顶。"
+      },
+      {
+        "en": "An injured bird rested in a cage while horses sheltered in the stable and cows entered the barn.",
+        "zh": "受伤的鸟在笼中休息，马在马厩躲避天气，牛则进入牛棚。"
+      }
+    ],
+    "collocations": {
+      "03-121": [
+        "an animal cage",
+        "兽笼"
+      ],
+      "03-122": [
+        "a horse stable",
+        "马厩"
+      ],
+      "03-123": [
+        "a cattle barn",
+        "牛棚"
+      ]
+    },
+    "related": [
+      {
+        "word": "enclosure",
+        "meaning": "围栏区",
+        "relation": "同场景"
+      },
+      {
+        "word": "husbandry",
+        "meaning": "畜牧业",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-124",
+      "03-125",
+      "03-126"
+    ],
+    "examples": [
+      {
+        "en": "A broken bar left a gap in the barrier beside the hedge.",
+        "zh": "一根断裂的栏杆使树篱旁的屏障出现缺口。"
+      },
+      {
+        "en": "The hedge forms a natural barrier beyond the metal bar at the gate.",
+        "zh": "树篱在门口金属横杆之外形成天然屏障。"
+      },
+      {
+        "en": "The keeper reinforced the barrier with another bar and trimmed the hedge for visibility.",
+        "zh": "饲养员加装一根栏杆加固屏障，并修剪树篱以改善视野。"
+      }
+    ],
+    "collocations": {
+      "03-124": [
+        "a dense hedge",
+        "浓密树篱"
+      ],
+      "03-125": [
+        "a protective barrier",
+        "防护屏障"
+      ],
+      "03-126": [
+        "a metal bar",
+        "金属栏杆"
+      ]
+    },
+    "related": [
+      {
+        "word": "fence",
+        "meaning": "围栏",
+        "relation": "同场景"
+      },
+      {
+        "word": "boundary",
+        "meaning": "边界",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-127",
+      "03-128",
+      "03-129"
+    ],
+    "examples": [
+      {
+        "en": "The team studied anatomy and a resistance gene to understand survival during the epidemic.",
+        "zh": "团队研究了解剖结构和一个抗病基因，以理解动物为何在疫病流行时存活。"
+      },
+      {
+        "en": "An epidemic prompted research into how one gene affects the anatomy of infected fish.",
+        "zh": "一场疫病流行促使研究者探究某个基因如何影响受感染鱼的解剖结构。"
+      },
+      {
+        "en": "Comparative anatomy revealed tissue damage during the epidemic, while gene analysis suggested differences in resistance.",
+        "zh": "比较解剖学揭示了疫病流行期间的组织损伤，基因分析则提示抗病能力存在差异。"
+      }
+    ],
+    "collocations": {
+      "03-127": [
+        "comparative anatomy",
+        "比较解剖学"
+      ],
+      "03-128": [
+        "a disease epidemic",
+        "疾病流行"
+      ],
+      "03-129": [
+        "a resistance gene",
+        "抗病基因"
+      ]
+    },
+    "related": [
+      {
+        "word": "physiology",
+        "meaning": "生理学",
+        "relation": "同场景"
+      },
+      {
+        "word": "immunity",
+        "meaning": "免疫",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-130",
+      "03-131",
+      "03-132",
+      "03-133"
+    ],
+    "examples": [
+      {
+        "en": "A germ may be a virus or one of many bacteria, but not every microbe causes disease.",
+        "zh": "病原体可能是病毒或多种细菌之一，但并非每种微生物都致病。"
+      },
+      {
+        "en": "The laboratory identified the germ as a virus rather than bacteria or another type of microbe.",
+        "zh": "实验室确定该病原体是病毒，而非细菌或其他类型微生物。"
+      },
+      {
+        "en": "Students compared bacteria with a virus and discussed when a microbe is described as a germ.",
+        "zh": "学生比较细菌和病毒，并讨论何时将微生物称为病原体。"
+      }
+    ],
+    "collocations": {
+      "03-130": [
+        "a disease-causing germ",
+        "致病菌"
+      ],
+      "03-131": [
+        "beneficial bacteria",
+        "有益细菌"
+      ],
+      "03-132": [
+        "a respiratory virus",
+        "呼吸道病毒"
+      ],
+      "03-133": [
+        "a soil microbe",
+        "土壤微生物"
+      ]
+    },
+    "related": [
+      {
+        "word": "pathogen",
+        "meaning": "病原体",
+        "relation": "同场景"
+      },
+      {
+        "word": "infection",
+        "meaning": "感染",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-134",
+      "03-135",
+      "03-136",
+      "03-137",
+      "03-138"
+    ],
+    "examples": [
+      {
+        "en": "Healthy metabolism requires protein and vitamin intake, while glands secrete substances and kidneys excrete waste.",
+        "zh": "健康代谢需要蛋白质及维生素摄入，同时腺体分泌物质，肾脏排泄废物。"
+      },
+      {
+        "en": "The study examined how metabolism changes when animals lack a vitamin, digest protein, secrete hormones and excrete nitrogen.",
+        "zh": "研究考察动物缺乏维生素、消化蛋白质、分泌激素并排泄氮时，代谢如何变化。"
+      },
+      {
+        "en": "Animals use protein and vitamin resources in metabolism, secrete digestive enzymes and excrete products they cannot use.",
+        "zh": "动物在代谢中利用蛋白质和维生素，分泌消化酶并排泄无法利用的产物。"
+      }
+    ],
+    "collocations": {
+      "03-134": [
+        "basal metabolism",
+        "基础代谢"
+      ],
+      "03-135": [
+        "dietary protein",
+        "膳食蛋白质"
+      ],
+      "03-136": [
+        "a vitamin deficiency",
+        "维生素缺乏"
+      ],
+      "03-137": [
+        "secrete hormones",
+        "分泌激素"
+      ],
+      "03-138": [
+        "excrete waste",
+        "排泄废物"
+      ]
+    },
+    "related": [
+      {
+        "word": "digestion",
+        "meaning": "消化",
+        "relation": "同场景"
+      },
+      {
+        "word": "nutrition",
+        "meaning": "营养",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-139",
+      "03-140",
+      "03-141"
+    ],
+    "examples": [
+      {
+        "en": "The cat's instinct to devour prey looked like an intuitive response rather than a learned decision.",
+        "zh": "猫吞食猎物的本能看似直觉反应，而非习得的决定。"
+      },
+      {
+        "en": "An intuitive explanation is that hunger triggers the instinct to devour available food.",
+        "zh": "一种直观解释是，饥饿触发吞食现有食物的本能。"
+      },
+      {
+        "en": "Her intuitive understanding of the animal's hunting instinct helped predict when it would devour its prey.",
+        "zh": "她对该动物捕猎本能的直觉理解，帮助她预测它何时会吞食猎物。"
+      }
+    ],
+    "collocations": {
+      "03-139": [
+        "devour prey",
+        "吞食猎物"
+      ],
+      "03-140": [
+        "survival instinct",
+        "求生本能"
+      ],
+      "03-141": [
+        "an intuitive judgement",
+        "直觉判断"
+      ]
+    },
+    "related": [
+      {
+        "word": "instinctive",
+        "meaning": "本能的",
+        "relation": "词形"
+      },
+      {
+        "word": "appetite",
+        "meaning": "食欲",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-142",
+      "03-143",
+      "03-144",
+      "03-145",
+      "03-146"
+    ],
+    "examples": [
+      {
+        "en": "The robot models animal intelligence with sensitive sensors, flexible joints and a functional design that has considerable potential.",
+        "zh": "机器人用灵敏传感器、灵活关节和有实用功能的设计模拟动物智能，具有相当大潜力。"
+      },
+      {
+        "en": "Researchers assessed the animal's intelligence and learning potential alongside its sensitive hearing, flexible movements and functional vision.",
+        "zh": "研究人员评估动物的智力和学习潜力，以及其灵敏听觉、灵活动作和正常视觉。"
+      },
+      {
+        "en": "A flexible training programme may reveal the potential intelligence of an animal with sensitive hearing but only one functional eye.",
+        "zh": "灵活的训练方案可能揭示一只听觉灵敏但仅一只眼睛有功能的动物的智力潜力。"
+      }
+    ],
+    "collocations": {
+      "03-142": [
+        "learning potential",
+        "学习潜力"
+      ],
+      "03-143": [
+        "animal intelligence",
+        "动物智力"
+      ],
+      "03-144": [
+        "a functional limb",
+        "有功能的肢体"
+      ],
+      "03-145": [
+        "sensitive hearing",
+        "灵敏听觉"
+      ],
+      "03-146": [
+        "a flexible joint",
+        "灵活关节"
+      ]
+    },
+    "related": [
+      {
+        "word": "cognition",
+        "meaning": "认知",
+        "relation": "同场景"
+      },
+      {
+        "word": "adaptability",
+        "meaning": "适应能力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-147",
+      "03-148",
+      "03-149",
+      "03-150",
+      "03-151"
+    ],
+    "examples": [
+      {
+        "en": "Acoustic and optical sensors monitored a nocturnal bat as it became dormant during hibernation.",
+        "zh": "声学和光学传感器监测一只夜行蝙蝠在冬眠期间进入休眠。"
+      },
+      {
+        "en": "The nocturnal animal produced fewer acoustic signals and remained invisible to optical surveys while dormant in hibernation.",
+        "zh": "夜行动物冬眠时处于休眠状态，产生更少声学信号，也未出现在光学调查中。"
+      },
+      {
+        "en": "Researchers combined acoustic recording with optical imaging to distinguish normal nocturnal rest from a dormant period of hibernation.",
+        "zh": "研究人员结合录音和光学成像，以区分正常夜行作息中的休息与冬眠休眠期。"
+      }
+    ],
+    "collocations": {
+      "03-147": [
+        "acoustic signals",
+        "声学信号"
+      ],
+      "03-148": [
+        "optical sensors",
+        "光学传感器"
+      ],
+      "03-149": [
+        "a nocturnal animal",
+        "夜行动物"
+      ],
+      "03-150": [
+        "a dormant state",
+        "休眠状态"
+      ],
+      "03-151": [
+        "winter hibernation",
+        "冬眠"
+      ]
+    },
+    "related": [
+      {
+        "word": "echolocation",
+        "meaning": "回声定位",
+        "relation": "同场景"
+      },
+      {
+        "word": "torpor",
+        "meaning": "蛰伏",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-152",
+      "03-153",
+      "03-154"
+    ],
+    "examples": [
+      {
+        "en": "We followed a track and a trace of fur before taking an alternate route around the marsh.",
+        "zh": "我们循着足迹和一丝毛发前进，随后改走另一条路绕过沼泽。"
+      },
+      {
+        "en": "An alternate trail allowed researchers to track the wolf without leaving a trace near its den.",
+        "zh": "另一条小径使研究人员能追踪狼，而不在狼穴附近留下痕迹。"
+      },
+      {
+        "en": "If the track disappears, search for another trace and consider an alternate path.",
+        "zh": "若足迹消失，寻找其他痕迹，并考虑替代路径。"
+      }
+    ],
+    "collocations": {
+      "03-152": [
+        "track an animal",
+        "追踪动物"
+      ],
+      "03-153": [
+        "a trace of fur",
+        "一丝毛发"
+      ],
+      "03-154": [
+        "alternate routes",
+        "替代路线"
+      ]
+    },
+    "related": [
+      {
+        "word": "footprint",
+        "meaning": "脚印",
+        "relation": "同场景"
+      },
+      {
+        "word": "tracking",
+        "meaning": "追踪",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-155",
+      "03-156",
+      "03-157",
+      "03-158",
+      "03-159"
+    ],
+    "examples": [
+      {
+        "en": "A captive predator may still hunt prey, while its potential victim shows defensive behaviour.",
+        "zh": "圈养捕食者仍可能捕猎，潜在受害动物则表现出防御行为。"
+      },
+      {
+        "en": "The prey adopted a defensive posture, and the captive predator failed to catch its intended victim.",
+        "zh": "猎物采取防御姿势，圈养捕食者未能抓住目标猎物。"
+      },
+      {
+        "en": "Researchers compared defensive responses in wild prey and a captive animal that had survived as a predator's victim.",
+        "zh": "研究人员比较野生猎物与一只曾遭捕食者攻击而幸存的圈养动物的防御反应。"
+      }
+    ],
+    "collocations": {
+      "03-155": [
+        "hunt prey",
+        "捕猎猎物"
+      ],
+      "03-156": [
+        "an apex predator",
+        "顶级捕食者"
+      ],
+      "03-157": [
+        "a helpless victim",
+        "无助的受害者"
+      ],
+      "03-158": [
+        "a captive animal",
+        "圈养动物"
+      ],
+      "03-159": [
+        "defensive behaviour",
+        "防御行为"
+      ]
+    },
+    "related": [
+      {
+        "word": "predation",
+        "meaning": "捕食",
+        "relation": "词形"
+      },
+      {
+        "word": "defence",
+        "meaning": "防御",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-160",
+      "03-161",
+      "03-162",
+      "03-163",
+      "03-164"
+    ],
+    "examples": [
+      {
+        "en": "Vulnerable species that exist near subsistence settlements may suffer disturbance and undergo rapid population decline.",
+        "zh": "在维持基本生计的聚居地附近生存的脆弱物种，可能受到干扰并经历种群迅速下降。"
+      },
+      {
+        "en": "When subsistence hunters suffer food shortages, vulnerable animals may undergo greater pressure and struggle to exist nearby.",
+        "zh": "维生猎人遭遇食物短缺时，脆弱动物可能承受更大压力，难以在附近生存。"
+      },
+      {
+        "en": "Communities that exist through subsistence fishing can suffer when vulnerable fish populations undergo collapse.",
+        "zh": "依靠维生捕鱼生存的社区，会在脆弱鱼类种群崩溃时遭受损失。"
+      }
+    ],
+    "collocations": {
+      "03-160": [
+        "undergo treatment",
+        "接受治疗"
+      ],
+      "03-161": [
+        "suffer injury",
+        "遭受伤害"
+      ],
+      "03-162": [
+        "a vulnerable species",
+        "脆弱物种"
+      ],
+      "03-163": [
+        "subsistence hunting",
+        "维持生计的狩猎"
+      ],
+      "03-164": [
+        "exist in the wild",
+        "在野外生存"
+      ]
+    },
+    "related": [
+      {
+        "word": "livelihood",
+        "meaning": "生计",
+        "relation": "同场景"
+      },
+      {
+        "word": "vulnerability",
+        "meaning": "脆弱性",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "03-165",
+      "03-166",
+      "03-167",
+      "03-168"
+    ],
+    "examples": [
+      {
+        "en": "The keeper and shepherd opposed plans to exterminate wolves but agreed not to tame wild cubs.",
+        "zh": "饲养员和牧羊人反对灭绝狼群的计划，但同意不去驯服野生幼狼。"
+      },
+      {
+        "en": "A shepherd asked the keeper how to tame a rescued dog without trying to exterminate nearby predators.",
+        "zh": "牧羊人询问饲养员，如何驯服获救犬，同时避免试图消灭附近捕食者。"
+      },
+      {
+        "en": "The keeper helped the shepherd tame a frightened horse while specialists worked to exterminate an invasive pest.",
+        "zh": "饲养员帮助牧羊人驯服受惊的马，专家们则努力消灭一种入侵害虫。"
+      }
+    ],
+    "collocations": {
+      "03-165": [
+        "exterminate pests",
+        "消灭害虫"
+      ],
+      "03-166": [
+        "tame a horse",
+        "驯服马匹"
+      ],
+      "03-167": [
+        "a zoo keeper",
+        "动物园饲养员"
+      ],
+      "03-168": [
+        "a local shepherd",
+        "当地牧羊人"
+      ]
+    },
+    "related": [
+      {
+        "word": "domestication",
+        "meaning": "驯化",
+        "relation": "同场景"
+      },
+      {
+        "word": "stewardship",
+        "meaning": "管护",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

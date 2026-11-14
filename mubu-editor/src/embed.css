@@ -1,0 +1,18 @@
+/* Embedded layout and typography; controls retain the original stylesheet. */
+.app { min-width: 0; }
+.app-header { position: sticky; height: 56px; padding: 0 16px; background: #fff; }
+.document-shell { width: auto; margin: 0; padding: 12px 24px 64px; }
+.document-title { display: none; }
+.bottom-hint { display: none; }
+.document-end { display: none; }
+body { overflow-x: hidden; }
+.ProseMirror {
+  font-family: "Merriweather", Georgia, "Times New Roman",
+    "PingFang SC", "Microsoft YaHei", serif;
+  font-weight: 600;
+}
+.node-description { color: #6b6f6b; }
+@media (max-width: 480px) {
+  .search-panel { width: calc(100vw - 24px); right: 12px; }
+  .search-row input, .replace-row input { min-width: 0; }
+}

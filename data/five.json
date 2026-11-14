@@ -1,0 +1,2261 @@
+[
+  {
+    "id": "five-a1",
+    "code": "A1",
+    "title": "每个人都能创作艺术吗？",
+    "sourceGroup": "five",
+    "sourceHeading": "**A1．每个人都能创作艺术吗？｜296词**",
+    "declaredWords": 296,
+    "question": "Some people say that artworks (e.g. painting, music, poetry) can be created by everybody, whereas others say they can only be made by those with special ability.\n\nDiscuss both views and give your own opinion.",
+    "essayParagraphs": [
+      "The importance of **art is beyond doubt;** however, opinions differ as to **who can create** artworks (e.g. painting, music, poetry). Some believe that they **can** be made by every individual, whereas others argue they can only be produced by people with certain skills and abilities. **I believe anyone can create art for self-expression, although producing widely acclaimed work generally requires greater skill.**",
+      "The primary justification for everyone’s artistic potential resides in the very nature of art. Art is a channel for people to express their unique ideas and experiences through various art mediums, ranging from poems to paintings. For example, **drawing** is a popular art **form** with a low **barrier to entry,** and as long as creators have a pen and a piece of paper, no matter which culture or generation they belong to, they **can create** art **freely.**",
+      "Others, however, highlight that artworks should be distinguished by their high quality. **Creations** such as poems and **musical compositions that are widely recognised as significant works of art usually demonstrate a high level of technical skill or a perceptive understanding of social phenomena.** Although everyone can try to create a **work of art, a widely acclaimed** piece generally requires more **developed** skills and abilities.",
+      "I think opinions vary according to the definition of art. Although art per se should be regarded as a way to represent things or express ideas, the artworks that people usually talk about **are often those recognised for their** artistic value **and, sometimes, their** commercial value, behind which are the talent and **extensive** training of the artists. **This helps to explain why widely acclaimed** artworks **are often** made by professionals, be they musicians or writers. All can create art in ways that they want; **not all** can create art that **gains wide recognition.**"
+    ],
+    "corrections": [
+      {
+        "title": "区分创作与广泛认可",
+        "original": "a truly generally recognized product",
+        "revised": "gains wide recognition",
+        "explanation": "先区分“能参与创作”与“作品获得广泛认可”。原来的 a truly generally recognized product 和 All …; only a few … 容易把“他人喜欢”说成少数人才做得到；改为 widely acclaimed / gains wide recognition，保留平行对照，也使标准更清楚。开头直接给出这一立场。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "工具与创作行为匹配",
+        "original": "conducting the art creation",
+        "revised": "create art freely",
+        "explanation": "让例子与工具一致：a pen and a piece of paper 更直接支持 drawing，而非 painting。把 conducting the art creation 改为 create art freely，把 high levels of techniques 改为 a high level of technical skill；原有的长让步结构和 a channel for … 都保留。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "解释现象不等于证明正当",
+        "original": "That justified the status quo",
+        "revised": "This helps to explain why",
+        "explanation": "can recognized 本身缺少被动结构；修订后的整句用 those recognised for … 表示“因……受到认可”。原来的 That justified the status quo 改为 This helps to explain why：专业人士较常创作出名作，可以解释现象，却不能证明只有专业人士能创作。art mediums、art per se 和 be they musicians or writers 本来可用，无须为了小修全部替换。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Who Can Create Art?",
+    "topic": "艺术",
+    "topicEn": "Art",
+    "type": "双边讨论与个人观点",
+    "position": "人人能以艺术表达自己；广受认可的作品通常需要更成熟的技艺。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜拆开两个评价标准",
+        "explanation": "开头先承认艺术的重要性，再把争论拆成参与创作与获得广泛认可两个层面。自己的答案直接出现，后文可以分别解释两个标准。",
+        "chain": [
+          "艺术重要",
+          "谁能创作有分歧",
+          "人人可表达",
+          "名作通常需技艺"
+        ]
+      },
+      {
+        "role": "主体一｜低门槛支持普遍参与",
+        "explanation": "从艺术是表达个人经验的渠道出发，以纸笔绘画说明工具要求低。例子证明人们有机会创作，而不是证明每个人都能成为大师。",
+        "chain": [
+          "独特想法与经验",
+          "借艺术媒介表达",
+          "纸笔门槛低",
+          "人人可以参与"
+        ]
+      },
+      {
+        "role": "主体二｜认可标准支持专业能力",
+        "explanation": "另一方把艺术理解为高质量作品，判断依据包括技术与洞察社会现象的能力。usually和generally保留例外，避免把非专业者排除在外。",
+        "chain": [
+          "重视作品质量",
+          "技巧或社会洞察",
+          "技艺更加成熟",
+          "作品较易获得认可"
+        ]
+      },
+      {
+        "role": "个人判断｜用定义化解表面冲突",
+        "explanation": "末段区分艺术本身的表达功能与社会通常讨论的艺术价值、商业价值。训练可以解释名作常出自专业人士，但不能证明别人没有创作资格。",
+        "chain": [
+          "艺术作为表达",
+          "人人能够创作",
+          "社会认可另有标准",
+          "训练帮助获得认可"
+        ]
+      }
+    ],
+    "questions": [
+      "低门槛为何支持人人创作，却不能证明人人能创作名作？",
+      "末段为何用explain而非justify？",
+      "本文立场的两个层次分别是什么？"
+    ],
+    "answers": [
+      "纸笔降低参与成本；广泛认可还受技术与作品洞察力影响。",
+      "专业训练能解释名作较常出自专业人士，不能证明只有他们才有资格创作。",
+      "自我表达的艺术人人可做；广受认可的作品通常需要更成熟的技能。"
+    ],
+    "transfer": "迁移到公民科学：用两三句区分人人可以参与收集数据与人人能独立完成可靠科研；给出质量标准。（迁移答案为自拟。）",
+    "transferAnswer": "Anyone can contribute to citizen science by recording local wildlife. However, producing reliable scientific findings generally requires careful methods and relevant expertise. A low barrier to participation does not remove the need for quality control.",
+    "collocations": [
+      {
+        "phrase": "artistic potential",
+        "source": "熟悉（讲义）",
+        "usage": "说明能力可能性：one’s artistic potential；potential表潜能通常不可数。 跨题例句为自拟，不是讲义原句。",
+        "example": "Schools can develop children’s scientific potential through practical experiments."
+      },
+      {
+        "phrase": "a channel for",
+        "source": "熟悉（讲义）",
+        "usage": "定义表达渠道：a channel for + 人 + to V，或for + N/V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "Community meetings provide a channel for residents to discuss transport problems."
+      },
+      {
+        "phrase": "a low barrier to entry",
+        "source": "校正",
+        "usage": "说明入门容易：a low barrier to entry；to是介词，entry为名词。 跨题例句为自拟，不是讲义原句。",
+        "example": "Free coding tools create a low barrier to entry for students with limited resources."
+      },
+      {
+        "phrase": "a high level of technical skill",
+        "source": "校正",
+        "usage": "评价能力：a high level of + N；skill此处为能力总称。 跨题例句为自拟，不是讲义原句。",
+        "example": "Repairing medical equipment requires a high level of technical skill."
+      },
+      {
+        "phrase": "extensive training",
+        "source": "校正",
+        "usage": "说明技能形成条件：undergo/receive + extensive training，training不可数。 跨题例句为自拟，不是讲义原句。",
+        "example": "Rescue workers need extensive training before attempting difficult operations."
+      },
+      {
+        "phrase": "gains wide recognition",
+        "source": "校正",
+        "usage": "说明获得社会认可：work/achievement + gain(s) wide recognition。 跨题例句为自拟，不是讲义原句。",
+        "example": "A successful community recycling project may gain wide recognition."
+      }
+    ]
+  },
+  {
+    "id": "five-a2",
+    "code": "A2",
+    "title": "艺术能告诉我们哪些科学无法充分传达的东西？",
+    "sourceGroup": "five",
+    "sourceHeading": "**A2．艺术能告诉我们哪些科学无法充分传达的东西？｜332词**",
+    "declaredWords": 332,
+    "question": "In today’s world of advanced science and technology, many still greatly value artists such as musicians, painters and writers.\n\nWhat can the arts tell us about life that science cannot?",
+    "essayParagraphs": [
+      "The importance of science and **technology is beyond doubt;** however, many people still value the arts despite a growing emphasis on science and technology. This occurs for several reasons, foremost of which is the fact that **the** arts **convey human experience** and aesthetic **values in ways that scientific explanation alone cannot fully capture.**",
+      "The underlying reason for the **importance** of **the** arts is that they allow for self-expression, be it for individuals or society. For individuals, the ability to express themselves is a crucial element of being fully human and **maintaining** mental **well-being. Through** painting, music, and **dance, people can express their thoughts and feelings and help others understand what experiences such as joy or loss feel like from the inside. For society** as a **whole,** artworks can partly **reflect shared values** and enrich **cultural life.** When people visit museums or art galleries, they appreciate paintings or sculptures created by artists so that they can gain a better understanding of the past, ranging from what **gives** one period its **distinctive character** to how values and morality **have** changed. The same principle also applies to stories written by writers and music by musicians.",
+      "In addition, art **reveals the aesthetic value of everyday life,** while science **helps to explain how things function.** Although science is capable of making tangible improvements in the lives of individuals, **technical function alone does not determine what people find beautiful or meaningful.** For example, the **appeal** of **a smartphone may rest** ultimately not only on its **operating** system but also on its industrial design. Science and technology **provide** the system **itself,** but art **helps to shape its visual appearance, showing** how **people seek beauty even in objects** designed **for practical use.**",
+      "In conclusion, the arts still occupy a prominent position in society as they **convey personal feelings, shared cultural experiences** and aesthetic **values. These perspectives complement scientific knowledge, which helps to explain the world but does not by itself fully communicate what it feels like to live** in **it.**"
+    ],
+    "corrections": [
+      {
+        "title": "表达之后补受众理解",
+        "original": "",
+        "revised": "what experiences such as joy or loss feel like from the inside",
+        "explanation": "把“艺术受欢迎的原因”拉回题目所问的“艺术告诉我们什么”。self-expression 后补出读者能获得的理解：what experiences such as joy or loss feel like from the inside。这样表达、作品、受众的理解形成一条因果链，而不只是说上艺术课有助放松。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "修正词性并限制艺术科学对立",
+        "original": "art brings aesthetics while science brings functional",
+        "revised": "reveals the aesthetic value of everyday life",
+        "explanation": "修好词性与搭配，但保留对照句。原文 art brings aesthetics while science brings functional 中 functional 是形容词，不能这样作宾语；修订用 aesthetic value 与 how things function 分别说明艺术和科学的侧重点，并用 alone 避免断言科学与审美毫无关联。unique characters 改为 distinctive character，表示一个时期的整体特征。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "撤去未经支持的人物因果",
+        "original": "",
+        "revised": "not only on its operating system but also on its industrial design",
+        "explanation": "原稿把乔布斯上书法课与 iPhone 的大小写命名直接联系起来，材料没有支持这条因果。这里保留“手机技术＋工业设计”的例子，改成一般性的 may rest … not only … but also …；结尾也直接总结情感、文化经验、审美价值，替换未在前文论证过的“维持现状”。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "What Art Reveals About Life",
+    "topic": "艺术",
+    "topicEn": "Art",
+    "type": "直接问答：艺术的独特作用",
+    "position": "艺术传达内在情感、共同文化经验与审美价值，补充科学解释。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜直接回答艺术告诉我们什么",
+        "explanation": "科学的重要性无需否认；论点是单靠科学解释未必能充分传达人类经验和审美价值。cannot fully capture限定不足的程度，避免制造绝对对立。",
+        "chain": [
+          "科学技术受重视",
+          "艺术仍受重视",
+          "传达人类经验与审美",
+          "补充科学解释"
+        ]
+      },
+      {
+        "role": "主体一｜从创作者走到受众理解",
+        "explanation": "个人用艺术表达喜悦、失落等感受，受众由此理解内在体验；社会层面，作品呈现共享价值和历史变化。这里真正回答的是观者知道了什么。",
+        "chain": [
+          "表达思想感受",
+          "他人理解内在经验",
+          "作品反映共享价值",
+          "理解时代与价值变化"
+        ]
+      },
+      {
+        "role": "主体二｜功能之外的审美意义",
+        "explanation": "手机既需要运行系统，也依赖工业设计。例子把技术能做什么与人为何觉得美分开，说明实用功能不能单独决定意义与吸引力。",
+        "chain": [
+          "科学解释功能",
+          "功能不等于美与意义",
+          "手机也依赖工业设计",
+          "艺术显示日常审美追求"
+        ]
+      },
+      {
+        "role": "结尾｜汇总互补关系",
+        "explanation": "结尾重提个人感受、文化经验、审美三项答案。科学解释世界的运作，艺术进一步传达生活在其中的感受，保持开头的互补立场。",
+        "chain": [
+          "个人感受",
+          "共享文化",
+          "审美价值",
+          "补充科学知识"
+        ]
+      }
+    ],
+    "questions": [
+      "自我表达之后需要补哪一步才能回答题目？",
+      "手机例子怎样说明艺术的价值？",
+      "为何结尾用complement而不是取代科学？"
+    ],
+    "answers": [
+      "作品让别人理解喜悦、失落等经历从内部感受起来是什么样。",
+      "技术提供功能，工业设计体现视觉美感；功能本身不能决定人觉得什么美或有意义。",
+      "本文承认科学的解释作用，艺术补充它未充分传达的主观与文化经验。"
+    ],
+    "transfer": "迁移到历史学习：用两三句解释历史小说如何补充年代表，保留两者的作用边界。（迁移答案为自拟。）",
+    "transferAnswer": "A timeline explains when historical events occurred, while a novel can convey what uncertainty or loss might have felt like to ordinary people. These personal perspectives complement factual knowledge, although fictional scenes should not be treated as historical evidence.",
+    "collocations": [
+      {
+        "phrase": "allow for self-expression",
+        "source": "熟悉（讲义）",
+        "usage": "说明提供表达可能：allow for + N；区别allow sb to V。 跨题例句为自拟，不是讲义原句。",
+        "example": "Drama clubs allow for self-expression without requiring students to compete for grades."
+      },
+      {
+        "phrase": "gain a better understanding of",
+        "source": "熟悉（讲义）",
+        "usage": "写认知收益：gain a better understanding of + N/V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "Studying abroad can help learners gain a better understanding of other cultures."
+      },
+      {
+        "phrase": "distinctive character",
+        "source": "校正",
+        "usage": "说明整体特色：the distinctive character of + 地方/时期。 跨题例句为自拟，不是讲义原句。",
+        "example": "Local markets contribute to the distinctive character of a neighbourhood."
+      },
+      {
+        "phrase": "making tangible improvements in",
+        "source": "熟悉（讲义）",
+        "usage": "写切实改善：make tangible improvements in + 领域；正文为V-ing形式。 跨题例句为自拟，不是讲义原句。",
+        "example": "Reliable buses can make tangible improvements in rural residents’ daily lives."
+      },
+      {
+        "phrase": "industrial design",
+        "source": "熟悉（讲义）",
+        "usage": "说明产品外观与实用设计：industrial design；可作主语或介词宾语。 跨题例句为自拟，不是讲义原句。",
+        "example": "Industrial design can make household appliances easier for older people to use."
+      },
+      {
+        "phrase": "complement scientific knowledge",
+        "source": "校正",
+        "usage": "说明补充而非替代：complement + N，不加with才接直接宾语。 跨题例句为自拟，不是讲义原句。",
+        "example": "Accounts from local residents can complement scientific knowledge of environmental change."
+      }
+    ]
+  },
+  {
+    "id": "five-a3",
+    "code": "A3",
+    "title": "艺术经费是否应转投公共服务？",
+    "sourceGroup": "five",
+    "sourceHeading": "**A3．艺术经费是否应转投公共服务？｜402词**",
+    "declaredWords": 402,
+    "question": "Some people say arts such as music and painting cannot directly improve the quality of people’s life, so the government shouldn’t put money on art such as music and painting, instead, they should spend more money on construction of public services. Do you agree or disagree?",
+    "essayParagraphs": [
+      "There is a fierce debate about how governments allocate budgets. It is proposed that the money allocated to art (e.g., music and painting) should be channelled into **improving** public services. Although **essential needs for** such **services** should be met, **I disagree that arts funding should be withdrawn, as** other considerations justify **continued investment in** the **arts.**",
+      "The argument in favour of public services is that people can directly benefit from such investment. Many cities’ public services are **inadequate;** for example, **accessible** public **facilities may be damaged** or ill-maintained in some cities, causing a lot of inconvenience to **people with disabilities.** If more money were to be allocated to public services, this would allow **them** to live **more independently** and travel **with fewer barriers,** which is an important element **of** a humane and civilized society **serving** all rather than most. **Those** people **could** benefit **directly** from such **improvements, which may be more urgent than additional spending on** music or painting.",
+      "However, it does not necessarily mean that there is no justification for **investment in** the **arts.** For individuals, the ability to express themselves is a crucial element of being fully human and **maintaining** mental **well-being.** This explains the popularity of classes for painting, music, and dance as a means of relaxing and expressing one’s thoughts and feelings. For society, artwork can partly **reflect shared values** and enrich **cultural life.** When people visit museums or art galleries, they appreciate paintings or sculptures created by artists so that they can gain a better understanding of the past, ranging from what **gives** one period its **distinctive character** to how values and morality **have** changed.",
+      "Moreover, it is worthwhile to point out that **once essential public service needs have been met, allocating all arts funding to further service improvements may bring only limited additional benefits. This reflects** the **principle** of diminishing **returns: beyond a certain point, each additional unit of** investment in a particular area **may produce** a **smaller additional benefit. In such circumstances, transferring a modest arts budget may make little difference** to public **services;** by contrast, **retaining it could preserve valuable opportunities for artistic participation** and **appreciation.**",
+      "In conclusion, even though **urgent needs** for public services should be satisfied, **continued investment in** the **arts** is **justified** in view of its **cultural and personal benefits. Budget allocation** should be **guided by** a **clear** set of **criteria that balances essential service needs with opportunities** for **cultural participation.**"
+    ],
+    "corrections": [
+      {
+        "title": "预算投入不机械译为建设",
+        "original": "art construction",
+        "revised": "investment in the arts",
+        "explanation": "统一“经费”类搭配：art construction 改为 investment in the arts / arts funding；construction of public services 改为 improving public services。服务不一定涉及建造，艺术也不宜机械翻译为“艺术建设”。开头明确：支持满足基本公共服务需求，同时反对撤掉艺术经费。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "比较紧迫性而非否认文化需求",
+        "original": "live and travel as normal people",
+        "revised": "live more independently and travel with fewer barriers",
+        "explanation": "把“残障者几乎无法从艺术受益”改为“无障碍设施可能更紧迫”。live and travel as normal people 也改为 live more independently and travel with fewer barriers。这样比较的是公共支出的优先程度，而不是断言某一群体没有审美或文化需求。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "收益递减需要前提",
+        "original": "",
+        "revised": "once essential public service needs have been met",
+        "explanation": "收益递减必须有条件。原文从“公共服务预算很大”直接推到“追加投入收益很小”，中间缺了一步；改为 once essential public service needs have been met，再讨论新增投入的额外收益。结尾据此要求平衡基本需求与文化参与，不再假定现实中的预算配置已经合理。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Arts Funding and Public Services",
+    "topic": "艺术",
+    "topicEn": "Art",
+    "type": "同意与不同意",
+    "position": "先满足紧迫公共服务需求，但反对撤销艺术经费；按基本需求与文化收益平衡预算。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜支持基本服务但反对撤资",
+        "explanation": "开头同时确定预算优先次序与反对的政策力度。承认基本服务必须满足，并不接受把艺术经费全部抽走。",
+        "chain": [
+          "预算分配争议",
+          "基本服务需满足",
+          "艺术仍有投资理由",
+          "反对撤销经费"
+        ]
+      },
+      {
+        "role": "主体一｜说明服务改善的紧迫性",
+        "explanation": "无障碍设施损坏使残障者出行困难；投入可减少障碍、提升独立生活能力。比较对象是追加艺术支出与紧迫服务需求，不是不同群体有没有文化需求。",
+        "chain": [
+          "设施损坏或失修",
+          "残障者出行受阻",
+          "改善无障碍设施",
+          "独立生活与便利出行"
+        ]
+      },
+      {
+        "role": "主体二｜保留艺术的个人和文化收益",
+        "explanation": "艺术课程让人表达和放松，博物馆等作品帮助人们理解历史价值变化。这两类收益解释保留预算的理由，并不否定前段服务的紧迫性。",
+        "chain": [
+          "艺术参与",
+          "表达情绪与维持心理福祉",
+          "欣赏作品",
+          "理解历史与共享文化"
+        ]
+      },
+      {
+        "role": "主体三｜有条件地比较边际收益",
+        "explanation": "只有基本服务需求已经满足，继续增支的额外收益才可能变小。少量艺术资金转出可能只略改善服务，却损失宝贵参与机会，因此要比较增量收益。",
+        "chain": [
+          "基本服务已满足",
+          "追加服务收益可能递减",
+          "转走少量艺术款改善有限",
+          "保留文化参与机会"
+        ]
+      },
+      {
+        "role": "结尾｜回到预算分配标准",
+        "explanation": "重申紧急服务优先与艺术投资合理两条判断，用明确标准平衡基本需求和文化机会。结尾没有假定现行预算已经最优。",
+        "chain": [
+          "满足紧迫服务",
+          "承认文化及个人收益",
+          "采用清晰标准",
+          "平衡预算"
+        ]
+      }
+    ],
+    "questions": [
+      "本文反对的是支持公共服务，还是撤掉艺术经费？",
+      "收益递减论证必须补什么前提？",
+      "无障碍设施例子比较的是什么？"
+    ],
+    "answers": [
+      "反对撤掉艺术经费，同时支持先满足基本公共服务。",
+      "基本公共服务需求已得到满足，才讨论追加投入的较小收益。",
+      "改善服务的紧迫性与追加艺术支出，而非残障者是否能欣赏艺术。"
+    ],
+    "transfer": "迁移到学校预算：承认基础课堂设施优先，再用条件句解释为何仍应保留课外活动经费。（迁移答案为自拟。）",
+    "transferAnswer": "Essential classroom repairs should take priority when safety is at risk. Once these needs have been met, further spending on decoration may bring smaller benefits than retaining a modest budget for extracurricular activities. Allocation should reflect both basic needs and opportunities for participation.",
+    "collocations": [
+      {
+        "phrase": "investment in the arts",
+        "source": "校正",
+        "usage": "表达经费投入：investment in + 领域；避免art construction。 跨题例句为自拟，不是讲义原句。",
+        "example": "Investment in public transport can reduce dependence on private cars."
+      },
+      {
+        "phrase": "allocated to public services",
+        "source": "熟悉（讲义）",
+        "usage": "说明资金去向：funds be allocated to + N/V-ing；to为介词。 跨题例句为自拟，不是讲义原句。",
+        "example": "Additional resources could be allocated to supporting students with disabilities."
+      },
+      {
+        "phrase": "maintaining mental well-being",
+        "source": "校正",
+        "usage": "说明心理收益：maintain + mental well-being；正文作V-ing并列成分。 跨题例句为自拟，不是讲义原句。",
+        "example": "Regular contact with friends can help people maintain mental well-being."
+      },
+      {
+        "phrase": "reflect shared values",
+        "source": "校正",
+        "usage": "说明文化呈现作用：reflect + N；shared作定语。 跨题例句为自拟，不是讲义原句。",
+        "example": "Community celebrations can reflect shared values while welcoming newcomers."
+      },
+      {
+        "phrase": "principle of diminishing returns",
+        "source": "校正",
+        "usage": "比较追加收益：the principle of + N；须补需求已较满足等条件。 跨题例句为自拟，不是讲义原句。",
+        "example": "The principle of diminishing returns may become relevant once basic classroom equipment is adequate."
+      },
+      {
+        "phrase": "opportunities for cultural participation",
+        "source": "校正",
+        "usage": "说明资源保留的具体价值：opportunities for + N/V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "Public libraries offer opportunities for independent learning to residents of all ages."
+      }
+    ]
+  },
+  {
+    "id": "five-b1",
+    "code": "B1",
+    "title": "老建筑修复经费是否应转投道路？",
+    "sourceGroup": "five",
+    "sourceHeading": "**B1．老建筑修复经费是否应转投道路？｜411词**",
+    "declaredWords": 411,
+    "question": "The restoration of old buildings in major cities in the world costs numerous government's expenditures. This money should be used for road development. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "There has been a fierce yet unresolved debate as to how the government **allocates its** budget. It is proposed that the money allocated to the renovation and preservation of old buildings should be channelled into road development. Although **the demand for road development** should be met, other considerations justify the policies adopted to preserve and restore **these buildings.**",
+      "The argument in favour of road construction is that it can greatly contribute to city dwellers’ well-being. Many commuters are negatively **affected** by traffic, mentally and physically, especially the heavy traffic during rush hours. If more money were to be allocated to road development, ranging from the construction of flyovers to the **removal** of **traffic** bottlenecks, fewer commuters **might** complain about the experience of getting stuck in traffic for hours. **It** seems, therefore, that citizens can benefit from such reasonable budget allocation.",
+      "However, it does not necessarily mean that there is no justification for the preservation of old buildings. **Many of these** buildings reflect the beauty of local culture and heritage. **Would** future **generations** recognize their cultural identity **as readily** if much of the physical evidence were to be erased? **Probably** not if all these old buildings disappeared and only anonymous housing estates **remained.** In addition, restored buildings can act as an economic engine, drawing tourists from all over the world. **A city,** for example, **could preserve an old** temple, capitalizing on its cultural and historic flavour to attract tourists. Therefore, the attempt to maintain such old buildings is **justifiable.**",
+      "Moreover, it is worthwhile to point out that if the money allocated to maintaining old buildings were to be spent on other important things (e.g., road development), the situation **might** improve **little where road infrastructure is already well developed.** This **can be explained by** the **principle** of diminishing **returns,** which **means** that as investment in a particular area increases, the **additional benefit from each unit** of **investment may decline** after a certain **point.** In **such circumstances,** the proposal **may bring only limited improvements;** by contrast, governments and citizens **can** benefit culturally from old **buildings even when their preservation is** supported by a **relatively** small proportion of the government budget.",
+      "In conclusion, even though the high demand for road development should be satisfied, the preservation of old buildings is indispensable in view of their cultural and economic importance. **Funding for preservation** should **therefore** be maintained, **with** budget **allocations** carefully made according to a strict set of **criteria that balances transport needs with heritage protection.**"
+    ],
+    "corrections": [
+      {
+        "title": "统一指代与虚拟条件",
+        "original": "Will future generation",
+        "revised": "Would future generations",
+        "explanation": "保留“道路收益→文化与旅游价值→预算取舍”的推进。统一 government allocates its budget 的机构指代，并把 Will future generation … if … were … 改为 Would future generations … if … were …。英式英语中的 government 配复数动词并非一概错误，这里主要是统一指代；道路的瓶颈则用 removal of traffic bottlenecks 表达得更自然。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "具体城市改为假设场景",
+        "original": "",
+        "revised": "A city, for example, could preserve an old temple",
+        "explanation": "把未经核实的成都寺庙案例改为城市保留古寺的假设，继续保留 capitalizing on its cultural and historic flavour 这一原有表达。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "道路收益递减加适用条件",
+        "original": "",
+        "revised": "where road infrastructure is already well developed",
+        "explanation": "为 diminishing returns 补上道路设施已较完善的适用条件，避免由边际收益下降直接推出所有新增投入几乎无效；结尾改成预算应如何分配，不再假定现行预算已经最优。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Heritage Preservation or Roads?",
+    "topic": "建筑与城市",
+    "topicEn": "Buildings and Cities",
+    "type": "同意与不同意",
+    "position": "满足交通需求同时保留老建筑保护经费，兼顾交通与文化经济价值。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜明确预算取舍",
+        "explanation": "道路建设的需求得到承认，但不足以否定修复保护老建筑的政策。两个支出项目必须按理由比较，不能因一项有益便取消另一项。",
+        "chain": [
+          "公共预算有限",
+          "道路需求存在",
+          "老建筑仍有保护理由",
+          "不能全转道路"
+        ]
+      },
+      {
+        "role": "主体一｜道路改善如何惠及通勤者",
+        "explanation": "拥堵损害身心体验；修立交、移除瓶颈可能减少被堵时间。might使效果与设施实际作用相匹配，并未许诺修路必然消除拥堵。",
+        "chain": [
+          "高峰拥堵",
+          "通勤压力与耗时",
+          "立交和瓶颈改善",
+          "通勤体验可能提升"
+        ]
+      },
+      {
+        "role": "主体二｜文化载体与旅游经济",
+        "explanation": "老建筑保留文化的实体证据，帮助后代理解身份；修复后的建筑还可能吸引游客。假设保留古寺的例子具体呈现文化资源如何转化为经济吸引力。",
+        "chain": [
+          "保留实体文化证据",
+          "延续文化认同",
+          "修复古建筑吸引游客",
+          "产生旅游经济价值"
+        ]
+      },
+      {
+        "role": "主体三｜道路较完善时的追加收益",
+        "explanation": "这段只在道路已经较发达的情况下讨论收益递减。继续转入保护款可能改善有限，而少量保护投资仍可保留文化价值。",
+        "chain": [
+          "道路已较完善",
+          "每单位追加收益可能减少",
+          "转移保护款改善有限",
+          "保留经费维护文化价值"
+        ]
+      },
+      {
+        "role": "结尾｜给出双重标准",
+        "explanation": "道路需求应得到满足，老建筑的文化及经济重要性也支持继续出资。严格标准要兼顾两者，而非简单维护既有分配。",
+        "chain": [
+          "交通需求",
+          "遗产文化与经济收益",
+          "维持保护资金",
+          "按标准平衡两项需求"
+        ]
+      }
+    ],
+    "questions": [
+      "古寺例子是现实证据还是假设？",
+      "道路收益递减需要什么条件？",
+      "老建筑的两类价值如何展开？"
+    ],
+    "answers": [
+      "是假设城市保留古寺来吸引游客，没有把未经核实的具体城市案例当事实。",
+      "道路基础设施已较完善，才可能出现追加投资改善有限。",
+      "实体遗产保存文化认同；历史特色吸引游客并带来经济活动。"
+    ],
+    "transfer": "迁移到图书馆与网络建设：用有条件的边际收益比较说明为何不应把图书馆经费全部投入宽带。（迁移答案为自拟。）",
+    "transferAnswer": "Where broadband coverage is already extensive, additional investment may bring only limited improvements. Retaining a modest library budget can still preserve access to quiet study space and personal assistance. Both forms of infrastructure should be assessed against local needs.",
+    "collocations": [
+      {
+        "phrase": "channelled into road development",
+        "source": "熟悉（讲义）",
+        "usage": "说明预算转向：money be channelled into + N/V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "More funding could be channelled into improving bus reliability."
+      },
+      {
+        "phrase": "city dwellers’ well-being",
+        "source": "熟悉（讲义）",
+        "usage": "指出受益群体：群体所有格 + well-being；不是泛指everyone。 跨题例句为自拟，不是讲义原句。",
+        "example": "Affordable childcare can improve working parents’ well-being."
+      },
+      {
+        "phrase": "removal of traffic bottlenecks",
+        "source": "校正",
+        "usage": "写具体改善措施：the removal of + 障碍名词。 跨题例句为自拟，不是讲义原句。",
+        "example": "The removal of unnecessary paperwork can shorten the application process."
+      },
+      {
+        "phrase": "cultural identity",
+        "source": "熟悉（讲义）",
+        "usage": "说明遗产对身份的意义：preserve/recognize + cultural identity。 跨题例句为自拟，不是讲义原句。",
+        "example": "Language teaching can help young people understand their cultural identity."
+      },
+      {
+        "phrase": "capitalizing on",
+        "source": "熟悉（讲义）",
+        "usage": "说明利用优势：capitalize on + N + to V；on不能省。 跨题例句为自拟，不是讲义原句。",
+        "example": "A rural school could attract visitors by capitalizing on its access to local wildlife."
+      },
+      {
+        "phrase": "according to a strict set of criteria",
+        "source": "熟悉（讲义）",
+        "usage": "说明决策依据：according to + N；criterion复数criteria。 跨题例句为自拟，不是讲义原句。",
+        "example": "Scholarships should be awarded according to a clear set of criteria."
+      }
+    ]
+  },
+  {
+    "id": "five-b2",
+    "code": "B2",
+    "title": "修建更多的公园与户外空间",
+    "sourceGroup": "five",
+    "sourceHeading": "**B2．修建更多的公园与户外空间｜415词**",
+    "declaredWords": 415,
+    "question": "It is important for all towns and cities to have more public outdoor activity spaces like squares and parks. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "**One** of the worrying trends in modern society is that people do **not get enough** regular **exercise.** Some policymakers propose that all towns and cities should allocate funds to build more outdoor areas, such as squares and parks. Although this proposal can seemingly mitigate public health **concerns,** it is **not necessarily financially viable or effective in every town or city.**",
+      "The argument in favour of this proposal is that it can encourage citizens to exercise. **Today’s** sedentary lifestyle and stressful working conditions **can** mean that physical activity is no longer **a regular** part of either our work or our leisure time; this problem is **exacerbated where** insufficient public outdoor activity space is provided. If the policy **of increasing park space** were to be adopted, the new outdoor public places would offer people **more** space to do some physical **activities (e.g.,** jogging and taking a walk), thus **helping to mitigate** the problem of declining public health. It seems sensible, therefore, to adopt this **proposal where such facilities are lacking.**",
+      "However, the effort to enable all towns and cities to build more public spaces **may be difficult** to **sustain,** as it presumes that all governments have extra money to implement this policy. Governments have to budget carefully to meet **demands** from every field, ranging from healthcare services and public transport to the state pension system, which means **they may have limited scope to increase** the amount of money allocated to public **facilities.** For some **less affluent** regions, large outdoor spaces require construction expenses and **ongoing** maintenance costs (e.g., waste management), which **may mean cuts to spending in** other fields.",
+      "Moreover, **it** is not **simply** the lack of outdoor activity space but **also a** heavy workload or study burden that **can discourage** people from exercising regularly. Therefore, the worrying situation **may continue if** people **still lack time** to go to parks or squares to take a walk. The **decline in** public health could be **addressed** by helping people realize the importance of exercising **regularly and** making **time for** it **in work and study schedules, prompting** people to make **full** use of existing outdoor activity space to exercise.",
+      "Although declining public health warrants attention, it is not **necessarily** financially viable for all cities and towns to build more outdoor activity spaces. This proposal **may** have little effect **where lack of time remains the main barrier,** and thus success **in** improving public health **also** rests on improved health awareness **and opportunities to exercise,** rather than extra facilities and **spaces alone.**"
+    ],
+    "corrections": [
+      {
+        "title": "运动与维护费搭配校正",
+        "original": "consistent maintenance costs",
+        "revised": "ongoing maintenance costs",
+        "explanation": "修正 do regular exercise insufficiently、acerbated、consistent maintenance costs 等不自然或误用的表达；仍保留长句中的让步、条件和结果关系。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "预算有限不等于政策必败",
+        "original": "",
+        "revised": "may have limited scope to increase",
+        "explanation": "把政策必败、现有设施预算已达最高额度改为部分地方可能缺乏增支空间，保留财政资源竞争这一论点，但不把所有城镇一概而论。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "空间与时间障碍可以并存",
+        "original": "",
+        "revised": "not simply the lack of outdoor activity space but also a heavy workload or study burden",
+        "explanation": "工作与学业负担和空间不足可以同时影响运动，因此保留原强调句并加入 not simply… but also…；后文补上安排运动时间，使建议回应前面的时间障碍。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "More Parks in Every Town?",
+    "topic": "建筑与城市",
+    "topicEn": "Buildings and Cities",
+    "type": "同意与不同意",
+    "position": "缺少设施的地区可增建，但所有城镇一律多建未必财政可行，也未必解决时间障碍。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜把可行性与效果分开",
+        "explanation": "运动不足引出增建公园的提议。作者分别检验是否有钱长期实施，以及是否真能让人运动，两项标准不能互相替代。",
+        "chain": [
+          "运动不足",
+          "提议所有地方增建",
+          "检验财政可行性",
+          "检验健康效果"
+        ]
+      },
+      {
+        "role": "主体一｜承认空间不足时的收益",
+        "explanation": "久坐与工作压力减少日常运动，缺场地进一步恶化问题。增加公园能提供散步和慢跑的场所，所以在设施不足地区有针对性。",
+        "chain": [
+          "久坐与压力",
+          "运动减少",
+          "空间不足加重限制",
+          "新增场地提供运动机会"
+        ]
+      },
+      {
+        "role": "主体二｜建造之外还有持续成本",
+        "explanation": "地方预算同时面对医疗、交通、养老金等需求。欠富裕地区不仅要支付建设费，还要持续维护和清洁，增建可能挤占其他领域。",
+        "chain": [
+          "多领域争夺预算",
+          "增支空间有限",
+          "建设加持续维护",
+          "可能削减其他服务"
+        ]
+      },
+      {
+        "role": "主体三｜时间障碍不能靠扩地解决",
+        "explanation": "场地不足和工作学习负担可以同时限制运动。若人没有时间，增加公园也未必改变行为；因此需要意识教育与日程内的运动时间。",
+        "chain": [
+          "工作学习负担重",
+          "缺少运动时间",
+          "新公园可能闲置",
+          "提高意识并安排运动时间"
+        ]
+      },
+      {
+        "role": "结尾｜按实际障碍选择措施",
+        "explanation": "公共健康值得重视，但所有地方增建既可能昂贵，又可能错过主要障碍。结尾要求意识和运动机会配合设施，保留条件判断。",
+        "chain": [
+          "公共健康需关注",
+          "一律增建可能难负担",
+          "时间障碍仍在",
+          "意识与机会共同改善"
+        ]
+      }
+    ],
+    "questions": [
+      "financially viable与effective分别检查什么？",
+      "公园的持续成本有哪些，影响什么？",
+      "针对工作学习挤占运动时间，应补什么措施？"
+    ],
+    "answers": [
+      "前者检查能否负担并持续实施；后者检查能否真正改善运动与健康。",
+      "维护与垃圾管理等成本会继续占用预算，可能挤压其他公共服务。",
+      "在工作学习日程中安排运动时间，并提高经常运动的意识。"
+    ],
+    "transfer": "迁移到数字图书馆：说明新增资源不能自动解决学生缺少阅读时间的问题，并给针对性措施。（迁移答案为自拟。）",
+    "transferAnswer": "A digital library can make books easier to obtain, but access alone may have limited effects when students lack time to read. Schools could protect a short reading period each day. This would address a different barrier from the availability of books.",
+    "collocations": [
+      {
+        "phrase": "financially viable",
+        "source": "熟悉（讲义）",
+        "usage": "检验能否负担实施：be financially viable；不同于effective。 跨题例句为自拟，不是讲义原句。",
+        "example": "A free meal programme may be financially viable if local suppliers offer stable prices."
+      },
+      {
+        "phrase": "sedentary lifestyle",
+        "source": "熟悉（讲义）",
+        "usage": "描述缺少活动的生活方式：a sedentary lifestyle；lifestyle可数。 跨题例句为自拟，不是讲义原句。",
+        "example": "Remote workers may develop a sedentary lifestyle unless they plan regular activity."
+      },
+      {
+        "phrase": "ongoing maintenance costs",
+        "source": "校正",
+        "usage": "揭示持续成本：ongoing + maintenance costs；costs复数列支出。 跨题例句为自拟，不是讲义原句。",
+        "example": "Digital learning platforms also involve ongoing maintenance costs."
+      },
+      {
+        "phrase": "discourage people from exercising regularly",
+        "source": "校正",
+        "usage": "解释行为障碍：discourage + sb + from + V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "High fares may discourage families from visiting museums regularly."
+      },
+      {
+        "phrase": "making time for",
+        "source": "校正",
+        "usage": "提出针对时间障碍的措施：make time for + N/V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "Students can protect their health by making time for exercise during examination periods."
+      },
+      {
+        "phrase": "warrants attention",
+        "source": "熟悉（讲义）",
+        "usage": "说明问题值得重视：问题N + warrant(s) attention，不接to。 跨题例句为自拟，不是讲义原句。",
+        "example": "The loss of local languages warrants attention because it can weaken cultural continuity."
+      }
+    ]
+  },
+  {
+    "id": "five-b3",
+    "code": "B3",
+    "title": "以公寓替换公园与花园",
+    "sourceGroup": "five",
+    "sourceHeading": "**B3．以公寓替换公园与花园｜445词**",
+    "declaredWords": 445,
+    "question": "Some people think that the best way to reduce the time spent in travelling to work is to replace parks and gardens close to the city center with apartment buildings for commuters, but others disagree. Discuss both views and give your own opinion.",
+    "essayParagraphs": [
+      "One of the worrying trends in modern society is that people spend too much time **commuting;** therefore, a fierce debate rages as to the best way to mitigate this problem. Some propose to replace parks and gardens in the city centre **with** apartment buildings. Although this proposal can seemingly mitigate the **problem, I do not regard** it **as** the **best solution, as it overlooks other major causes** of long commuting **times** and **sacrifices valuable green spaces.**",
+      "The argument in favour of this policy is that it can greatly reduce the time **spent** commuting. **Commuters** with a limited **budget may** choose a residential area on the periphery of the city, which means they have to get up early, catch the early bus or train, and arrive at their **workplaces** on time. **If** the proposal were to be adopted, more **apartments** would **become available** to those **commuters; provided these homes were affordable and close to their workplaces, this could allow** them to **spend less time travelling and** have more time to sleep and relax. It seems, therefore, sensible to build more residential buildings in the city centre.",
+      "However, such an attempt to replace **green** areas **may have limited effects,** as it **overlooks other important causes of long** commuting **times.** While **distance** certainly **plays a role,** people **may also** spend too much time commuting because of slow-moving traffic. As is often the case, commuters leave their **homes** quite early but still are stuck in heavy traffic.",
+      "To reduce commuting time, two improvements may have far-reaching effects, the first being **measures to improve traffic flow.** This **may require** more investment in road **infrastructure,** ranging from the construction of flyovers to the **removal** of **traffic** bottlenecks, which **can make** it less likely for traffic to build up. **Commuters who travel by road** can benefit from this. Moreover, the distance from the company to the home can be reduced by relocating some companies to the inner **suburbs, provided this brings them closer to where their employees live.** Replacing parks and gardens is unacceptable due to their importance to **citizens as places for recreation and exercise;** by contrast, it **may be** more viable for some companies or factories to relocate **where commercial rents are lower in** the suburbs than in city **centres** and **suitable** land is **available without sacrificing public green spaces.**",
+      "In conclusion, the proposal to **replace parks and gardens with** residential areas is **not the best solution,** in view of the **other causes of long commuting times and the value of public green spaces.** Other sensible **programmes,** such as improving road conditions and **relocating** companies, should be **considered where appropriate** to reduce the time spent **commuting without sacrificing those spaces.**"
+    ],
+    "corrections": [
+      {
+        "title": "新增住宅须可负担且靠近工作",
+        "original": "would be afforded to",
+        "revised": "provided these homes were affordable and close to their workplaces",
+        "explanation": "修正 spend time on commute 和 would be afforded to 等搭配；住房增加不自动等于通勤者买得起，因此补上住房可负担且靠近工作地点的条件。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "承认距离并回应最佳方案",
+        "original": "",
+        "revised": "overlooks other important causes of long commuting times",
+        "explanation": "反方改为该方案忽略拥堵等其他成因，不再否认距离对通勤时间的作用；道路改善的受益人也收窄为通过道路通勤的人。开头与结尾明确回应 best：改进交通或适当迁址可以针对其他原因，同时避免牺牲绿地。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "搬迁须接近员工住处",
+        "original": "",
+        "revised": "provided this brings them closer to where their employees live",
+        "explanation": "保留 the first being… 的合法独立主格，只把第一项改成改善交通的措施；企业搬迁补上接近员工住处的条件，租金和用地优势也改为有条件成立，删去无依据的土地价值比较。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Housing, Parks and Commuting",
+    "topic": "建筑与城市",
+    "topicEn": "Buildings and Cities",
+    "type": "双边讨论与个人观点；比较最佳方案",
+    "position": "不认为以公寓取代绿地是最佳方案；针对拥堵与职住距离采取措施并保留绿地。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜回应最佳而非仅有效",
+        "explanation": "承认住房可能缓解通勤，但作者反对它是最佳，因为它忽略其他主要成因并牺牲绿地。后文需要比较替代措施能解决什么。",
+        "chain": [
+          "通勤耗时",
+          "以公寓替代绿地",
+          "其他成因未解决",
+          "不认定为最佳"
+        ]
+      },
+      {
+        "role": "主体一｜住房缩短通勤的条件",
+        "explanation": "预算有限的职工住在外围导致路程长。新增中心公寓只有同时可负担且靠近工作地点，才可能让这群人搬近并省下时间。",
+        "chain": [
+          "预算有限住外围",
+          "通勤距离长",
+          "新增住房可负担且近工作",
+          "节省通勤与增加休息"
+        ]
+      },
+      {
+        "role": "主体二｜承认距离并补入拥堵",
+        "explanation": "这一段不否认距离重要，而是指出慢速交通也会耗时。只建住宅可能留下拥堵问题，因此效果有局限。",
+        "chain": [
+          "距离影响耗时",
+          "慢速交通也影响耗时",
+          "早出门仍可能堵车",
+          "住房单项措施有限"
+        ]
+      },
+      {
+        "role": "方案比较｜针对原因并避免绿地损失",
+        "explanation": "改善瓶颈服务道路通勤者；企业迁址只有更接近员工住处才缩短距离。适宜土地与较低租金使迁址可能可行，绿地的运动休闲价值则得以保留。",
+        "chain": [
+          "改善交通流与适当迁址",
+          "减少拥堵或职住距离",
+          "考虑租金与可用土地",
+          "保留休闲运动绿地"
+        ]
+      },
+      {
+        "role": "结尾｜按条件选择替代措施",
+        "explanation": "用其他通勤成因和绿地价值再次回答best。考虑道路改善及适当企业迁址，既针对问题也减少替代公园的损失。",
+        "chain": [
+          "其他成因仍存在",
+          "绿地有价值",
+          "考虑交通与迁址",
+          "减通勤且保绿地"
+        ]
+      }
+    ],
+    "questions": [
+      "中心新增住宅要满足哪两个条件才帮助目标通勤者？",
+      "指出拥堵存在能否证明距离无关？",
+      "企业搬到郊区何时才缩短通勤？"
+    ],
+    "answers": [
+      "他们负担得起，且住宅靠近他们的工作地点。",
+      "不能；距离有作用，但住房方案忽略拥堵等其他重要成因。",
+      "搬迁使企业更接近员工居住地，且选址具备适合土地等条件。"
+    ],
+    "transfer": "迁移到教育：讨论延长上课时间是否最佳，给出另一原因与更针对性的替代措施。（迁移答案为自拟。）",
+    "transferAnswer": "Longer lessons may provide more practice, but they are not necessarily the best way to improve learning. When students misunderstand basic concepts, additional repetition may have limited effects. Targeted feedback can address those gaps without sacrificing all their free time.",
+    "collocations": [
+      {
+        "phrase": "on the periphery of the city",
+        "source": "熟悉（讲义）",
+        "usage": "定位外围地区：on the periphery of + 地方。 跨题例句为自拟，不是讲义原句。",
+        "example": "Wildlife on the periphery of the city may lose habitat when new roads are built."
+      },
+      {
+        "phrase": "spend less time travelling",
+        "source": "校正",
+        "usage": "说明时间收益：spend + 时间 + V-ing，不写on + 动词原形。 跨题例句为自拟，不是讲义原句。",
+        "example": "Online appointments allow patients to spend less time travelling to routine consultations."
+      },
+      {
+        "phrase": "may have limited effects",
+        "source": "校正",
+        "usage": "限制效果判断：措施 + may have limited effects；不等于完全无效。 跨题例句为自拟，不是讲义原句。",
+        "example": "Lower tuition fees may have limited effects if students still cannot afford accommodation."
+      },
+      {
+        "phrase": "have far-reaching effects",
+        "source": "熟悉（讲义）",
+        "usage": "写广泛长远影响：政策N + have far-reaching effects；需具体解释影响。 跨题例句为自拟，不是讲义原句。",
+        "example": "Changes to teacher training can have far-reaching effects on classroom practice."
+      },
+      {
+        "phrase": "the first being",
+        "source": "熟悉（讲义）",
+        "usage": "列出多项之一：主句提到复数项目，the first being + N，独立主格。 跨题例句为自拟，不是讲义原句。",
+        "example": "Two barriers prevent enrolment, the first being the cost of transport."
+      },
+      {
+        "phrase": "without sacrificing public green spaces",
+        "source": "校正",
+        "usage": "比较避免损失：without + V-ing + 宾语。 跨题例句为自拟，不是讲义原句。",
+        "example": "Digital services can improve access without sacrificing opportunities for face-to-face support."
+      }
+    ]
+  },
+  {
+    "id": "five-b4",
+    "code": "B4",
+    "title": "新城镇是否应多建公园和体育设施、少建商场？",
+    "sourceGroup": "five",
+    "sourceHeading": "**B4．新城镇是否应多建公园和体育设施、少建商场？｜374词**",
+    "declaredWords": 374,
+    "question": "When new towns are planned, it is important to build more public parks or sports facilities than shopping centres, so people can places to spend their free time. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "**Urban** planning has grown significantly in social importance. With the contribution made by public parks and sports facilities comes the belief that it is essential to construct more of them than shopping **centres** if new towns are planned. Even though the importance of parks and sports **facilities is beyond doubt,** it does not necessarily mean **higher** priority should be accorded to **them than to shopping centres.**",
+      "The primary justification for insisting on more parks and sports facilities resides in the belief that the existence of public parks **can help** people remain healthy, physically and mentally. The heavy demands of modern life have long been **contributing** to a sedentary lifestyle, and people **often** find it hard to exercise outside, thus giving rise to physical health problems. If this proposal were to be adopted, **low-cost** sports facilities **would become** more available and accessible to local residents, especially those who are unable to afford a gym membership, **encouraging them to** be more actively engaged in physical exercise, ranging from going jogging to taking a brisk **walk.** Moreover, parks are ideal places for the members of a community to assemble, socialize and interact, which **could** not only build a sense of community but also contribute to their mental well-being. It seems, **therefore,** sensible to build more parks and sports facilities.",
+      "However, reaching such a conclusion does not necessarily mean that more public parks or sports facilities should be built than shopping centres. **Shopping** malls **can be** multifunctional **complexes,** making them not only shopping destinations but also places in which people can satisfy **their** needs **for socialising, recreation, exercise** and relaxation, among other things. Moreover, **people may** prefer **such** retail **centres** as they provide a wide range of basic necessities and fashion brands, the opportunity to shop in one place to save time, and **convenient** parking **facilities; their indoor areas can also provide shelter from bad weather,** be it in summer or winter.",
+      "In conclusion, in view of the advantages of parks and sports facilities and the essential role played by shopping malls, it is more reasonable and realistic to build them in accordance with the **needs** of the newly planned town, rather than **assuming that** the number of parks **and sports facilities must exceed** that of shopping centres."
+    ],
+    "corrections": [
+      {
+        "title": "保留正式结构并补费用门槛",
+        "original": "",
+        "revised": "low-cost sports facilities",
+        "explanation": "保留 With… comes… 倒装、resides in the belief that… 和让步长句；修整体育设施条件句，并用 low-cost 补明不能承担健身会员费用的人为何也能使用这些设施。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "运动含义与并列句修整",
+        "original": "taking a brisk stroll",
+        "revised": "taking a brisk walk",
+        "explanation": "将 taking a brisk stroll 调整为 taking a brisk walk，使运动含义更清楚；简化含义模糊的 premises、organized retail stores 等搭配，并修正逗号连接两个完整句的问题。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "天气优势与数量要求不夸大",
+        "original": "",
+        "revised": "their indoor areas can also provide shelter from bad weather",
+        "explanation": "把完全不受极端天气影响改为室内区域能提供遮蔽；结论继续主张按需求建设，但不再把题目夸大成不现实的配额制度。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "Parks or Shopping Centres?",
+    "topic": "建筑与城市",
+    "topicEn": "Buildings and Cities",
+    "type": "同意与不同意",
+    "position": "公园和商场都有作用，应依据新城需求规划，不预设公园设施数量必须更多。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜价值不直接决定数量优先",
+        "explanation": "公园重要是双方可以接受的起点，作者反对从重要性直接推出它们应比商场优先且更多。论证聚焦具体比较要求。",
+        "chain": [
+          "公园体育设施重要",
+          "提出数量优先",
+          "重要性不足以证明优先",
+          "继续比较商场作用"
+        ]
+      },
+      {
+        "role": "主体一｜降低门槛并形成社区联系",
+        "explanation": "低成本设施使付不起健身会员的人也有运动机会；公园聚会又让居民交流。分别说明身体活动和心理归属两条收益。",
+        "chain": [
+          "低成本设施可达可用",
+          "居民更易运动",
+          "公园促进交流",
+          "健康与社区归属"
+        ]
+      },
+      {
+        "role": "主体二｜商场也承担多种需求",
+        "explanation": "商场可同时购物、社交、娱乐、运动，集中采购省时且停车便利。室内空间遮蔽天气，使其成为另一类休闲选择，而非只有消费功能。",
+        "chain": [
+          "商场多功能",
+          "购物社交休闲集中",
+          "节省时间与便利停车",
+          "室内遮蔽天气"
+        ]
+      },
+      {
+        "role": "结尾｜以需求代替固定比较",
+        "explanation": "把公园优势与商场作用同时纳入规划，按新城具体需要决定建设。没有把题目夸大为强制配额，只拒绝预设数量关系。",
+        "chain": [
+          "公园有健康收益",
+          "商场满足多种需求",
+          "调查新城需要",
+          "按需求决定数量"
+        ]
+      }
+    ],
+    "questions": [
+      "公园重要为什么不能直接推出必须比商场更多？",
+      "低成本为何是体育设施段的关键条件？",
+      "商场对天气的优势该怎样限定？"
+    ],
+    "answers": [
+      "商场同样满足购物与休闲等需求，数量应根据具体地方需求比较。",
+      "它解释负担不起健身会员的居民为什么也能实际使用设施。",
+      "室内区域能提供遮蔽，不表示完全不受任何极端天气影响。"
+    ],
+    "transfer": "迁移到学校课程：用两三句解释体育和艺术都重要，但课时比例应依据学生需要决定。（迁移答案为自拟。）",
+    "transferAnswer": "Sports can improve physical fitness, while arts classes provide opportunities for self-expression. These benefits do not establish a fixed ratio between the two. Schools should allocate lesson time in accordance with students’ needs and the opportunities already available to them.",
+    "collocations": [
+      {
+        "phrase": "resides in the belief that",
+        "source": "熟悉（讲义）",
+        "usage": "引出论证前提：justification + resides in the belief that + 完整从句。 跨题例句为自拟，不是讲义原句。",
+        "example": "The case for later school starts resides in the belief that rested students learn more effectively."
+      },
+      {
+        "phrase": "giving rise to physical health problems",
+        "source": "熟悉（讲义）",
+        "usage": "说明不良后果：give rise to + N；to为介词。 跨题例句为自拟，不是讲义原句。",
+        "example": "Unreliable transport can give rise to difficulties for workers on early shifts."
+      },
+      {
+        "phrase": "available and accessible to",
+        "source": "熟悉（讲义）",
+        "usage": "区分存在与真正可用：become/be available and accessible to + 人群。 跨题例句为自拟，不是讲义原句。",
+        "example": "Learning materials should be available and accessible to students with visual impairments."
+      },
+      {
+        "phrase": "build a sense of community",
+        "source": "熟悉（讲义）",
+        "usage": "说明互动的社会收益：build a sense of + N。 跨题例句为自拟，不是讲义原句。",
+        "example": "Shared gardening projects can build a sense of community among residents."
+      },
+      {
+        "phrase": "provide shelter from bad weather",
+        "source": "校正",
+        "usage": "说明具体保护作用：provide shelter from + 风险/天气。 跨题例句为自拟，不是讲义原句。",
+        "example": "Covered bus stops provide shelter from bad weather for elderly passengers."
+      },
+      {
+        "phrase": "in accordance with the needs",
+        "source": "熟悉（讲义）",
+        "usage": "以需求为规划依据：in accordance with + N；正文needs补足指代。 跨题例句为自拟，不是讲义原句。",
+        "example": "Training should be provided in accordance with the needs of each department."
+      }
+    ]
+  },
+  {
+    "id": "five-t1",
+    "code": "T1",
+    "title": "是否应鼓励儿童在家和学校经常看电视？",
+    "sourceGroup": "five",
+    "sourceHeading": "**T1．是否应鼓励儿童在家和学校经常看电视？｜447词**",
+    "declaredWords": 447,
+    "question": "Children can learn effectively from watching television. Therefore children should be encouraged to watch television regularly both at home and at school. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "Television has grown significantly in educational importance; therefore, with such benefits comes a proposal that watching television should be a **regular** part of children’s lives, be it at home or school. Despite the tangible benefits, watching TV regularly at school **can be counterproductive if it replaces teacher-led instruction,** while it can be allowed at home with proper supervision.",
+      "The argument in favour of TV-watching activities at home and school is that **they** can **maximise** the educational benefits that accrue to children. TV **programmes,** ranging from **documentaries about the natural world** to **cartoons** made **for children** such as Mickey Mouse, can help students gain a better understanding of the world. Attracted by the visual images and **conversations** between characters, students can **learn about** the diversity of **ecosystems and** the environmental problems humans are facing, **while also acquiring** useful daily **expressions.** If this proposal were to be adopted, their **opportunities to learn from such programmes could** increase, **provided that suitable content were selected.** It seems, therefore, sensible to make such a change.",
+      "However, such attempts to encourage students to watch TV at school **can be counterproductive if they displace teacher-led instruction.** TV **programmes,** albeit contributing to the acquisition of knowledge, **may** fail to help students acquire knowledge **systematically without guidance.** For example, students may be amazed at how plants manage to attract insects to **pollinate** them when they are watching **documentaries,** but it is teachers who can impart the knowledge gradually, effectively, and systematically, including what **pollination** is and why plants **need pollination.** In view of this, school time that should be used to listen to, discuss **ideas** with and learn from teachers should **not routinely** be **replaced** by such seemingly educationally beneficial screen time.",
+      "Nonetheless, after school, students can be allowed to watch TV **programmes** regularly, with limitations on what kind of **programmes** they watch and how long they can watch. When children are free to watch **TV without supervision,** problems **may** arise - they may **spend too much time on** entertaining **programmes** just for fun. In addition, too much screen time **may cause eye strain** and make children prone to **lead** a sedentary **lifestyle when it replaces outdoor activity,** possible negative **effects** that can be mitigated by taking screen breaks regularly and **limiting** the number of hours children can watch. Those potential problems necessitate **parental guidance to** help children seek a compromise between the recreational side and the educational side.",
+      "In conclusion, although the educational importance of **TV is clear,** encouraging students to watch it regularly **at school** is **unnecessary if this displaces teacher-led instruction. Children** can **still** be allowed to do it regularly at **home, but** this requires guidance from parents to help children act with moderation."
+    ],
+    "corrections": [
+      {
+        "title": "纪录片与嵌入问句",
+        "original": "what is pollination",
+        "revised": "what pollination is",
+        "explanation": "documents 指“文件”，这里应是 documentaries；原稿的节目与出品方表述容易混淆，因此保留自然纪录片这一类别。what is pollination 是直接问句，嵌入 including 后改为 what pollination is。仍保留 With … comes、albeit 和正式长句。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "学习机会增加与替代教学分开",
+        "original": "",
+        "revised": "provided that suitable content were selected",
+        "explanation": "将“看得越多就学得越好”限定为选择合适内容后增加学习机会；学校段补上“挤占教师教学”的条件，保留家庭与学校分场景讨论。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "健康风险与结论条件化",
+        "original": "",
+        "revised": "may cause eye strain",
+        "explanation": "减弱健康和教学效果的绝对判断；结尾删除未经定义的“维持现状”，使有指导的家庭观看与学校段立场一致。prone to do 本身合法，此处只优化 lead a sedentary lifestyle 的搭配。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Television at Home and School",
+    "topic": "电视与教育",
+    "topicEn": "Television and Education",
+    "type": "同意与不同意；分场景评价",
+    "position": "合适内容有教育价值；学校不应挤占教师教学，家庭可在内容和时长指导下观看。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜家庭与学校分开判断",
+        "explanation": "电视教育价值引出定期观看建议，作者把学校挤占教学与家庭受监督观看分开。counterproductive带有反效果，必须与替代教师授课的条件连用。",
+        "chain": [
+          "电视有教育价值",
+          "提议定期观看",
+          "学校或挤占教学",
+          "家庭可受指导观看"
+        ]
+      },
+      {
+        "role": "主体一｜内容选择决定学习机会",
+        "explanation": "纪录片帮助理解生态和环境，儿童节目提供日常表达。增加观看只是在适合内容已选好的前提下增加学习机会，不能直接推出学习成效必然更好。",
+        "chain": [
+          "选合适纪录片与儿童节目",
+          "视觉对话吸引注意",
+          "了解世界并学表达",
+          "学习机会可能增加"
+        ]
+      },
+      {
+        "role": "主体二｜碎片观看与系统教学对比",
+        "explanation": "看到授粉现象会感到惊奇，但教师能按顺序解释概念及原因。学校时间若被观看替代，就可能损失系统知识和互动讨论。",
+        "chain": [
+          "节目呈现授粉现象",
+          "学生惊奇但理解未必系统",
+          "教师分步解释概念",
+          "避免屏幕挤占教学"
+        ]
+      },
+      {
+        "role": "主体三｜家庭观看的风险与配套",
+        "explanation": "无人监督容易让娱乐占用过多时间，持续屏幕还可能挤掉户外活动。家长限定内容时长、安排休息，让教育与娱乐取得平衡。",
+        "chain": [
+          "缺少监督",
+          "过多娱乐屏幕",
+          "眼疲劳与户外时间减少",
+          "家长指导及限时休息"
+        ]
+      },
+      {
+        "role": "结尾｜重申使用条件",
+        "explanation": "定期看电视的教育意义不能成为替代教师授课的理由；家庭观看仍可允许，条件是父母帮助控制内容和程度。",
+        "chain": [
+          "认可电视教育",
+          "学校避免替代教学",
+          "家庭保留观看",
+          "父母帮助适度使用"
+        ]
+      }
+    ],
+    "questions": [
+      "授粉例子要证明什么区别？",
+      "什么条件下学校观看可能counterproductive？",
+      "家庭观看需要哪三类安排？"
+    ],
+    "answers": [
+      "节目展示现象，教师能逐步解释授粉的概念和必要性，实现系统学习。",
+      "它挤占或替代教师主导的教学，而非所有课堂视频都一定有害。",
+      "选择合适内容、限制时长、定期屏幕休息并保留户外活动。"
+    ],
+    "transfer": "迁移到课堂AI：先认可其资源优势，再限定不能取代教师系统指导，写两三句。（迁移答案为自拟。）",
+    "transferAnswer": "AI tools can give students quick access to examples, provided that the material is accurate. However, replacing teacher-led instruction with unguided use may leave gaps in understanding. Teachers should connect selected outputs to clear learning objectives and check how students interpret them.",
+    "collocations": [
+      {
+        "phrase": "gain a better understanding of the world",
+        "source": "熟悉（讲义）",
+        "usage": "说明认知收益：gain a better understanding of + N。 跨题例句为自拟，不是讲义原句。",
+        "example": "Field trips can help children gain a better understanding of local agriculture."
+      },
+      {
+        "phrase": "acquire knowledge systematically",
+        "source": "熟悉（讲义）",
+        "usage": "说明系统学习：acquire + knowledge + systematically；knowledge不可数。 跨题例句为自拟，不是讲义原句。",
+        "example": "A structured apprenticeship helps trainees acquire knowledge systematically."
+      },
+      {
+        "phrase": "impart the knowledge gradually, effectively, and systematically",
+        "source": "熟悉（讲义）",
+        "usage": "说明教师传授方式：impart knowledge to + sb；三副词结构并列。 跨题例句为自拟，不是讲义原句。",
+        "example": "Mentors can impart practical knowledge gradually and systematically to new employees."
+      },
+      {
+        "phrase": "lead a sedentary lifestyle",
+        "source": "校正",
+        "usage": "说明行为风险：lead + a/an + 形容词 + lifestyle。 跨题例句为自拟，不是讲义原句。",
+        "example": "Long hours of online work may encourage adults to lead a sedentary lifestyle."
+      },
+      {
+        "phrase": "seek a compromise between",
+        "source": "熟悉（讲义）",
+        "usage": "提出平衡：seek a compromise between + A + and + B；两项形式平行。 跨题例句为自拟，不是讲义原句。",
+        "example": "Cities must seek a compromise between visitor access and habitat protection."
+      },
+      {
+        "phrase": "act with moderation",
+        "source": "熟悉（讲义）",
+        "usage": "限制行为程度：act with moderation；with + 抽象名词。 跨题例句为自拟，不是讲义原句。",
+        "example": "Consumers can enjoy convenience foods while acting with moderation."
+      }
+    ]
+  },
+  {
+    "id": "five-t2",
+    "code": "T2",
+    "title": "独自观看节目是否利大于弊？",
+    "sourceGroup": "five",
+    "sourceHeading": "**T2．独自观看节目是否利大于弊？｜349词**",
+    "declaredWords": 349,
+    "question": "People these days watch TV, films and other programmes alone rather than with other people. Do the advantages of this development outweigh the disadvantages?",
+    "essayParagraphs": [
+      "One of the growing trends in modern society is that people increasingly prefer to watch television shows or other programmes alone. Thus, a fierce debate rages over its overall effect. Despite the **potential for** emotional isolation, **this trend,** on **balance, can produce** a positive outcome **when other social activities are maintained** in the form of respect for individual **preferences** and **greater** flexibility in the **viewing** process.",
+      "One of the tangible benefits of watching shows alone is that it liberates viewers from **having to compromise** with others regarding what shows they can watch and how they **watch them.** When people sit at home, ready to watch movies with **others,** problems **may** arise. **If** they want to watch a suspense movie and their significant other wants **a** romantic **movie, one of** them **may** end up watching **a** less preferable **film.** At the same time, when they watch alone, they can pause, switch to another **programme,** re-watch shows, and **switch** between a variety of portable devices. **These** decisions **do** not require negotiation with others and can be made depending on their mood and preferences.",
+      "However, such individual activities **can reduce opportunities for** social contact and communication. Traditionally, people spend time watching films with friends or family members, and in doing so, they discuss **them,** joke about **them,** and have later **conversations** about **them.** Currently, problems **may** arise when people are watching shows alone because they **have fewer** opportunities to forge and strengthen bonds with others. Nonetheless, **the scale of** such problems **may be exaggerated when people maintain other shared activities.** It is the conversation and interaction that matter most, and although people **do not** communicate **with others** while watching television **programmes alone,** they are still able to share their ideas and interact with others when they are having dinner together, **taking** a walk or going shopping.",
+      "In conclusion, although **viewers have fewer opportunities for** interaction **while watching alone,** interpersonal communication that occurs in daily life **can** suffice to meet **their** social **needs when they maintain other shared activities. On balance, the** convenience and **flexibility of watching alone can therefore outweigh this disadvantage.**"
+    ],
+    "corrections": [
+      {
+        "title": "代词与散步搭配修正",
+        "original": "talking for a walk",
+        "revised": "taking a walk",
+        "explanation": "修正 If、them 作主语、talking for a walk 等明确错误，并让 films 与后续代词保持一致；同时修正 social contact 和 social needs 的搭配。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "偏好冲突中一方可能妥协",
+        "original": "",
+        "revised": "one of them may end up watching a less preferable film",
+        "explanation": "保留自由选择、暂停、重看及切换设备的例证，将“协商后看不喜欢的电影”明确为其中一方可能妥协，避免泛指所有观众。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "日常社交补偿需要条件",
+        "original": "",
+        "revised": "when they maintain other shared activities",
+        "explanation": "给“日常交流足以弥补独看损失”补上维持其他共同活动的条件，明确结尾 It 的所指，并直接回应利是否大于弊。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Watching Programmes Alone",
+    "topic": "电视与教育",
+    "topicEn": "Television and Education",
+    "type": "利弊权衡",
+    "position": "保持其他共同活动时，独看带来的选择自由和便利可以超过减少共同观影的损失。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜给权衡判断加条件",
+        "explanation": "独看可能带来情感隔离，但保留其他社交活动时可总体积极。条件提前出现，为后文如何弥补交流损失做准备。",
+        "chain": [
+          "独自观看增加",
+          "可能情感孤立",
+          "保留其他社交活动",
+          "便利自由总体可更大"
+        ]
+      },
+      {
+        "role": "主体一｜具体决策展示自主收益",
+        "explanation": "悬疑片与爱情片的偏好冲突会让其中一人妥协；独看可自主暂停、换节目、重看与切换设备，不必协商。便利通过一组具体行为落地。",
+        "chain": [
+          "多人偏好不同",
+          "一方可能妥协",
+          "独看自主控制节目与节奏",
+          "减少协商并尊重偏好"
+        ]
+      },
+      {
+        "role": "主体二｜替代渠道缓解交流损失",
+        "explanation": "共同观影中的讨论和玩笑有助关系，独看减少这个渠道。但真正重要的是互动，若人们继续共餐、散步、购物，社交需要仍可满足。",
+        "chain": [
+          "独看减少共看片段交流",
+          "关系维系机会变少",
+          "保留共餐散步等活动",
+          "其他互动补足需要"
+        ]
+      },
+      {
+        "role": "结尾｜依据可替代程度权衡",
+        "explanation": "不否认独看期间交流较少，而是依据日常互动能补充这个缺点来判断。保留其他共同活动的条件使便利与灵活性可超过损失。",
+        "chain": [
+          "承认独看交流少",
+          "日常共同活动补足",
+          "社交需要可满足",
+          "便利与灵活性可胜出"
+        ]
+      }
+    ],
+    "questions": [
+      "独看自由具体体现在哪些操作？",
+      "缺点可缓解依赖什么条件？",
+      "本文按什么依据比较利弊？"
+    ],
+    "answers": [
+      "自主选片、暂停、切换节目、重看及换设备，不必和别人协商。",
+      "观众继续保持共餐、散步、购物等其他共同活动和互动。",
+      "共同观影损失的互动渠道可以被其他活动替代，同时保留独看便利。"
+    ],
+    "transfer": "迁移到远程办公：比较自主安排与同事联系减少，用具体配套措施限定你的利弊判断。（迁移答案为自拟。）",
+    "transferAnswer": "Remote work gives employees greater control over their schedules, but it can reduce informal contact with colleagues. This drawback may be mitigated by regular team discussions and occasional shared activities. Where such interaction is maintained, flexibility can outweigh the loss of daily office contact.",
+    "collocations": [
+      {
+        "phrase": "having to compromise",
+        "source": "校正",
+        "usage": "表达不得不妥协：have to + V；compromise with sb on/over + N。 跨题例句为自拟，不是讲义原句。",
+        "example": "Shared housing can involve having to compromise with others over quiet hours."
+      },
+      {
+        "phrase": "depending on their mood and preferences",
+        "source": "熟悉（讲义）",
+        "usage": "说明选择依据：depending on + N；介词on不可省。 跨题例句为自拟，不是讲义原句。",
+        "example": "Learners can select an optional module depending on their interests and career plans."
+      },
+      {
+        "phrase": "social contact and communication",
+        "source": "校正",
+        "usage": "说明互动渠道：social contact通常不可数，communication表交流不可数。 跨题例句为自拟，不是讲义原句。",
+        "example": "Community centres provide opportunities for social contact and communication."
+      },
+      {
+        "phrase": "forge and strengthen bonds with others",
+        "source": "熟悉（讲义）",
+        "usage": "说明关系形成与加深：forge/strengthen bonds with + 人。 跨题例句为自拟，不是讲义原句。",
+        "example": "Team projects can help students forge and strengthen bonds with others."
+      },
+      {
+        "phrase": "meet their social needs",
+        "source": "校正",
+        "usage": "说明满足社交需求：meet + 所有格 + needs。 跨题例句为自拟，不是讲义原句。",
+        "example": "Older residents may meet their social needs through regular community activities."
+      },
+      {
+        "phrase": "outweigh this disadvantage",
+        "source": "熟悉（讲义）",
+        "usage": "回应权衡：benefits + outweigh + drawbacks，不加than。 跨题例句为自拟，不是讲义原句。",
+        "example": "The flexibility of online study may outweigh this disadvantage when reliable support is available."
+      }
+    ]
+  },
+  {
+    "id": "five-t3",
+    "code": "T3",
+    "title": "电视对儿童有害，还是有助学习？",
+    "sourceGroup": "five",
+    "sourceHeading": "**T3．电视对儿童有害，还是有助学习？｜464词**",
+    "declaredWords": 464,
+    "question": "Some people think watching television is bad for children in every way. Others think it is good for children to get knowledge. Discuss both views and give your opinion.",
+    "essayParagraphs": [
+      "Opinions differ as to the **effects** of **television on children. Some** anti-television activists claim that watching television is detrimental to children in every aspect; however, others such as educationalists argue that it acts as **a** catalyst for children to acquire knowledge. Both views **merit consideration, although I believe that moderation and adult guidance** are **essential.**",
+      "The argument against television is that it **can give** rise to problems, be they physical or behavioural. **One concern** is **that staring** at television for long **periods may cause eye strain, particularly when** they **do not take** regular **breaks. Such prolonged viewing may** also **deprive** them of outdoor activity **time, especially when it becomes a daily habit.** Apart from these physical **concerns, violent television content,** despite television content rating systems, **may** also **predispose some** children to aggressive behaviour. **Children may** see fantasy violence **in works ranging** from Harry Potter to Tom and Jerry. **Difficulty distinguishing** between fantasy and reality **may predispose** them to emulating television violence in real life.",
+      "Others, however, highlight the educational benefits that accrue to children. **When children are young,** parents **often** encourage **them** to watch TV, hoping that **language** learning can be facilitated when children imitate the words and sentences spoken by their favourite characters. A **good** example can be found in **parents** who aim to **help their** children **become** bilingual by **using English-language cartoons as one part of their language learning.** In addition, children **can** also **gain** a better understanding of the world around them by watching television **programmes,** especially **programmes aimed at children** that are designed to **help them** acquire knowledge step by step. This audio-visual integration **can be effective, allowing** teachers at primary or secondary schools to **use selected clips** as a means of imparting knowledge.",
+      "I think the **scale of the** problems that **can** ensue from watching television **is sometimes** exaggerated. It is **prolonged viewing without** screen **breaks, rather than** television per **se,** that **is** problematic; thus, these **physical risks** can be mitigated by parents’ proper **guidance,** such as encouraging children to participate in outdoor activity every day and limiting their TV time. As for exposure to aggressive behaviour and the **possibility of** imitation, **discussions of any violence encountered in age-appropriate programmes** can be regarded **as** a vehicle **for helping** children **distinguish fiction from reality** and **become** aware of the possible **consequences of** such **behaviour, while clearly unsuitable content should be avoided.**",
+      "In conclusion, when children watch **suitable television programmes,** their language ability **can be** developed and they **can** acquire knowledge by doing so; however, they may suffer from physical and behavioural **problems if their viewing is unrestricted.** It is, therefore, my opinion that moderation is the **key and** that parents and teachers should **focus on teaching** children to **benefit from** television rather than **allowing unlimited viewing without attention to content.**"
+    ],
+    "corrections": [
+      {
+        "title": "冠词及视为结构修正",
+        "original": "",
+        "revised": "acts as a catalyst for",
+        "explanation": "修正句首大小写、a catalyst、English-language cartoons、regarded as 及培养双语能力的搭配；保留双方讨论与个人评价的五段结构。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "健康与行为影响避免绝对化",
+        "original": "",
+        "revised": "may cause eye strain",
+        "explanation": "撤去未经材料支持的近视增长及主要病因断言，改为长时间观看的潜在风险；用 may、some 和观看条件限制行为与教育效果的泛化。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "成人讨论提供模仿风险干预机制",
+        "original": "",
+        "revised": "distinguish fiction from reality",
+        "explanation": "把问题归于观看方式而非儿童本身；原稿把“看到暴力”直接推到“不会模仿”，中间缺少机制。改为成人引导讨论、区分虚构与现实、理解行为后果，同时避开明显不适合的内容，保留原来的长句因果推进。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Children and Television",
+    "topic": "电视与教育",
+    "topicEn": "Television and Education",
+    "type": "双边讨论与个人观点",
+    "position": "合适节目可帮助语言与知识学习；适度观看和成人引导可以控制风险。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜双方极端观点与作者条件",
+        "explanation": "一方认为电视全面有害，另一方重视知识获取。作者认可双方值得考虑，但答案落在适度与指导，不照搬任何绝对判断。",
+        "chain": [
+          "全面有害观点",
+          "知识收益观点",
+          "双方均有可讨论理由",
+          "作者主张适度及成人指导"
+        ]
+      },
+      {
+        "role": "主体一｜条件化说明身体与行为风险",
+        "explanation": "长时间不休息可能眼疲劳并挤掉户外活动；部分儿童难辨虚构现实，可能模仿暴力。may、some避免把潜在机制写成普遍确定事实。",
+        "chain": [
+          "长时观看缺休息",
+          "眼疲劳与户外时间减少",
+          "虚实辨别困难",
+          "部分儿童可能模仿暴力"
+        ]
+      },
+      {
+        "role": "主体二｜视听材料如何帮助学习",
+        "explanation": "模仿角色语言可辅助语言学习，分步骤儿童节目帮助理解世界。英语动画只是语言学习的一部分，教师精选片段仍需要教学整合。",
+        "chain": [
+          "角色语言吸引模仿",
+          "辅助语言学习",
+          "分步视听呈现",
+          "精选片段支持知识教学"
+        ]
+      },
+      {
+        "role": "个人判断｜把风险连接到具体干预",
+        "explanation": "问题主要落在持续无休息的方式；限制电视并增加户外活动回应身体风险。成人讨论年龄适合节目中的暴力，帮助区分虚构及理解后果，同时避开明显不适内容。",
+        "chain": [
+          "识别过度观看方式",
+          "限时休息与户外活动",
+          "讨论虚实和行为后果",
+          "避开不适内容降低风险"
+        ]
+      },
+      {
+        "role": "结尾｜把收益与风险放入同一条件框架",
+        "explanation": "适合的节目可支持语言与知识，不受限制的观看才扩大风险。父母和教师帮助儿童正确使用，比放任不限时不限内容更符合前文。",
+        "chain": [
+          "合适节目带来学习",
+          "无限观看放大问题",
+          "父母教师引导",
+          "适度获取收益"
+        ]
+      }
+    ],
+    "questions": [
+      "为什么不能把电视本身等同于身体伤害？",
+      "动画为何不能单独保证双语能力？",
+      "行为风险段的具体干预有哪些？"
+    ],
+    "answers": [
+      "风险与长时间观看、缺少休息及替代户外活动等使用条件有关。",
+      "它只是语言学习的一部分，可提供模仿机会，仍需其他学习与指导。",
+      "讨论年龄适合节目中的暴力，区分虚构现实，理解行为后果，并避开明显不适内容。"
+    ],
+    "transfer": "迁移到电子游戏：把使用方式与媒介本身分开，写出两个具体干预来保留收益。（迁移答案为自拟。）",
+    "transferAnswer": "Games can provide opportunities for problem-solving, while prolonged play may displace exercise or sleep. Parents could agree on time limits and discuss age-appropriate content with children. These measures target risky patterns of use while preserving some benefits of the medium.",
+    "collocations": [
+      {
+        "phrase": "detrimental to children",
+        "source": "熟悉（讲义）",
+        "usage": "表达不利影响：be detrimental to + N；to为介词。 跨题例句为自拟，不是讲义原句。",
+        "example": "Unpredictable schedules can be detrimental to family life."
+      },
+      {
+        "phrase": "acts as a catalyst for",
+        "source": "校正",
+        "usage": "说明促进作用：act as a catalyst for + N/V-ing；a不可漏。 跨题例句为自拟，不是讲义原句。",
+        "example": "Affordable childcare can act as a catalyst for greater workforce participation."
+      },
+      {
+        "phrase": "predispose some children to aggressive behaviour",
+        "source": "熟悉（讲义）",
+        "usage": "表达倾向而非必然：predispose + sb + to + N/V-ing；some和may限制人群强度。 跨题例句为自拟，不是讲义原句。",
+        "example": "Repeated setbacks may predispose some learners to avoiding difficult tasks."
+      },
+      {
+        "phrase": "as a means of imparting knowledge",
+        "source": "熟悉（讲义）",
+        "usage": "表达教学工具：as a means of + V-ing；means单复数同形。 跨题例句为自拟，不是讲义原句。",
+        "example": "Museums can use interactive exhibits as a means of imparting knowledge."
+      },
+      {
+        "phrase": "distinguish fiction from reality",
+        "source": "校正",
+        "usage": "说明辨别能力：distinguish + A + from + B。 跨题例句为自拟，不是讲义原句。",
+        "example": "Media lessons can help teenagers distinguish advertising claims from reliable evidence."
+      },
+      {
+        "phrase": "the possible consequences of",
+        "source": "校正",
+        "usage": "让后果具体化：the possible consequences of + N/V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "Applicants should consider the possible consequences of accepting an unpaid placement."
+      }
+    ]
+  },
+  {
+    "id": "five-c1",
+    "code": "C1",
+    "title": "高管是否应获得远高于普通员工的薪酬？",
+    "sourceGroup": "five",
+    "sourceHeading": "**C1．高管是否应获得远高于普通员工的薪酬？｜440词**",
+    "declaredWords": 440,
+    "question": "Large companies should pay much higher salaries to CEOs and executives compared to other workers. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "One of the growing trends in modern society is that corporations place a premium on the role played by CEOs and accordingly they receive **very high** salaries; thus, a fierce debate rages over the growing salary disparities between them and other low-ranking workers. Although salaries should **be** in proportion to performance or contribution, other considerations **can** justify **much higher** CEO **compensation, provided that it reflects their responsibilities and contribution.**",
+      "The argument against such high salaries of CEOs is that **some** are disproportionately rewarded. The salary for employees usually is determined by considering the contribution they make to the company or the responsibility they **take on;** therefore, executives can **receive** higher salaries and compensation in the form of stock. However, the real problem **arises when** they are paid much **more** than **their performance warrants; their compensation** should be performance-based. The gap **can be particularly** alarming **when** executives **receive large rewards despite their companies' poor performance. Therefore,** herein lies the question as to why the pay-for-performance model **sometimes** fails when it comes to **executive** salaries.",
+      "However, this belief **overlooks** the fact that the contribution made by **junior employees is often assessed largely** on **the basis of** their **individual work,** while the contribution made by a team leader should be **assessed in terms of their role in improving** the **performance of** the whole team. This can **help to justify** much higher **executive pay,** because **their decisions can affect the productivity of an entire workforce. A good example would be** a **company whose** CEO **successfully restructures its operations, with higher pay representing** recognition **of that contribution.**",
+      "Moreover, executives of failing companies retain the right to receive what they deserve even if companies are **declining due to factors beyond their control.** How much CEOs should earn is determined by the board of directors, who use their power to retain talent and maximize returns to company shareholders; therefore, CEOs are paid much more than others because they are believed to have the ability to **help** secure companies' future success, driving higher productivity, profits, and stock prices. However, **talented** executives by no means guarantee success; if they fail, they can be fired next year but they should **still receive their agreed salary** for their work this year, which is a rule that applies to every employee. **This entitlement does not, however, justify large performance bonuses when their contribution is poor.**",
+      "In conclusion, although salaries should **reflect** individuals’ contributions, **the scale of their responsibilities** should also be considered. It is, therefore, my opinion that the high **salaries** of CEOs can be justified **by** the **scale** of **their responsibilities and their own contribution, be their** companies successful or unsuccessful."
+    ],
+    "corrections": [
+      {
+        "title": "薪酬句法与自然搭配",
+        "original": "",
+        "revised": "should be in proportion to performance or contribution",
+        "explanation": "补上 should be，改正 talented、paid much more 和 although…but…；把享有薪水／股票报酬改为更自然的 receive 搭配，原来的 can enjoy 并列结构本身并非句法残缺。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "高薪依据限定自身责任贡献",
+        "original": "",
+        "revised": "their decisions can affect the productivity of an entire workforce",
+        "explanation": "保留支持高管高薪的立场与正式长句，但将评价依据限定为高管自己的贡献和责任；删去没有依据的“指数增长”，并将马斯克事例改为假设公司的经营情景。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "约定工资不推出绩效奖金合理",
+        "original": "",
+        "revised": "still receive their agreed salary",
+        "explanation": "区分约定薪水与绩效奖金：经营不佳不自动取消劳动报酬，也不自动证明巨额奖金合理，避免用“应当付薪”直接推出“应当支付高薪”。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Executive Pay and Contribution",
+    "topic": "企业与工作",
+    "topicEn": "Business and Work",
+    "type": "同意与不同意",
+    "position": "责任规模和个人贡献可以支持高管高薪，但约定工资不等于低贡献时的巨额奖金。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜高薪合理性的限制条件",
+        "explanation": "作者承认薪酬应与表现贡献相称，并主张责任与贡献可支持更高高管报酬。立场是有条件的支持，不替所有现存差距辩护。",
+        "chain": [
+          "高管角色受重视",
+          "薪差引争议",
+          "薪酬须匹配贡献",
+          "责任规模可支持高薪"
+        ]
+      },
+      {
+        "role": "主体一｜公平反对意见",
+        "explanation": "反方质疑的是报酬超过表现应得的程度，尤其企业业绩差却获得大奖励。performance-based给出评价原则，而非断言所有高管薪水都过高。",
+        "chain": [
+          "薪酬看贡献责任",
+          "部分高管奖励过度",
+          "业绩差仍获大奖励",
+          "绩效原则受到质疑"
+        ]
+      },
+      {
+        "role": "主体二｜评价管理贡献的范围",
+        "explanation": "普通员工往往按个人工作评价，领导者决策却影响全团队。成功重组公司是一个假设例子，说明高薪可承认管理者改善整体生产力的贡献。",
+        "chain": [
+          "个人岗位贡献",
+          "管理影响全队",
+          "决策改善整体生产力",
+          "贡献规模可支持高薪"
+        ]
+      },
+      {
+        "role": "主体三｜合同工资与绩效奖金分开",
+        "explanation": "公司失败可能有管理者无法控制的原因，人才也不保证成功。已经履职的约定工资应支付，但不能据此证明贡献不足时巨额绩效奖金合理。",
+        "chain": [
+          "外部因素影响失败",
+          "优秀人才也不保证成功",
+          "工作应获约定工资",
+          "低贡献不支持巨额奖金"
+        ]
+      },
+      {
+        "role": "结尾｜回到责任与自身贡献",
+        "explanation": "结尾用责任规模补充个人贡献标准；企业成败不单独决定薪水合理性，必须看高管本人的作用与职责。",
+        "chain": [
+          "考虑个人贡献",
+          "考虑责任规模",
+          "不能只按公司成败",
+          "有条件认可高薪"
+        ]
+      }
+    ],
+    "questions": [
+      "普通员工与管理者贡献的评价范围有何区别？",
+      "失败企业高管享有约定薪水是否证明巨额奖金合理？",
+      "假设重组例子实际证明什么？"
+    ],
+    "answers": [
+      "前者多看个人工作，后者还要看其决策改善整个团队表现的作用。",
+      "不能；合同工资是工作报酬，绩效奖金仍需贡献与表现依据。",
+      "高管若改善全公司生产力，其贡献范围可支持比个人岗位更高的报酬。"
+    ],
+    "transfer": "迁移到科研团队：区分普通成员贡献与项目负责人的协调责任，同时限制绩效奖励判断。（迁移答案为自拟。）",
+    "transferAnswer": "A project leader may coordinate resources that affect the performance of an entire research team. This wider responsibility can justify higher compensation when it reflects a real contribution. However, an agreed salary does not automatically justify a large bonus for an unsuccessful project.",
+    "collocations": [
+      {
+        "phrase": "place a premium on",
+        "source": "熟悉（讲义）",
+        "usage": "说明高度重视：place a premium on + N/V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "Schools should place a premium on feedback that students can understand."
+      },
+      {
+        "phrase": "be in proportion to",
+        "source": "校正",
+        "usage": "说明分配相称：be in proportion to + N；be不可漏。 跨题例句为自拟，不是讲义原句。",
+        "example": "Training support should be in proportion to the difficulties employees face."
+      },
+      {
+        "phrase": "on the basis of",
+        "source": "熟悉（讲义）",
+        "usage": "说明评价基础：assess/decide + on the basis of + N。 跨题例句为自拟，不是讲义原句。",
+        "example": "Students should be assessed on the basis of their own work."
+      },
+      {
+        "phrase": "assessed in terms of",
+        "source": "校正",
+        "usage": "说明评价维度：be assessed in terms of + N。 跨题例句为自拟，不是讲义原句。",
+        "example": "Transport projects should be assessed in terms of reliability as well as speed."
+      },
+      {
+        "phrase": "factors beyond their control",
+        "source": "校正",
+        "usage": "区分责任与外部因素：factors beyond + 所有格 + control。 跨题例句为自拟，不是讲义原句。",
+        "example": "Farmers may suffer losses because of factors beyond their control."
+      },
+      {
+        "phrase": "by no means guarantee success",
+        "source": "熟悉（讲义）",
+        "usage": "限制必然推论：主体 + by no means guarantee(s) + N。 跨题例句为自拟，不是讲义原句。",
+        "example": "Expensive equipment can improve a laboratory but by no means guarantee success."
+      }
+    ]
+  },
+  {
+    "id": "five-c2",
+    "code": "C2",
+    "title": "员工是否应至少享有四周年假？",
+    "sourceGroup": "five",
+    "sourceHeading": "**C2．员工是否应至少享有四周年假？｜382词**",
+    "declaredWords": 382,
+    "question": "Employers should give their staff at least four weeks holiday a year to make employees do better at their jobs. To what extent do you agree or disagree？",
+    "essayParagraphs": [
+      "There has been a fierce yet unresolved debate as to how to help employees perform better at work. It is proposed by some policymakers that this goal can be achieved by entitling employees to at least four **weeks of annual leave.** Such a proposal can be regarded as an efficiency drive despite **its apparent disruption** to workflow.",
+      "The argument in favour of this proposal is that it allows employees to reenergize and thus achieve efficiency gains at work. When employees work for too long and have no opportunities to rest and recharge themselves, problems arise: **overwork** can give rise to stress, affect mood, and **undermine** morale. **People who** suffer from work-related illnesses **may** end up resigning due to ill health; therefore, **adequate annual leave can help sustain** better performance at **work.**",
+      "While the justification for annual leave exists, why do people call for at least four weeks’ holiday? **Consider employees whose** annual leave entitlement is **limited to five days.** Often, **they** would use it intermittently, making **individual breaks** too short for a **sustained period of rest. By contrast, four weeks could allow a two-week break for sustained recovery while leaving another two weeks for shorter breaks throughout the year. An extended** holiday allows people to rest by doing what they are interested in (e.g., travelling to other countries) and **may** thus **help them** perform more efficiently and **be more motivated than** those who **have insufficient time to rest.**",
+      "However, not everyone is convinced by this efficiency measure. The critics argue that it may pose a problem to the workflow of the organization, especially when one’s **duties** can hardly be covered by others. Nonetheless, this problem can be **mitigated:** managers should **agree with** employees **on** when to **take leave and arrange cover in advance,** minimizing **disruption.** A good example **would be a company that staggers staff holidays and trains colleagues to cover essential duties; such arrangements** can **make a four-week entitlement more viable without requiring employees** to **take all their leave at once.**",
+      "In conclusion, although it may pose a problem to efficiency **gains** in **the short term, an entitlement to at least four weeks' holiday offers** a **reasonable minimum for combining sustained recovery with regular breaks. It can therefore support** better performance at **work, provided that staffing and scheduling are properly managed.**"
+    ],
+    "corrections": [
+      {
+        "title": "为至少四周补持续恢复理由",
+        "original": "",
+        "revised": "a two-week break for sustained recovery",
+        "explanation": "保留“支持至少四周年假”的立场，补充“两周连续休息＋其余时间分散休假”的具体理由；将四周表述为合理的最低安排，避免从休假有益直接跳到精确时长必不可少。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "可行性靠错峰代班而非善意",
+        "original": "",
+        "revised": "arrange cover in advance",
+        "explanation": "将未经核实的中国、澳大利亚制度改为假设情景；用错峰休假、提前代班和交叉培训解释可行性，不再用“目标文明、人道”充当可行性的充分条件。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "年假不可数并收敛断言",
+        "original": "Lengthened",
+        "revised": "An extended holiday",
+        "explanation": "修正 annual leave 的不可数用法、Lengthened 大写及含糊的 it；保留 give rise to、end up resigning 等表达，同时适度收敛 only、necessitates 和 easily 的断言力度。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "A Four-Week Leave Entitlement",
+    "topic": "企业与工作",
+    "topicEn": "Business and Work",
+    "type": "同意与不同意",
+    "position": "支持至少四周年假以兼顾持续恢复和日常休息，配合提前排班与代班。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜把休假视为效率措施",
+        "explanation": "年假看似中断流程，但作者将其视为支持工作效率的安排。开头锁定四周这个具体时长，后文须说明为何不只是少量假期。",
+        "chain": [
+          "提升工作表现目标",
+          "至少四周年假提议",
+          "承认流程干扰",
+          "视为效率安排"
+        ]
+      },
+      {
+        "role": "主体一｜过劳如何损害持续表现",
+        "explanation": "长时间工作缺乏恢复引发压力、情绪和士气问题；工作相关疾病可能导致离职。适当休假通过恢复状态支持持续表现。",
+        "chain": [
+          "工作过久缺休息",
+          "压力情绪士气受损",
+          "疾病与可能离职",
+          "充足年假支持持续表现"
+        ]
+      },
+      {
+        "role": "主体二｜为四周提供安排层面的理由",
+        "explanation": "五天假常被零散用掉，难有持续恢复；四周可安排两周连续恢复及两周全年短休。这是合理的最低安排论证，不是科学证明精确天数。",
+        "chain": [
+          "五天零散使用",
+          "持续休息不足",
+          "两周长休加两周短休",
+          "兼顾恢复与全年动力"
+        ]
+      },
+      {
+        "role": "反驳段｜用组织安排解决实施障碍",
+        "explanation": "难代班的职责可能让流程受阻，管理者需提前协商时间、错峰休假并训练同事覆盖关键职责。四周权利不意味着所有假一次休完。",
+        "chain": [
+          "职责难被替代",
+          "工作流程受扰",
+          "提前协商错峰与交叉培训",
+          "提升休假方案可行性"
+        ]
+      },
+      {
+        "role": "结尾｜把条件写进支持立场",
+        "explanation": "短期效率干扰得到承认，持续与定期恢复支持四周作为合理底线。人员和时间安排妥当是该制度帮助表现的条件。",
+        "chain": [
+          "短期可能受扰",
+          "持续恢复及常规休息",
+          "合理最低年假",
+          "妥善安排支持表现"
+        ]
+      }
+    ],
+    "questions": [
+      "为什么不能从休假有益直接推出至少四周？",
+      "四周年假是否要求一次全部休完？",
+      "怎样回应不可替代岗位造成的干扰？"
+    ],
+    "answers": [
+      "还需说明时长安排：两周连续恢复，另两周供全年短休。",
+      "不要求；错峰与分段休假可与提前代班共同维持流程。",
+      "提前协商休假日期，安排代班，并交叉培训同事覆盖关键任务。"
+    ],
+    "transfer": "迁移到学校休息安排：解释连续恢复与短休的不同作用，并补排课条件。（迁移答案为自拟。）",
+    "transferAnswer": "A longer school break can provide sustained recovery, while shorter breaks throughout the term help prevent exhaustion. Combining the two may support learning more effectively than isolated days off alone. Schools would still need to plan the timetable carefully to protect essential teaching time.",
+    "collocations": [
+      {
+        "phrase": "weeks of annual leave",
+        "source": "校正",
+        "usage": "说明假期时长：数词 + weeks of annual leave；leave不可数。 跨题例句为自拟，不是讲义原句。",
+        "example": "A longer period of paid study leave may help nurses complete advanced training."
+      },
+      {
+        "phrase": "rest and recharge themselves",
+        "source": "熟悉（讲义）",
+        "usage": "解释恢复机制：rest and recharge (oneself)；反身代词与主语一致。 跨题例句为自拟，不是讲义原句。",
+        "example": "A quiet lunch area gives students a chance to rest and recharge themselves."
+      },
+      {
+        "phrase": "give rise to stress",
+        "source": "熟悉（讲义）",
+        "usage": "写压力原因：give rise to + N，to为介词。 跨题例句为自拟，不是讲义原句。",
+        "example": "Unclear examination instructions can give rise to stress."
+      },
+      {
+        "phrase": "end up resigning",
+        "source": "熟悉（讲义）",
+        "usage": "写最终行为后果：end up + V-ing，不接to V。 跨题例句为自拟，不是讲义原句。",
+        "example": "Students who receive no support may end up abandoning their courses."
+      },
+      {
+        "phrase": "arrange cover in advance",
+        "source": "校正",
+        "usage": "提出提前替代安排：arrange cover；in advance作时间状语。 跨题例句为自拟，不是讲义原句。",
+        "example": "Hospitals can arrange cover in advance when staff attend training courses."
+      },
+      {
+        "phrase": "provided that staffing and scheduling are properly managed",
+        "source": "校正",
+        "usage": "把可行性条件写明：provided that + 完整从句。 跨题例句为自拟，不是讲义原句。",
+        "example": "Flexible classes can improve access, provided that timetables are properly coordinated."
+      }
+    ]
+  },
+  {
+    "id": "five-c3",
+    "code": "C3",
+    "title": "企业的社会责任",
+    "sourceGroup": "five",
+    "sourceHeading": "**C3．企业的社会责任｜415词**",
+    "declaredWords": 415,
+    "question": "As well as making money, businesses also have social responsibilities. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "The contribution made by businesses to economic **development is undeniable;** however, it is argued that they should also contribute to society by shouldering more responsibility. Businesses should never care **only** about profits even though **their** core **aim** is money-making.",
+      "The argument in favour of this is that **businesses** should and can operate in the interests of society as a whole. The core **aim** of a business is profitability; such a money-making goal is achieved **by serving** its **clients and depends** on **the stability and prosperity of society.** Businesses, therefore, should embrace the responsibility not only to help contribute to society but also to help themselves succeed in the long term. A good example can be found in restaurants, the success of which ultimately rests on providing **safe** food that **meets consumers'** needs. In addition, any company embracing social responsibility can act in many ways, including philanthropy, **fair** labour practices, and environmental protection, among others. For example, **a technology company could donate** money to help those who **suffer** in **a natural disaster; a coffee company could commit** to social responsibility by supporting sustainable farming in the regions where **its** ingredients are sourced; and **a manufacturer could demonstrate concern for** employee **welfare by** paying **employees** in proportion to their **efforts** and **maintaining safe working conditions. These examples show that** businesses **have both reasons and practical means** to **fulfil their** social **responsibilities.**",
+      "However, not everyone finds **this** convincing, arguing that business, by its very nature, should solely concentrate on money-making activities. **From this perspective,** businesses **should be free to decide whether to support charitable causes.** Can we blame those businesses **that** haven’t donated their money to help others in need? **Not necessarily.** Can we blame those businesses whose **operations are** taking a toll on the environment? **Here, the answer is different, since such damage imposes costs on others.** However, **profit need not be** the only goal of commercial activity. Social responsibility **can be** practised **by** a wide range of companies. **Members of** younger generations, such as millennials and Gen Z, **who value** social **responsibility can drive** change in the workplace as workers and in their daily lives as consumers, all of which can contribute to greater **business success.**",
+      "In conclusion, although enterprises **are primarily concerned** with making money, they should also assume more social responsibilities not only to **reduce harm and support society** but also to create a good image and earn customer trust. **Responsible businesses can help** society **thrive, while a prosperous society can support business success.**"
+    ],
+    "corrections": [
+      {
+        "title": "责任及指代搭配修整",
+        "original": "carry out responsibility",
+        "revised": "fulfil their social responsibilities",
+        "explanation": "保留“盈利目标→依赖社会→承担责任→赢得信任”的原有推进，修正开头、necessitate businesses to 和 carry out responsibility 等搭配，并明确员工、原料等指代。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "具体公司改为假设及安全食品",
+        "original": "",
+        "revised": "providing safe food",
+        "explanation": "将苹果、星巴克、华为的具体行为改成假设公司的行动，保留慈善、可持续采购与员工福利三类论据；餐馆例子补入食品安全，使它直接体现社会责任。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "自愿捐助与外部损害分开",
+        "original": "Probably not",
+        "revised": "such damage imposes costs on others",
+        "explanation": "区分“是否自愿捐款”和“是否应对环境损害负责”，修复统一回答 Probably not 的逻辑冲突；结尾分别说明企业与社会如何相互支持，避免用 vice versa 代替因果论证。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "Business and Social Responsibility",
+    "topic": "企业与工作",
+    "topicEn": "Business and Work",
+    "type": "同意与不同意",
+    "position": "企业应在盈利之外减少伤害并承担社会责任，这也可支持长期成功与信任。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜盈利并非唯一考虑",
+        "explanation": "企业对经济发展的贡献得到承认，但核心盈利目标不能成为只顾利润的理由。作者直接支持同时承担社会责任。",
+        "chain": [
+          "企业推动经济",
+          "核心目标盈利",
+          "不应只顾利润",
+          "还需承担社会责任"
+        ]
+      },
+      {
+        "role": "主体一｜社会依赖与具体行动相连",
+        "explanation": "盈利依赖服务客户及稳定繁荣的社会，所以责任既对社会有益也帮助企业长久成功。安全食品、假设捐助、可持续采购与安全公平劳动展示实际路径。",
+        "chain": [
+          "盈利依赖客户和社会",
+          "支持社会亦利长期经营",
+          "安全食品及公益采购劳动行动",
+          "责任有理由也有实施手段"
+        ]
+      },
+      {
+        "role": "反方与回应｜自愿慈善和避免损害不同",
+        "explanation": "企业不捐款未必可责，但污染把成本转给他人应承担责任。重视责任的员工与消费者还可推动改变并支持企业成功。",
+        "chain": [
+          "慈善可有自主选择",
+          "环境损害强加成本",
+          "应承担避免伤害责任",
+          "员工消费者选择鼓励责任经营"
+        ]
+      },
+      {
+        "role": "结尾｜双向支持需写出机制",
+        "explanation": "企业通过减少损害、支持社会赢得形象和信任；社会繁荣又支持经营成功。两个方向分别解释，避免仅用vice versa暗示因果。",
+        "chain": [
+          "责任经营减少损害",
+          "赢得客户信任",
+          "支持社会繁荣",
+          "社会繁荣支持企业成功"
+        ]
+      }
+    ],
+    "questions": [
+      "盈利依赖社会这一步怎样支持企业责任？",
+      "为何不能对不捐款与污染一律回答不应责怪？",
+      "餐馆例子怎样直接体现社会责任？"
+    ],
+    "answers": [
+      "客户需求与社会稳定繁荣支持长期盈利，企业维护社会也在维护自身经营基础。",
+      "捐款可属自愿选择，污染则给他人施加成本，责任性质不同。",
+      "提供满足顾客需要的安全食品，将基本经营与避免对消费者伤害相连。"
+    ],
+    "transfer": "迁移到大学：区分自愿捐助与减少运营伤害，并说明长期声誉收益。（迁移答案为自拟。）",
+    "transferAnswer": "Universities may choose whether to fund particular charities, but they should take responsibility for waste produced by their own operations. Reducing this harm benefits the surrounding community and can build public trust. A supportive local community may in turn help a university succeed.",
+    "collocations": [
+      {
+        "phrase": "in the interests of society as a whole",
+        "source": "熟悉（讲义）",
+        "usage": "说明整体利益：in the interests of + 群体，不用interest单数表达此义。 跨题例句为自拟，不是讲义原句。",
+        "example": "Transport planning should operate in the interests of society as a whole."
+      },
+      {
+        "phrase": "rests on providing safe food",
+        "source": "校正",
+        "usage": "写成功依赖的机制：rest on + N/V-ing；此处providing是V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "The success of online learning rests on providing reliable feedback."
+      },
+      {
+        "phrase": "in proportion to their efforts",
+        "source": "熟悉（讲义）",
+        "usage": "说明报酬相称：in proportion to + N。 跨题例句为自拟，不是讲义原句。",
+        "example": "Scholarship support need not be in proportion to family income if the goal is equal access."
+      },
+      {
+        "phrase": "taking a toll on the environment",
+        "source": "熟悉（讲义）",
+        "usage": "说明损害：take a toll on + N，常含累积负面影响。 跨题例句为自拟，不是讲义原句。",
+        "example": "Repeated overnight work may take a toll on employees’ health."
+      },
+      {
+        "phrase": "earn customer trust",
+        "source": "熟悉（讲义）",
+        "usage": "说明责任经营回报：earn + 人群所有格/名词修饰语 + trust。 跨题例句为自拟，不是讲义原句。",
+        "example": "Clear assessment criteria can help schools earn parents’ trust."
+      },
+      {
+        "phrase": "support business success",
+        "source": "校正",
+        "usage": "写社会与机构相互支持：support + N；须解释中间机制。 跨题例句为自拟，不是讲义原句。",
+        "example": "Reliable public transport can support business success by helping employees arrive on time."
+      }
+    ]
+  },
+  {
+    "id": "five-r1",
+    "code": "R1",
+    "title": "是否应强制年轻成年人参加无偿社区服务",
+    "sourceGroup": "five",
+    "sourceHeading": "**R1．是否应强制年轻成年人参加无偿社区服务｜288词**",
+    "declaredWords": 288,
+    "question": "It has been suggested that all young adults should be required to undertake a period of unpaid work helping people in the community. Would the drawbacks of such a requirement be greater than the benefits to the community and the individual young adults?",
+    "essayParagraphs": [
+      "**Voluntary** work **often wins** praise from others. With this comes a proposal whereby all young adults should be required to do unpaid community work. Despite its tangible benefits, **I believe the drawbacks of requiring** all young adults to **participate would be greater.**",
+      "The argument in favour of this policy is **that** the benefits accrue to young people themselves and the community. For young adults, they are able to experience a deep sense of satisfaction by helping others and **develop** interpersonal skills when they are interacting with local people. For the community, people living in the community **can be supported** by **these volunteers, under appropriate supervision, in obtaining** the right services when needed, be they housing support or child protection. **This can create** a **win-win situation.**",
+      "However, such benefits cannot justify the proposal to make community work mandatory for all. Although young adults can benefit from such community work, problems arise when a moral obligation becomes a **compulsory** requirement, which may lead to resentment: **young adults may fulfil all** the requirements but **avoid** volunteering **in future.** In addition, the community **will not necessarily** benefit more **simply because** there are more community **workers, since some** services and support **require relevant** experience or **qualifications. A** better option would be to **encourage** more **people,** rather than **require all,** to do unpaid community **work with suitable training.**",
+      "In conclusion, although intuitively young people should do unpaid community work, the proposal to **require** all to do **so risks being** counterproductive and impractical. **Its drawbacks outweigh its benefits, since voluntary participation can retain many of the gains without imposing the same obligation on unwilling participants. Society** should continue to call for more people to help while **allowing young adults** to volunteer of **their own** volition."
+    ],
+    "corrections": [
+      {
+        "title": "志愿与自愿固定搭配",
+        "original": "out of volition",
+        "revised": "of their own volition",
+        "explanation": "将 Volunteering work、out of volition 分别改为 Voluntary work、of their own volition，并把感叹句改为正式陈述；保留 With this comes、For young adults / For the community 及让步反驳结构。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "人数不等于专业服务能力",
+        "original": "",
+        "revised": "require relevant experience or qualifications",
+        "explanation": "把“增加人数也不会增加收益”限定为不一定，并补出部分服务需要经验、资质与适当监督，避免暗示未经培训的年轻人可以直接承担专业服务。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "直接比较全面强制的额外得失",
+        "original": "",
+        "revised": "voluntary participation can retain many of the gains",
+        "explanation": "开头和结尾直接回应“弊是否大于利”。保留反对全面强制的立场，说明自愿参与可以保留许多收益，而强制还会对不愿参与者施加义务、引起抵触；比较的对象是“强制参加”带来的额外得失，而不是志愿活动本身好不好。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Mandatory Community Service",
+    "topic": "权利与责任",
+    "topicEn": "Rights and Responsibilities",
+    "type": "弊是否大于利：权衡",
+    "position": "全面强制的弊大于利；鼓励自愿参与并提供适当培训能保留许多收益。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜评价强制要求而非志愿活动",
+        "explanation": "志愿工作受赞扬引出要求所有青年参加的政策。作者直接回答全面强制弊大于利，后文不能只争论活动本身有没有好处。",
+        "chain": [
+          "志愿服务受赞扬",
+          "提出全民青年强制",
+          "承认活动收益",
+          "强制要求弊更大"
+        ]
+      },
+      {
+        "role": "主体一｜青年与社区两类收益",
+        "explanation": "青年帮助别人获得满足并练习人际技能，社区在适当监督下获得服务支持。监督条件避免暗示未经训练者能直接承担专业保护工作。",
+        "chain": [
+          "帮助别人",
+          "青年满足与人际成长",
+          "适当监督下提供服务支持",
+          "个人社区双赢"
+        ]
+      },
+      {
+        "role": "反驳段｜额外强制带来的反效果",
+        "explanation": "道德义务变成强制可能引发抵触，导致完成后更不愿志愿服务；部分工作需要资质，人数增加不保证服务质量。自愿与培训更贴合目标。",
+        "chain": [
+          "全面强制",
+          "抵触及未来不再志愿",
+          "增员也未必有专业能力",
+          "鼓励自愿并适当培训"
+        ]
+      },
+      {
+        "role": "结尾｜用自愿替代比较额外得失",
+        "explanation": "自愿参与可以保留不少技能和社区收益，且不对不愿参加者施加同样义务。这个比较具体解释强制新增的代价为何更难合理化。",
+        "chain": [
+          "自愿仍保留收益",
+          "强制额外施加义务",
+          "可能抵触且实施困难",
+          "弊大于利并保留自愿选择"
+        ]
+      }
+    ],
+    "questions": [
+      "本文比较对象是志愿活动好坏，还是强制要求的额外得失？",
+      "强制为何可能counterproductive？",
+      "为什么社区工作人员变多不一定更好？"
+    ],
+    "answers": [
+      "是强制要求相对自愿参与的额外得失。",
+      "引发青年抵触，完成要求后更不愿未来参加志愿服务，损害长期参与目标。",
+      "一些服务依赖经验、资质及适当监督，人数不能直接替代这些条件。"
+    ],
+    "transfer": "迁移到员工培训：承认培训收益，说明统一强制可能带来的额外成本，并提出定向替代。（迁移答案为自拟。）",
+    "transferAnswer": "Training can improve employees’ skills, but requiring everyone to attend the same course may waste time for experienced staff. A better option would be to assess individual needs and offer suitable modules. This can retain many of the gains without imposing an unnecessary obligation on every employee.",
+    "collocations": [
+      {
+        "phrase": "a deep sense of satisfaction",
+        "source": "熟悉（讲义）",
+        "usage": "说明个人心理收益：a sense of + N；deep强化程度。 跨题例句为自拟，不是讲义原句。",
+        "example": "Completing a difficult project can give learners a deep sense of satisfaction."
+      },
+      {
+        "phrase": "interpersonal skills",
+        "source": "熟悉（讲义）",
+        "usage": "写能力收益：develop/improve + interpersonal skills，通常复数。 跨题例句为自拟，不是讲义原句。",
+        "example": "Group laboratory work can help students develop interpersonal skills."
+      },
+      {
+        "phrase": "make community work mandatory for all",
+        "source": "熟悉（讲义）",
+        "usage": "说明政策强度：make + N + mandatory for + 人群。 跨题例句为自拟，不是讲义原句。",
+        "example": "Making online registration mandatory for all may exclude residents without reliable internet."
+      },
+      {
+        "phrase": "a moral obligation",
+        "source": "熟悉（讲义）",
+        "usage": "区分道德责任与法律要求：a moral obligation to V。 跨题例句为自拟，不是讲义原句。",
+        "example": "Schools have a moral obligation to provide accessible learning materials."
+      },
+      {
+        "phrase": "A better option would be to",
+        "source": "熟悉（讲义）",
+        "usage": "提出替代措施：a better option would be to + V。 跨题例句为自拟，不是讲义原句。",
+        "example": "A better option would be to provide reliable buses before increasing parking charges."
+      },
+      {
+        "phrase": "of their own volition",
+        "source": "校正",
+        "usage": "表示自愿：of + 所有格 + own volition；不是out of。 跨题例句为自拟，不是讲义原句。",
+        "example": "Students should be able to join debate clubs of their own volition."
+      }
+    ]
+  },
+  {
+    "id": "five-r2",
+    "code": "R2",
+    "title": "专业人士应留在培训国还是自由赴海外工作",
+    "sourceGroup": "five",
+    "sourceHeading": "**R2．专业人士应留在培训国还是自由赴海外工作｜398词**",
+    "declaredWords": 398,
+    "question": "Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish.\n\nDiscuss both these views and give your own opinion",
+    "essayParagraphs": [
+      "Globalization has promoted **migration flows,** which **are often** driven by career opportunities. With **the prospect of greater** personal **fulfilment** comes a belief that professionals (e.g., doctors and engineers) **should** be **free** to embark on their **careers** abroad, whereas **others** argue that the well-educated workforce should stay and contribute to **the countries** where they **completed** their training. Both views are discussed **here, but I favour freedom of choice.**",
+      "**The** primary justification for a restriction on where these professionals should work resides in the belief that they should dedicate themselves to **the countries** where educational and vocational training **was** afforded to **them, particularly when it was publicly funded.** Modern society **places** a premium on an educated workforce and **the university** disciplines **that help to develop it** (e.g., medicine, IT, and **engineering);** thus, **public investment** in these **disciplines can** pay off **more directly** when these well-trained professionals are working for **local** communities. If professionals go abroad after being trained, such brain drain **can mean that** countries, industries and organizations lose **valuable skilled workers, depriving these countries** of **some** opportunities for development.",
+      "Others, however, highlight **freedom of career choice:** every individual **should be free** to **pursue** a successful life, be it personal or professional. Human capital flight **can occur** when talented professionals suffer from bleak career prospects, poor quality of life, limited access to health care, and a shortage of economic opportunity, among others. Such factors **may** prompt skilled and talented workers to leave source countries for places that offer better career opportunities and higher standards of living.",
+      "I think it **should be** a moral duty **rather than a blanket legal requirement for** individuals **to** devote effort to **helping the** country **that trained them** flourish and realize all its potential. **For example, a country that subsidizes professional training may lose some of its investment when graduates emigrate to wealthier countries. Such a loss** can be a **cause for concern.** Nonetheless, **a blanket legal restriction should not be** adopted to remedy such a worrying **trend,** because **a** moral **obligation alone does not justify compelling people to stay. What** can be done **instead** is to afford better working conditions and financial security to entice **skilled professionals** to **stay or return.**",
+      "In conclusion, despite the **possible** detrimental **effects** on the development of the **training** country as a whole, **professionals’ freedom of choice should be respected, while government policies** could **encourage them to stay or return.**"
+    ],
+    "corrections": [
+      {
+        "title": "职业价值与吸引方向校正",
+        "original": "entice the exodus",
+        "revised": "entice skilled professionals to stay or return",
+        "explanation": "保留 With ... comes、The primary justification ... resides in、Others, however 等正式结构；修正 achieve personal value、budget accrues to students，以及 entice the exodus 的搭配和方向。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "培训国不同于国籍国",
+        "original": "",
+        "revised": "public investment in these disciplines can pay off more directly",
+        "explanation": "将培训国与国籍国区分，并把公共投入“只有留在本国才有回报”改为“留在当地能带来更直接的回报”；保留支持留任一方的合理依据。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "道德义务不足以支持法律强制",
+        "original": "",
+        "revised": "a moral obligation alone does not justify compelling people to stay",
+        "explanation": "将未经核实的中国法律与政策例子改为假设场景；把人权断言和 morally wrong 改为职业选择自由的论点，保留道德责任，但不据此直接推出法律强制。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Where Should Professionals Work?",
+    "topic": "权利与责任",
+    "topicEn": "Rights and Responsibilities",
+    "type": "双边讨论与个人观点",
+    "position": "尊重专业人士职业选择自由；通过更好条件吸引留任或回流而非全面法律强制。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜训练国与选择自由",
+        "explanation": "全球流动引出个人职业发展与培训国贡献的争议。培训地点是讨论对象，不等于个人国籍；作者明确倾向选择自由。",
+        "chain": [
+          "职业机会推动流动",
+          "海外发展选择",
+          "培训国希望留才",
+          "支持选择自由"
+        ]
+      },
+      {
+        "role": "主体一｜解释留任要求的合理担忧",
+        "explanation": "尤其公共资助培训使国家投入资源，当地服务带来更直接回报。人才离开可能减少技能和发展机会，这支持担忧却未独立证明强制合理。",
+        "chain": [
+          "公共教育培训投资",
+          "培养稀缺专业人才",
+          "当地服务直接回报",
+          "外流可能损失技能和机会"
+        ]
+      },
+      {
+        "role": "主体二｜流动由个人处境推动",
+        "explanation": "自由追求成功包括个人和职业领域。前景暗淡、生活质量差及机会有限会推动人才寻找更好的工作与生活，避免把外流简单归为不负责。",
+        "chain": [
+          "职业前景与生活条件差",
+          "个人发展受限",
+          "寻找更好机会与生活",
+          "形成专业人才外流"
+        ]
+      },
+      {
+        "role": "个人判断｜道德责任不足以推出法律强制",
+        "explanation": "培训国投资损失确实值得关注，但帮助它发展是道德责任，不能单凭此要求法律禁止离开。改善工作条件与经济保障可直接回应人才离开的原因。",
+        "chain": [
+          "承认投资损失",
+          "保留道德责任",
+          "道德责任不足以强制",
+          "改善条件吸引留任回流"
+        ]
+      },
+      {
+        "role": "结尾｜尊重选择并鼓励贡献",
+        "explanation": "承认外流对培训国的潜在损害，但保留个人自由。政策应让人才愿意留下或回来，把政府行动与前文原因连接。",
+        "chain": [
+          "潜在发展损失",
+          "仍尊重职业选择",
+          "政府改善吸引力",
+          "鼓励留下或回流"
+        ]
+      }
+    ],
+    "questions": [
+      "为什么培训国不能自动等同国籍国？",
+      "公共投入为何只说更直接回报而非唯一回报？",
+      "非强制留才政策怎样回应外流原因？"
+    ],
+    "answers": [
+      "题目根据在哪里接受培训来讨论责任，并未限定专业人士的国籍。",
+      "本地工作直接服务社区，但海外工作也可能以其他方式产生回报，不能排除。",
+      "改善工作条件和经济保障，回应职业前景及生活机会不足。"
+    ],
+    "transfer": "迁移到奖学金毕业生：承认公共投资的回报期待，再提出尊重选择的留任激励。（迁移答案为自拟。）",
+    "transferAnswer": "Public scholarships create a reasonable expectation that graduates will contribute to society. However, this moral obligation alone does not justify a blanket restriction on their career choices. Offering meaningful research opportunities may encourage them to stay or return voluntarily.",
+    "collocations": [
+      {
+        "phrase": "embark on their careers abroad",
+        "source": "校正",
+        "usage": "说明职业起步：embark on + N；on不可漏。 跨题例句为自拟，不是讲义原句。",
+        "example": "Cities may embark on ambitious recycling programmes when waste collection systems are reliable."
+      },
+      {
+        "phrase": "places a premium on",
+        "source": "熟悉（讲义）",
+        "usage": "说明社会重视：第三人称主语 + places a premium on + N。 跨题例句为自拟，不是讲义原句。",
+        "example": "An effective school places a premium on inclusive teaching."
+      },
+      {
+        "phrase": "brain drain",
+        "source": "熟悉（讲义）",
+        "usage": "描述技能外流：brain drain；避免与所有migration等同。 跨题例句为自拟，不是讲义原句。",
+        "example": "A region may experience brain drain when skilled workers lack career opportunities."
+      },
+      {
+        "phrase": "bleak career prospects",
+        "source": "熟悉（讲义）",
+        "usage": "解释流动动因：bleak + career prospects；prospects通常复数。 跨题例句为自拟，不是讲义原句。",
+        "example": "Young people facing bleak career prospects may seek further training."
+      },
+      {
+        "phrase": "a blanket legal requirement",
+        "source": "校正",
+        "usage": "批评不分情形的强制：a blanket + legal requirement/restriction。 跨题例句为自拟，不是讲义原句。",
+        "example": "A blanket legal requirement to use digital services could disadvantage older residents."
+      },
+      {
+        "phrase": "entice skilled professionals to stay or return",
+        "source": "校正",
+        "usage": "说明激励方向：entice + sb + to V；不能把流出作为留才目的。 跨题例句为自拟，不是讲义原句。",
+        "example": "Flexible schedules may entice experienced teachers to return to the classroom."
+      }
+    ]
+  },
+  {
+    "id": "five-r3",
+    "code": "R3",
+    "title": "危险运动应全面禁止还是合理监管",
+    "sourceGroup": "five",
+    "sourceHeading": "**R3．危险运动应全面禁止还是合理监管｜409词**",
+    "declaredWords": 409,
+    "question": "Some people think the government should ban dangerous sports and some others think it is a freedom to choose the activities we want to. Discuss both view and give your opinion.",
+    "essayParagraphs": [
+      "Extreme sports **are** popular **with many people;** however, opinions differ as to whether they should be prohibited. Some people insist that such sports should be banned by governments for individuals’ safety, whereas others argue that individuals should have the freedom to **take part in the** sports they **choose.** Both views are discussed **here, but I favour reasonable regulation over** a **blanket ban.**",
+      "The argument against all dangerous sports is that they can lead to severe injuries or even death. Extreme sports (e.g., **parachuting, off-piste** skiing and **big-wave** surfing) come with a high level of risk, exposing the participants to various hazards. For example, **some** youngsters are **attracted** to the sense of thrill that dangerous sports bring; thus, they **may** ignore the potential **hazards and suffer accidents that leave them with lasting injuries.** Governments, as **protectors** of the citizenry, should take responsibility for safeguarding people’s well-being. If all dangerous sports were to be banned by the government, such **injuries could become less common, provided that the ban was effectively enforced.**",
+      "Others, however, highlight the freedom of individuals. People **should** have the right to decide what they want to do and what **experiences** they want to have. In their daily **lives,** they may choose to play basketball after work, **although** they might get **injured while playing. When** people try other types of sports such as going skiing during the winter, problems **can** also arise – they may end up staying **in** hospital for a month after fracturing their legs. Therefore, the same principle **of allowing informed choices despite some risk** should also apply to extreme sports: **as** long as **adult participants understand** the **risks** that their decisions may bring **about and do not expose others to unreasonable danger,** they **should be free** to **choose** their **leisure activities.**",
+      "I think governments should introduce regulations and safety measures **for** the extreme sports industry instead of banning dangerous sports. Even though people **should** have the **freedom** to **choose their leisure activities,** possible dangers justify **requiring** them to take part in organized and legal sports activities **where safety standards** can **reduce the risks involved. If** there is an accident, **participants may need** government rescue **services; therefore,** the **risks to rescuers** and **demands on public resources provide further grounds for** reasonable control. For example, mountain climbers should only be allowed **to attempt demanding routes if they meet** minimum **training requirements,** and a quota **on daily participants could** be imposed **where overcrowding increases risk or strains rescue capacity.**"
+    ],
+    "corrections": [
+      {
+        "title": "危险运动与资质搭配修正",
+        "original": "a minimum of qualification",
+        "revised": "minimum training requirements",
+        "explanation": "修正 parachute jump、leave injuries on their bodies、a minimum of qualification 等搭配，并保留原文四段结构及最后一段提出监管方案的安排。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "禁令效果须依赖执行",
+        "original": "",
+        "revised": "provided that the ban was effectively enforced",
+        "explanation": "把“禁令会消除问题”改为在有效执行的条件下可能减少伤害；普通运动的类比仅支持“存在风险本身不足以全面禁止”，不把不同运动的风险等同。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "知情选择、救援与监管边界",
+        "original": "",
+        "revised": "risks to rescuers and demands on public resources",
+        "explanation": "以知情成年人的选择自由替代笼统的权利术语，并补入不使他人承受不合理危险的边界；把救援风险、公共资源与培训要求、人数限额具体连起来。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Dangerous Sports and Regulation",
+    "topic": "权利与责任",
+    "topicEn": "Rights and Responsibilities",
+    "type": "双边讨论与个人观点",
+    "position": "反对全面禁令；知情成年人自由有边界，以培训、标准及必要限额控制风险。",
+    "paragraphNotes": [
+      {
+        "role": "开头｜给出监管胜过全面禁止的立场",
+        "explanation": "安全与自由两种观点都被引出。作者支持合理监管，后文需要解释何种风险可以管理，以及自由适用于哪些参与者。",
+        "chain": [
+          "危险运动受欢迎",
+          "安全支持禁令",
+          "自由支持选择",
+          "作者支持合理监管"
+        ]
+      },
+      {
+        "role": "主体一｜公平解释禁止一方",
+        "explanation": "极限运动暴露参与者于严重伤害风险，追求刺激的青年可能忽视危险。禁令只有被有效执行才可能减少伤害，而非宣称必然消除事故。",
+        "chain": [
+          "高风险活动",
+          "可能忽视危险",
+          "严重或长期伤害",
+          "有效执行禁令可能减少伤害"
+        ]
+      },
+      {
+        "role": "主体二｜类比提炼有条件的自由",
+        "explanation": "篮球和滑雪也有受伤风险，说明有风险本身不够支持全面禁止。类比并未把风险大小等同；自由限定于理解风险的成年人且不危及他人。",
+        "chain": [
+          "普通运动也有风险",
+          "风险存在不足以全面禁止",
+          "成人理解风险",
+          "不让他人承受不合理危险"
+        ]
+      },
+      {
+        "role": "个人判断与方案｜把公共风险落实为监管",
+        "explanation": "安全标准降低参与风险，救援人员与公共资源也需要保护。高难路线培训要求对应能力不足，拥挤或救援承压时限额对应容量风险。",
+        "chain": [
+          "保留成年人选择",
+          "安全标准减少风险",
+          "救援风险及资源压力",
+          "按培训与容量实施合理监管"
+        ]
+      }
+    ],
+    "questions": [
+      "普通运动的类比能证明危险运动风险相同吗？",
+      "个人自由的两个核心边界是什么？",
+      "培训要求和人数限额分别回应哪些问题？"
+    ],
+    "answers": [
+      "不能；它只说明存在风险本身不足以支持全面禁止。",
+      "参与者是理解风险的成年人，并且不使他人承担不合理危险。",
+      "培训回应挑战路线的能力要求；拥挤或救援容量不足时限额降低风险与公共压力。"
+    ],
+    "transfer": "迁移到民用无人机：兼顾成年人的爱好选择与第三方安全，提出与风险相连的监管。（迁移答案为自拟。）",
+    "transferAnswer": "Adults should be free to enjoy flying drones, provided that they understand the risks and do not endanger others. Requiring training near crowded areas can address safety concerns more directly than a blanket ban. Limits may also be justified where emergency services need clear access.",
+    "collocations": [
+      {
+        "phrase": "a blanket ban",
+        "source": "校正",
+        "usage": "明确全面禁止力度：a blanket ban on + N/V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "A blanket ban on all mobile devices may remove useful learning tools."
+      },
+      {
+        "phrase": "a high level of risk",
+        "source": "熟悉（讲义）",
+        "usage": "说明风险程度：a high level of + risk；需给具体风险。 跨题例句为自拟，不是讲义原句。",
+        "example": "Working without protective equipment can involve a high level of risk."
+      },
+      {
+        "phrase": "safeguarding people’s well-being",
+        "source": "熟悉（讲义）",
+        "usage": "说明保护责任：safeguard + N；正文为V-ing。 跨题例句为自拟，不是讲义原句。",
+        "example": "Housing standards can play a role in safeguarding tenants’ well-being."
+      },
+      {
+        "phrase": "provided that the ban was effectively enforced",
+        "source": "校正",
+        "usage": "交代效果依赖执行：provided that + 完整从句；enforce是执行。 跨题例句为自拟，不是讲义原句。",
+        "example": "Parking restrictions could reduce congestion, provided that they were consistently enforced."
+      },
+      {
+        "phrase": "allowing informed choices despite some risk",
+        "source": "校正",
+        "usage": "提炼有条件原则：allow + N；despite + N。 跨题例句为自拟，不是讲义原句。",
+        "example": "Patient education can support informed choices despite some uncertainty."
+      },
+      {
+        "phrase": "minimum training requirements",
+        "source": "校正",
+        "usage": "提出能力门槛：meet + minimum training requirements。 跨题例句为自拟，不是讲义原句。",
+        "example": "Laboratory assistants should meet minimum training requirements before handling hazardous substances."
+      }
+    ]
+  }
+]

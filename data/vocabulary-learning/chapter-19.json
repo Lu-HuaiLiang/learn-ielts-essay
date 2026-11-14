@@ -1,0 +1,1754 @@
+[
+  {
+    "ids": [
+      "19-001",
+      "19-002",
+      "19-003"
+    ],
+    "examples": [
+      {
+        "en": "The historian described the reformer as a pioneer, a prophet of social change and a herald of a new era.",
+        "zh": "历史学家将改革者称为先驱、社会变革的预言者和新时代的先声。"
+      },
+      {
+        "en": "Unlike a religious prophet, the scientific pioneer became a herald of change through experiments.",
+        "zh": "与宗教先知不同，这位科学先驱通过实验成为变革的先声。"
+      },
+      {
+        "en": "The exhibition asks whether the inventor was a practical pioneer, a visionary prophet or a herald of industrial progress.",
+        "zh": "展览探讨这位发明家是务实先驱、有远见的预言者，还是工业进步的先声。"
+      }
+    ],
+    "collocations": {
+      "19-001": [
+        "a medical pioneer",
+        "医学先驱"
+      ],
+      "19-002": [
+        "a religious prophet",
+        "宗教先知"
+      ],
+      "19-003": [
+        "a herald of change",
+        "变革的先兆"
+      ]
+    },
+    "related": [
+      {
+        "word": "innovation",
+        "meaning": "创新",
+        "relation": "同场景"
+      },
+      {
+        "word": "visionary",
+        "meaning": "有远见者",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-004",
+      "19-005",
+      "19-006"
+    ],
+    "examples": [
+      {
+        "en": "The heir became her father's successor and represented a new generation of leaders.",
+        "zh": "这位继承人接替父亲，代表了新一代领导者。"
+      },
+      {
+        "en": "Each generation expected an heir to become the family firm's successor.",
+        "zh": "每一代都期待一位继承人成为家族企业的接班人。"
+      },
+      {
+        "en": "Rather than appoint an heir automatically, the board chose a successor from a younger generation.",
+        "zh": "董事会没有自动任命继承人，而是从年轻一代中选出接班人。"
+      }
+    ],
+    "collocations": {
+      "19-004": [
+        "an heir to the estate",
+        "遗产继承人"
+      ],
+      "19-005": [
+        "a political successor",
+        "政治接班人"
+      ],
+      "19-006": [
+        "the next generation",
+        "下一代"
+      ]
+    },
+    "related": [
+      {
+        "word": "inheritance",
+        "meaning": "继承",
+        "relation": "同场景"
+      },
+      {
+        "word": "succession",
+        "meaning": "接任",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-007",
+      "19-008",
+      "19-009",
+      "19-010"
+    ],
+    "examples": [
+      {
+        "en": "The form asks for a surname and recorded sex, while an optional section lets a female applicant describe her gender identity.",
+        "zh": "表格要求填写姓氏和登记性别，另有可选部分供女性申请者描述性别认同。"
+      },
+      {
+        "en": "Researchers removed each surname before analysing sex and gender data, including responses from female participants.",
+        "zh": "研究者分析生理性别和社会性别数据前，删除了各人姓氏，包含女性参与者的答复。"
+      },
+      {
+        "en": "A female candidate should be assessed on skills rather than surname, sex or assumptions about gender.",
+        "zh": "应根据技能，而非姓氏、生理性别或社会性别假设来评估女性候选人。"
+      }
+    ],
+    "collocations": {
+      "19-007": [
+        "a family surname",
+        "姓氏"
+      ],
+      "19-008": [
+        "gender identity",
+        "性别认同"
+      ],
+      "19-009": [
+        "recorded sex",
+        "登记性别"
+      ],
+      "19-010": [
+        "a female applicant",
+        "女性申请者"
+      ]
+    },
+    "related": [
+      {
+        "word": "identity",
+        "meaning": "身份",
+        "relation": "同场景"
+      },
+      {
+        "word": "demographic data",
+        "meaning": "人口统计数据",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-011",
+      "19-012",
+      "19-013",
+      "19-014"
+    ],
+    "examples": [
+      {
+        "en": "The gay couple moved nearby, and one spouse introduced his husband to the neighbours.",
+        "zh": "这对同性伴侣搬到附近，一方把丈夫介绍给邻居。"
+      },
+      {
+        "en": "The article follows a gay couple as each spouse balances work and caring for his husband.",
+        "zh": "文章跟随一对同性伴侣，描写双方如何平衡工作与照顾丈夫。"
+      },
+      {
+        "en": "At the event, a gay couple explained how the word spouse applies equally to each husband.",
+        "zh": "活动中，一对同性伴侣解释配偶一词同样适用于两位丈夫。"
+      }
+    ],
+    "collocations": {
+      "19-011": [
+        "a married couple",
+        "已婚伴侣"
+      ],
+      "19-012": [
+        "a surviving spouse",
+        "尚存的配偶"
+      ],
+      "19-013": [
+        "her husband",
+        "她的丈夫"
+      ],
+      "19-014": [
+        "a gay couple",
+        "同性伴侣"
+      ]
+    },
+    "related": [
+      {
+        "word": "marriage",
+        "meaning": "婚姻",
+        "relation": "同场景"
+      },
+      {
+        "word": "partnership",
+        "meaning": "伴侣关系",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-015",
+      "19-016",
+      "19-017",
+      "19-018"
+    ],
+    "examples": [
+      {
+        "en": "My grandfather invited my father-in-law, my sibling and a cousin to dinner.",
+        "zh": "我祖父请我的岳父、兄弟姐妹和一位表亲吃饭。"
+      },
+      {
+        "en": "A family photograph shows her grandfather beside her father-in-law, with a sibling and a cousin behind them.",
+        "zh": "家庭照中，她的祖父站在公公旁边，一位手足与一位表亲站在后面。"
+      },
+      {
+        "en": "The reunion helped a cousin meet my grandfather, my father-in-law and my youngest sibling.",
+        "zh": "这次团聚让一位表亲见到了我的祖父、岳父和最小的弟妹。"
+      }
+    ],
+    "collocations": {
+      "19-015": [
+        "a maternal grandfather",
+        "外祖父"
+      ],
+      "19-016": [
+        "her father-in-law",
+        "她的公公"
+      ],
+      "19-017": [
+        "a younger sibling",
+        "弟妹"
+      ],
+      "19-018": [
+        "a distant cousin",
+        "远房表亲"
+      ]
+    },
+    "related": [
+      {
+        "word": "family reunion",
+        "meaning": "家庭团聚",
+        "relation": "同场景"
+      },
+      {
+        "word": "extended family",
+        "meaning": "大家庭",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-019",
+      "19-020",
+      "19-021",
+      "19-031",
+      "19-033"
+    ],
+    "examples": [
+      {
+        "en": "My nephew and niece came with a twin cousin, while another relative helped us contact their next of kin.",
+        "zh": "我的侄子和侄女与一位双胞胎表亲到来，另一位亲属帮我们联系其最近亲属。"
+      },
+      {
+        "en": "The family register lists each relative, including my nephew, niece and twin brother, alongside their next of kin.",
+        "zh": "家族登记册列出各位亲属，包括我的侄子、侄女和双胞胎兄弟，并注明其最近亲属。"
+      },
+      {
+        "en": "A relative cared for the nephew and niece while their twin uncles searched for the next of kin.",
+        "zh": "一位亲属照顾侄子和侄女，同时他们的双胞胎叔叔寻找最近亲属。"
+      }
+    ],
+    "collocations": {
+      "19-019": [
+        "a young nephew",
+        "年幼的侄子"
+      ],
+      "19-020": [
+        "her niece",
+        "她的侄女"
+      ],
+      "19-021": [
+        "an identical twin",
+        "同卵双胞胎"
+      ],
+      "19-031": [
+        "next of kin",
+        "最近亲属"
+      ],
+      "19-033": [
+        "a close relative",
+        "近亲"
+      ]
+    },
+    "related": [
+      {
+        "word": "guardianship",
+        "meaning": "监护",
+        "relation": "同场景"
+      },
+      {
+        "word": "family register",
+        "meaning": "家族登记册",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-032"
+    ],
+    "examples": [
+      {
+        "en": "Local folk helped us find the old railway station.",
+        "zh": "当地人帮我们找到了旧火车站。"
+      },
+      {
+        "en": "The festival celebrates folk music from the surrounding villages.",
+        "zh": "节日庆祝周边村庄的民间音乐。"
+      },
+      {
+        "en": "Older folk often remember shops that have long disappeared.",
+        "zh": "年长的人往往记得早已消失的店铺。"
+      }
+    ],
+    "collocations": {
+      "19-032": [
+        "local folk",
+        "当地人"
+      ]
+    },
+    "related": [
+      {
+        "word": "community",
+        "meaning": "社区",
+        "relation": "同场景"
+      },
+      {
+        "word": "tradition",
+        "meaning": "传统",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-034",
+      "19-035",
+      "19-036",
+      "19-037",
+      "19-038"
+    ],
+    "examples": [
+      {
+        "en": "In the song, a lover calls his beloved darling and tells a dear friend about their intimate bond.",
+        "zh": "歌中，恋人称挚爱为亲爱的，并向亲密朋友讲述他们的亲密关系。"
+      },
+      {
+        "en": "The poet's beloved lover treasured an intimate letter that began with dear and ended with darling.",
+        "zh": "诗人的挚爱恋人珍藏一封以“亲爱的”开头、以“宝贝”结尾的亲密信件。"
+      },
+      {
+        "en": "The novel ends when a lover finds his beloved darling and shares the intimate news with a dear friend.",
+        "zh": "小说结尾，恋人找到心爱的宝贝，并将私密消息告诉一位亲密朋友。"
+      }
+    ],
+    "collocations": {
+      "19-034": [
+        "an intimate relationship",
+        "亲密关系"
+      ],
+      "19-035": [
+        "a dear friend",
+        "亲爱的朋友"
+      ],
+      "19-036": [
+        "my darling",
+        "我的亲爱的"
+      ],
+      "19-037": [
+        "a former lover",
+        "前恋人"
+      ],
+      "19-038": [
+        "a beloved partner",
+        "挚爱伴侣"
+      ]
+    },
+    "related": [
+      {
+        "word": "endearment",
+        "meaning": "爱称",
+        "relation": "同场景"
+      },
+      {
+        "word": "affection",
+        "meaning": "感情",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-022",
+      "19-023",
+      "19-024"
+    ],
+    "examples": [
+      {
+        "en": "The documentary follows an embryo through birth to infancy, then tells the story of an infant who became an orphan.",
+        "zh": "纪录片追踪胚胎从出生到婴儿期，随后讲述一个成为孤儿的婴儿的故事。"
+      },
+      {
+        "en": "The charity supports embryo research and infant care, and also funds services for every orphan in the region.",
+        "zh": "该慈善机构支持胚胎研究和婴儿护理，也资助当地每位孤儿获得服务。"
+      },
+      {
+        "en": "The exhibition separates embryo development from infant welfare and the social support an orphan may need.",
+        "zh": "展览将胚胎发育与婴儿福利，以及孤儿可能需要的社会支持分开介绍。"
+      }
+    ],
+    "collocations": {
+      "19-022": [
+        "a developing embryo",
+        "发育中的胚胎"
+      ],
+      "19-023": [
+        "an infant child",
+        "婴儿"
+      ],
+      "19-024": [
+        "an orphan child",
+        "孤儿"
+      ]
+    },
+    "related": [
+      {
+        "word": "development",
+        "meaning": "发育",
+        "relation": "同场景"
+      },
+      {
+        "word": "child welfare",
+        "meaning": "儿童福利",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-025",
+      "19-026",
+      "19-027"
+    ],
+    "examples": [
+      {
+        "en": "Youth services help a vulnerable youngster avoid entering the juvenile justice system.",
+        "zh": "青少年服务帮助弱势孩子避免进入少年司法体系。"
+      },
+      {
+        "en": "The youth worker explained juvenile rights to each youngster at the centre.",
+        "zh": "青少年工作者向中心的每个孩子解释未成年人的权利。"
+      },
+      {
+        "en": "A youngster in the film attends a youth programme designed to reduce juvenile offending.",
+        "zh": "电影中的孩子参加了旨在减少少年犯罪的青少年项目。"
+      }
+    ],
+    "collocations": {
+      "19-025": [
+        "juvenile justice",
+        "少年司法"
+      ],
+      "19-026": [
+        "a curious youngster",
+        "好奇的孩子"
+      ],
+      "19-027": [
+        "youth services",
+        "青少年服务"
+      ]
+    },
+    "related": [
+      {
+        "word": "mentoring",
+        "meaning": "辅导",
+        "relation": "同场景"
+      },
+      {
+        "word": "prevention",
+        "meaning": "预防",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-028",
+      "19-029",
+      "19-030"
+    ],
+    "examples": [
+      {
+        "en": "The teenager joined a gang during adolescence but later found support through sport.",
+        "zh": "这名青少年在青春期加入帮派，后来通过体育获得支持。"
+      },
+      {
+        "en": "A teenager may seek belonging in a gang during the uncertainties of adolescence.",
+        "zh": "青少年可能在充满不确定性的青春期从帮派中寻求归属感。"
+      },
+      {
+        "en": "The documentary follows a teenager through adolescence and explains how community support helped him leave a gang.",
+        "zh": "纪录片跟踪一名青少年的青春期，解释社区支持如何帮助他脱离帮派。"
+      }
+    ],
+    "collocations": {
+      "19-028": [
+        "a street gang",
+        "街头帮派"
+      ],
+      "19-029": [
+        "a young teenager",
+        "年少的青少年"
+      ],
+      "19-030": [
+        "during adolescence",
+        "青春期期间"
+      ]
+    },
+    "related": [
+      {
+        "word": "peer pressure",
+        "meaning": "同伴压力",
+        "relation": "同场景"
+      },
+      {
+        "word": "belonging",
+        "meaning": "归属感",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-039",
+      "19-040",
+      "19-041"
+    ],
+    "examples": [
+      {
+        "en": "The hostess said, 'Welcome, madam,' as the landlady arrived for dinner.",
+        "zh": "女房东来吃晚饭时，女主人说：“欢迎，女士。”"
+      },
+      {
+        "en": "When the landlady asked for her coat, the hostess replied, 'Certainly, madam.'",
+        "zh": "女房东要她的大衣时，女主人答道：“当然，女士。”"
+      },
+      {
+        "en": "The hostess politely addressed the new landlady as madam before introducing the other guests.",
+        "zh": "女主人先礼貌地称新房东为女士，然后介绍其他宾客。"
+      }
+    ],
+    "collocations": {
+      "19-039": [
+        "yes, madam",
+        "好的，女士"
+      ],
+      "19-040": [
+        "a party hostess",
+        "聚会女主人"
+      ],
+      "19-041": [
+        "the landlady's flat",
+        "女房东的公寓"
+      ]
+    },
+    "related": [
+      {
+        "word": "hospitality",
+        "meaning": "待客之道",
+        "relation": "同场景"
+      },
+      {
+        "word": "politeness",
+        "meaning": "礼貌",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-042",
+      "19-043",
+      "19-044",
+      "19-045"
+    ],
+    "examples": [
+      {
+        "en": "The widow became mistress of the house after years as a housewife, and hired a maid to help.",
+        "zh": "这位寡妇当了多年家庭主妇后成为宅邸女主人，并雇了一位女佣帮忙。"
+      },
+      {
+        "en": "The diary contrasts a maid's duties with the life of a housewife and a wealthy widow who was mistress of a large estate.",
+        "zh": "日记比较了女佣职责、主妇生活，以及作为大庄园女主人的富裕寡妇的生活。"
+      },
+      {
+        "en": "In the novel, a maid supports a widow adjusting to life as mistress of a household after being a housewife.",
+        "zh": "小说中，一位女佣支持寡妇适应由家庭主妇转为一家女主人的生活。"
+      }
+    ],
+    "collocations": {
+      "19-042": [
+        "mistress of the house",
+        "女主人"
+      ],
+      "19-043": [
+        "a full-time housewife",
+        "全职家庭主妇"
+      ],
+      "19-044": [
+        "a young widow",
+        "年轻寡妇"
+      ],
+      "19-045": [
+        "a domestic maid",
+        "女佣"
+      ]
+    },
+    "related": [
+      {
+        "word": "domestic history",
+        "meaning": "家庭生活史",
+        "relation": "同场景"
+      },
+      {
+        "word": "social change",
+        "meaning": "社会变迁",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-046"
+    ],
+    "examples": [
+      {
+        "en": "In the old tale, a maiden rescues a traveller lost in the forest.",
+        "zh": "古老故事中，一位少女救助了迷失森林的旅人。"
+      },
+      {
+        "en": "The painting depicts a maiden standing beside a well.",
+        "zh": "画中描绘一位站在井旁的少女。"
+      },
+      {
+        "en": "The ballad tells of a maiden who leaves her village to seek work.",
+        "zh": "歌谣讲述一位离开村庄寻找工作的少女。"
+      }
+    ],
+    "collocations": {
+      "19-046": [
+        "a young maiden",
+        "年轻少女"
+      ]
+    },
+    "related": [
+      {
+        "word": "ballad",
+        "meaning": "歌谣",
+        "relation": "同场景"
+      },
+      {
+        "word": "folklore",
+        "meaning": "民间故事",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-047",
+      "19-048"
+    ],
+    "examples": [
+      {
+        "en": "Every household member should share at least one daily chore.",
+        "zh": "每位家庭成员都应分担至少一项日常家务。"
+      },
+      {
+        "en": "A household schedule makes each chore easier to manage.",
+        "zh": "家庭时间表让每项家务更易安排。"
+      },
+      {
+        "en": "The survey asks how much time each household spends on every chore.",
+        "zh": "调查询问各家庭在每项家务上花多少时间。"
+      }
+    ],
+    "collocations": {
+      "19-047": [
+        "a household budget",
+        "家庭预算"
+      ],
+      "19-048": [
+        "a daily chore",
+        "日常家务"
+      ]
+    },
+    "related": [
+      {
+        "word": "housework",
+        "meaning": "家务",
+        "relation": "同场景"
+      },
+      {
+        "word": "division of labour",
+        "meaning": "劳动分工",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-049",
+      "19-050",
+      "19-051",
+      "19-052"
+    ],
+    "examples": [
+      {
+        "en": "The landlord will host a dinner for the new tenant and a guest.",
+        "zh": "房东将为新租客及一位客人举办晚宴。"
+      },
+      {
+        "en": "As host, the tenant welcomed the landlord and another guest into the flat.",
+        "zh": "作为主人，租客欢迎房东和另一位客人来到公寓。"
+      },
+      {
+        "en": "The guest thanked the host, a former tenant who now rented the house from a different landlord.",
+        "zh": "客人感谢主人；主人曾是租客，现在从另一位房东那里租下了这座房子。"
+      }
+    ],
+    "collocations": {
+      "19-049": [
+        "host a dinner",
+        "举办晚宴"
+      ],
+      "19-050": [
+        "a private landlord",
+        "私人房东"
+      ],
+      "19-051": [
+        "a long-term tenant",
+        "长期租客"
+      ],
+      "19-052": [
+        "an invited guest",
+        "受邀客人"
+      ]
+    },
+    "related": [
+      {
+        "word": "tenancy",
+        "meaning": "租赁关系",
+        "relation": "同场景"
+      },
+      {
+        "word": "hospitality",
+        "meaning": "待客之道",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-053",
+      "19-054",
+      "19-055"
+    ],
+    "examples": [
+      {
+        "en": "An encounter with an unhappy customer taught the consultant how to support a client.",
+        "zh": "与一位不满顾客的相遇，让顾问学会了如何支持客户。"
+      },
+      {
+        "en": "The report compares a customer's brief encounter in a shop with a client's long-term relationship with an adviser.",
+        "zh": "报告比较顾客在商店的短暂接触与客户同顾问的长期关系。"
+      },
+      {
+        "en": "A positive encounter can turn a first-time customer into a regular client.",
+        "zh": "一次积极接触能把首次消费的顾客变成常客。"
+      }
+    ],
+    "collocations": {
+      "19-053": [
+        "customer service",
+        "客户服务"
+      ],
+      "19-054": [
+        "a regular client",
+        "常客"
+      ],
+      "19-055": [
+        "an unexpected encounter",
+        "意外相遇"
+      ]
+    },
+    "related": [
+      {
+        "word": "service quality",
+        "meaning": "服务质量",
+        "relation": "同场景"
+      },
+      {
+        "word": "relationship",
+        "meaning": "关系",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-056",
+      "19-057",
+      "19-058",
+      "19-059"
+    ],
+    "examples": [
+      {
+        "en": "I had to chase the bus to accompany my father and avoid missing the appointment, though he warned me not to miss my own meeting.",
+        "zh": "我不得不追公交车来陪父亲赴约，以免错过预约，尽管他提醒我别错过自己的会议。"
+      },
+      {
+        "en": "If you chase every opportunity, you may miss the appointment you promised to accompany your friend to.",
+        "zh": "如果你追逐每个机会，可能会错过答应陪朋友去的预约。"
+      },
+      {
+        "en": "She offered to accompany me to the appointment so I would not chase the wrong bus and miss the interview.",
+        "zh": "她提出陪我赴约，以免我追错公交车而错过面试。"
+      }
+    ],
+    "collocations": {
+      "19-056": [
+        "chase a bus",
+        "追公交车"
+      ],
+      "19-057": [
+        "miss an appointment",
+        "错过预约"
+      ],
+      "19-058": [
+        "make an appointment",
+        "预约"
+      ],
+      "19-059": [
+        "accompany a patient",
+        "陪同病人"
+      ]
+    },
+    "related": [
+      {
+        "word": "punctuality",
+        "meaning": "守时",
+        "relation": "同场景"
+      },
+      {
+        "word": "companionship",
+        "meaning": "陪伴",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-060",
+      "19-061",
+      "19-062"
+    ],
+    "examples": [
+      {
+        "en": "The delegate defended a dependent child and refused to let anyone call the frightened boy a coward.",
+        "zh": "代表保护了一名受抚养的孩子，不允许任何人称这个受惊的男孩为胆小鬼。"
+      },
+      {
+        "en": "A dependent family member praised the delegate for speaking honestly when others dismissed him as a coward.",
+        "zh": "一位受其供养的家人赞扬代表诚实发言，即使别人把他斥为胆小鬼。"
+      },
+      {
+        "en": "The novel's delegate feels like a coward when his dependent relatives need help he cannot provide.",
+        "zh": "小说中的代表无法提供受其供养亲属所需的帮助，因此觉得自己懦弱。"
+      }
+    ],
+    "collocations": {
+      "19-060": [
+        "a dependent child",
+        "受抚养的孩子"
+      ],
+      "19-061": [
+        "a conference delegate",
+        "会议代表"
+      ],
+      "19-062": [
+        "call someone a coward",
+        "称某人为胆小鬼"
+      ]
+    },
+    "related": [
+      {
+        "word": "responsibility",
+        "meaning": "责任",
+        "relation": "同场景"
+      },
+      {
+        "word": "courage",
+        "meaning": "勇气",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-063",
+      "19-064",
+      "19-065"
+    ],
+    "examples": [
+      {
+        "en": "He planned to propose in June, announce the engagement in July and marry in spring.",
+        "zh": "他计划六月求婚、七月宣布订婚，并在春天结婚。"
+      },
+      {
+        "en": "Before you propose, discuss when to marry and how long the engagement should last.",
+        "zh": "求婚前，应讨论何时结婚，以及订婚期应该多久。"
+      },
+      {
+        "en": "The couple chose to marry after a short engagement, although neither had expected the other to propose so soon.",
+        "zh": "这对伴侣决定在短暂订婚后结婚，尽管双方都未料到对方会如此快求婚。"
+      }
+    ],
+    "collocations": {
+      "19-063": [
+        "propose marriage",
+        "求婚"
+      ],
+      "19-064": [
+        "announce an engagement",
+        "宣布订婚"
+      ],
+      "19-065": [
+        "marry a partner",
+        "与伴侣结婚"
+      ]
+    },
+    "related": [
+      {
+        "word": "commitment",
+        "meaning": "承诺",
+        "relation": "同场景"
+      },
+      {
+        "word": "marriage plans",
+        "meaning": "婚姻计划",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-066",
+      "19-067",
+      "19-068"
+    ],
+    "examples": [
+      {
+        "en": "After the wedding and a final kiss goodbye, the couple left for their honeymoon.",
+        "zh": "婚礼后，伴侣们最后相吻告别，随后动身度蜜月。"
+      },
+      {
+        "en": "The photograph captures a kiss at the wedding before the honeymoon began.",
+        "zh": "照片捕捉了蜜月开始前婚礼上的一个吻。"
+      },
+      {
+        "en": "They remembered the wedding, their first married kiss and the quiet honeymoon by the sea.",
+        "zh": "他们回忆婚礼、婚后的第一吻和海边安静的蜜月。"
+      }
+    ],
+    "collocations": {
+      "19-066": [
+        "a wedding ceremony",
+        "婚礼"
+      ],
+      "19-067": [
+        "a honeymoon trip",
+        "蜜月旅行"
+      ],
+      "19-068": [
+        "a farewell kiss",
+        "告别吻"
+      ]
+    },
+    "related": [
+      {
+        "word": "celebration",
+        "meaning": "庆祝",
+        "relation": "同场景"
+      },
+      {
+        "word": "newlyweds",
+        "meaning": "新婚伴侣",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-069",
+      "19-070",
+      "19-071"
+    ],
+    "examples": [
+      {
+        "en": "After the divorce, she remained single and took sole responsibility for the household.",
+        "zh": "离婚后，她保持单身，独自承担家庭责任。"
+      },
+      {
+        "en": "The divorce left him single, with sole ownership of the small flat.",
+        "zh": "离婚后，他恢复单身，并独自拥有那间小公寓。"
+      },
+      {
+        "en": "A single parent may have sole custody following a divorce.",
+        "zh": "单亲家长可能在离婚后拥有单独监护权。"
+      }
+    ],
+    "collocations": {
+      "19-069": [
+        "file for divorce",
+        "提出离婚"
+      ],
+      "19-070": [
+        "remain single",
+        "保持单身"
+      ],
+      "19-071": [
+        "sole responsibility",
+        "唯一责任"
+      ]
+    },
+    "related": [
+      {
+        "word": "custody",
+        "meaning": "监护权",
+        "relation": "同场景"
+      },
+      {
+        "word": "independence",
+        "meaning": "独立",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-072",
+      "19-073",
+      "19-074"
+    ],
+    "examples": [
+      {
+        "en": "Each individual must understand their respective role in the project.",
+        "zh": "每个人都必须了解自己在项目中的职责。"
+      },
+      {
+        "en": "The teachers discussed the respective needs of each individual student.",
+        "zh": "老师们讨论了每位学生各自的需求。"
+      },
+      {
+        "en": "Each individual signed a form confirming their respective responsibilities.",
+        "zh": "每个人都签署了确认各自责任的表格。"
+      }
+    ],
+    "collocations": {
+      "19-072": [
+        "their respective roles",
+        "他们各自的职责"
+      ],
+      "19-073": [
+        "each person",
+        "每个人"
+      ],
+      "19-074": [
+        "an individual choice",
+        "个人选择"
+      ]
+    },
+    "related": [
+      {
+        "word": "responsibility",
+        "meaning": "责任",
+        "relation": "同场景"
+      },
+      {
+        "word": "participation",
+        "meaning": "参与",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-075",
+      "19-076",
+      "19-077"
+    ],
+    "examples": [
+      {
+        "en": "A commuter who recently became a club member helped organise a neighbourhood event.",
+        "zh": "一位最近加入俱乐部的通勤者帮助组织了社区活动。"
+      },
+      {
+        "en": "Each neighbourhood member can complete a survey about commuter services.",
+        "zh": "每位社区成员都可填写通勤服务调查。"
+      },
+      {
+        "en": "The commuter met another member of the neighbourhood association on the morning train.",
+        "zh": "这位通勤者在早班火车上遇见邻里协会的另一位成员。"
+      }
+    ],
+    "collocations": {
+      "19-075": [
+        "a daily commuter",
+        "每天通勤者"
+      ],
+      "19-076": [
+        "a residential neighbourhood",
+        "住宅社区"
+      ],
+      "19-077": [
+        "a club member",
+        "俱乐部成员"
+      ]
+    },
+    "related": [
+      {
+        "word": "local community",
+        "meaning": "当地社区",
+        "relation": "同场景"
+      },
+      {
+        "word": "public transport",
+        "meaning": "公共交通",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-078",
+      "19-079",
+      "19-080",
+      "19-081"
+    ],
+    "examples": [
+      {
+        "en": "The boss asked the manager to support the supervisor and listen to every subordinate.",
+        "zh": "老板要求经理支持主管，并倾听每位下属。"
+      },
+      {
+        "en": "A subordinate may report a concern to the supervisor, manager or boss.",
+        "zh": "下属可向主管、经理或老板反映问题。"
+      },
+      {
+        "en": "The manager warned the boss that a supervisor had treated a subordinate unfairly.",
+        "zh": "经理向老板报告，一位主管不公平地对待了下属。"
+      }
+    ],
+    "collocations": {
+      "19-078": [
+        "a supportive boss",
+        "支持员工的老板"
+      ],
+      "19-079": [
+        "a project manager",
+        "项目经理"
+      ],
+      "19-080": [
+        "a shift supervisor",
+        "轮班主管"
+      ],
+      "19-081": [
+        "a subordinate employee",
+        "下属员工"
+      ]
+    },
+    "related": [
+      {
+        "word": "reporting line",
+        "meaning": "汇报关系",
+        "relation": "同场景"
+      },
+      {
+        "word": "workplace culture",
+        "meaning": "职场文化",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-082",
+      "19-083",
+      "19-084",
+      "19-085",
+      "19-086"
+    ],
+    "examples": [
+      {
+        "en": "My colleague introduced a business partner, an old school mate, a political comrade and a casual acquaintance.",
+        "zh": "同事介绍了一位商业伙伴、老同学、政治同志及普通熟人。"
+      },
+      {
+        "en": "A chance acquaintance became a colleague, then a business partner, while an old mate remained a trusted comrade.",
+        "zh": "一位偶然认识的人先成了同事，再成为商业伙伴，而老朋友仍是可信战友。"
+      },
+      {
+        "en": "The memoir distinguishes a professional partner from a colleague, a close mate, a political comrade and a distant acquaintance.",
+        "zh": "回忆录区分了职业伙伴、同事、密友、政治同志与疏远熟人。"
+      }
+    ],
+    "collocations": {
+      "19-082": [
+        "a business partner",
+        "商业伙伴"
+      ],
+      "19-083": [
+        "a close mate",
+        "密友"
+      ],
+      "19-084": [
+        "a trusted colleague",
+        "可信同事"
+      ],
+      "19-085": [
+        "a political comrade",
+        "政治同志"
+      ],
+      "19-086": [
+        "a casual acquaintance",
+        "泛泛之交"
+      ]
+    },
+    "related": [
+      {
+        "word": "social network",
+        "meaning": "人际网络",
+        "relation": "同场景"
+      },
+      {
+        "word": "trust",
+        "meaning": "信任",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-087",
+      "19-088",
+      "19-089"
+    ],
+    "examples": [
+      {
+        "en": "A stranger became a friend, and their friendship grew through shared affection for music.",
+        "zh": "陌生人成了朋友，他们因共同热爱音乐而加深友谊。"
+      },
+      {
+        "en": "Small acts of kindness can turn a stranger into someone whose friendship and affection matter deeply.",
+        "zh": "微小善举能把陌生人变成其友谊与感情令人珍视的人。"
+      },
+      {
+        "en": "The novel traces a friendship from the first meeting with a stranger to a lifetime of mutual affection.",
+        "zh": "小说追踪一段友谊，从初遇陌生人到终生相互关爱。"
+      }
+    ],
+    "collocations": {
+      "19-087": [
+        "a lasting friendship",
+        "持久友谊"
+      ],
+      "19-088": [
+        "show affection",
+        "表达感情"
+      ],
+      "19-089": [
+        "a complete stranger",
+        "完全陌生的人"
+      ]
+    },
+    "related": [
+      {
+        "word": "companionship",
+        "meaning": "陪伴",
+        "relation": "同场景"
+      },
+      {
+        "word": "kindness",
+        "meaning": "善意",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-090",
+      "19-091"
+    ],
+    "examples": [
+      {
+        "en": "The deputy arranged training for the new apprentice.",
+        "zh": "副主任为新学徒安排了培训。"
+      },
+      {
+        "en": "As an apprentice, she never expected to become the director's deputy.",
+        "zh": "当学徒时，她从未想过自己会成为主任的副手。"
+      },
+      {
+        "en": "The deputy praised the apprentice for identifying a safety problem.",
+        "zh": "副主管赞扬学徒发现了安全问题。"
+      }
+    ],
+    "collocations": {
+      "19-090": [
+        "a skilled apprentice",
+        "熟练的学徒"
+      ],
+      "19-091": [
+        "a deputy director",
+        "副主任"
+      ]
+    },
+    "related": [
+      {
+        "word": "mentorship",
+        "meaning": "导师指导",
+        "relation": "同场景"
+      },
+      {
+        "word": "promotion",
+        "meaning": "晋升",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-092",
+      "19-093",
+      "19-094"
+    ],
+    "examples": [
+      {
+        "en": "The actress plays a heroine who saves the hero from danger.",
+        "zh": "这位演员扮演把男主角从危险中救出的女主角。"
+      },
+      {
+        "en": "The director asked the actress to portray the heroine as resourceful as the hero.",
+        "zh": "导演要求演员把女主角演得与男主角同样机智。"
+      },
+      {
+        "en": "The actress argued that the heroine deserved as much attention as the hero.",
+        "zh": "这位演员认为女主角应得到与男主角一样多的关注。"
+      }
+    ],
+    "collocations": {
+      "19-092": [
+        "a national hero",
+        "民族英雄"
+      ],
+      "19-093": [
+        "the story's heroine",
+        "故事女主角"
+      ],
+      "19-094": [
+        "a leading actress",
+        "女主演"
+      ]
+    },
+    "related": [
+      {
+        "word": "character",
+        "meaning": "角色",
+        "relation": "同场景"
+      },
+      {
+        "word": "performance",
+        "meaning": "表演",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-095",
+      "19-096",
+      "19-097"
+    ],
+    "examples": [
+      {
+        "en": "The chancellor invited a former commander and a company director to speak at the university.",
+        "zh": "校监邀请一位前指挥官和一位公司董事到大学演讲。"
+      },
+      {
+        "en": "A museum director consulted the chancellor and the commander about a joint exhibition.",
+        "zh": "博物馆馆长向校监和指挥官咨询联合展览。"
+      },
+      {
+        "en": "The director thanked the chancellor for hosting the retired commander at the ceremony.",
+        "zh": "主任感谢校监在典礼上接待退役指挥官。"
+      }
+    ],
+    "collocations": {
+      "19-095": [
+        "a university chancellor",
+        "大学校监"
+      ],
+      "19-096": [
+        "a military commander",
+        "军事指挥官"
+      ],
+      "19-097": [
+        "a company director",
+        "公司董事"
+      ]
+    },
+    "related": [
+      {
+        "word": "leadership",
+        "meaning": "领导",
+        "relation": "同场景"
+      },
+      {
+        "word": "public service",
+        "meaning": "公共服务",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-098",
+      "19-099",
+      "19-100"
+    ],
+    "examples": [
+      {
+        "en": "A proponent of the scheme asked the committee to recommend it to the council.",
+        "zh": "该方案的一位倡导者请委员会向议会推荐它。"
+      },
+      {
+        "en": "The council appointed a committee that included a prominent proponent of public transport.",
+        "zh": "议会任命了一个委员会，其中包括一位知名公共交通倡导者。"
+      },
+      {
+        "en": "The committee heard from a proponent before presenting its findings to the council.",
+        "zh": "委员会先听取一位倡导者意见，再向议会提交结论。"
+      }
+    ],
+    "collocations": {
+      "19-098": [
+        "a leading proponent",
+        "主要倡导者"
+      ],
+      "19-099": [
+        "a planning committee",
+        "规划委员会"
+      ],
+      "19-100": [
+        "a local council",
+        "地方议会"
+      ]
+    },
+    "related": [
+      {
+        "word": "governance",
+        "meaning": "治理",
+        "relation": "同场景"
+      },
+      {
+        "word": "consultation",
+        "meaning": "咨询",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-101",
+      "19-102",
+      "19-103",
+      "19-104"
+    ],
+    "examples": [
+      {
+        "en": "The careers fair featured a veterinary specialist, a business consultant and a school counsellor.",
+        "zh": "职业展邀请了兽医专家、商业顾问和学校辅导员。"
+      },
+      {
+        "en": "A counsellor helped the veterinary specialist find a consultant to advise on opening a clinic.",
+        "zh": "辅导员帮助兽医专家找到一位为开诊所提供建议的顾问。"
+      },
+      {
+        "en": "The veterinary course invited a specialist to discuss animal health, a consultant to discuss business and a counsellor to discuss stress.",
+        "zh": "兽医课程邀请专家讨论动物健康、顾问讨论商业，并请辅导员讨论压力。"
+      }
+    ],
+    "collocations": {
+      "19-101": [
+        "a medical specialist",
+        "医学专家"
+      ],
+      "19-102": [
+        "a business consultant",
+        "商业顾问"
+      ],
+      "19-103": [
+        "veterinary medicine",
+        "兽医学"
+      ],
+      "19-104": [
+        "a school counsellor",
+        "学校辅导员"
+      ]
+    },
+    "related": [
+      {
+        "word": "professional advice",
+        "meaning": "专业建议",
+        "relation": "同场景"
+      },
+      {
+        "word": "career development",
+        "meaning": "职业发展",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-105",
+      "19-106",
+      "19-107"
+    ],
+    "examples": [
+      {
+        "en": "The solicitor and the attorney asked an umpire to explain the disputed match rules.",
+        "zh": "两位律师请裁判解释有争议的比赛规则。"
+      },
+      {
+        "en": "Unlike an umpire who decides during a game, a solicitor or attorney may spend months preparing a legal case.",
+        "zh": "与比赛中当场判定的裁判不同，律师可能花数月准备案件。"
+      },
+      {
+        "en": "The umpire consulted a solicitor after receiving a claim from an attorney representing the club.",
+        "zh": "裁判收到代表俱乐部的律师的索赔要求后，咨询了一位律师。"
+      }
+    ],
+    "collocations": {
+      "19-105": [
+        "a family solicitor",
+        "家庭事务律师"
+      ],
+      "19-106": [
+        "an experienced attorney",
+        "经验丰富的律师"
+      ],
+      "19-107": [
+        "a cricket umpire",
+        "板球裁判"
+      ]
+    },
+    "related": [
+      {
+        "word": "adjudication",
+        "meaning": "裁决",
+        "relation": "同场景"
+      },
+      {
+        "word": "dispute",
+        "meaning": "争端",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-108",
+      "19-109",
+      "19-110",
+      "19-111"
+    ],
+    "examples": [
+      {
+        "en": "The cashier, fireman, nurse and gardener all volunteered at the community fair.",
+        "zh": "收银员、消防员、护士和园丁都在社区集市做志愿者。"
+      },
+      {
+        "en": "A nurse treated the gardener while a fireman checked the building and a cashier helped customers leave.",
+        "zh": "护士照顾园丁，消防员检查建筑，收银员帮助顾客离开。"
+      },
+      {
+        "en": "The survey compared the working hours of a cashier, a fireman, a nurse and a gardener.",
+        "zh": "调查比较了收银员、消防员、护士和园丁的工作时长。"
+      }
+    ],
+    "collocations": {
+      "19-108": [
+        "a supermarket cashier",
+        "超市收银员"
+      ],
+      "19-109": [
+        "a retired fireman",
+        "退休消防员"
+      ],
+      "19-110": [
+        "a hospital nurse",
+        "医院护士"
+      ],
+      "19-111": [
+        "a landscape gardener",
+        "园林工人"
+      ]
+    },
+    "related": [
+      {
+        "word": "shift work",
+        "meaning": "轮班工作",
+        "relation": "同场景"
+      },
+      {
+        "word": "community service",
+        "meaning": "社区服务",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-112",
+      "19-113",
+      "19-114",
+      "19-115",
+      "19-116"
+    ],
+    "examples": [
+      {
+        "en": "The groom visited the barber for a haircut before meeting his father, a fisherman, and his uncle, a butcher.",
+        "zh": "新郎去理发师处理发，随后见了当渔民的父亲和当肉贩的叔叔。"
+      },
+      {
+        "en": "The village barber gave the groom a haircut while the fisherman and butcher prepared for the wedding.",
+        "zh": "渔民和肉贩准备婚礼时，村里的理发师为新郎理发。"
+      },
+      {
+        "en": "A fisherman recommended the barber whose haircut had impressed the butcher when he was a groom.",
+        "zh": "一位渔民推荐了那位理发师；肉贩当新郎时，对他的理发手艺印象深刻。"
+      }
+    ],
+    "collocations": {
+      "19-112": [
+        "a local barber",
+        "当地理发师"
+      ],
+      "19-113": [
+        "get a haircut",
+        "理发"
+      ],
+      "19-114": [
+        "a coastal fisherman",
+        "沿海渔民"
+      ],
+      "19-115": [
+        "a village butcher",
+        "乡村肉贩"
+      ],
+      "19-116": [
+        "a wedding groom",
+        "婚礼新郎"
+      ]
+    },
+    "related": [
+      {
+        "word": "wedding preparation",
+        "meaning": "婚礼准备",
+        "relation": "同场景"
+      },
+      {
+        "word": "local trades",
+        "meaning": "本地手艺",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "19-117",
+      "19-118",
+      "19-119",
+      "19-120"
+    ],
+    "examples": [
+      {
+        "en": "The historical novel follows a slave, a beggar and a hostage whose lives are shaped by poverty and toil.",
+        "zh": "历史小说描写奴隶、乞丐与人质，他们的生活受到贫穷和艰辛劳动的影响。"
+      },
+      {
+        "en": "A former hostage described the toil endured by a slave and the hardship faced by a beggar in the same town.",
+        "zh": "一位前人质描述了同镇奴隶忍受的苦役与乞丐面临的困苦。"
+      },
+      {
+        "en": "The exhibition uses a slave's testimony, a beggar's diary and a hostage's letter to reveal lives of toil and insecurity.",
+        "zh": "展览用奴隶证言、乞丐日记和人质书信展示辛劳而缺乏保障的生活。"
+      }
+    ],
+    "collocations": {
+      "19-117": [
+        "free a hostage",
+        "释放人质"
+      ],
+      "19-118": [
+        "years of toil",
+        "多年辛劳"
+      ],
+      "19-119": [
+        "a street beggar",
+        "街头乞丐"
+      ],
+      "19-120": [
+        "a former slave",
+        "曾被奴役的人"
+      ]
+    },
+    "related": [
+      {
+        "word": "exploitation",
+        "meaning": "剥削",
+        "relation": "同场景"
+      },
+      {
+        "word": "vulnerability",
+        "meaning": "弱势处境",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

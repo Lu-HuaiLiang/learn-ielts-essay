@@ -1,0 +1,35 @@
+{
+  "teachingVersion": 2,
+  "paragraphs": 317,
+  "sentenceFunctions": 911,
+  "methods": {
+    "cause_solution": 3,
+    "discussion": 20,
+    "outweigh": 6,
+    "degree": 31,
+    "best": 2,
+    "mixed": 4,
+    "only": 2,
+    "abstract": 2
+  },
+  "essays": 70,
+  "topics": 22,
+  "steps": 1121,
+  "wordCountDifferences": [
+    {
+      "id": "eight-a05",
+      "declared": 407,
+      "actual": 406
+    },
+    {
+      "id": "eight-c02",
+      "declared": 398,
+      "actual": 396
+    },
+    {
+      "id": "eight-e02",
+      "declared": 363,
+      "actual": 361
+    }
+  ]
+}

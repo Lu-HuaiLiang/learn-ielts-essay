@@ -1,0 +1,2521 @@
+[
+  {
+    "ids": [
+      "16-001",
+      "16-002",
+      "16-003",
+      "16-004"
+    ],
+    "examples": [
+      {
+        "en": "The local economy depends on trade, a stable market and the tourism industry.",
+        "zh": "当地经济依赖贸易、稳定的市场和旅游业。"
+      },
+      {
+        "en": "A strong economy can support trade while a competitive market encourages industry to innovate.",
+        "zh": "强劲的经济能支撑贸易，而竞争性市场鼓励产业创新。"
+      },
+      {
+        "en": "When trade slows, the economy suffers, the job market weakens and industry cuts investment.",
+        "zh": "贸易放缓时，经济受损，就业市场走弱，产业削减投资。"
+      }
+    ],
+    "collocations": {
+      "16-001": [
+        "a growing economy",
+        "增长中的经济"
+      ],
+      "16-002": [
+        "international trade",
+        "国际贸易"
+      ],
+      "16-003": [
+        "the labour market",
+        "劳动力市场"
+      ],
+      "16-004": [
+        "the tourism industry",
+        "旅游业"
+      ]
+    },
+    "related": [
+      {
+        "word": "investment",
+        "meaning": "投资",
+        "relation": "同场景"
+      },
+      {
+        "word": "employment",
+        "meaning": "就业",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-005",
+      "16-006",
+      "16-007"
+    ],
+    "examples": [
+      {
+        "en": "A wealthy merchant offered financial support to the village relief fund.",
+        "zh": "一位富商为村里的救济基金提供资金支持。"
+      },
+      {
+        "en": "The merchant sought financial advice before contributing to the education fund.",
+        "zh": "商人在向教育基金捐款前寻求了财务建议。"
+      },
+      {
+        "en": "Financial records show that the merchant helped establish a fund for apprentices.",
+        "zh": "财务记录显示，这位商人帮助设立了学徒基金。"
+      }
+    ],
+    "collocations": {
+      "16-005": [
+        "a local merchant",
+        "当地商人"
+      ],
+      "16-006": [
+        "financial support",
+        "资金支持"
+      ],
+      "16-007": [
+        "a relief fund",
+        "救济基金"
+      ]
+    },
+    "related": [
+      {
+        "word": "donation",
+        "meaning": "捐款",
+        "relation": "同场景"
+      },
+      {
+        "word": "apprentice",
+        "meaning": "学徒",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-008",
+      "16-009"
+    ],
+    "examples": [
+      {
+        "en": "Alumni can donate equipment or endow a scholarship for disadvantaged students.",
+        "zh": "校友可以捐赠设备，或捐资设立帮助贫困学生的奖学金。"
+      },
+      {
+        "en": "Rather than donate a single painting, she decided to endow an entire art programme.",
+        "zh": "她决定捐资支持整个艺术项目，而非仅捐一幅画。"
+      },
+      {
+        "en": "The appeal invites businesses to donate books and wealthy individuals to endow research posts.",
+        "zh": "这项募捐呼吁企业捐书，并邀请富裕人士捐资设立研究职位。"
+      }
+    ],
+    "collocations": {
+      "16-008": [
+        "donate money",
+        "捐款"
+      ],
+      "16-009": [
+        "endow a scholarship",
+        "捐资设立奖学金"
+      ]
+    },
+    "related": [
+      {
+        "word": "alumni",
+        "meaning": "校友",
+        "relation": "同场景"
+      },
+      {
+        "word": "philanthropy",
+        "meaning": "慈善",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-010",
+      "16-011",
+      "16-012"
+    ],
+    "examples": [
+      {
+        "en": "The commercial team will advertise the service with a memorable slogan.",
+        "zh": "商务团队将用一句令人难忘的口号宣传这项服务。"
+      },
+      {
+        "en": "Before we advertise, we need a slogan that reflects our commercial values.",
+        "zh": "做广告之前，我们需要一句体现商业价值观的口号。"
+      },
+      {
+        "en": "Schools should question any commercial campaign that uses a slogan to advertise unhealthy food.",
+        "zh": "学校应质疑任何用口号宣传不健康食品的商业活动。"
+      }
+    ],
+    "collocations": {
+      "16-010": [
+        "commercial advertising",
+        "商业广告"
+      ],
+      "16-011": [
+        "advertise a product",
+        "为产品做广告"
+      ],
+      "16-012": [
+        "a memorable slogan",
+        "令人难忘的口号"
+      ]
+    },
+    "related": [
+      {
+        "word": "brand",
+        "meaning": "品牌",
+        "relation": "同场景"
+      },
+      {
+        "word": "consumer",
+        "meaning": "消费者",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-013",
+      "16-014",
+      "16-015"
+    ],
+    "examples": [
+      {
+        "en": "We cannot afford to purchase the building, so we will negotiate a lease.",
+        "zh": "我们买不起这栋楼，因此将协商租约。"
+      },
+      {
+        "en": "A long lease lets the charity afford better equipment without a costly property purchase.",
+        "zh": "长期租约让慈善机构无须花巨资买房，便能负担更好的设备。"
+      },
+      {
+        "en": "If you can afford the monthly lease, delaying the purchase may preserve your savings.",
+        "zh": "如果你付得起每月租金，推迟购买可能保住你的积蓄。"
+      }
+    ],
+    "collocations": {
+      "16-013": [
+        "purchase equipment",
+        "购买设备"
+      ],
+      "16-014": [
+        "sign a lease",
+        "签租约"
+      ],
+      "16-015": [
+        "afford the rent",
+        "付得起租金"
+      ]
+    },
+    "related": [
+      {
+        "word": "rent",
+        "meaning": "租金",
+        "relation": "同场景"
+      },
+      {
+        "word": "ownership",
+        "meaning": "所有权",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-016",
+      "16-017",
+      "16-018"
+    ],
+    "examples": [
+      {
+        "en": "The grocery chain keeps retail prices low by buying in bulk.",
+        "zh": "这家连锁杂货店通过批量采购维持低零售价。"
+      },
+      {
+        "en": "A new grocery chain has increased competition in the local retail sector.",
+        "zh": "新连锁杂货店加剧了当地零售业的竞争。"
+      },
+      {
+        "en": "Unlike the large chain, our grocery store relies on personal service to attract retail customers.",
+        "zh": "与大型连锁店不同，我们的杂货店靠贴心服务吸引零售顾客。"
+      }
+    ],
+    "collocations": {
+      "16-016": [
+        "retail prices",
+        "零售价"
+      ],
+      "16-017": [
+        "a supermarket chain",
+        "连锁超市"
+      ],
+      "16-018": [
+        "a grocery store",
+        "食品杂货店"
+      ]
+    },
+    "related": [
+      {
+        "word": "bulk buying",
+        "meaning": "批量采购",
+        "relation": "同场景"
+      },
+      {
+        "word": "customer service",
+        "meaning": "客户服务",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-019",
+      "16-020",
+      "16-021",
+      "16-022"
+    ],
+    "examples": [
+      {
+        "en": "During the promotion, shoppers can use a voucher or coupon to obtain a discount.",
+        "zh": "促销期间，顾客可使用代金券或优惠券获得折扣。"
+      },
+      {
+        "en": "The promotion offers a discount, but its terms prohibit combining a voucher with a coupon.",
+        "zh": "这次促销提供折扣，但条款禁止代金券和优惠券叠加。"
+      },
+      {
+        "en": "Check whether the promotion requires a coupon before exchanging your voucher for a discount.",
+        "zh": "用代金券享受折扣前，请确认该促销是否还要求优惠券。"
+      }
+    ],
+    "collocations": {
+      "16-019": [
+        "a student discount",
+        "学生折扣"
+      ],
+      "16-020": [
+        "a sales promotion",
+        "促销活动"
+      ],
+      "16-021": [
+        "a gift voucher",
+        "礼券"
+      ],
+      "16-022": [
+        "a discount coupon",
+        "优惠券"
+      ]
+    },
+    "related": [
+      {
+        "word": "checkout",
+        "meaning": "结账处",
+        "relation": "同场景"
+      },
+      {
+        "word": "terms and conditions",
+        "meaning": "条款",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-023",
+      "16-024",
+      "16-025"
+    ],
+    "examples": [
+      {
+        "en": "Students can swap foreign currency at the exchange desk before travelling.",
+        "zh": "学生出发前可以在兑换柜台交换外币。"
+      },
+      {
+        "en": "Banks charge for currency exchange, so travellers sometimes swap leftover notes with friends.",
+        "zh": "银行收取货币兑换费，因此旅客有时与朋友交换剩余纸币。"
+      },
+      {
+        "en": "A currency exchange service lets customers swap euros for pounds at an agreed rate.",
+        "zh": "货币兑换服务让顾客按约定汇率将欧元换成英镑。"
+      }
+    ],
+    "collocations": {
+      "16-023": [
+        "foreign currency",
+        "外币"
+      ],
+      "16-024": [
+        "currency exchange",
+        "货币兑换"
+      ],
+      "16-025": [
+        "swap currencies",
+        "交换货币"
+      ]
+    },
+    "related": [
+      {
+        "word": "exchange rate",
+        "meaning": "汇率",
+        "relation": "同场景"
+      },
+      {
+        "word": "banknote",
+        "meaning": "纸币",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-026",
+      "16-027"
+    ],
+    "examples": [
+      {
+        "en": "The invoice requests payment, while the receipt confirms that payment was received.",
+        "zh": "发票要求付款，而收据确认已经收到款项。"
+      },
+      {
+        "en": "Keep both the invoice and the receipt when claiming business expenses.",
+        "zh": "报销业务费用时，请同时保留发票和收据。"
+      },
+      {
+        "en": "The accountant matched each receipt to its invoice before closing the accounts.",
+        "zh": "会计结账前，把每张收据与对应发票核对。"
+      }
+    ],
+    "collocations": {
+      "16-026": [
+        "keep a receipt",
+        "保留收据"
+      ],
+      "16-027": [
+        "issue an invoice",
+        "开具发票"
+      ]
+    },
+    "related": [
+      {
+        "word": "payment",
+        "meaning": "付款",
+        "relation": "同场景"
+      },
+      {
+        "word": "accountant",
+        "meaning": "会计",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-028",
+      "16-029",
+      "16-030",
+      "16-031",
+      "16-032"
+    ],
+    "examples": [
+      {
+        "en": "Officials may impose a new tax, a pollution levy, an import tariff or customs duty.",
+        "zh": "官员可能征收新税、污染税、进口关税或海关税。"
+      },
+      {
+        "en": "Before they impose a tax or levy, ministers must explain how it differs from a tariff or duty.",
+        "zh": "部长在征收税款前，须解释它与关税或海关税的区别。"
+      },
+      {
+        "en": "The proposal would impose a carbon tax and a fuel levy while reducing the import tariff and customs duty.",
+        "zh": "该提案将征收碳税和燃油税，同时降低进口关税和海关税。"
+      }
+    ],
+    "collocations": {
+      "16-028": [
+        "income tax",
+        "所得税"
+      ],
+      "16-029": [
+        "a pollution levy",
+        "污染税"
+      ],
+      "16-030": [
+        "an import tariff",
+        "进口关税"
+      ],
+      "16-031": [
+        "customs duty",
+        "关税"
+      ],
+      "16-032": [
+        "impose a tax",
+        "征税"
+      ]
+    },
+    "related": [
+      {
+        "word": "taxpayer",
+        "meaning": "纳税人",
+        "relation": "同场景"
+      },
+      {
+        "word": "public revenue",
+        "meaning": "财政收入",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-033",
+      "16-034",
+      "16-035"
+    ],
+    "examples": [
+      {
+        "en": "Households that consume less electricity can spend less without sacrificing comfort as energy costs affect the cost of living.",
+        "zh": "少用电的家庭能在不牺牲舒适度的情况下少花钱，因为能源费用影响生活成本。"
+      },
+      {
+        "en": "If factories consume less fuel, they can spend more on wages and reduce the cost of production.",
+        "zh": "如果工厂少消耗燃料，就能在工资上多投入，并降低生产成本。"
+      },
+      {
+        "en": "Visitors consume local food and spend money in shops, helping cover the cost of maintaining the market.",
+        "zh": "游客消费当地食品并在商店花钱，帮助支付市场的维护成本。"
+      }
+    ],
+    "collocations": {
+      "16-033": [
+        "consume energy",
+        "消耗能源"
+      ],
+      "16-034": [
+        "spend money",
+        "花钱"
+      ],
+      "16-035": [
+        "the cost of living",
+        "生活成本"
+      ]
+    },
+    "related": [
+      {
+        "word": "household budget",
+        "meaning": "家庭预算",
+        "relation": "同场景"
+      },
+      {
+        "word": "energy efficiency",
+        "meaning": "能源效率",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-036",
+      "16-037",
+      "16-038"
+    ],
+    "examples": [
+      {
+        "en": "Gross revenue rose, but the expense of repairs absorbed most of the additional revenue.",
+        "zh": "总收入增加了，但维修费用消耗了新增收入的大部分。"
+      },
+      {
+        "en": "The expense report compares gross revenue with spending before tax.",
+        "zh": "费用报告将总收入与税前支出进行比较。"
+      },
+      {
+        "en": "A high gross revenue figure says little about profit unless every expense is included.",
+        "zh": "除非计入每项费用，否则很高的总收入数字并不能说明利润情况。"
+      }
+    ],
+    "collocations": {
+      "16-036": [
+        "business expense",
+        "业务开支"
+      ],
+      "16-037": [
+        "tax revenue",
+        "税收"
+      ],
+      "16-038": [
+        "gross revenue",
+        "总收入"
+      ]
+    },
+    "related": [
+      {
+        "word": "profit",
+        "meaning": "利润",
+        "relation": "同场景"
+      },
+      {
+        "word": "net income",
+        "meaning": "净收入",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-039",
+      "16-040",
+      "16-041"
+    ],
+    "examples": [
+      {
+        "en": "The financial crisis triggered a recession, raising fears of another depression.",
+        "zh": "金融危机引发了经济衰退，令人担忧会再次出现大萧条。"
+      },
+      {
+        "en": "A recession is generally less severe than a depression, although either can create a social crisis.",
+        "zh": "经济衰退通常没有大萧条严重，但两者都可能造成社会危机。"
+      },
+      {
+        "en": "During the crisis, economists debated whether the downturn was a recession or the start of a depression.",
+        "zh": "危机期间，经济学家争论此次下滑是衰退还是萧条的开端。"
+      }
+    ],
+    "collocations": {
+      "16-039": [
+        "an economic recession",
+        "经济衰退"
+      ],
+      "16-040": [
+        "the Great Depression",
+        "大萧条"
+      ],
+      "16-041": [
+        "a financial crisis",
+        "金融危机"
+      ]
+    },
+    "related": [
+      {
+        "word": "downturn",
+        "meaning": "经济下行",
+        "relation": "同场景"
+      },
+      {
+        "word": "unemployment",
+        "meaning": "失业",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-042",
+      "16-043"
+    ],
+    "examples": [
+      {
+        "en": "For greater financial security, she invested part of her savings in a government bond.",
+        "zh": "为获得更稳妥的财务保障，她将部分积蓄投向政府债券。"
+      },
+      {
+        "en": "A bond can provide regular income, but financial security still requires attention to risk.",
+        "zh": "债券能提供定期收入，但财务保障仍要求关注风险。"
+      },
+      {
+        "en": "The adviser discussed retirement security before recommending a bond fund.",
+        "zh": "顾问在推荐债券基金前讨论了退休财务保障。"
+      }
+    ],
+    "collocations": {
+      "16-042": [
+        "financial security",
+        "财务保障"
+      ],
+      "16-043": [
+        "a government bond",
+        "政府债券"
+      ]
+    },
+    "related": [
+      {
+        "word": "investment risk",
+        "meaning": "投资风险",
+        "relation": "同场景"
+      },
+      {
+        "word": "retirement",
+        "meaning": "退休",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-044",
+      "16-045"
+    ],
+    "examples": [
+      {
+        "en": "A persistent budget deficit can increase public debt.",
+        "zh": "持续的预算赤字可能增加公共债务。"
+      },
+      {
+        "en": "The government reduced its deficit but still owed a substantial debt.",
+        "zh": "政府缩小了赤字，但仍欠下巨额债务。"
+      },
+      {
+        "en": "Borrowing to cover the deficit adds to debt unless other liabilities fall.",
+        "zh": "为弥补赤字而借款会增加债务，除非其他负债下降。"
+      }
+    ],
+    "collocations": {
+      "16-044": [
+        "public debt",
+        "公共债务"
+      ],
+      "16-045": [
+        "a budget deficit",
+        "预算赤字"
+      ]
+    },
+    "related": [
+      {
+        "word": "borrowing",
+        "meaning": "借款",
+        "relation": "同场景"
+      },
+      {
+        "word": "fiscal policy",
+        "meaning": "财政政策",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-046",
+      "16-047"
+    ],
+    "examples": [
+      {
+        "en": "Inflation raises the general price level, whereas deflation lowers it.",
+        "zh": "通胀推高总体物价水平，而通缩使其下降。"
+      },
+      {
+        "en": "Policy makers worry about both rapid inflation and prolonged deflation.",
+        "zh": "政策制定者既担心快速通胀，也担心长期通缩。"
+      },
+      {
+        "en": "The report compares household spending during periods of inflation and deflation.",
+        "zh": "报告比较了通胀和通缩时期的家庭支出。"
+      }
+    ],
+    "collocations": {
+      "16-046": [
+        "rising inflation",
+        "上升的通胀"
+      ],
+      "16-047": [
+        "prolonged deflation",
+        "长期通缩"
+      ]
+    },
+    "related": [
+      {
+        "word": "price level",
+        "meaning": "物价水平",
+        "relation": "同场景"
+      },
+      {
+        "word": "purchasing power",
+        "meaning": "购买力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-048",
+      "16-049",
+      "16-050"
+    ],
+    "examples": [
+      {
+        "en": "As orders dwindle and demand shows a decrease, the factory may downsize.",
+        "zh": "随着订单减少、需求下降，工厂可能缩减规模。"
+      },
+      {
+        "en": "A decrease in funding forced the charity to downsize as its reserves continued to dwindle.",
+        "zh": "资金减少迫使慈善机构缩减规模，其储备也继续萎缩。"
+      },
+      {
+        "en": "The firm plans to downsize after a decrease in sales, but managers hope staff numbers will dwindle through retirement.",
+        "zh": "销售下降后，公司计划裁员，但经理希望通过退休自然减员。"
+      }
+    ],
+    "collocations": {
+      "16-048": [
+        "dwindle rapidly",
+        "迅速减少"
+      ],
+      "16-049": [
+        "a decrease in demand",
+        "需求下降"
+      ],
+      "16-050": [
+        "downsize the workforce",
+        "裁员"
+      ]
+    },
+    "related": [
+      {
+        "word": "redundancy",
+        "meaning": "裁员",
+        "relation": "同场景"
+      },
+      {
+        "word": "reserves",
+        "meaning": "储备",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-051",
+      "16-052",
+      "16-053"
+    ],
+    "examples": [
+      {
+        "en": "To reduce the decline in sales, we must ensure that delays do not diminish customer trust.",
+        "zh": "为减缓销量下降，我们必须确保延误不会削弱客户信任。"
+      },
+      {
+        "en": "Better training may reduce errors and diminish the risk of a further decline in quality.",
+        "zh": "更好的培训可能减少错误，降低质量进一步下降的风险。"
+      },
+      {
+        "en": "A decline in subsidies could diminish profits and force firms to reduce production.",
+        "zh": "补贴下降可能削弱利润，迫使企业减产。"
+      }
+    ],
+    "collocations": {
+      "16-051": [
+        "a decline in sales",
+        "销量下降"
+      ],
+      "16-052": [
+        "diminish demand",
+        "减少需求"
+      ],
+      "16-053": [
+        "reduce costs",
+        "降低成本"
+      ]
+    },
+    "related": [
+      {
+        "word": "customer trust",
+        "meaning": "客户信任",
+        "relation": "同场景"
+      },
+      {
+        "word": "subsidy",
+        "meaning": "补贴",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-054",
+      "16-055",
+      "16-056",
+      "16-057"
+    ],
+    "examples": [
+      {
+        "en": "Economic growth can enrich communities if each wage increment produces a real increase in income.",
+        "zh": "如果每次加薪都带来实际收入增长，经济增长就能使社区富裕。"
+      },
+      {
+        "en": "An increase in skills can enrich working lives and support growth beyond the annual pay increment.",
+        "zh": "技能提升能丰富职业生活，并带来超越年度加薪的成长。"
+      },
+      {
+        "en": "Growth should enrich ordinary households, so an increment must at least match the increase in living costs.",
+        "zh": "增长应惠及普通家庭，因此加薪至少应跟上生活成本的上涨。"
+      }
+    ],
+    "collocations": {
+      "16-054": [
+        "an increase in pay",
+        "加薪"
+      ],
+      "16-055": [
+        "an annual increment",
+        "年度加薪"
+      ],
+      "16-056": [
+        "economic growth",
+        "经济增长"
+      ],
+      "16-057": [
+        "enrich communities",
+        "使社区富裕"
+      ]
+    },
+    "related": [
+      {
+        "word": "living standards",
+        "meaning": "生活水平",
+        "relation": "同场景"
+      },
+      {
+        "word": "productivity",
+        "meaning": "生产率",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-058",
+      "16-059",
+      "16-060"
+    ],
+    "examples": [
+      {
+        "en": "Firms that export machinery and import fuel may pay a smaller dividend when energy prices rise.",
+        "zh": "出口机械、进口燃料的企业可能在能源涨价时少派股息。"
+      },
+      {
+        "en": "The company will import components, export finished goods and use profits to pay a dividend.",
+        "zh": "公司将进口零件、出口成品，并用利润派发股息。"
+      },
+      {
+        "en": "If we export more than we import, the board expects to raise the dividend.",
+        "zh": "如果出口额超过进口额，董事会预计将提高股息。"
+      }
+    ],
+    "collocations": {
+      "16-058": [
+        "export goods",
+        "出口商品"
+      ],
+      "16-059": [
+        "import fuel",
+        "进口燃料"
+      ],
+      "16-060": [
+        "pay a dividend",
+        "派发股息"
+      ]
+    },
+    "related": [
+      {
+        "word": "shareholder",
+        "meaning": "股东",
+        "relation": "同场景"
+      },
+      {
+        "word": "components",
+        "meaning": "零部件",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-061",
+      "16-062",
+      "16-063"
+    ],
+    "examples": [
+      {
+        "en": "An influx of investors can help firms expand, but competition for land may cause prices to escalate.",
+        "zh": "投资者涌入有助于企业扩张，但土地竞争可能导致价格上涨。"
+      },
+      {
+        "en": "As costs escalate, the council fears that an influx of visitors will force hotels to expand too quickly.",
+        "zh": "成本不断上升，市政委员会担忧游客涌入会迫使酒店过快扩张。"
+      },
+      {
+        "en": "We can expand services after the influx of funding, provided operating costs do not escalate.",
+        "zh": "资金流入后我们可以扩大服务，前提是运营成本不会不断增加。"
+      }
+    ],
+    "collocations": {
+      "16-061": [
+        "escalate rapidly",
+        "迅速升级"
+      ],
+      "16-062": [
+        "expand operations",
+        "扩大业务"
+      ],
+      "16-063": [
+        "an influx of capital",
+        "资本流入"
+      ]
+    },
+    "related": [
+      {
+        "word": "operating costs",
+        "meaning": "运营成本",
+        "relation": "同场景"
+      },
+      {
+        "word": "investment",
+        "meaning": "投资",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-064",
+      "16-065",
+      "16-066"
+    ],
+    "examples": [
+      {
+        "en": "Even an affluent city must provide sufficient funding for adequate housing.",
+        "zh": "即使是富裕城市，也必须提供足够资金来保障住房。"
+      },
+      {
+        "en": "Affluent households usually have sufficient savings to secure adequate care in old age.",
+        "zh": "富裕家庭通常有足够积蓄来保障老年生活照护。"
+      },
+      {
+        "en": "A school need not be affluent to offer adequate facilities if it receives sufficient public support.",
+        "zh": "只要获得足够公共支持，学校无须很富裕也能提供合格设施。"
+      }
+    ],
+    "collocations": {
+      "16-064": [
+        "an affluent area",
+        "富裕地区"
+      ],
+      "16-065": [
+        "sufficient income",
+        "足够的收入"
+      ],
+      "16-066": [
+        "adequate housing",
+        "足够的住房"
+      ]
+    },
+    "related": [
+      {
+        "word": "inequality",
+        "meaning": "不平等",
+        "relation": "同场景"
+      },
+      {
+        "word": "public services",
+        "meaning": "公共服务",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-067",
+      "16-068",
+      "16-069",
+      "16-070"
+    ],
+    "examples": [
+      {
+        "en": "Selling redundant machines creates spare space and a saving where there is a lack of storage.",
+        "zh": "出售多余机器能腾出空闲空间，并在储存空间不足时节约费用。"
+      },
+      {
+        "en": "A lack of demand left spare capacity, making some equipment redundant despite the energy saving it offered.",
+        "zh": "需求不足造成产能闲置，一些设备虽能节能，却仍变得多余。"
+      },
+      {
+        "en": "The office reused spare desks to address a lack of furniture, achieving a saving without buying redundant stock.",
+        "zh": "办公室利用闲置桌子解决家具不足，实现了节约，也避免买入多余库存。"
+      }
+    ],
+    "collocations": {
+      "16-067": [
+        "spare capacity",
+        "闲置产能"
+      ],
+      "16-068": [
+        "a cost saving",
+        "成本节省"
+      ],
+      "16-069": [
+        "redundant equipment",
+        "多余设备"
+      ],
+      "16-070": [
+        "a lack of space",
+        "空间不足"
+      ]
+    },
+    "related": [
+      {
+        "word": "storage",
+        "meaning": "储存",
+        "relation": "同场景"
+      },
+      {
+        "word": "efficiency",
+        "meaning": "效率",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-071",
+      "16-072",
+      "16-073",
+      "16-074",
+      "16-075"
+    ],
+    "examples": [
+      {
+        "en": "The agent explained that the company, unlike the informal firm, was a separate legal entity running a social enterprise.",
+        "zh": "代理人解释，该公司与那家非正式商号不同，是经营社会企业的独立法律实体。"
+      },
+      {
+        "en": "A law firm advised the company to register its enterprise as a distinct entity before appointing an agent.",
+        "zh": "律师事务所建议公司先把企业注册为独立实体，再委任代理人。"
+      },
+      {
+        "en": "The company hired an agent from a consulting firm to help its social enterprise become an independent entity.",
+        "zh": "该公司从咨询公司聘请代理人，帮助其社会企业成为独立实体。"
+      }
+    ],
+    "collocations": {
+      "16-071": [
+        "a limited company",
+        "有限责任公司"
+      ],
+      "16-072": [
+        "a law firm",
+        "律师事务所"
+      ],
+      "16-073": [
+        "a social enterprise",
+        "社会企业"
+      ],
+      "16-074": [
+        "an insurance agent",
+        "保险代理人"
+      ],
+      "16-075": [
+        "a legal entity",
+        "法人实体"
+      ]
+    },
+    "related": [
+      {
+        "word": "registration",
+        "meaning": "注册",
+        "relation": "同场景"
+      },
+      {
+        "word": "business structure",
+        "meaning": "企业结构",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-076",
+      "16-077",
+      "16-078",
+      "16-079"
+    ],
+    "examples": [
+      {
+        "en": "We plan to invest in a product whose development requires less capital input than an acquisition.",
+        "zh": "我们计划投资一款产品，其开发所需资本投入少于一次收购。"
+      },
+      {
+        "en": "After the acquisition, the owners will invest more in product design and seek input from customers.",
+        "zh": "收购后，所有者将加大产品设计投入，并征求客户意见。"
+      },
+      {
+        "en": "The acquisition allows us to invest in better tools, reduce material input and improve the final product.",
+        "zh": "这次收购使我们能投资更好的工具，减少材料投入，并改进最终产品。"
+      }
+    ],
+    "collocations": {
+      "16-076": [
+        "invest in technology",
+        "投资技术"
+      ],
+      "16-077": [
+        "capital input",
+        "资本投入"
+      ],
+      "16-078": [
+        "launch a product",
+        "推出产品"
+      ],
+      "16-079": [
+        "a company acquisition",
+        "公司收购"
+      ]
+    },
+    "related": [
+      {
+        "word": "development",
+        "meaning": "开发",
+        "relation": "同场景"
+      },
+      {
+        "word": "customer feedback",
+        "meaning": "客户反馈",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-080",
+      "16-081",
+      "16-082",
+      "16-083",
+      "16-084"
+    ],
+    "examples": [
+      {
+        "en": "A reliable carrier will insure the cargo, but cannot guarantee that fragile goods never break.",
+        "zh": "可靠承运人会为货物投保，但无法保证易碎商品绝不破损。"
+      },
+      {
+        "en": "Choose a reliable supplier, insure valuable cargo and request a guarantee for damaged goods.",
+        "zh": "选择可靠供应商，为贵重货物投保，并要求对受损商品提供保证。"
+      },
+      {
+        "en": "We insure every cargo shipment and guarantee that a reliable team checks the goods before departure.",
+        "zh": "我们为每批货物投保，并保证由可靠团队在出发前检查商品。"
+      }
+    ],
+    "collocations": {
+      "16-080": [
+        "consumer goods",
+        "消费品"
+      ],
+      "16-081": [
+        "air cargo",
+        "空运货物"
+      ],
+      "16-082": [
+        "insure the shipment",
+        "为货物投保"
+      ],
+      "16-083": [
+        "a money-back guarantee",
+        "退款保证"
+      ],
+      "16-084": [
+        "a reliable supplier",
+        "可靠供应商"
+      ]
+    },
+    "related": [
+      {
+        "word": "shipment",
+        "meaning": "装运货物",
+        "relation": "同场景"
+      },
+      {
+        "word": "carrier",
+        "meaning": "承运人",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-085",
+      "16-086",
+      "16-087"
+    ],
+    "examples": [
+      {
+        "en": "The director cannot attend the negotiation because she is absent on sick leave.",
+        "zh": "主管因病休假，不能出席谈判。"
+      },
+      {
+        "en": "Anyone absent from the preliminary negotiation should attend the final meeting.",
+        "zh": "缺席初步谈判的人应参加最后的会议。"
+      },
+      {
+        "en": "Although one adviser was absent, both parties agreed to attend another negotiation next week.",
+        "zh": "虽然一位顾问缺席，双方仍同意下周参加另一轮谈判。"
+      }
+    ],
+    "collocations": {
+      "16-085": [
+        "a negotiation process",
+        "谈判过程"
+      ],
+      "16-086": [
+        "attend a meeting",
+        "出席会议"
+      ],
+      "16-087": [
+        "absent from work",
+        "缺勤"
+      ]
+    },
+    "related": [
+      {
+        "word": "representative",
+        "meaning": "代表",
+        "relation": "同场景"
+      },
+      {
+        "word": "agreement",
+        "meaning": "协议",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-088",
+      "16-089",
+      "16-090",
+      "16-091"
+    ],
+    "examples": [
+      {
+        "en": "At the auction, buyers can bid for goods offered for sale at wholesale prices.",
+        "zh": "在拍卖会上，买家可竞价购买以批发价出售的商品。"
+      },
+      {
+        "en": "The wholesale company put its warehouse up for sale and accepted the highest bid at auction.",
+        "zh": "批发公司拍卖仓库，并接受了最高出价。"
+      },
+      {
+        "en": "Check wholesale prices before you bid at an auction sale.",
+        "zh": "在拍卖会上出价前，请查一查批发价。"
+      }
+    ],
+    "collocations": {
+      "16-088": [
+        "for sale",
+        "出售中"
+      ],
+      "16-089": [
+        "at wholesale prices",
+        "以批发价"
+      ],
+      "16-090": [
+        "an auction house",
+        "拍卖行"
+      ],
+      "16-091": [
+        "place a bid",
+        "出价"
+      ]
+    },
+    "related": [
+      {
+        "word": "buyer",
+        "meaning": "买方",
+        "relation": "同场景"
+      },
+      {
+        "word": "lot",
+        "meaning": "拍卖品",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-092",
+      "16-093",
+      "16-094"
+    ],
+    "examples": [
+      {
+        "en": "The deal involves a single transaction worth half the firm's annual turnover.",
+        "zh": "这份协议涉及一笔相当于公司年营业额一半的交易。"
+      },
+      {
+        "en": "A successful transaction can increase turnover, but a poorly priced deal may reduce profit.",
+        "zh": "成功的交易能增加营业额，但定价不当的协议可能降低利润。"
+      },
+      {
+        "en": "Before approving the deal, auditors compared the transaction value with reported turnover.",
+        "zh": "批准协议前，审计人员将交易价值与申报营业额作了比较。"
+      }
+    ],
+    "collocations": {
+      "16-092": [
+        "close a deal",
+        "达成交易"
+      ],
+      "16-093": [
+        "a business transaction",
+        "商业交易"
+      ],
+      "16-094": [
+        "annual turnover",
+        "年营业额"
+      ]
+    },
+    "related": [
+      {
+        "word": "auditor",
+        "meaning": "审计员",
+        "relation": "同场景"
+      },
+      {
+        "word": "profit margin",
+        "meaning": "利润率",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-095",
+      "16-096"
+    ],
+    "examples": [
+      {
+        "en": "Exporters may dump surplus goods abroad when a domestic quota limits sales.",
+        "zh": "国内配额限制销售时，出口商可能向国外倾销过剩商品。"
+      },
+      {
+        "en": "The import quota made it harder to dump cheap steel in the local market.",
+        "zh": "进口配额让向本地市场倾销廉价钢材更困难。"
+      },
+      {
+        "en": "Officials accused the firm of trying to dump stock before a new quota took effect.",
+        "zh": "官员指责该公司试图在新配额生效前倾销库存。"
+      }
+    ],
+    "collocations": {
+      "16-095": [
+        "dump surplus goods",
+        "倾销过剩商品"
+      ],
+      "16-096": [
+        "an import quota",
+        "进口配额"
+      ]
+    },
+    "related": [
+      {
+        "word": "surplus",
+        "meaning": "过剩",
+        "relation": "同场景"
+      },
+      {
+        "word": "trade restriction",
+        "meaning": "贸易限制",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-097",
+      "16-098",
+      "16-099",
+      "16-100"
+    ],
+    "examples": [
+      {
+        "en": "A share in the stock fund offers a possible benefit, while a deposit earns interest.",
+        "zh": "持有股票基金份额可能带来收益，而存款可赚取利息。"
+      },
+      {
+        "en": "Employees who own a share of company stock benefit when profits rise, but receive no guaranteed interest.",
+        "zh": "持有公司股票份额的员工能从利润增长中受益，但没有保证利息。"
+      },
+      {
+        "en": "The adviser compared the benefit of buying a stock share with the interest available on savings.",
+        "zh": "顾问比较了买入股票份额的收益与储蓄可得的利息。"
+      }
+    ],
+    "collocations": {
+      "16-097": [
+        "a market share",
+        "市场份额"
+      ],
+      "16-098": [
+        "a mutual benefit",
+        "共同利益"
+      ],
+      "16-099": [
+        "earn interest",
+        "赚取利息"
+      ],
+      "16-100": [
+        "stock market",
+        "股票市场"
+      ]
+    },
+    "related": [
+      {
+        "word": "investment return",
+        "meaning": "投资回报",
+        "relation": "同场景"
+      },
+      {
+        "word": "savings account",
+        "meaning": "储蓄账户",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-101",
+      "16-102",
+      "16-103"
+    ],
+    "examples": [
+      {
+        "en": "A deposit left in your account can cover the first instalment.",
+        "zh": "留在账户里的存款可以支付首期款。"
+      },
+      {
+        "en": "The bank will deduct each instalment from the account after receiving the initial deposit.",
+        "zh": "收到首笔存款后，银行将从账户中扣除每期款项。"
+      },
+      {
+        "en": "Check your account balance before paying the deposit and agreeing to a monthly instalment.",
+        "zh": "支付押金并同意每月分期付款前，请查看账户余额。"
+      }
+    ],
+    "collocations": {
+      "16-101": [
+        "open an account",
+        "开户"
+      ],
+      "16-102": [
+        "pay a deposit",
+        "交押金"
+      ],
+      "16-103": [
+        "a monthly instalment",
+        "每月分期款"
+      ]
+    },
+    "related": [
+      {
+        "word": "bank balance",
+        "meaning": "银行余额",
+        "relation": "同场景"
+      },
+      {
+        "word": "repayment",
+        "meaning": "还款",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-104",
+      "16-105",
+      "16-106",
+      "16-107",
+      "16-108"
+    ],
+    "examples": [
+      {
+        "en": "The museum accepts cash or a cheque for its exhibition of the shilling, the copper coin and other historic money.",
+        "zh": "博物馆的先令、铜币等历史货币展接受现金或支票付款。"
+      },
+      {
+        "en": "She paid cash rather than a cheque for a copper coin displayed beside an old shilling.",
+        "zh": "她购买了与一枚旧先令并排展出的铜币，用现金而非支票付款。"
+      },
+      {
+        "en": "A collector offered cash and a cheque in exchange for the copper coin and the rare shilling.",
+        "zh": "收藏家提出用现金加支票换那枚铜币和稀有先令。"
+      }
+    ],
+    "collocations": {
+      "16-104": [
+        "write a cheque",
+        "开支票"
+      ],
+      "16-105": [
+        "pay in cash",
+        "用现金支付"
+      ],
+      "16-106": [
+        "a silver coin",
+        "银币"
+      ],
+      "16-107": [
+        "an old shilling",
+        "旧先令"
+      ],
+      "16-108": [
+        "copper wire",
+        "铜线"
+      ]
+    },
+    "related": [
+      {
+        "word": "collector",
+        "meaning": "收藏家",
+        "relation": "同场景"
+      },
+      {
+        "word": "currency",
+        "meaning": "货币",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-109",
+      "16-110",
+      "16-111",
+      "16-112",
+      "16-113"
+    ],
+    "examples": [
+      {
+        "en": "The estate contained a treasure collection, but her lasting legacy was the wealth of knowledge she helped others possess.",
+        "zh": "遗产中有珍宝收藏，但她长久的遗产是她帮助他人拥有的丰富知识。"
+      },
+      {
+        "en": "To possess inherited wealth, he had to manage an estate whose principal legacy was a treasure of rare books.",
+        "zh": "为拥有继承的财富，他必须管理一处地产，其中主要遗产是珍贵藏书。"
+      },
+      {
+        "en": "The family used its wealth to preserve the estate and its treasure, creating a legacy that future generations could possess.",
+        "zh": "这家人用财富保护庄园及珍宝，创造了后代能拥有的遗产。"
+      }
+    ],
+    "collocations": {
+      "16-109": [
+        "buried treasure",
+        "埋藏的财宝"
+      ],
+      "16-110": [
+        "accumulate wealth",
+        "积累财富"
+      ],
+      "16-111": [
+        "inherit an estate",
+        "继承遗产"
+      ],
+      "16-112": [
+        "possess property",
+        "拥有财产"
+      ],
+      "16-113": [
+        "a lasting legacy",
+        "持久的遗产"
+      ]
+    },
+    "related": [
+      {
+        "word": "inheritance",
+        "meaning": "继承",
+        "relation": "同场景"
+      },
+      {
+        "word": "preservation",
+        "meaning": "保护",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-114",
+      "16-115"
+    ],
+    "examples": [
+      {
+        "en": "Please descend to the ground floor to request a refund.",
+        "zh": "请下到一楼申请退款。"
+      },
+      {
+        "en": "Customers had to descend a narrow staircase before reaching the refund desk.",
+        "zh": "顾客须走下一段狭窄楼梯才能到达退款柜台。"
+      },
+      {
+        "en": "You can claim a refund at the station after you descend from the viewing platform.",
+        "zh": "从观景台下来后，你可以在车站申请退款。"
+      }
+    ],
+    "collocations": {
+      "16-114": [
+        "descend the stairs",
+        "下楼"
+      ],
+      "16-115": [
+        "claim a refund",
+        "申请退款"
+      ]
+    },
+    "related": [
+      {
+        "word": "customer desk",
+        "meaning": "服务台",
+        "relation": "同场景"
+      },
+      {
+        "word": "staircase",
+        "meaning": "楼梯",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-116",
+      "16-117"
+    ],
+    "examples": [
+      {
+        "en": "Universities must coordinate their schedules if they want to collaborate effectively.",
+        "zh": "大学要有效合作，就必须协调时间安排。"
+      },
+      {
+        "en": "Local groups collaborate to coordinate food deliveries during emergencies.",
+        "zh": "当地团体合作协调紧急情况下的食品配送。"
+      },
+      {
+        "en": "Shared software helps us coordinate tasks and collaborate across time zones.",
+        "zh": "共享软件帮助我们协调任务，并跨时区合作。"
+      }
+    ],
+    "collocations": {
+      "16-116": [
+        "coordinate activities",
+        "协调活动"
+      ],
+      "16-117": [
+        "collaborate on research",
+        "合作研究"
+      ]
+    },
+    "related": [
+      {
+        "word": "teamwork",
+        "meaning": "团队协作",
+        "relation": "同场景"
+      },
+      {
+        "word": "partnership",
+        "meaning": "合作关系",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-118",
+      "16-119",
+      "16-120"
+    ],
+    "examples": [
+      {
+        "en": "The project provides cheap housing and valuable training, making it worthy of support.",
+        "zh": "该项目提供廉价住房和宝贵培训，因而值得支持。"
+      },
+      {
+        "en": "A cheap tool can still be valuable and worthy of careful maintenance.",
+        "zh": "廉价工具仍可能有价值，值得精心维护。"
+      },
+      {
+        "en": "The reviewer considered the cheap guide valuable enough to be worthy of a place in every library.",
+        "zh": "评论者认为这本廉价指南很有价值，值得每家图书馆收藏。"
+      }
+    ],
+    "collocations": {
+      "16-118": [
+        "worthy of support",
+        "值得支持"
+      ],
+      "16-119": [
+        "valuable advice",
+        "宝贵建议"
+      ],
+      "16-120": [
+        "cheap accommodation",
+        "廉价住宿"
+      ]
+    },
+    "related": [
+      {
+        "word": "value for money",
+        "meaning": "性价比",
+        "relation": "同场景"
+      },
+      {
+        "word": "maintenance",
+        "meaning": "维护",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-121",
+      "16-122",
+      "16-123"
+    ],
+    "examples": [
+      {
+        "en": "A financial incentive may accelerate repairs and encourage prompt action.",
+        "zh": "经济激励可能加快维修，并鼓励迅速行动。"
+      },
+      {
+        "en": "The incentive should prompt firms to accelerate investment in clean energy.",
+        "zh": "该激励应促使企业加快清洁能源投资。"
+      },
+      {
+        "en": "To accelerate delivery, the contract offers an incentive for prompt completion.",
+        "zh": "为加快交付，合同为按时迅速完成工作设置了奖励。"
+      }
+    ],
+    "collocations": {
+      "16-121": [
+        "a financial incentive",
+        "经济激励"
+      ],
+      "16-122": [
+        "accelerate progress",
+        "加快进展"
+      ],
+      "16-123": [
+        "prompt action",
+        "迅速行动"
+      ]
+    },
+    "related": [
+      {
+        "word": "motivation",
+        "meaning": "动力",
+        "relation": "同场景"
+      },
+      {
+        "word": "deadline",
+        "meaning": "截止日期",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-124",
+      "16-125",
+      "16-126"
+    ],
+    "examples": [
+      {
+        "en": "Her salary forms most of the household income, while her son's wage covers his travel.",
+        "zh": "她的薪水构成家庭收入的大部分，儿子的工资则支付他的交通费。"
+      },
+      {
+        "en": "The survey records income from a monthly salary, an hourly wage and other sources.",
+        "zh": "调查记录月薪、时薪及其他来源的收入。"
+      },
+      {
+        "en": "A higher minimum wage can raise income for workers who do not receive a fixed salary.",
+        "zh": "提高最低工资能增加没有固定月薪的工人的收入。"
+      }
+    ],
+    "collocations": {
+      "16-124": [
+        "an annual salary",
+        "年薪"
+      ],
+      "16-125": [
+        "household income",
+        "家庭收入"
+      ],
+      "16-126": [
+        "a minimum wage",
+        "最低工资"
+      ]
+    },
+    "related": [
+      {
+        "word": "earnings",
+        "meaning": "收入",
+        "relation": "同场景"
+      },
+      {
+        "word": "employment",
+        "meaning": "就业",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-127",
+      "16-128",
+      "16-129",
+      "16-130"
+    ],
+    "examples": [
+      {
+        "en": "The payroll team will reimburse travel expenses through a separate payment from regular remuneration.",
+        "zh": "薪资团队将通过独立于正常报酬的付款报销差旅费。"
+      },
+      {
+        "en": "Fair remuneration requires accurate payroll records and prompt payment, including a system to reimburse expenses.",
+        "zh": "公平报酬需要准确的工资记录、及时付款以及费用报销制度。"
+      },
+      {
+        "en": "Before the next payment, payroll staff must calculate remuneration and reimburse approved costs.",
+        "zh": "下次付款前，薪资人员必须计算报酬并报销已批准的费用。"
+      }
+    ],
+    "collocations": {
+      "16-127": [
+        "make a payment",
+        "付款"
+      ],
+      "16-128": [
+        "reimburse expenses",
+        "报销费用"
+      ],
+      "16-129": [
+        "on the payroll",
+        "在工资名单上"
+      ],
+      "16-130": [
+        "fair remuneration",
+        "公平报酬"
+      ]
+    },
+    "related": [
+      {
+        "word": "expense claim",
+        "meaning": "报销申请",
+        "relation": "同场景"
+      },
+      {
+        "word": "pay slip",
+        "meaning": "工资单",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-131",
+      "16-132"
+    ],
+    "examples": [
+      {
+        "en": "A transport subsidy helps apprentices earn a living while completing their training.",
+        "zh": "交通补贴帮助学徒在完成培训的同时谋生。"
+      },
+      {
+        "en": "Farmers may earn less without a subsidy, especially after a poor harvest.",
+        "zh": "没有补贴，农民可能收入更少，特别是在歉收之后。"
+      },
+      {
+        "en": "The subsidy lets young researchers earn enough to remain in the profession.",
+        "zh": "补贴让年轻研究者获得足够收入，继续从事这一职业。"
+      }
+    ],
+    "collocations": {
+      "16-131": [
+        "a government subsidy",
+        "政府补贴"
+      ],
+      "16-132": [
+        "earn a living",
+        "谋生"
+      ]
+    },
+    "related": [
+      {
+        "word": "apprenticeship",
+        "meaning": "学徒培训",
+        "relation": "同场景"
+      },
+      {
+        "word": "livelihood",
+        "meaning": "生计",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-133",
+      "16-134",
+      "16-135",
+      "16-136"
+    ],
+    "examples": [
+      {
+        "en": "Entering the medical profession is a major undertaking that shapes a person's career and occupation.",
+        "zh": "进入医疗行业是一项重大事业，会影响一个人的职业生涯和职业。"
+      },
+      {
+        "en": "The survey asks about occupation, career plans and the undertaking required to enter a chosen profession.",
+        "zh": "调查询问职业、职业规划及进入选定行业所需承担的任务。"
+      },
+      {
+        "en": "Changing occupation midway through a career is a serious undertaking, especially in a regulated profession.",
+        "zh": "职业生涯中途转行是一项重大任务，尤其是在受监管行业。"
+      }
+    ],
+    "collocations": {
+      "16-133": [
+        "a major undertaking",
+        "重大任务"
+      ],
+      "16-134": [
+        "a teaching career",
+        "教学生涯"
+      ],
+      "16-135": [
+        "the medical profession",
+        "医疗职业"
+      ],
+      "16-136": [
+        "state your occupation",
+        "填写职业"
+      ]
+    },
+    "related": [
+      {
+        "word": "qualification",
+        "meaning": "资格",
+        "relation": "同场景"
+      },
+      {
+        "word": "professional training",
+        "meaning": "职业培训",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-137",
+      "16-138",
+      "16-139",
+      "16-140",
+      "16-141"
+    ],
+    "examples": [
+      {
+        "en": "A healthy workforce needs fair labour conditions, whether someone sees the job as a vocation or becomes a workaholic.",
+        "zh": "无论有人把工作视为志业还是变成工作狂，健康的员工队伍都需要公平的劳动条件。"
+      },
+      {
+        "en": "The workaholic saw his job as a vocation, but the labour union warned that an exhausted workforce was unsafe.",
+        "zh": "这位工作狂将工作视为志业，但工会警告说，疲惫的员工队伍并不安全。"
+      },
+      {
+        "en": "Every job in the workforce deserves respect; a vocation should never require labour that turns someone into a workaholic.",
+        "zh": "员工队伍中的每份工作都值得尊重；志业不应要求把人变成工作狂的劳动。"
+      }
+    ],
+    "collocations": {
+      "16-137": [
+        "find a job",
+        "找工作"
+      ],
+      "16-138": [
+        "a sense of vocation",
+        "职业使命感"
+      ],
+      "16-139": [
+        "manual labour",
+        "体力劳动"
+      ],
+      "16-140": [
+        "a skilled workforce",
+        "熟练员工队伍"
+      ],
+      "16-141": [
+        "a compulsive workaholic",
+        "停不下来的工作狂"
+      ]
+    },
+    "related": [
+      {
+        "word": "work-life balance",
+        "meaning": "工作与生活的平衡",
+        "relation": "同场景"
+      },
+      {
+        "word": "union",
+        "meaning": "工会",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-142",
+      "16-143"
+    ],
+    "examples": [
+      {
+        "en": "The clerk updates personnel records whenever someone joins the company.",
+        "zh": "每当有人入职，文员便更新人事档案。"
+      },
+      {
+        "en": "Personnel officers asked the clerk to arrange the interviews.",
+        "zh": "人事专员请文员安排面试。"
+      },
+      {
+        "en": "A payroll clerk must protect confidential personnel information.",
+        "zh": "薪资文员必须保护机密人事信息。"
+      }
+    ],
+    "collocations": {
+      "16-142": [
+        "personnel records",
+        "人事档案"
+      ],
+      "16-143": [
+        "an office clerk",
+        "办公室文员"
+      ]
+    },
+    "related": [
+      {
+        "word": "confidentiality",
+        "meaning": "保密",
+        "relation": "同场景"
+      },
+      {
+        "word": "recruitment",
+        "meaning": "招聘",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-144",
+      "16-145",
+      "16-146"
+    ],
+    "examples": [
+      {
+        "en": "After the interview, we will resume discussions and recommend a candidate.",
+        "zh": "面试后，我们将恢复讨论并推荐候选人。"
+      },
+      {
+        "en": "I recommend that we resume the interview once the technical problem is resolved.",
+        "zh": "我建议技术问题解决后继续面试。"
+      },
+      {
+        "en": "The panel will resume work tomorrow and recommend whom to invite for a second interview.",
+        "zh": "评审组明天将恢复工作，并建议邀请谁参加第二轮面试。"
+      }
+    ],
+    "collocations": {
+      "16-144": [
+        "a job interview",
+        "求职面试"
+      ],
+      "16-145": [
+        "resume work",
+        "恢复工作"
+      ],
+      "16-146": [
+        "recommend a candidate",
+        "推荐候选人"
+      ]
+    },
+    "related": [
+      {
+        "word": "recruiter",
+        "meaning": "招聘者",
+        "relation": "同场景"
+      },
+      {
+        "word": "candidate",
+        "meaning": "候选人",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-147",
+      "16-148",
+      "16-149",
+      "16-150"
+    ],
+    "examples": [
+      {
+        "en": "A firm that plans to hire and employ new staff should explain any recent lay-off and why it chose to fire workers.",
+        "zh": "计划招聘并雇用新员工的企业应解释近期裁员，以及为何解雇员工。"
+      },
+      {
+        "en": "Managers cannot simply fire workers after a temporary lay-off and then hire replacements to employ on lower pay.",
+        "zh": "经理不能在临时裁员后直接解雇工人，再雇替工并支付更低工资。"
+      },
+      {
+        "en": "Before we hire anyone, we must decide whom to employ permanently and how a lay-off differs from a decision to fire someone.",
+        "zh": "招聘前，我们须决定长期雇谁，并区分裁员与解雇。"
+      }
+    ],
+    "collocations": {
+      "16-147": [
+        "employ staff",
+        "雇用员工"
+      ],
+      "16-148": [
+        "hire a designer",
+        "聘请设计师"
+      ],
+      "16-149": [
+        "fire an employee",
+        "解雇员工"
+      ],
+      "16-150": [
+        "a temporary lay-off",
+        "暂时裁员"
+      ]
+    },
+    "related": [
+      {
+        "word": "employment contract",
+        "meaning": "劳动合同",
+        "relation": "同场景"
+      },
+      {
+        "word": "job security",
+        "meaning": "工作保障",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-151",
+      "16-152",
+      "16-153",
+      "16-154",
+      "16-155"
+    ],
+    "examples": [
+      {
+        "en": "The handbook explains when managers may dismiss or discharge staff, sack an executive, accept a decision to resign or allow someone to retire.",
+        "zh": "手册说明经理何时可解雇员工、开除高管、接受辞职或允许退休。"
+      },
+      {
+        "en": "Rather than dismiss workers, discharge trainees or sack managers, the board let volunteers resign or retire.",
+        "zh": "董事会没有解雇工人、辞退学员或开除经理，而是允许自愿者辞职或退休。"
+      },
+      {
+        "en": "Some employees resign or retire before an investigation can lead the firm to dismiss them, discharge them from service or sack them.",
+        "zh": "一些员工在调查导致公司解雇、免职或开除他们之前便辞职或退休。"
+      }
+    ],
+    "collocations": {
+      "16-151": [
+        "dismiss an employee",
+        "解雇员工"
+      ],
+      "16-152": [
+        "discharge a worker",
+        "解雇工人"
+      ],
+      "16-153": [
+        "resign from office",
+        "辞职"
+      ],
+      "16-154": [
+        "sack a manager",
+        "开除经理"
+      ],
+      "16-155": [
+        "retire early",
+        "提前退休"
+      ]
+    },
+    "related": [
+      {
+        "word": "termination",
+        "meaning": "雇佣终止",
+        "relation": "同场景"
+      },
+      {
+        "word": "retirement",
+        "meaning": "退休",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-156",
+      "16-157",
+      "16-159"
+    ],
+    "examples": [
+      {
+        "en": "The loss was a direct result of a management failure.",
+        "zh": "这笔损失是管理失败的直接结果。"
+      },
+      {
+        "en": "Business failure can result in the loss of jobs across a whole town.",
+        "zh": "经营失败可能导致整个城镇就业岗位流失。"
+      },
+      {
+        "en": "The report linked the failure to a loss of trust rather than the result of poor demand.",
+        "zh": "报告将失败与信任流失联系起来，而非归因于需求疲弱。"
+      }
+    ],
+    "collocations": {
+      "16-156": [
+        "a direct result",
+        "直接结果"
+      ],
+      "16-157": [
+        "business failure",
+        "经营失败"
+      ],
+      "16-159": [
+        "a financial loss",
+        "经济损失"
+      ]
+    },
+    "related": [
+      {
+        "word": "accountability",
+        "meaning": "问责",
+        "relation": "同场景"
+      },
+      {
+        "word": "bankruptcy",
+        "meaning": "破产",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-158"
+    ],
+    "examples": [
+      {
+        "en": "The survey examined access to abortion across different regions.",
+        "zh": "调查考察了不同地区获得人工流产服务的情况。"
+      },
+      {
+        "en": "The clinic provides confidential information about abortion.",
+        "zh": "这家诊所提供关于人工流产的保密咨询信息。"
+      },
+      {
+        "en": "Public debate about abortion often reflects different ethical beliefs.",
+        "zh": "关于人工流产的公共讨论往往反映不同的伦理信念。"
+      }
+    ],
+    "collocations": {
+      "16-158": [
+        "access to abortion",
+        "获得人工流产服务"
+      ]
+    },
+    "related": [
+      {
+        "word": "reproductive health",
+        "meaning": "生殖健康",
+        "relation": "同场景"
+      },
+      {
+        "word": "confidentiality",
+        "meaning": "保密",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-160",
+      "16-161",
+      "16-162",
+      "16-163"
+    ],
+    "examples": [
+      {
+        "en": "A career change offers a chance to choose work with more opportunity for growth.",
+        "zh": "转行让人有机会选择更有成长空间的工作。"
+      },
+      {
+        "en": "Choose a course that gives you a chance to make a change and seize a new opportunity.",
+        "zh": "选择一门能让你有机会改变并抓住新机遇的课程。"
+      },
+      {
+        "en": "This opportunity gives residents a chance to choose how the town should change.",
+        "zh": "这个机会让居民能选择城镇应该如何改变。"
+      }
+    ],
+    "collocations": {
+      "16-160": [
+        "an opportunity to learn",
+        "学习机会"
+      ],
+      "16-161": [
+        "a second chance",
+        "第二次机会"
+      ],
+      "16-162": [
+        "choose a course",
+        "选择课程"
+      ],
+      "16-163": [
+        "make a change",
+        "作出改变"
+      ]
+    },
+    "related": [
+      {
+        "word": "career planning",
+        "meaning": "职业规划",
+        "relation": "同场景"
+      },
+      {
+        "word": "decision",
+        "meaning": "决定",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-164",
+      "16-165",
+      "16-166",
+      "16-167"
+    ],
+    "examples": [
+      {
+        "en": "We must develop sustainable transport to solve congestion and improve air quality.",
+        "zh": "我们必须发展可持续交通，以解决拥堵并改善空气质量。"
+      },
+      {
+        "en": "To improve housing, councils should develop sustainable methods that solve problems without wasting resources.",
+        "zh": "为改善住房，市政机构应制定可持续方法，在不浪费资源的情况下解决问题。"
+      },
+      {
+        "en": "Engineers develop sustainable technologies to solve energy shortages and improve efficiency.",
+        "zh": "工程师研发可持续技术，以解决能源短缺并提高效率。"
+      }
+    ],
+    "collocations": {
+      "16-164": [
+        "solve a problem",
+        "解决问题"
+      ],
+      "16-165": [
+        "develop a plan",
+        "制定计划"
+      ],
+      "16-166": [
+        "sustainable development",
+        "可持续发展"
+      ],
+      "16-167": [
+        "improve efficiency",
+        "提高效率"
+      ]
+    },
+    "related": [
+      {
+        "word": "resource conservation",
+        "meaning": "资源保护",
+        "relation": "同场景"
+      },
+      {
+        "word": "innovation",
+        "meaning": "创新",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "16-168",
+      "16-169",
+      "16-170",
+      "16-171"
+    ],
+    "examples": [
+      {
+        "en": "Governments must cooperate to regulate trade, manage disputes and agree on any sanction.",
+        "zh": "各国政府必须合作监管贸易、处理争端，并就任何制裁达成一致。"
+      },
+      {
+        "en": "An international sanction is easier to manage when agencies cooperate to regulate financial flows.",
+        "zh": "当机构合作监管资金流动时，国际制裁更易实施管理。"
+      },
+      {
+        "en": "Officials who regulate banks must cooperate with those who manage customs before applying a sanction.",
+        "zh": "监管银行的官员在实施制裁前，必须与管理海关的人员合作。"
+      }
+    ],
+    "collocations": {
+      "16-168": [
+        "manage resources",
+        "管理资源"
+      ],
+      "16-169": [
+        "regulate markets",
+        "监管市场"
+      ],
+      "16-170": [
+        "an economic sanction",
+        "经济制裁"
+      ],
+      "16-171": [
+        "cooperate closely",
+        "紧密合作"
+      ]
+    },
+    "related": [
+      {
+        "word": "oversight",
+        "meaning": "监督",
+        "relation": "同场景"
+      },
+      {
+        "word": "international agreement",
+        "meaning": "国际协议",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

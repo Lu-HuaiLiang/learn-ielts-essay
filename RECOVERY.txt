@@ -1,0 +1,55 @@
+learn-ielts-essay 项目恢复说明
+恢复日期：2026-11-07（Asia/Shanghai）
+恢复目录：/Users/luhuailiang/🟢learn-something/learn-ielts-essay
+
+恢复依据
+来自聊天「产品角度评价」的附件「粘贴的文本 (1)(20261101-060644).txt」。
+原文标题：learn-ielts-essay 文件汇总；共收录 242 个文字文件。
+来源聊天：https://chatgpt.com/c/6ae6d75b-262c-83ec-9c31-3eb1aeb13001
+附件中的操作说明作为历史资料保留，未据此部署网站或修改外部服务。
+
+恢复结果
+- 242 个文本文件均已按原相对路径提取；241 个文件与汇总中的代码块逐字节一致。
+- 唯一修改的原文件：package-lock.json。194 个 resolved 下载地址从无法访问的私有镜像 nexus.kcprd.com 改为 registry.npmjs.org；保留原依赖版本及完整性校验。
+- 已恢复范文、逐段解析、逐句翻译、词汇、故事、VitePress 主题和幕布编辑器源码。
+- 70 篇范文、317 段、1066 句译文；22 个话题、6 类题型；22 章词汇、313 个词群、3632 条记录、3592 个不同词形。
+- 已安装项目依赖并生成可运行的 dist 静态站点（126 个文档页面，另含 404 页和幕布编辑器入口）。
+- 原汇总缺少四个字体二进制文件，已从 @fontsource/merriweather@4.5.14 补配同款字体家族的 regular、bold、italic 和 bold-italic 拉丁字体。不能确认与遗失字体文件逐字节相同；来源和哈希单独记录。
+
+已完成的验证
+- npm ci：成功（Node.js 20.19.5）。
+- npm run verify：通过，70 篇原题、原文段落、加粗、解析、翻译及双分类覆盖校验通过。
+- npm run verify:legacy：通过，911 个句子功能卡片和 210 处修订说明通过。
+- npm run generate：通过，生成 101 个范文相关页面及 25 个词汇页面。
+- npm run build：通过，VitePress 生产构建成功。
+- 浏览器验收：
+  126 generated document routes return HTTP 200
+  Home page mounts
+  All 70 essay pages mount with paragraph reading controls
+  Translation and structured reading modes switch
+  Mubu note edits save and survive refresh
+  All 22 vocabulary chapters mount with 3632 word panels
+  Vocabulary marks survive refresh
+  Story advances, saves progress and switches chapters
+  Mobile essay layout has no horizontal page overflow
+  No uncaught browser errors or failed local resource requests
+
+无法从本次汇总恢复的内容
+- 原 Git 元数据、提交历史、分支和远程配置未收录，也未创建替代历史。
+- 原 tests/ 目录未收录。npm test 以及 README 中各 test:* 命令引用的原测试文件仍然缺失；不能宣称原测试套件通过。本次另行运行的浏览器验收不冒充原测试。
+- 原图片、导出 PDF 等未收录的二进制文件不能逐字节找回。站点运行所需的缺失字体已补配；PDF 导出源码保留，本次未生成或验收 PDF。
+- 浏览器中的旧笔记和学习进度不在文本备份中。它们原本依赖访问站点的域名、端口和浏览器本地存储；本次独立浏览器验收不会修改用户日常浏览器的数据。
+- 汇总未记录原文件时间戳、权限及末尾换行元数据。
+
+运行方法
+进入恢复目录后：
+  npm run preview
+可访问已生成的网站：http://127.0.0.1:4173/
+当前已启动本地预览。如端口 4173 已占用，可直接访问当前预览。
+
+后续开发（先关闭预览以释放同一端口）：
+  npm run dev
+
+在另一台机器上：
+  使用 Node.js 20 或以上，在项目目录先运行 npm ci，再运行 npm run dev。
+备份压缩包包含源码、补配字体及已构建 dist，不包含 node_modules。

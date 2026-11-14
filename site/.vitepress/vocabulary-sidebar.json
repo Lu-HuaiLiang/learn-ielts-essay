@@ -1,0 +1,117 @@
+[
+  {
+    "text": "词汇学习",
+    "items": [
+      {
+        "text": "学习方法与主题总览",
+        "link": "/vocabulary/"
+      },
+      {
+        "text": "单词故事接龙互动",
+        "link": "/vocabulary/stories"
+      }
+    ]
+  },
+  {
+    "text": "22 个主题",
+    "items": [
+      {
+        "text": "01 · 自然地理",
+        "link": "/vocabulary/chapter-01"
+      },
+      {
+        "text": "02 · 植物研究",
+        "link": "/vocabulary/chapter-02"
+      },
+      {
+        "text": "03 · 动物保护",
+        "link": "/vocabulary/chapter-03"
+      },
+      {
+        "text": "04 · 太空探索",
+        "link": "/vocabulary/chapter-04"
+      },
+      {
+        "text": "05 · 学校教育",
+        "link": "/vocabulary/chapter-05"
+      },
+      {
+        "text": "06 · 科技发明",
+        "link": "/vocabulary/chapter-06"
+      },
+      {
+        "text": "07 · 文化历史",
+        "link": "/vocabulary/chapter-07"
+      },
+      {
+        "text": "08 · 语言演化",
+        "link": "/vocabulary/chapter-08"
+      },
+      {
+        "text": "09 · 娱乐运动",
+        "link": "/vocabulary/chapter-09"
+      },
+      {
+        "text": "10 · 物品材料",
+        "link": "/vocabulary/chapter-10"
+      },
+      {
+        "text": "11 · 时尚潮流",
+        "link": "/vocabulary/chapter-11"
+      },
+      {
+        "text": "12 · 饮食健康",
+        "link": "/vocabulary/chapter-12"
+      },
+      {
+        "text": "13 · 建筑场所",
+        "link": "/vocabulary/chapter-13"
+      },
+      {
+        "text": "14 · 交通旅行",
+        "link": "/vocabulary/chapter-14"
+      },
+      {
+        "text": "15 · 国家政府",
+        "link": "/vocabulary/chapter-15"
+      },
+      {
+        "text": "16 · 社会经济",
+        "link": "/vocabulary/chapter-16"
+      },
+      {
+        "text": "17 · 法律法规",
+        "link": "/vocabulary/chapter-17"
+      },
+      {
+        "text": "18 · 沙场争锋",
+        "link": "/vocabulary/chapter-18"
+      },
+      {
+        "text": "19 · 社会角色",
+        "link": "/vocabulary/chapter-19"
+      },
+      {
+        "text": "20 · 行为动作",
+        "link": "/vocabulary/chapter-20"
+      },
+      {
+        "text": "21 · 身心健康",
+        "link": "/vocabulary/chapter-21"
+      },
+      {
+        "text": "22 · 时间日期",
+        "link": "/vocabulary/chapter-22"
+      }
+    ]
+  },
+  {
+    "text": "附录",
+    "items": [
+      {
+        "text": "重复词、义项说明与来源",
+        "link": "/vocabulary/appendices"
+      }
+    ]
+  }
+]

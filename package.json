@@ -1,0 +1,45 @@
+{
+  "name": "ielts-essay-reading-lab",
+  "version": "3.0.0",
+  "private": true,
+  "description": "70 IELTS model essays in a VitePress document site, grouped by topic and question type",
+  "scripts": {
+    "dev": "npm run check:audio && npm run build:editor && node scripts/generate-docs.mjs && vitepress dev site --host 127.0.0.1 --port 4173 --strictPort",
+    "build": "npm run check:audio && node scripts/verify-essays.mjs && npm run build:editor && node scripts/generate-docs.mjs && vitepress build site",
+    "build:editor": "vite build --config mubu-editor/vite.config.mts",
+    "preview": "vitepress preview site --host 127.0.0.1 --port 4173 --strictPort",
+    "generate": "node scripts/generate-docs.mjs",
+    "generate:audio": "node scripts/audio/generate.mjs",
+    "check:audio": "node scripts/audio/generate.mjs --check",
+    "verify": "node scripts/verify-essays.mjs",
+    "export:pdf": "node scripts/export-translation-pdf.mjs",
+    "verify:legacy": "node scripts/verify-library.cjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:browser": "node tests/document-browser.mjs",
+    "test:vocabulary": "node tests/vocabulary-browser.mjs && node tests/vocabulary-notes-browser.mjs && node tests/vocabulary-links-browser.mjs && node tests/vocabulary-marks-browser.mjs && node tests/vocabulary-stories-browser.mjs && node tests/vocabulary-story-progress-browser.mjs",
+    "test:vocabulary:marks": "node tests/vocabulary-marks-browser.mjs",
+    "test:vocabulary:stories": "node tests/vocabulary-stories-browser.mjs",
+    "test:presentation": "node tests/essay-presentation-browser.mjs",
+    "test:translation": "node tests/essay-translation-browser.mjs",
+    "test:read-aloud": "node tests/essay-read-aloud-browser.mjs",
+    "test:mubu": "node tests/mubu-browser.mjs",
+    "test:browser:legacy": "node tests/browser.cjs",
+    "test:vocabulary:progress": "node tests/vocabulary-story-progress-browser.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.64.1",
+    "vitepress": "1.6.4"
+  },
+  "dependencies": {
+    "lucide-react": "1.56.0",
+    "prosemirror-commands": "1.7.2",
+    "prosemirror-history": "1.5.1",
+    "prosemirror-keymap": "1.2.3",
+    "prosemirror-model": "1.25.12",
+    "prosemirror-state": "1.4.4",
+    "prosemirror-transform": "1.12.2",
+    "prosemirror-view": "1.42.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  }
+}

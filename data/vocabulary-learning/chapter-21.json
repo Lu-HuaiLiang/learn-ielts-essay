@@ -1,0 +1,6107 @@
+[
+  {
+    "ids": [
+      "21-001",
+      "21-002",
+      "21-003",
+      "21-004"
+    ],
+    "examples": [
+      {
+        "en": "When I feel tired, my mood changes, strong emotion rises and I find it harder to control my temper.",
+        "zh": "疲惫时，我的心情改变、强烈情绪涌现，更难控制脾气。"
+      },
+      {
+        "en": "Music can affect how we feel, improve our mood and give emotion a safer outlet than losing our temper.",
+        "zh": "音乐能影响感受、改善心情，并让情绪有比发脾气更安全的出口。"
+      },
+      {
+        "en": "The counsellor asked me to describe my mood, identify the emotion I feel and explain what makes me lose my temper.",
+        "zh": "咨询师让我描述心情、辨认感受到的情绪，并解释什么让我发脾气。"
+      }
+    ],
+    "collocations": {
+      "21-001": [
+        "feel relaxed",
+        "感觉放松"
+      ],
+      "21-002": [
+        "in a good mood",
+        "心情好"
+      ],
+      "21-003": [
+        "express emotion",
+        "表达情绪"
+      ],
+      "21-004": [
+        "lose your temper",
+        "发脾气"
+      ]
+    },
+    "related": [
+      {
+        "word": "emotional awareness",
+        "meaning": "情绪觉察",
+        "relation": "同场景"
+      },
+      {
+        "word": "self-control",
+        "meaning": "自制",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-005",
+      "21-006",
+      "21-007",
+      "21-008",
+      "21-009"
+    ],
+    "examples": [
+      {
+        "en": "Her calm manner and positive attitude reflect a resilient character, though her lively personality remains her most noticeable trait.",
+        "zh": "她沉稳的举止和积极态度体现了坚韧性格，但活泼个性仍是最显著的特征。"
+      },
+      {
+        "en": "A friendly manner is one trait of his personality, while his attitude to criticism reveals his character.",
+        "zh": "友善举止是他的一个个性特征，而对批评的态度显露出其品格。"
+      },
+      {
+        "en": "The interview explored personality and character through questions about attitude, manner and a defining trait.",
+        "zh": "面试通过关于态度、举止及代表性特征的问题，探索个性与品格。"
+      }
+    ],
+    "collocations": {
+      "21-005": [
+        "a polite manner",
+        "礼貌举止"
+      ],
+      "21-006": [
+        "a positive attitude",
+        "积极态度"
+      ],
+      "21-007": [
+        "strength of character",
+        "性格坚强"
+      ],
+      "21-008": [
+        "a lively personality",
+        "活泼个性"
+      ],
+      "21-009": [
+        "a distinctive trait",
+        "显著特征"
+      ]
+    },
+    "related": [
+      {
+        "word": "behaviour",
+        "meaning": "行为",
+        "relation": "同场景"
+      },
+      {
+        "word": "resilience",
+        "meaning": "坚韧",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-010",
+      "21-011"
+    ],
+    "examples": [
+      {
+        "en": "Patience is a virtue and a distinctive feature of her teaching.",
+        "zh": "耐心是一种美德，也是她教学的显著特征。"
+      },
+      {
+        "en": "The story's central feature is a debate about whether honesty remains a virtue under pressure.",
+        "zh": "故事的核心特征是争论诚实在压力下是否仍是美德。"
+      },
+      {
+        "en": "A leader's most attractive feature may be the quiet virtue of humility.",
+        "zh": "领导者最吸引人的特征可能是谦逊这一低调美德。"
+      }
+    ],
+    "collocations": {
+      "21-010": [
+        "the virtue of patience",
+        "耐心这一美德"
+      ],
+      "21-011": [
+        "a distinctive feature",
+        "显著特征"
+      ]
+    },
+    "related": [
+      {
+        "word": "integrity",
+        "meaning": "正直",
+        "relation": "同场景"
+      },
+      {
+        "word": "humility",
+        "meaning": "谦逊",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-012",
+      "21-013",
+      "21-014",
+      "21-015"
+    ],
+    "examples": [
+      {
+        "en": "Throughout the history of mankind, people have judged human worth by stature and flesh rather than dignity.",
+        "zh": "纵观人类历史，人们曾按身高和肉体而非尊严评判人的价值。"
+      },
+      {
+        "en": "The sculpture represents mankind through a human figure of modest stature, with realistic flesh and a thoughtful expression.",
+        "zh": "雕像以一个身材不高、肉体逼真、表情沉思的人物代表人类。"
+      },
+      {
+        "en": "The exhibition explores human identity, asking why mankind attaches meaning to stature and the appearance of flesh.",
+        "zh": "展览探讨人的身份，询问人类为何赋予身高和肉体外观特殊意义。"
+      }
+    ],
+    "collocations": {
+      "21-012": [
+        "short in stature",
+        "身材矮小"
+      ],
+      "21-013": [
+        "flesh and blood",
+        "血肉之躯"
+      ],
+      "21-014": [
+        "the history of mankind",
+        "人类历史"
+      ],
+      "21-015": [
+        "human dignity",
+        "人的尊严"
+      ]
+    },
+    "related": [
+      {
+        "word": "body image",
+        "meaning": "身体形象",
+        "relation": "同场景"
+      },
+      {
+        "word": "humanity",
+        "meaning": "人性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-016",
+      "21-017",
+      "21-018",
+      "21-019"
+    ],
+    "examples": [
+      {
+        "en": "The model skeleton includes each bone of the backbone and a removable skull.",
+        "zh": "模型骨架包括脊柱的每块骨，以及可拆卸头骨。"
+      },
+      {
+        "en": "A museum skeleton showed how the skull connects to the backbone and how each bone supports the body.",
+        "zh": "博物馆骨架展示头骨如何连接脊柱，以及每块骨如何支撑身体。"
+      },
+      {
+        "en": "The drawing labels the skull, the backbone and a damaged bone in the lower part of the skeleton.",
+        "zh": "图中标出了头骨、脊柱，以及骨架下部一块受损的骨。"
+      }
+    ],
+    "collocations": {
+      "21-016": [
+        "a broken bone",
+        "骨折"
+      ],
+      "21-017": [
+        "the human backbone",
+        "人的脊柱"
+      ],
+      "21-018": [
+        "a complete skeleton",
+        "完整骨架"
+      ],
+      "21-019": [
+        "a human skull",
+        "人的头骨"
+      ]
+    },
+    "related": [
+      {
+        "word": "anatomy",
+        "meaning": "解剖学",
+        "relation": "同场景"
+      },
+      {
+        "word": "structure",
+        "meaning": "结构",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-020",
+      "21-021",
+      "21-022",
+      "21-023"
+    ],
+    "examples": [
+      {
+        "en": "The exhibition connects brain research with questions about the mind, physical health and mental wellbeing.",
+        "zh": "展览把脑研究与心智、身体健康及心理幸福的问题联系起来。"
+      },
+      {
+        "en": "Physical exercise gives her peace of mind, and she is curious about the brain processes involved in mental concentration.",
+        "zh": "锻炼使她心情平静，她也好奇心理专注涉及的大脑过程。"
+      },
+      {
+        "en": "Researchers discuss how the brain and mind relate to physical experience and mental activity.",
+        "zh": "研究者讨论大脑与心智如何关联身体体验和心理活动。"
+      }
+    ],
+    "collocations": {
+      "21-020": [
+        "brain activity",
+        "脑活动"
+      ],
+      "21-021": [
+        "peace of mind",
+        "内心平静"
+      ],
+      "21-022": [
+        "physical health",
+        "身体健康"
+      ],
+      "21-023": [
+        "mental health",
+        "心理健康"
+      ]
+    },
+    "related": [
+      {
+        "word": "wellbeing",
+        "meaning": "健康与幸福",
+        "relation": "同场景"
+      },
+      {
+        "word": "cognition",
+        "meaning": "认知",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-024",
+      "21-025",
+      "21-026",
+      "21-027"
+    ],
+    "examples": [
+      {
+        "en": "The portrait shows a rosy cheek, a high forehead, a raised brow and a single eyelash catching the light.",
+        "zh": "肖像画出红润面颊、宽高额头、挑起的眉毛，以及映光的一根睫毛。"
+      },
+      {
+        "en": "The artist adjusted the cheek and forehead before adding a curved brow and a fine eyelash.",
+        "zh": "画家调整了面颊和额头，随后画上弯眉与细睫毛。"
+      },
+      {
+        "en": "A drop of rain crossed her forehead and brow, caught on an eyelash and fell onto her cheek.",
+        "zh": "一滴雨滑过额头和眉毛，挂在睫毛上，然后落到面颊。"
+      }
+    ],
+    "collocations": {
+      "21-024": [
+        "a rosy cheek",
+        "红润面颊"
+      ],
+      "21-025": [
+        "a high forehead",
+        "宽高额头"
+      ],
+      "21-026": [
+        "a furrowed brow",
+        "紧皱的眉头"
+      ],
+      "21-027": [
+        "a fallen eyelash",
+        "掉落的睫毛"
+      ]
+    },
+    "related": [
+      {
+        "word": "portrait",
+        "meaning": "肖像",
+        "relation": "同场景"
+      },
+      {
+        "word": "facial detail",
+        "meaning": "面部细节",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-028",
+      "21-029",
+      "21-030",
+      "21-031"
+    ],
+    "examples": [
+      {
+        "en": "The actor moved his lip, opened his mouth and adjusted his tongue before clearing his throat.",
+        "zh": "演员动了动嘴唇、张开嘴、调整舌头，然后清了清嗓子。"
+      },
+      {
+        "en": "The speech diagram shows the lip, mouth and tongue alongside the throat.",
+        "zh": "发音图展示了嘴唇、口腔、舌头及喉部。"
+      },
+      {
+        "en": "The singer described how a dry throat affected her mouth and tongue, then moistened her lower lip.",
+        "zh": "歌手描述干燥喉咙如何影响口腔和舌头，然后润湿下唇。"
+      }
+    ],
+    "collocations": {
+      "21-028": [
+        "a lower lip",
+        "下唇"
+      ],
+      "21-029": [
+        "open your mouth",
+        "张嘴"
+      ],
+      "21-030": [
+        "the tip of the tongue",
+        "舌尖"
+      ],
+      "21-031": [
+        "a sore throat",
+        "喉咙痛"
+      ]
+    },
+    "related": [
+      {
+        "word": "pronunciation",
+        "meaning": "发音",
+        "relation": "同场景"
+      },
+      {
+        "word": "vocal training",
+        "meaning": "声乐训练",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-032"
+    ],
+    "examples": [
+      {
+        "en": "A narrow gorge separates the two villages.",
+        "zh": "一道狭窄峡谷隔开两个村庄。"
+      },
+      {
+        "en": "The river runs through a deep gorge beneath the bridge.",
+        "zh": "河流在桥下穿过深深的峡谷。"
+      },
+      {
+        "en": "Tourists paused at the edge of the gorge to admire the view.",
+        "zh": "游客在峡谷边停下欣赏景色。"
+      }
+    ],
+    "collocations": {
+      "21-032": [
+        "a narrow gorge",
+        "狭窄峡谷"
+      ]
+    },
+    "related": [
+      {
+        "word": "canyon",
+        "meaning": "峡谷",
+        "relation": "同场景"
+      },
+      {
+        "word": "river valley",
+        "meaning": "河谷",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-033",
+      "21-034",
+      "21-035",
+      "21-036"
+    ],
+    "examples": [
+      {
+        "en": "The portrait emphasises his chin, square jaw, thick beard and long neck.",
+        "zh": "肖像突出了他的下巴、方下颌、浓密胡须和长脖子。"
+      },
+      {
+        "en": "He lifted his chin, rubbed his jaw beneath the beard and turned his neck toward the door.",
+        "zh": "他抬起下巴，揉着胡须下的下颌，转动脖子望向门。"
+      },
+      {
+        "en": "The barber trimmed the beard along the jaw, below the chin and around the neck.",
+        "zh": "理发师沿下颌、下巴下方及脖子周围修剪胡须。"
+      }
+    ],
+    "collocations": {
+      "21-033": [
+        "raise your chin",
+        "抬下巴"
+      ],
+      "21-034": [
+        "a strong jaw",
+        "轮廓分明的下颌"
+      ],
+      "21-035": [
+        "a stiff neck",
+        "僵硬的脖子"
+      ],
+      "21-036": [
+        "a thick beard",
+        "浓密胡须"
+      ]
+    },
+    "related": [
+      {
+        "word": "grooming",
+        "meaning": "仪容整理",
+        "relation": "同场景"
+      },
+      {
+        "word": "facial profile",
+        "meaning": "面部轮廓",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-037",
+      "21-038",
+      "21-039",
+      "21-040"
+    ],
+    "examples": [
+      {
+        "en": "The diagram follows the upper limb from the shoulder through the elbow to the wrist.",
+        "zh": "图示沿上肢从肩部经过肘部直到手腕。"
+      },
+      {
+        "en": "The costume restricted movement at the shoulder, elbow and wrist of each upper limb.",
+        "zh": "服装限制了每条上肢的肩、肘和腕的活动。"
+      },
+      {
+        "en": "The model lets visitors move the shoulder, bend the elbow and turn the wrist of an artificial limb.",
+        "zh": "模型让访客活动人工上肢的肩部、弯曲肘部并转动手腕。"
+      }
+    ],
+    "collocations": {
+      "21-037": [
+        "a shoulder joint",
+        "肩关节"
+      ],
+      "21-038": [
+        "an upper limb",
+        "上肢"
+      ],
+      "21-039": [
+        "an elbow joint",
+        "肘关节"
+      ],
+      "21-040": [
+        "a wrist injury",
+        "腕伤"
+      ]
+    },
+    "related": [
+      {
+        "word": "mobility",
+        "meaning": "活动能力",
+        "relation": "同场景"
+      },
+      {
+        "word": "prosthesis",
+        "meaning": "假肢",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-041",
+      "21-042",
+      "21-043",
+      "21-044"
+    ],
+    "examples": [
+      {
+        "en": "She opened her fist, rested a coin in her palm and moved it with her thumb and finger.",
+        "zh": "她张开拳头，将硬币放在手掌上，用拇指和手指移动它。"
+      },
+      {
+        "en": "The drawing shows how the thumb and each finger fold toward the palm to form a fist.",
+        "zh": "图画展示拇指与每根手指如何向掌心弯曲，握成拳头。"
+      },
+      {
+        "en": "He relaxed his fist, rubbed his palm and checked a cut between his thumb and index finger.",
+        "zh": "他松开拳头、揉了揉手掌，并查看拇指与食指之间的伤口。"
+      }
+    ],
+    "collocations": {
+      "21-041": [
+        "a sore thumb",
+        "疼痛的拇指"
+      ],
+      "21-042": [
+        "the palm of a hand",
+        "手掌"
+      ],
+      "21-043": [
+        "an index finger",
+        "食指"
+      ],
+      "21-044": [
+        "a clenched fist",
+        "握紧的拳头"
+      ]
+    },
+    "related": [
+      {
+        "word": "hand movement",
+        "meaning": "手部动作",
+        "relation": "同场景"
+      },
+      {
+        "word": "dexterity",
+        "meaning": "灵巧",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-045",
+      "21-046",
+      "21-047",
+      "21-048"
+    ],
+    "examples": [
+      {
+        "en": "The tailor measured her chest and waist, then adjusted the fabric over the rib area and abdomen.",
+        "zh": "裁缝量了胸围和腰围，随后调整肋部及腹部的布料。"
+      },
+      {
+        "en": "The protective costume covers the chest, abdomen and rib area but bends at the waist.",
+        "zh": "防护服覆盖胸部、腹部及肋部，但能在腰部弯曲。"
+      },
+      {
+        "en": "The anatomy drawing labels the chest and abdomen, outlines a rib and marks the waist.",
+        "zh": "解剖图标出胸部和腹部、勾勒一根肋骨，并标示腰部。"
+      }
+    ],
+    "collocations": {
+      "21-045": [
+        "chest pain",
+        "胸痛"
+      ],
+      "21-046": [
+        "the lower abdomen",
+        "下腹部"
+      ],
+      "21-047": [
+        "a broken rib",
+        "肋骨骨折"
+      ],
+      "21-048": [
+        "waist measurement",
+        "腰围"
+      ]
+    },
+    "related": [
+      {
+        "word": "torso",
+        "meaning": "躯干",
+        "relation": "同场景"
+      },
+      {
+        "word": "measurement",
+        "meaning": "测量",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-049",
+      "21-050",
+      "21-051"
+    ],
+    "examples": [
+      {
+        "en": "The model labels each organ, including the liver and stomach.",
+        "zh": "模型标示各器官，包括肝脏和胃。"
+      },
+      {
+        "en": "The illustration places the stomach near the liver and gives each organ a different colour.",
+        "zh": "插图将胃画在肝脏附近，并给各器官涂上不同颜色。"
+      },
+      {
+        "en": "Students traced the outline of the liver and stomach before identifying each organ on a blank diagram.",
+        "zh": "学生先描出肝脏和胃的轮廓，再在空白图上识别各器官。"
+      }
+    ],
+    "collocations": {
+      "21-049": [
+        "an internal organ",
+        "内脏"
+      ],
+      "21-050": [
+        "a healthy liver",
+        "健康的肝脏"
+      ],
+      "21-051": [
+        "an empty stomach",
+        "空胃"
+      ]
+    },
+    "related": [
+      {
+        "word": "anatomy",
+        "meaning": "解剖学",
+        "relation": "同场景"
+      },
+      {
+        "word": "digestive system",
+        "meaning": "消化系统",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-052",
+      "21-053",
+      "21-054"
+    ],
+    "examples": [
+      {
+        "en": "The scan catalogue has separate sections for the womb, kidney and lung.",
+        "zh": "扫描目录分别设有子宫、肾脏与肺部章节。"
+      },
+      {
+        "en": "The artist used different colours for the womb, each kidney and each lung in the anatomical model.",
+        "zh": "艺术家在解剖模型上用不同颜色标示子宫、每个肾和每片肺。"
+      },
+      {
+        "en": "The museum's body atlas lets visitors locate the womb, kidney and lung.",
+        "zh": "博物馆的人体图谱让访客查找子宫、肾脏和肺的位置。"
+      }
+    ],
+    "collocations": {
+      "21-052": [
+        "a baby in the womb",
+        "子宫中的胎儿"
+      ],
+      "21-053": [
+        "a kidney transplant",
+        "肾移植"
+      ],
+      "21-054": [
+        "a lung scan",
+        "肺部扫描"
+      ]
+    },
+    "related": [
+      {
+        "word": "body atlas",
+        "meaning": "人体图谱",
+        "relation": "同场景"
+      },
+      {
+        "word": "organ system",
+        "meaning": "器官系统",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-055",
+      "21-056",
+      "21-057"
+    ],
+    "examples": [
+      {
+        "en": "The diagram labels a gland near the intestine and a separate chamber of the heart.",
+        "zh": "图中标出了肠附近的腺体及一个独立心腔。"
+      },
+      {
+        "en": "The interactive model lets users enlarge a gland, rotate the intestine and inspect a heart chamber.",
+        "zh": "互动模型让用户放大腺体、转动肠道并查看心腔。"
+      },
+      {
+        "en": "Each model part has a label, whether it represents a gland, the intestine or a chamber within an organ.",
+        "zh": "每个模型部件都有标签，无论代表腺体、肠道，还是器官内部的腔室。"
+      }
+    ],
+    "collocations": {
+      "21-055": [
+        "a sweat gland",
+        "汗腺"
+      ],
+      "21-056": [
+        "a heart chamber",
+        "心腔"
+      ],
+      "21-057": [
+        "the small intestine",
+        "小肠"
+      ]
+    },
+    "related": [
+      {
+        "word": "anatomical model",
+        "meaning": "解剖模型",
+        "relation": "同场景"
+      },
+      {
+        "word": "body structure",
+        "meaning": "身体结构",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-058",
+      "21-059",
+      "21-060",
+      "21-061"
+    ],
+    "examples": [
+      {
+        "en": "She rested the book on her lap, just above the knee joint, and brushed dust from her thigh.",
+        "zh": "她把书放在腿上、膝关节上方，并掸去大腿上的灰尘。"
+      },
+      {
+        "en": "The tailor marked the thigh and knee joint while the customer balanced fabric on her lap.",
+        "zh": "顾客把布料放在腿上时，裁缝标出大腿和膝关节位置。"
+      },
+      {
+        "en": "Sitting with the model on his lap, the designer adjusted its thigh and bent the joint at the knee.",
+        "zh": "设计师把模型放在腿上，调整其大腿并弯曲膝关节。"
+      }
+    ],
+    "collocations": {
+      "21-058": [
+        "a thigh muscle",
+        "大腿肌肉"
+      ],
+      "21-059": [
+        "a flexible joint",
+        "灵活关节"
+      ],
+      "21-060": [
+        "bend your knee",
+        "弯膝"
+      ],
+      "21-061": [
+        "on your lap",
+        "在膝上"
+      ]
+    },
+    "related": [
+      {
+        "word": "seated posture",
+        "meaning": "坐姿",
+        "relation": "同场景"
+      },
+      {
+        "word": "leg movement",
+        "meaning": "腿部动作",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-062",
+      "21-063",
+      "21-064",
+      "21-065"
+    ],
+    "examples": [
+      {
+        "en": "The dancer pointed a toe, raised the heel and described tension in the muscle above the ankle.",
+        "zh": "舞者绷起脚趾、抬高脚跟，并描述脚踝上方肌肉的紧张感。"
+      },
+      {
+        "en": "The diagram traces a muscle toward the ankle and labels the heel and big toe.",
+        "zh": "图示沿肌肉标到脚踝，并标出脚跟和大脚趾。"
+      },
+      {
+        "en": "The costume left room for each toe and supported the heel without pressing on the ankle or nearby muscle.",
+        "zh": "服装给每个脚趾留出空间，并支撑脚跟，而不压迫脚踝或附近肌肉。"
+      }
+    ],
+    "collocations": {
+      "21-062": [
+        "an ankle injury",
+        "踝伤"
+      ],
+      "21-063": [
+        "the heel of a foot",
+        "脚后跟"
+      ],
+      "21-064": [
+        "the big toe",
+        "大脚趾"
+      ],
+      "21-065": [
+        "a calf muscle",
+        "小腿肌肉"
+      ]
+    },
+    "related": [
+      {
+        "word": "footwear",
+        "meaning": "鞋类",
+        "relation": "同场景"
+      },
+      {
+        "word": "movement",
+        "meaning": "动作",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-066"
+    ],
+    "examples": [
+      {
+        "en": "The photograph shows a tiny pore on the surface of a leaf.",
+        "zh": "照片展示了叶片表面的一个小孔。"
+      },
+      {
+        "en": "The enlarged skin model reveals the opening of a pore.",
+        "zh": "放大的皮肤模型展示了毛孔开口。"
+      },
+      {
+        "en": "A drop of water rested beside a pore in the stone.",
+        "zh": "一滴水停留在石头的孔隙旁。"
+      }
+    ],
+    "collocations": {
+      "21-066": [
+        "a tiny pore",
+        "细小毛孔"
+      ]
+    },
+    "related": [
+      {
+        "word": "surface",
+        "meaning": "表面",
+        "relation": "同场景"
+      },
+      {
+        "word": "microscope",
+        "meaning": "显微镜",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-067",
+      "21-068",
+      "21-069",
+      "21-070"
+    ],
+    "examples": [
+      {
+        "en": "The physiology exhibit covers the pulse, the path of an artery, the function of a nerve and hormone regulation.",
+        "zh": "生理展览涵盖脉搏、动脉走向、神经功能及激素调节。"
+      },
+      {
+        "en": "The doctor recorded her pulse and explained a diagram showing an artery, a nerve and a hormone-producing gland.",
+        "zh": "医生记录了她的脉搏，并解释一幅显示动脉、神经及分泌激素的腺体的图。"
+      },
+      {
+        "en": "The textbook separates pulse measurement from artery anatomy, nerve signalling and hormone analysis.",
+        "zh": "教材将脉搏测量与动脉解剖、神经信号及激素分析分开讲解。"
+      }
+    ],
+    "collocations": {
+      "21-067": [
+        "check a pulse",
+        "测脉搏"
+      ],
+      "21-068": [
+        "a major artery",
+        "主要动脉"
+      ],
+      "21-069": [
+        "a damaged nerve",
+        "受损神经"
+      ],
+      "21-070": [
+        "a hormone level",
+        "激素水平"
+      ]
+    },
+    "related": [
+      {
+        "word": "physiology",
+        "meaning": "生理学",
+        "relation": "同场景"
+      },
+      {
+        "word": "body signals",
+        "meaning": "身体信号",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-071",
+      "21-072",
+      "21-073"
+    ],
+    "examples": [
+      {
+        "en": "The wellness app linked a biorhythm chart to immune health and stimulus responses without providing supporting evidence.",
+        "zh": "健康应用把生物节律图与免疫健康和刺激反应联系起来，却未提供支持证据。"
+      },
+      {
+        "en": "The reviewer questioned claims that a biorhythm chart could predict an immune response to a stimulus.",
+        "zh": "评论者质疑生物节律图能预测对刺激的免疫反应的说法。"
+      },
+      {
+        "en": "A student compared a popular biorhythm chart with scientific accounts of the immune system and responses to a stimulus.",
+        "zh": "一名学生把流行的生物节律图与对免疫系统及刺激反应的科学论述作比较。"
+      }
+    ],
+    "collocations": {
+      "21-071": [
+        "the immune system",
+        "免疫系统"
+      ],
+      "21-072": [
+        "an external stimulus",
+        "外部刺激"
+      ],
+      "21-073": [
+        "a biorhythm chart",
+        "生物节律图"
+      ]
+    },
+    "related": [
+      {
+        "word": "scientific evidence",
+        "meaning": "科学证据",
+        "relation": "同场景"
+      },
+      {
+        "word": "physiological response",
+        "meaning": "生理反应",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-074",
+      "21-075",
+      "21-076"
+    ],
+    "examples": [
+      {
+        "en": "A daily walking habit fits her active lifestyle and gives her a sense of wellbeing.",
+        "zh": "每日散步的习惯符合她积极的生活方式，让她感觉健康。"
+      },
+      {
+        "en": "The survey asks how lifestyle and habit shape a person's sense of balance.",
+        "zh": "调查询问生活方式与习惯如何影响人的平衡感。"
+      },
+      {
+        "en": "Changing one habit helped him build a calmer lifestyle and recover a sense of control.",
+        "zh": "改变一个习惯帮助他建立更平静的生活方式，并恢复掌控感。"
+      }
+    ],
+    "collocations": {
+      "21-074": [
+        "an active lifestyle",
+        "积极活动的生活方式"
+      ],
+      "21-075": [
+        "a daily habit",
+        "日常习惯"
+      ],
+      "21-076": [
+        "a sense of wellbeing",
+        "健康感"
+      ]
+    },
+    "related": [
+      {
+        "word": "routine",
+        "meaning": "日常安排",
+        "relation": "同场景"
+      },
+      {
+        "word": "wellbeing",
+        "meaning": "健康与幸福",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-077",
+      "21-078",
+      "21-079",
+      "21-080",
+      "21-081"
+    ],
+    "examples": [
+      {
+        "en": "The visual display remains visible from every seat, giving people with poor eyesight a better view and a clearer line of sight.",
+        "zh": "视觉显示屏从每个座位都能看见，为视力不佳者提供更好的视野和更清楚的视线。"
+      },
+      {
+        "en": "A clear view matters for sight-based tasks, so visual signs should be visible to people with limited eyesight.",
+        "zh": "清晰视野对依靠视觉的任务很重要，因此视觉标识应让视力受限者看见。"
+      },
+      {
+        "en": "The designer tested whether the visual map was visible from a seated view and readable for someone with poor eyesight or restricted sight.",
+        "zh": "设计师测试了视觉地图能否从坐姿视角看见，以及视力不佳或视野受限者能否阅读。"
+      }
+    ],
+    "collocations": {
+      "21-077": [
+        "lose sight of",
+        "看不见"
+      ],
+      "21-078": [
+        "poor eyesight",
+        "视力不佳"
+      ],
+      "21-079": [
+        "a clear view",
+        "清晰视野"
+      ],
+      "21-080": [
+        "visual information",
+        "视觉信息"
+      ],
+      "21-081": [
+        "clearly visible",
+        "清晰可见"
+      ]
+    },
+    "related": [
+      {
+        "word": "accessibility",
+        "meaning": "无障碍设计",
+        "relation": "同场景"
+      },
+      {
+        "word": "visibility",
+        "meaning": "可见性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-082",
+      "21-083",
+      "21-084"
+    ],
+    "examples": [
+      {
+        "en": "The vague warning left him blind to the danger, and the sudden failure struck him dumb.",
+        "zh": "含糊警告使他未察觉危险，突然的失败让他惊得说不出话。"
+      },
+      {
+        "en": "She was struck dumb when a vague promise proved that managers had been blind to the problem.",
+        "zh": "她发现含糊承诺表明经理一直未察觉问题时，惊得说不出话。"
+      },
+      {
+        "en": "A vague explanation can leave an audience blind to the facts and a worried speaker struck dumb.",
+        "zh": "含糊解释可能使听众不了解事实，并让担忧的演讲者说不出话。"
+      }
+    ],
+    "collocations": {
+      "21-082": [
+        "a vague explanation",
+        "含糊解释"
+      ],
+      "21-083": [
+        "blind to a risk",
+        "未察觉风险"
+      ],
+      "21-084": [
+        "struck dumb",
+        "惊得说不出话"
+      ]
+    },
+    "related": [
+      {
+        "word": "uncertainty",
+        "meaning": "不确定性",
+        "relation": "同场景"
+      },
+      {
+        "word": "speechlessness",
+        "meaning": "说不出话",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-085",
+      "21-086"
+    ],
+    "examples": [
+      {
+        "en": "The college offers aural skills workshops for musicians and dental care for all students.",
+        "zh": "学院为音乐学生开设听觉技能工作坊，并向全体学生提供牙科护理。"
+      },
+      {
+        "en": "The student guide lists aural training rooms separately from dental facilities.",
+        "zh": "学生指南把听觉训练室与牙科设施分开列出。"
+      },
+      {
+        "en": "A campus survey asked about access to aural learning resources and dental services.",
+        "zh": "校园调查询问了获取听觉学习资源及牙科服务的情况。"
+      }
+    ],
+    "collocations": {
+      "21-085": [
+        "aural skills",
+        "听觉技能"
+      ],
+      "21-086": [
+        "dental care",
+        "牙科护理"
+      ]
+    },
+    "related": [
+      {
+        "word": "campus services",
+        "meaning": "校园服务",
+        "relation": "同场景"
+      },
+      {
+        "word": "student wellbeing",
+        "meaning": "学生健康",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-087",
+      "21-088",
+      "21-089"
+    ],
+    "examples": [
+      {
+        "en": "She tried to stay awake after a short nap but could not suppress a yawn.",
+        "zh": "短暂小睡后，她努力保持清醒，却忍不住打呵欠。"
+      },
+      {
+        "en": "The child was awake after his nap and greeted me with a huge yawn.",
+        "zh": "孩子小睡后醒了，用一个大呵欠迎接我。"
+      },
+      {
+        "en": "A yawn told us he was struggling to remain awake and wanted a nap.",
+        "zh": "一个呵欠告诉我们，他正努力不睡着，并想小睡。"
+      }
+    ],
+    "collocations": {
+      "21-087": [
+        "stay awake",
+        "保持清醒"
+      ],
+      "21-088": [
+        "give a yawn",
+        "打呵欠"
+      ],
+      "21-089": [
+        "take a nap",
+        "小睡"
+      ]
+    },
+    "related": [
+      {
+        "word": "drowsiness",
+        "meaning": "困倦",
+        "relation": "同场景"
+      },
+      {
+        "word": "rest",
+        "meaning": "休息",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-090",
+      "21-091",
+      "21-092"
+    ],
+    "examples": [
+      {
+        "en": "In the quiet room, I began to doze and soon fell asleep.",
+        "zh": "在安静房间里，我开始打盹，很快睡着。"
+      },
+      {
+        "en": "The child would doze only when the house was quiet, then remain asleep through the afternoon.",
+        "zh": "只有家里安静时，孩子才会打盹，随后整个下午都睡着。"
+      },
+      {
+        "en": "Passengers tried to doze in the quiet carriage, though few stayed asleep for long.",
+        "zh": "乘客试图在安静车厢打盹，但很少有人睡很久。"
+      }
+    ],
+    "collocations": {
+      "21-090": [
+        "doze in a chair",
+        "在椅子上打盹"
+      ],
+      "21-091": [
+        "a quiet room",
+        "安静房间"
+      ],
+      "21-092": [
+        "fall asleep",
+        "入睡"
+      ]
+    },
+    "related": [
+      {
+        "word": "sleep",
+        "meaning": "睡眠",
+        "relation": "同场景"
+      },
+      {
+        "word": "tranquillity",
+        "meaning": "宁静",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-093",
+      "21-094",
+      "21-095"
+    ],
+    "examples": [
+      {
+        "en": "The towers dwarf nearby homes, and a lame planning excuse cannot hide how their costs might cripple the council.",
+        "zh": "高楼使附近住宅显得矮小，而无说服力的规划借口无法掩盖其成本可能重创市政财政的事实。"
+      },
+      {
+        "en": "A lame excuse for spending on offices that dwarf local homes will not reassure taxpayers when debts could cripple public services.",
+        "zh": "办公楼比当地住宅高大得多，在债务可能重创公共服务时，为此开支辩解的牵强借口无法使纳税人安心。"
+      },
+      {
+        "en": "Large debts can cripple small firms, while their competitors dwarf them in size; a lame excuse will not solve the problem.",
+        "zh": "巨额债务可能重创小企业，而竞争者的规模使它们相形见绌；牵强借口解决不了问题。"
+      }
+    ],
+    "collocations": {
+      "21-093": [
+        "cripple an economy",
+        "使经济严重受损"
+      ],
+      "21-094": [
+        "a lame excuse",
+        "无说服力的借口"
+      ],
+      "21-095": [
+        "dwarf nearby buildings",
+        "使附近建筑相形见绌"
+      ]
+    },
+    "related": [
+      {
+        "word": "financial strain",
+        "meaning": "财务压力",
+        "relation": "同场景"
+      },
+      {
+        "word": "comparison",
+        "meaning": "比较",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-096",
+      "21-097",
+      "21-098"
+    ],
+    "examples": [
+      {
+        "en": "The exhibition covers pregnancy and how babies are born, while a separate section explains what a condom is.",
+        "zh": "展览介绍怀孕及婴儿如何出生，另设部分解释避孕套。"
+      },
+      {
+        "en": "The health leaflet distinguishes care during pregnancy, support after a child is born and information about condom use.",
+        "zh": "健康手册区分孕期照护、孩子出生后的支持，以及避孕套使用信息。"
+      },
+      {
+        "en": "The survey asks what students know about pregnancy, where they learned how babies are born and whether they recognise a condom packet.",
+        "zh": "调查询问学生对怀孕的了解、从哪里学到婴儿如何出生，以及能否识别避孕套包装。"
+      }
+    ],
+    "collocations": {
+      "21-096": [
+        "during pregnancy",
+        "怀孕期间"
+      ],
+      "21-097": [
+        "be born",
+        "出生"
+      ],
+      "21-098": [
+        "a condom packet",
+        "避孕套包装"
+      ]
+    },
+    "related": [
+      {
+        "word": "reproductive education",
+        "meaning": "生殖健康教育",
+        "relation": "同场景"
+      },
+      {
+        "word": "parenthood",
+        "meaning": "为人父母",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-099"
+    ],
+    "examples": [
+      {
+        "en": "Researchers can clone a plant to produce genetically matching specimens.",
+        "zh": "研究者能克隆植物，产生基因一致的样本。"
+      },
+      {
+        "en": "The laboratory labelled each clone before the plants were moved outside.",
+        "zh": "实验室在植物移到室外前，为每个克隆植株贴了标签。"
+      },
+      {
+        "en": "The documentary follows attempts to clone an endangered tree.",
+        "zh": "纪录片记录了克隆一种濒危树木的尝试。"
+      }
+    ],
+    "collocations": {
+      "21-099": [
+        "clone a plant",
+        "克隆植物"
+      ]
+    },
+    "related": [
+      {
+        "word": "genetics",
+        "meaning": "遗传学",
+        "relation": "同场景"
+      },
+      {
+        "word": "propagation",
+        "meaning": "繁殖",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-100",
+      "21-101",
+      "21-102",
+      "21-103"
+    ],
+    "examples": [
+      {
+        "en": "The patient gave a moan while describing a symptom of an illness that doctors were investigating for possible disease.",
+        "zh": "病人呻吟着描述病症，医生正调查这场疾病是否涉及特定病变。"
+      },
+      {
+        "en": "A moan of discomfort may signal a symptom, but the clinician must assess the illness before naming a disease.",
+        "zh": "不适的呻吟可能提示症状，但临床医生须评估病情后才能确定疾病。"
+      },
+      {
+        "en": "The novel depicts a doctor listening to a moan, recording each symptom and explaining the difference between a reported illness and a diagnosed disease.",
+        "zh": "小说描写医生听呻吟、记录每个症状，并解释主观病感与确诊疾病的区别。"
+      }
+    ],
+    "collocations": {
+      "21-100": [
+        "a common symptom",
+        "常见症状"
+      ],
+      "21-101": [
+        "a chronic disease",
+        "慢性疾病"
+      ],
+      "21-102": [
+        "recover from an illness",
+        "病后康复"
+      ],
+      "21-103": [
+        "a moan of pain",
+        "痛苦的呻吟"
+      ]
+    },
+    "related": [
+      {
+        "word": "diagnosis",
+        "meaning": "诊断",
+        "relation": "同场景"
+      },
+      {
+        "word": "clinical assessment",
+        "meaning": "临床评估",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-104",
+      "21-105",
+      "21-106"
+    ],
+    "examples": [
+      {
+        "en": "The memoir follows recovery from a heart attack and an infection, and describes working to the detriment of personal wellbeing.",
+        "zh": "回忆录记录心脏病发作及感染后的康复，并描述不顾个人健康地工作。"
+      },
+      {
+        "en": "The hospital reviewed a case involving an infection after a heart attack to ensure paperwork had not delayed care to the detriment of the patient.",
+        "zh": "医院审查了一起心脏病发作后感染的病例，确认文书工作没有延误护理、损害病人利益。"
+      },
+      {
+        "en": "The article discusses the cost of treating infection and heart attack without cutting prevention to the detriment of public health.",
+        "zh": "文章讨论治疗感染和心脏病发作的费用，同时强调不应削减预防、损害公共健康。"
+      }
+    ],
+    "collocations": {
+      "21-104": [
+        "prevent infection",
+        "预防感染"
+      ],
+      "21-105": [
+        "to the detriment of",
+        "有损于"
+      ],
+      "21-106": [
+        "a heart attack survivor",
+        "心脏病发作幸存者"
+      ]
+    },
+    "related": [
+      {
+        "word": "patient welfare",
+        "meaning": "病人福祉",
+        "relation": "同场景"
+      },
+      {
+        "word": "recovery",
+        "meaning": "康复",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-107",
+      "21-108",
+      "21-109",
+      "21-110",
+      "21-111"
+    ],
+    "examples": [
+      {
+        "en": "A broken monitor can disable an alert, produce an invalid reading and delay a patient's assessment for organ dysfunction.",
+        "zh": "损坏的监护仪可能使警报失效、产生无效读数，并延误病人的器官功能障碍评估。"
+      },
+      {
+        "en": "Staff must disable the broken device, mark its report invalid and arrange another assessment of the patient for dysfunction.",
+        "zh": "工作人员须停用损坏设备、将其报告标为无效，并安排另一次病人功能障碍评估。"
+      },
+      {
+        "en": "The patient asked why a broken sensor could disable monitoring and make the test for dysfunction invalid.",
+        "zh": "病人问，为什么损坏的传感器会导致监测停用，并使功能障碍测试无效。"
+      }
+    ],
+    "collocations": {
+      "21-107": [
+        "a broken arm",
+        "骨折的胳膊"
+      ],
+      "21-108": [
+        "disable a system",
+        "使系统失效"
+      ],
+      "21-109": [
+        "an invalid claim",
+        "无效主张"
+      ],
+      "21-110": [
+        "a hospital patient",
+        "住院病人"
+      ],
+      "21-111": [
+        "organ dysfunction",
+        "器官功能障碍"
+      ]
+    },
+    "related": [
+      {
+        "word": "equipment safety",
+        "meaning": "设备安全",
+        "relation": "同场景"
+      },
+      {
+        "word": "assessment",
+        "meaning": "评估",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-112",
+      "21-113",
+      "21-114",
+      "21-115"
+    ],
+    "examples": [
+      {
+        "en": "The clinic runs separate services for diabetes, obesity and hypertension, and offers assessments for overweight adults.",
+        "zh": "诊所分别开设糖尿病、肥胖症和高血压服务，并为超重成人提供评估。"
+      },
+      {
+        "en": "The survey records diagnoses of diabetes, obesity and hypertension without assuming that every overweight person has them.",
+        "zh": "调查记录糖尿病、肥胖症和高血压诊断，而不假设每位超重者都患有这些病。"
+      },
+      {
+        "en": "Researchers interviewed overweight volunteers about access to care for diabetes, obesity and hypertension.",
+        "zh": "研究者访谈超重志愿者，了解糖尿病、肥胖症和高血压医疗服务的获取情况。"
+      }
+    ],
+    "collocations": {
+      "21-112": [
+        "type two diabetes",
+        "二型糖尿病"
+      ],
+      "21-113": [
+        "childhood obesity",
+        "儿童肥胖症"
+      ],
+      "21-114": [
+        "overweight adults",
+        "超重成人"
+      ],
+      "21-115": [
+        "manage hypertension",
+        "管理高血压"
+      ]
+    },
+    "related": [
+      {
+        "word": "public health",
+        "meaning": "公共健康",
+        "relation": "同场景"
+      },
+      {
+        "word": "screening",
+        "meaning": "筛查",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-116",
+      "21-117",
+      "21-118"
+    ],
+    "examples": [
+      {
+        "en": "It seemed an insane idea to continue a performance when a dizzy actor's fear could paralyse the scene.",
+        "zh": "演员头晕、恐惧可能让场面停滞时，继续演出似乎是疯狂想法。"
+      },
+      {
+        "en": "The dizzy commuter called the delay insane, fearing that another breakdown would paralyse the network.",
+        "zh": "头晕的通勤者称延误太疯狂，担心另一次故障会使网络瘫痪。"
+      },
+      {
+        "en": "The novel describes an insane rush that leaves workers dizzy while managers worry a strike might paralyse production.",
+        "zh": "小说描写疯狂赶工让工人头晕，而经理担忧罢工可能使生产瘫痪。"
+      }
+    ],
+    "collocations": {
+      "21-116": [
+        "paralyse a service",
+        "使服务瘫痪"
+      ],
+      "21-117": [
+        "feel dizzy",
+        "感觉头晕"
+      ],
+      "21-118": [
+        "an insane idea",
+        "疯狂的想法"
+      ]
+    },
+    "related": [
+      {
+        "word": "disruption",
+        "meaning": "中断",
+        "relation": "同场景"
+      },
+      {
+        "word": "overload",
+        "meaning": "超负荷",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-119",
+      "21-120",
+      "21-121",
+      "21-122"
+    ],
+    "examples": [
+      {
+        "en": "The charity funds separate research programmes on insomnia, allergy, cancer and arthritis.",
+        "zh": "慈善机构分别资助失眠、过敏、癌症和关节炎研究。"
+      },
+      {
+        "en": "The clinic guide lists services for insomnia, allergy, cancer and arthritis without suggesting that these conditions share one cause.",
+        "zh": "诊所指南列出失眠、过敏、癌症及关节炎服务，并未暗示这些疾病病因相同。"
+      },
+      {
+        "en": "Interviewees described navigating care for insomnia, an allergy, cancer or arthritis in different parts of the health system.",
+        "zh": "受访者描述在医疗系统不同部门寻求失眠、过敏、癌症或关节炎护理的经历。"
+      }
+    ],
+    "collocations": {
+      "21-119": [
+        "suffer from insomnia",
+        "失眠"
+      ],
+      "21-120": [
+        "a food allergy",
+        "食物过敏"
+      ],
+      "21-121": [
+        "cancer research",
+        "癌症研究"
+      ],
+      "21-122": [
+        "rheumatoid arthritis",
+        "类风湿关节炎"
+      ]
+    },
+    "related": [
+      {
+        "word": "research funding",
+        "meaning": "研究经费",
+        "relation": "同场景"
+      },
+      {
+        "word": "health services",
+        "meaning": "医疗服务",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-123",
+      "21-124",
+      "21-125"
+    ],
+    "examples": [
+      {
+        "en": "The historical medical collection includes drawings of a pimple, accounts of a stroke and records of plague.",
+        "zh": "历史医学收藏包括粉刺图画、中风记述及瘟疫记录。"
+      },
+      {
+        "en": "The exhibition contrasts an everyday pimple with major events such as a stroke or an outbreak of plague.",
+        "zh": "展览将日常粉刺与中风或瘟疫暴发等重大事件作对比。"
+      },
+      {
+        "en": "A digitised archive lets researchers search for descriptions of a pimple, a stroke and plague in old case notes.",
+        "zh": "数字档案让研究者在旧病历中查找粉刺、中风与瘟疫的描述。"
+      }
+    ],
+    "collocations": {
+      "21-123": [
+        "a small pimple",
+        "小粉刺"
+      ],
+      "21-124": [
+        "a stroke survivor",
+        "中风幸存者"
+      ],
+      "21-125": [
+        "an outbreak of plague",
+        "瘟疫暴发"
+      ]
+    },
+    "related": [
+      {
+        "word": "medical history",
+        "meaning": "医学史",
+        "relation": "同场景"
+      },
+      {
+        "word": "archive",
+        "meaning": "档案",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-126",
+      "21-127",
+      "21-128"
+    ],
+    "examples": [
+      {
+        "en": "The patient with flu described a fever and a headache to the nurse.",
+        "zh": "患流感的病人向护士描述发烧和头痛。"
+      },
+      {
+        "en": "The report records how flu disrupted her work while a fever and headache kept her at home.",
+        "zh": "报告记录了流感如何打乱工作，发烧和头痛令她待在家中。"
+      },
+      {
+        "en": "The novel's doctor asked about flu after hearing a description of the fever and headache.",
+        "zh": "小说里的医生听完对发烧和头痛的描述后，询问了流感情况。"
+      }
+    ],
+    "collocations": {
+      "21-126": [
+        "seasonal flu",
+        "季节性流感"
+      ],
+      "21-127": [
+        "a high fever",
+        "高烧"
+      ],
+      "21-128": [
+        "a severe headache",
+        "严重头痛"
+      ]
+    },
+    "related": [
+      {
+        "word": "symptom report",
+        "meaning": "症状描述",
+        "relation": "同场景"
+      },
+      {
+        "word": "sick leave",
+        "meaning": "病假",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-129",
+      "21-130"
+    ],
+    "examples": [
+      {
+        "en": "The training film shows an actor pretend to choke and a model throat begin to swell.",
+        "zh": "培训片展示演员假装窒息，以及模型喉部开始肿胀。"
+      },
+      {
+        "en": "The nurse asked whether his throat had begun to swell or whether he had felt as if he might choke.",
+        "zh": "护士问他的喉咙是否开始肿胀，或是否感觉可能窒息。"
+      },
+      {
+        "en": "In the novel, smoke makes the character choke while an earlier burn causes his arm to swell.",
+        "zh": "小说中，烟使角色呛咳，而先前的烫伤使其手臂肿胀。"
+      }
+    ],
+    "collocations": {
+      "21-129": [
+        "swell rapidly",
+        "迅速肿胀"
+      ],
+      "21-130": [
+        "choke on food",
+        "被食物噎住"
+      ]
+    },
+    "related": [
+      {
+        "word": "breathing difficulty",
+        "meaning": "呼吸困难",
+        "relation": "同场景"
+      },
+      {
+        "word": "first-aid training",
+        "meaning": "急救培训",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-131",
+      "21-132",
+      "21-133"
+    ],
+    "examples": [
+      {
+        "en": "Unsafe equipment can injure workers, and even a minor injury may hurt for weeks.",
+        "zh": "不安全设备可能伤害工人，即使轻伤也可能疼数周。"
+      },
+      {
+        "en": "The safety review asked how the machine could injure a hand, what injury resulted and how much it hurt.",
+        "zh": "安全审查询问机器如何可能伤手、造成什么伤害，以及有多疼。"
+      },
+      {
+        "en": "The actor pretended to injure his arm, showing how the fictional injury would hurt when he moved.",
+        "zh": "演员假装手臂受伤，表现虚构伤情在活动时会如何疼痛。"
+      }
+    ],
+    "collocations": {
+      "21-131": [
+        "injure a worker",
+        "使工人受伤"
+      ],
+      "21-132": [
+        "a workplace injury",
+        "工伤"
+      ],
+      "21-133": [
+        "hurt a shoulder",
+        "使肩膀疼痛"
+      ]
+    },
+    "related": [
+      {
+        "word": "workplace safety",
+        "meaning": "职场安全",
+        "relation": "同场景"
+      },
+      {
+        "word": "accident",
+        "meaning": "事故",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-134",
+      "21-135",
+      "21-136",
+      "21-137"
+    ],
+    "examples": [
+      {
+        "en": "The character's wound began to bleed beside an old scar and a fresh bruise.",
+        "zh": "角色的伤口在旧疤和新淤青旁开始流血。"
+      },
+      {
+        "en": "The nurse recorded the bruise and scar, then noted whether the wound continued to bleed.",
+        "zh": "护士记录淤青和伤疤，再记下伤口是否继续流血。"
+      },
+      {
+        "en": "The stage makeup included a scar, a bruise and a fake wound designed to bleed during the performance.",
+        "zh": "舞台妆包括伤疤、淤青及一处设计成表演时流血的假伤口。"
+      }
+    ],
+    "collocations": {
+      "21-134": [
+        "bleed heavily",
+        "大量流血"
+      ],
+      "21-135": [
+        "a dark bruise",
+        "深色淤青"
+      ],
+      "21-136": [
+        "a permanent scar",
+        "永久伤疤"
+      ],
+      "21-137": [
+        "an open wound",
+        "开放性伤口"
+      ]
+    },
+    "related": [
+      {
+        "word": "wound assessment",
+        "meaning": "伤口评估",
+        "relation": "同场景"
+      },
+      {
+        "word": "stage makeup",
+        "meaning": "舞台化妆",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-138",
+      "21-139",
+      "21-140"
+    ],
+    "examples": [
+      {
+        "en": "The patient described pain around a lump and asked whether earlier trauma might explain it.",
+        "zh": "病人描述了肿块周围的疼痛，并询问是否可能由先前外伤解释。"
+      },
+      {
+        "en": "The report separates physical trauma and pain from the investigation of an unrelated lump.",
+        "zh": "报告将身体外伤及疼痛与一处无关肿块的检查分开记录。"
+      },
+      {
+        "en": "The actor conveyed trauma through his voice while describing a painful lump and the character's fear of more pain.",
+        "zh": "演员用声音表现创伤，同时描述疼痛肿块以及角色对更多疼痛的恐惧。"
+      }
+    ],
+    "collocations": {
+      "21-138": [
+        "psychological trauma",
+        "心理创伤"
+      ],
+      "21-139": [
+        "a painful lump",
+        "疼痛肿块"
+      ],
+      "21-140": [
+        "severe pain",
+        "剧痛"
+      ]
+    },
+    "related": [
+      {
+        "word": "clinical history",
+        "meaning": "临床病史",
+        "relation": "同场景"
+      },
+      {
+        "word": "distress",
+        "meaning": "痛苦",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-141",
+      "21-142",
+      "21-143",
+      "21-144"
+    ],
+    "examples": [
+      {
+        "en": "The poem links a mortal person's fear of death to a sense of doom after a ruler's demise.",
+        "zh": "诗歌把凡人对死亡的恐惧与统治者去世后的厄运感联系起来。"
+      },
+      {
+        "en": "The novel begins with a leader's demise, reminding every mortal character of death while creating an atmosphere of doom.",
+        "zh": "小说以领袖去世开篇，提醒每个凡人角色死亡的存在，并营造末日气氛。"
+      },
+      {
+        "en": "The historian described the ruler's demise without accepting the myth that death meant doom for every mortal subject.",
+        "zh": "历史学家描述统治者之死，却不接受死亡意味着每位凡人臣民都将遭厄运的神话。"
+      }
+    ],
+    "collocations": {
+      "21-141": [
+        "a sudden death",
+        "突然死亡"
+      ],
+      "21-142": [
+        "a mortal being",
+        "凡人"
+      ],
+      "21-143": [
+        "the demise of a leader",
+        "领袖之死"
+      ],
+      "21-144": [
+        "a sense of doom",
+        "厄运感"
+      ]
+    },
+    "related": [
+      {
+        "word": "mortality",
+        "meaning": "必死性",
+        "relation": "同场景"
+      },
+      {
+        "word": "bereavement",
+        "meaning": "丧亲",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-145",
+      "21-146"
+    ],
+    "examples": [
+      {
+        "en": "The investigation linked the fatal accident to a container of lethal chemicals.",
+        "zh": "调查将致命事故与一桶致命化学品联系起来。"
+      },
+      {
+        "en": "The museum explains how a lethal substance contributed to a fatal industrial disaster.",
+        "zh": "博物馆解释一种致命物质如何促成致命工业灾难。"
+      },
+      {
+        "en": "The report distinguishes a potentially lethal hazard from an accident that actually proved fatal.",
+        "zh": "报告区分了可能致命的隐患与实际导致死亡的事故。"
+      }
+    ],
+    "collocations": {
+      "21-145": [
+        "a fatal accident",
+        "致命事故"
+      ],
+      "21-146": [
+        "a lethal substance",
+        "致命物质"
+      ]
+    },
+    "related": [
+      {
+        "word": "mortality",
+        "meaning": "死亡",
+        "relation": "同场景"
+      },
+      {
+        "word": "hazard",
+        "meaning": "危险",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-147"
+    ],
+    "examples": [
+      {
+        "en": "Researchers searched a large corpus for examples of everyday conversation.",
+        "zh": "研究者在大型语料库中搜索日常对话的例子。"
+      },
+      {
+        "en": "The corpus contains interviews, letters and newspaper reports.",
+        "zh": "语料库包括访谈、书信和报纸报道。"
+      },
+      {
+        "en": "A spoken corpus can reveal how people use expressions in real conversation.",
+        "zh": "口语语料库能揭示人们如何在真实对话中使用表达。"
+      }
+    ],
+    "collocations": {
+      "21-147": [
+        "a language corpus",
+        "语言语料库"
+      ]
+    },
+    "related": [
+      {
+        "word": "linguistics",
+        "meaning": "语言学",
+        "relation": "同场景"
+      },
+      {
+        "word": "dataset",
+        "meaning": "数据集",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-148",
+      "21-149",
+      "21-150",
+      "21-151"
+    ],
+    "examples": [
+      {
+        "en": "Overwork can exhaust a team, and fatigue makes even simple tasks tire its members.",
+        "zh": "过劳会使团队筋疲力尽，而疲劳让简单任务也使成员感到累。"
+      },
+      {
+        "en": "The survey asks whether overwork and fatigue cause staff to tire quickly or exhaust their energy before noon.",
+        "zh": "调查询问过劳和疲劳是否使员工容易累，或在中午前耗尽精力。"
+      },
+      {
+        "en": "Managers who ignore fatigue may overwork employees, tire them unnecessarily and exhaust their motivation.",
+        "zh": "忽视疲劳的经理可能让员工过度工作、徒增疲惫，并耗尽其动力。"
+      }
+    ],
+    "collocations": {
+      "21-148": [
+        "suffer from overwork",
+        "因过劳受苦"
+      ],
+      "21-149": [
+        "tire easily",
+        "容易疲倦"
+      ],
+      "21-150": [
+        "exhaust the team",
+        "使团队筋疲力尽"
+      ],
+      "21-151": [
+        "mental fatigue",
+        "精神疲劳"
+      ]
+    },
+    "related": [
+      {
+        "word": "burnout",
+        "meaning": "职业倦怠",
+        "relation": "同场景"
+      },
+      {
+        "word": "workload",
+        "meaning": "工作量",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-152",
+      "21-153",
+      "21-154",
+      "21-155"
+    ],
+    "examples": [
+      {
+        "en": "The weary traveller spoke in a feeble voice, feeling faint as the long journey continued to weaken him.",
+        "zh": "疲惫旅人用微弱声音说话，感到要晕倒，漫长旅程继续使他虚弱。"
+      },
+      {
+        "en": "In the story, hunger begins to weaken the weary character until he feels faint and makes only a feeble protest.",
+        "zh": "故事中，饥饿开始削弱疲倦角色的体力，直到他感到晕眩，只能微弱抗议。"
+      },
+      {
+        "en": "The actor used a feeble gesture to show how exhaustion could weaken a weary person who felt faint.",
+        "zh": "演员用无力动作展示疲惫如何使一个感到晕眩、疲倦的人更加虚弱。"
+      }
+    ],
+    "collocations": {
+      "21-152": [
+        "feel faint",
+        "感觉要晕倒"
+      ],
+      "21-153": [
+        "a feeble voice",
+        "微弱的声音"
+      ],
+      "21-154": [
+        "weary travellers",
+        "疲倦的旅人"
+      ],
+      "21-155": [
+        "weaken confidence",
+        "削弱信心"
+      ]
+    },
+    "related": [
+      {
+        "word": "exhaustion",
+        "meaning": "疲惫",
+        "relation": "同场景"
+      },
+      {
+        "word": "frailty",
+        "meaning": "虚弱",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-156",
+      "21-157",
+      "21-158"
+    ],
+    "examples": [
+      {
+        "en": "The report follows people seeking health care, from an uncomfortable waiting room to support for an unconscious patient.",
+        "zh": "报告跟踪人们求医的过程，从令人不适的候诊室到对无意识病人的照护。"
+      },
+      {
+        "en": "Health care staff reassured the uncomfortable visitor while explaining why her unconscious relative was being monitored.",
+        "zh": "医疗人员安慰不自在的访客，并解释为何监测其无意识亲属。"
+      },
+      {
+        "en": "The documentary explores health care through the story of an unconscious patient and a family member uncomfortable with medical settings.",
+        "zh": "纪录片通过一个无意识病人及不适应医疗环境的家属的故事，探讨医疗服务。"
+      }
+    ],
+    "collocations": {
+      "21-156": [
+        "feel uncomfortable",
+        "感觉不舒服"
+      ],
+      "21-157": [
+        "remain unconscious",
+        "仍无意识"
+      ],
+      "21-158": [
+        "access to health care",
+        "获得医疗服务"
+      ]
+    },
+    "related": [
+      {
+        "word": "patient support",
+        "meaning": "病人支持",
+        "relation": "同场景"
+      },
+      {
+        "word": "care setting",
+        "meaning": "医疗环境",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-159",
+      "21-160",
+      "21-161"
+    ],
+    "examples": [
+      {
+        "en": "The clinician distinguished the chronic condition from an acute episode and separately noted a sore throat.",
+        "zh": "临床医生区分了慢性疾病与急性发作，并另行记录喉咙痛。"
+      },
+      {
+        "en": "The case notes describe chronic back pain, an acute injury and a sore shoulder.",
+        "zh": "病历描述了慢性背痛、急性损伤及肩部疼痛。"
+      },
+      {
+        "en": "The course uses separate examples of chronic illness, acute distress and a sore throat.",
+        "zh": "课程分别使用慢性病、急性痛苦和喉咙痛的例子。"
+      }
+    ],
+    "collocations": {
+      "21-159": [
+        "a chronic condition",
+        "慢性疾病"
+      ],
+      "21-160": [
+        "an acute episode",
+        "急性发作"
+      ],
+      "21-161": [
+        "a sore throat",
+        "喉咙痛"
+      ]
+    },
+    "related": [
+      {
+        "word": "medical history",
+        "meaning": "病史",
+        "relation": "同场景"
+      },
+      {
+        "word": "assessment",
+        "meaning": "评估",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-162",
+      "21-163",
+      "21-164"
+    ],
+    "examples": [
+      {
+        "en": "The poem expresses sorrow, records human suffering and invites readers to lament lives lost.",
+        "zh": "诗歌表达悲伤、记录人类苦难，并邀请读者哀悼逝去的生命。"
+      },
+      {
+        "en": "Families lament the loss of their homes while volunteers recognise their sorrow and suffering.",
+        "zh": "家庭为失去家园而悲伤，志愿者理解其悲痛与苦难。"
+      },
+      {
+        "en": "The public lament acknowledged shared sorrow and the suffering caused by the disaster.",
+        "zh": "公开哀悼承认了共同悲痛及灾难造成的苦难。"
+      }
+    ],
+    "collocations": {
+      "21-162": [
+        "deep sorrow",
+        "深深悲伤"
+      ],
+      "21-163": [
+        "human suffering",
+        "人类苦难"
+      ],
+      "21-164": [
+        "lament a loss",
+        "哀悼损失"
+      ]
+    },
+    "related": [
+      {
+        "word": "grief",
+        "meaning": "悲痛",
+        "relation": "同场景"
+      },
+      {
+        "word": "compassion",
+        "meaning": "同情",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-165",
+      "21-166",
+      "21-167",
+      "21-168",
+      "21-169"
+    ],
+    "examples": [
+      {
+        "en": "The hospital provides medical assessment and curative therapy in sanitary conditions.",
+        "zh": "医院在卫生条件下提供医学评估与治疗性疗法。"
+      },
+      {
+        "en": "The report asks whether the hospital has sanitary facilities and adequate medical staff to deliver the promised curative therapy.",
+        "zh": "报告询问医院是否有卫生设施和足够医疗人员来提供承诺的治疗。"
+      },
+      {
+        "en": "The hospital brochure describes medical services, curative therapy and efforts to maintain sanitary wards.",
+        "zh": "医院手册介绍医疗服务、治疗性疗法，以及维持病房卫生的努力。"
+      }
+    ],
+    "collocations": {
+      "21-165": [
+        "a public hospital",
+        "公立医院"
+      ],
+      "21-166": [
+        "physical therapy",
+        "物理治疗"
+      ],
+      "21-167": [
+        "sanitary conditions",
+        "卫生条件"
+      ],
+      "21-168": [
+        "medical care",
+        "医疗照护"
+      ],
+      "21-169": [
+        "curative treatment",
+        "治疗性疗法"
+      ]
+    },
+    "related": [
+      {
+        "word": "clinical services",
+        "meaning": "临床服务",
+        "relation": "同场景"
+      },
+      {
+        "word": "patient care",
+        "meaning": "病人照护",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-170",
+      "21-171",
+      "21-172"
+    ],
+    "examples": [
+      {
+        "en": "The clinic offers workshops on hygiene and provides space for fitness classes.",
+        "zh": "诊所提供卫生工作坊，并为健身课程提供场地。"
+      },
+      {
+        "en": "The community clinic asked residents about hygiene facilities and access to fitness activities.",
+        "zh": "社区诊所询问居民卫生设施及健身活动获取情况。"
+      },
+      {
+        "en": "A report on the clinic discusses hygiene training and a partnership with a local fitness centre.",
+        "zh": "关于该诊所的报告讨论了卫生培训及与当地健身中心的合作。"
+      }
+    ],
+    "collocations": {
+      "21-170": [
+        "personal hygiene",
+        "个人卫生"
+      ],
+      "21-171": [
+        "physical fitness",
+        "体能"
+      ],
+      "21-172": [
+        "a local clinic",
+        "当地诊所"
+      ]
+    },
+    "related": [
+      {
+        "word": "health promotion",
+        "meaning": "健康促进",
+        "relation": "同场景"
+      },
+      {
+        "word": "community care",
+        "meaning": "社区医疗",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-173",
+      "21-174",
+      "21-175"
+    ],
+    "examples": [
+      {
+        "en": "The physician referred the patient to a surgeon to discuss an operation.",
+        "zh": "内科医生把病人转介给外科医生，讨论手术。"
+      },
+      {
+        "en": "Before the operation, the surgeon and physician reviewed the patient's history together.",
+        "zh": "手术前，外科医生和内科医生共同审阅病史。"
+      },
+      {
+        "en": "The documentary follows a physician consulting a surgeon about whether an operation is appropriate.",
+        "zh": "纪录片跟踪内科医生向外科医生咨询手术是否合适的过程。"
+      }
+    ],
+    "collocations": {
+      "21-173": [
+        "a family physician",
+        "家庭医生"
+      ],
+      "21-174": [
+        "a skilled surgeon",
+        "熟练外科医生"
+      ],
+      "21-175": [
+        "a major operation",
+        "大手术"
+      ]
+    },
+    "related": [
+      {
+        "word": "referral",
+        "meaning": "转诊",
+        "relation": "同场景"
+      },
+      {
+        "word": "consultation",
+        "meaning": "会诊",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-176",
+      "21-177",
+      "21-178"
+    ],
+    "examples": [
+      {
+        "en": "The patient hoped treatment would heal the wound, while researchers continued searching for a cure for the underlying disease.",
+        "zh": "病人希望治疗能让伤口愈合，研究者则继续寻找基础疾病的疗法。"
+      },
+      {
+        "en": "The article asks how doctors evaluate a cure, choose treatment and assess whether damaged tissue will heal.",
+        "zh": "文章探讨医生如何评估疗法、选择治疗，并判断受损组织能否愈合。"
+      },
+      {
+        "en": "The novel avoids promising a cure, instead showing treatment and the time needed to heal.",
+        "zh": "小说没有承诺治愈，而是描绘治疗及愈合所需的时间。"
+      }
+    ],
+    "collocations": {
+      "21-176": [
+        "find a cure",
+        "找到疗法"
+      ],
+      "21-177": [
+        "heal a wound",
+        "使伤口愈合"
+      ],
+      "21-178": [
+        "receive treatment",
+        "接受治疗"
+      ]
+    },
+    "related": [
+      {
+        "word": "healing",
+        "meaning": "愈合",
+        "relation": "同场景"
+      },
+      {
+        "word": "clinical outcome",
+        "meaning": "临床结果",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-179",
+      "21-180",
+      "21-181",
+      "21-182",
+      "21-183"
+    ],
+    "examples": [
+      {
+        "en": "Before the transplant, staff check the prescription, review the X-ray and record each injection.",
+        "zh": "移植前，工作人员核对处方、审阅X光片，并记录每次注射。"
+      },
+      {
+        "en": "The patient asked the team to check whether the injection, prescription and X-ray were all related to the planned transplant.",
+        "zh": "病人请团队确认注射、处方及X光检查是否都与计划的移植有关。"
+      },
+      {
+        "en": "The training case asks students to check a transplant record containing a prescription, an X-ray report and an injection chart.",
+        "zh": "培训案例要求学生核对一份含处方、X光报告及注射记录的移植档案。"
+      }
+    ],
+    "collocations": {
+      "21-179": [
+        "check a record",
+        "核对记录"
+      ],
+      "21-180": [
+        "write a prescription",
+        "开处方"
+      ],
+      "21-181": [
+        "a kidney transplant",
+        "肾移植"
+      ],
+      "21-182": [
+        "an X-ray image",
+        "X光片"
+      ],
+      "21-183": [
+        "give an injection",
+        "注射"
+      ]
+    },
+    "related": [
+      {
+        "word": "clinical record",
+        "meaning": "临床记录",
+        "relation": "同场景"
+      },
+      {
+        "word": "preparation",
+        "meaning": "准备",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-184",
+      "21-185",
+      "21-186",
+      "21-187",
+      "21-188"
+    ],
+    "examples": [
+      {
+        "en": "The plan includes a precaution to segregate waste, procedures to isolate samples and quarantine arrivals, and proposals to vaccinate staff.",
+        "zh": "计划包括分类隔离废物的预防措施、分离样本与对抵达者实施检疫的程序，以及为员工接种的提议。"
+      },
+      {
+        "en": "The report distinguishes plans to vaccinate residents, quarantine travellers and isolate cases from a precaution to segregate contaminated materials.",
+        "zh": "报告区分了居民接种、旅客检疫和病例隔离计划，与分类隔离污染材料的预防措施。"
+      },
+      {
+        "en": "Before they vaccinate volunteers, officials explain each precaution, including when to quarantine contacts, isolate specimens and segregate laboratory waste.",
+        "zh": "志愿者接种前，官员解释各项预防措施，包括何时检疫接触者、分离样本及分类隔离实验室废物。"
+      }
+    ],
+    "collocations": {
+      "21-184": [
+        "take a precaution",
+        "采取预防措施"
+      ],
+      "21-185": [
+        "vaccinate a community",
+        "为社区接种疫苗"
+      ],
+      "21-186": [
+        "in quarantine",
+        "处于检疫隔离中"
+      ],
+      "21-187": [
+        "segregate waste",
+        "将废物分类隔离"
+      ],
+      "21-188": [
+        "isolate a sample",
+        "分离样本"
+      ]
+    },
+    "related": [
+      {
+        "word": "infection control",
+        "meaning": "感染控制",
+        "relation": "同场景"
+      },
+      {
+        "word": "public health planning",
+        "meaning": "公共卫生规划",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-189",
+      "21-190",
+      "21-191",
+      "21-192",
+      "21-193"
+    ],
+    "examples": [
+      {
+        "en": "At the pharmacy, she asked whether the medicine was a prescription drug, how to identify each pill and why it was described as a remedy.",
+        "zh": "药房里，她询问这种药是否为处方药、如何识别每片药，以及为何称其为疗法。"
+      },
+      {
+        "en": "The pharmacy leaflet distinguishes a prescription drug from an untested remedy and explains how to read a medicine or pill label.",
+        "zh": "药房手册区分处方药与未经验证的偏方，并解释如何阅读药物或药片标签。"
+      },
+      {
+        "en": "The novel follows a pharmacy worker who discovers that a supposed remedy is an unknown drug sold as a harmless medicine in pill form.",
+        "zh": "小说描写一位药房员工发现，所谓疗法其实是以无害药物名义出售的未知药片。"
+      }
+    ],
+    "collocations": {
+      "21-189": [
+        "a local pharmacy",
+        "当地药房"
+      ],
+      "21-190": [
+        "take medicine",
+        "服药"
+      ],
+      "21-191": [
+        "a home remedy",
+        "家庭疗法"
+      ],
+      "21-192": [
+        "a prescription drug",
+        "处方药"
+      ],
+      "21-193": [
+        "a daily pill",
+        "每日服用的药片"
+      ]
+    },
+    "related": [
+      {
+        "word": "pharmacist",
+        "meaning": "药剂师",
+        "relation": "同场景"
+      },
+      {
+        "word": "label",
+        "meaning": "标签",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-194",
+      "21-195",
+      "21-196",
+      "21-197",
+      "21-198"
+    ],
+    "examples": [
+      {
+        "en": "The medical history lists an antibiotic, penicillin, a dose of morphine and a separate course of acupuncture.",
+        "zh": "病史列出一种抗生素——青霉素、一剂吗啡，以及一段独立的针灸疗程。"
+      },
+      {
+        "en": "The course distinguishes acupuncture from drug treatments, including an antibiotic such as penicillin and a recorded dose of morphine.",
+        "zh": "课程区分针灸与药物治疗，后者包括青霉素等抗生素及记录在案的一剂吗啡。"
+      },
+      {
+        "en": "The hospital archive contains a penicillin prescription, an antibiotic chart, a morphine dose record and notes on acupuncture.",
+        "zh": "医院档案包含青霉素处方、抗生素记录、吗啡剂量记录及针灸笔记。"
+      }
+    ],
+    "collocations": {
+      "21-194": [
+        "an antibiotic prescription",
+        "抗生素处方"
+      ],
+      "21-195": [
+        "an acupuncture session",
+        "一次针灸"
+      ],
+      "21-196": [
+        "penicillin allergy",
+        "青霉素过敏"
+      ],
+      "21-197": [
+        "morphine use",
+        "吗啡使用"
+      ],
+      "21-198": [
+        "a prescribed dose",
+        "处方剂量"
+      ]
+    },
+    "related": [
+      {
+        "word": "treatment history",
+        "meaning": "治疗史",
+        "relation": "同场景"
+      },
+      {
+        "word": "clinical documentation",
+        "meaning": "临床记录",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-199",
+      "21-200",
+      "21-201",
+      "21-202",
+      "21-203"
+    ],
+    "examples": [
+      {
+        "en": "During recovery, a quiet garden helped refresh her mind, relieve stress and alleviate loneliness, bringing a sense of relief.",
+        "zh": "康复期间，安静花园帮助她恢复精神、减轻压力和孤独，带来宽慰。"
+      },
+      {
+        "en": "The charity offers relief during recovery through visits that refresh the spirit, relieve boredom and alleviate isolation.",
+        "zh": "慈善机构通过探访在康复期间提供慰藉，让人精神振作、减轻无聊和孤立。"
+      },
+      {
+        "en": "A welcoming space can refresh tired families, relieve anxiety and alleviate hardship, offering relief while a relative makes a recovery.",
+        "zh": "温馨空间能让疲惫家属恢复精神、减轻焦虑与困难，在亲属康复时提供慰藉。"
+      }
+    ],
+    "collocations": {
+      "21-199": [
+        "a gradual recovery",
+        "逐渐康复"
+      ],
+      "21-200": [
+        "refresh your mind",
+        "让头脑恢复精神"
+      ],
+      "21-201": [
+        "a sense of relief",
+        "宽慰感"
+      ],
+      "21-202": [
+        "relieve stress",
+        "减压"
+      ],
+      "21-203": [
+        "alleviate hardship",
+        "减轻困难"
+      ]
+    },
+    "related": [
+      {
+        "word": "restoration",
+        "meaning": "恢复",
+        "relation": "同场景"
+      },
+      {
+        "word": "support network",
+        "meaning": "支持网络",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-204",
+      "21-205",
+      "21-206",
+      "21-207",
+      "21-208"
+    ],
+    "examples": [
+      {
+        "en": "A common concern is when to resume a normal routine, ease back into work and find time to relax.",
+        "zh": "一个常见担忧是何时恢复正常作息、逐步回到工作，并找到放松时间。"
+      },
+      {
+        "en": "The programme helps residents resume normal activities, relax together and ease the common fear of returning to busy streets.",
+        "zh": "项目帮助居民恢复正常活动、一起放松，并缓解重返繁忙街道的常见恐惧。"
+      },
+      {
+        "en": "As services resume, a normal timetable may ease a common source of stress and let families relax.",
+        "zh": "服务恢复时，正常时刻表可能缓解一种常见压力来源，让家庭放松。"
+      }
+    ],
+    "collocations": {
+      "21-204": [
+        "resume work",
+        "恢复工作"
+      ],
+      "21-205": [
+        "ease tension",
+        "缓和紧张"
+      ],
+      "21-206": [
+        "relax at home",
+        "在家放松"
+      ],
+      "21-207": [
+        "a normal routine",
+        "正常作息"
+      ],
+      "21-208": [
+        "a common concern",
+        "常见担忧"
+      ]
+    },
+    "related": [
+      {
+        "word": "daily routine",
+        "meaning": "日常作息",
+        "relation": "同场景"
+      },
+      {
+        "word": "adjustment",
+        "meaning": "适应",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-209"
+    ],
+    "examples": [
+      {
+        "en": "She returned to her usual routine after a week away.",
+        "zh": "离开一周后，她恢复惯常作息。"
+      },
+      {
+        "en": "The clinic opened at its usual time on Monday.",
+        "zh": "诊所星期一在平常时间开门。"
+      },
+      {
+        "en": "The bus took longer than usual because of roadworks.",
+        "zh": "由于道路施工，公交车花的时间比平时长。"
+      }
+    ],
+    "collocations": {
+      "21-209": [
+        "the usual routine",
+        "惯常作息"
+      ]
+    },
+    "related": [
+      {
+        "word": "routine",
+        "meaning": "常规",
+        "relation": "同场景"
+      },
+      {
+        "word": "familiarity",
+        "meaning": "熟悉",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-210",
+      "21-211",
+      "21-212",
+      "21-213"
+    ],
+    "examples": [
+      {
+        "en": "An optimistic reader saw a positive trend, while a pessimistic reader focused on the negative figures.",
+        "zh": "乐观的读者看到了积极趋势，而悲观的读者关注负面数据。"
+      },
+      {
+        "en": "A positive result made her optimistic, but her pessimistic colleague still expected a negative outcome.",
+        "zh": "积极的结果让她感到乐观，但悲观的同事仍预期会出现负面后果。"
+      },
+      {
+        "en": "The debate included both optimistic and pessimistic forecasts, with positive and negative evidence on each side.",
+        "zh": "辩论包含乐观和悲观的预测，双方都有正面和负面证据。"
+      }
+    ],
+    "collocations": {
+      "21-210": [
+        "an optimistic outlook",
+        "乐观的看法"
+      ],
+      "21-211": [
+        "a pessimistic forecast",
+        "悲观预测"
+      ],
+      "21-212": [
+        "a positive attitude",
+        "积极态度"
+      ],
+      "21-213": [
+        "a negative impact",
+        "负面影响"
+      ]
+    },
+    "related": [
+      {
+        "word": "outlook",
+        "meaning": "前景；看法",
+        "relation": "同场景"
+      },
+      {
+        "word": "expectation",
+        "meaning": "预期",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-214",
+      "21-215",
+      "21-216"
+    ],
+    "examples": [
+      {
+        "en": "While some volunteers were enthusiastic, others remained passive or indifferent.",
+        "zh": "有些志愿者热情高涨，另一些人却依然被动或漠不关心。"
+      },
+      {
+        "en": "The enthusiastic teacher encouraged passive students without judging those who seemed indifferent.",
+        "zh": "这位热情的老师鼓励被动的学生，没有评判那些看似冷漠的人。"
+      },
+      {
+        "en": "An enthusiastic discussion can draw a passive audience into the debate, although a few may stay indifferent.",
+        "zh": "热烈的讨论能让被动的听众参与辩论，不过仍可能有少数人漠不关心。"
+      }
+    ],
+    "collocations": {
+      "21-214": [
+        "a passive role",
+        "被动的角色"
+      ],
+      "21-215": [
+        "enthusiastic about learning",
+        "对学习充满热情"
+      ],
+      "21-216": [
+        "indifferent to criticism",
+        "对批评无动于衷"
+      ]
+    },
+    "related": [
+      {
+        "word": "participation",
+        "meaning": "参与",
+        "relation": "同场景"
+      },
+      {
+        "word": "engagement",
+        "meaning": "投入；参与",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-217",
+      "21-218"
+    ],
+    "examples": [
+      {
+        "en": "The apathetic response led to a negligible increase in participation.",
+        "zh": "冷淡的反应导致参与人数几乎没有增长。"
+      },
+      {
+        "en": "Because the audience was apathetic, the campaign had a negligible effect.",
+        "zh": "由于受众漠不关心，这项宣传活动收效甚微。"
+      },
+      {
+        "en": "A negligible budget was not the only problem; the organisers also faced an apathetic public.",
+        "zh": "预算少得可怜并非唯一问题，组织者还面临着公众的冷漠。"
+      }
+    ],
+    "collocations": {
+      "21-217": [
+        "an apathetic response",
+        "冷漠的反应"
+      ],
+      "21-218": [
+        "a negligible effect",
+        "微乎其微的影响"
+      ]
+    },
+    "related": [
+      {
+        "word": "motivation",
+        "meaning": "动力",
+        "relation": "同场景"
+      },
+      {
+        "word": "impact",
+        "meaning": "影响",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-219",
+      "21-220",
+      "21-225"
+    ],
+    "examples": [
+      {
+        "en": "The child’s delight brought joy and happiness to the whole family.",
+        "zh": "孩子的欣喜给全家带来了喜悦和幸福。"
+      },
+      {
+        "en": "She recalled the joy of the journey with delight and a lasting sense of happiness.",
+        "zh": "她欣喜地回忆那趟旅程的快乐，心中仍有持久的幸福感。"
+      },
+      {
+        "en": "For the volunteers, happiness came from the joy of helping others and the delight on their faces.",
+        "zh": "对志愿者来说，幸福来自助人的喜悦和他人脸上的欣喜。"
+      }
+    ],
+    "collocations": {
+      "21-219": [
+        "lasting happiness",
+        "长久的幸福"
+      ],
+      "21-220": [
+        "to her delight",
+        "令她欣喜的是"
+      ],
+      "21-225": [
+        "a sense of joy",
+        "喜悦感"
+      ]
+    },
+    "related": [
+      {
+        "word": "contentment",
+        "meaning": "满足",
+        "relation": "同场景"
+      },
+      {
+        "word": "well-being",
+        "meaning": "幸福感；身心健康",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-221",
+      "21-222",
+      "21-223",
+      "21-224"
+    ],
+    "examples": [
+      {
+        "en": "A gentle joke filled the room with laughter and kept the merry gathering full of fun.",
+        "zh": "一个温和的玩笑让房间充满笑声，使欢乐的聚会妙趣横生。"
+      },
+      {
+        "en": "The merry children found the joke so much fun that their laughter continued for several minutes.",
+        "zh": "快乐的孩子们觉得那个笑话十分有趣，笑声持续了好几分钟。"
+      },
+      {
+        "en": "There was plenty of fun and laughter when their merry host began the evening with a joke.",
+        "zh": "热情快活的主人以一个笑话开启晚会，现场充满乐趣和笑声。"
+      }
+    ],
+    "collocations": {
+      "21-221": [
+        "a merry gathering",
+        "欢乐的聚会"
+      ],
+      "21-222": [
+        "have fun",
+        "玩得开心"
+      ],
+      "21-223": [
+        "tell a joke",
+        "讲笑话"
+      ],
+      "21-224": [
+        "burst into laughter",
+        "突然大笑"
+      ]
+    },
+    "related": [
+      {
+        "word": "humour",
+        "meaning": "幽默",
+        "relation": "同场景"
+      },
+      {
+        "word": "celebration",
+        "meaning": "庆祝活动",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-226",
+      "21-227"
+    ],
+    "examples": [
+      {
+        "en": "The news was sure to please the supporters and give them a reason to rejoice.",
+        "zh": "这个消息一定会让支持者高兴，给他们欢庆的理由。"
+      },
+      {
+        "en": "A small improvement can please a learner, but passing the final exam may make the whole family rejoice.",
+        "zh": "一点进步就能让学习者高兴，而通过期末考试可能让全家欢庆。"
+      },
+      {
+        "en": "She hoped to please her parents, who would rejoice at any sign of her progress.",
+        "zh": "她希望让父母高兴，他们看到她任何进步都会欣喜。"
+      }
+    ],
+    "collocations": {
+      "21-226": [
+        "please the audience",
+        "使观众满意"
+      ],
+      "21-227": [
+        "rejoice at the news",
+        "为消息欢欣"
+      ]
+    },
+    "related": [
+      {
+        "word": "satisfaction",
+        "meaning": "满意",
+        "relation": "同场景"
+      },
+      {
+        "word": "celebrate",
+        "meaning": "庆祝",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-228",
+      "21-229",
+      "21-230"
+    ],
+    "examples": [
+      {
+        "en": "The thrill of victory gave the fans great pleasure and a reason to cheer.",
+        "zh": "胜利的激动让球迷倍感愉快，纷纷欢呼。"
+      },
+      {
+        "en": "She felt a thrill of pleasure when she heard the crowd cheer her name.",
+        "zh": "听到观众为她的名字欢呼，她感到一阵喜悦和激动。"
+      },
+      {
+        "en": "The chance to cheer for her team was a pleasure, but meeting the captain was a special thrill.",
+        "zh": "为自己的球队加油令她高兴，而见到队长则让她格外激动。"
+      }
+    ],
+    "collocations": {
+      "21-228": [
+        "a thrill of excitement",
+        "一阵激动"
+      ],
+      "21-229": [
+        "cheer for the team",
+        "为球队加油"
+      ],
+      "21-230": [
+        "take pleasure in reading",
+        "以阅读为乐"
+      ]
+    },
+    "related": [
+      {
+        "word": "excitement",
+        "meaning": "兴奋",
+        "relation": "同场景"
+      },
+      {
+        "word": "support",
+        "meaning": "支持",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-231",
+      "21-232"
+    ],
+    "examples": [
+      {
+        "en": "An agreeable walk in the fresh air can exhilarate tired visitors.",
+        "zh": "一次惬意的户外散步能让疲惫的游客振奋起来。"
+      },
+      {
+        "en": "The agreeable weather helped the mountain views exhilarate the whole group.",
+        "zh": "宜人的天气让山间景色使整个团队精神振奋。"
+      },
+      {
+        "en": "The guide chose an agreeable route that would exhilarate beginners without exhausting them.",
+        "zh": "导游选择了一条舒适的路线，让初学者振奋而不至于筋疲力尽。"
+      }
+    ],
+    "collocations": {
+      "21-231": [
+        "agreeable weather",
+        "宜人的天气"
+      ],
+      "21-232": [
+        "exhilarate the audience",
+        "使观众振奋"
+      ]
+    },
+    "related": [
+      {
+        "word": "refreshing",
+        "meaning": "令人神清气爽的",
+        "relation": "同场景"
+      },
+      {
+        "word": "invigorate",
+        "meaning": "使充满活力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-233",
+      "21-234",
+      "21-235"
+    ],
+    "examples": [
+      {
+        "en": "A satisfactory result was desirable, but an exciting discovery was an unexpected bonus.",
+        "zh": "令人满意的结果固然可取，而激动人心的发现则是意外收获。"
+      },
+      {
+        "en": "The exciting proposal offered a desirable location at a satisfactory price.",
+        "zh": "这个令人兴奋的方案以令人满意的价格提供了一个理想地点。"
+      },
+      {
+        "en": "Although the trial was satisfactory, the team needed a more desirable design before announcing the exciting project.",
+        "zh": "虽然试验结果令人满意，团队仍需要更理想的设计，才能公布这个令人兴奋的项目。"
+      }
+    ],
+    "collocations": {
+      "21-233": [
+        "a satisfactory result",
+        "令人满意的结果"
+      ],
+      "21-234": [
+        "a desirable outcome",
+        "理想的结果"
+      ],
+      "21-235": [
+        "an exciting opportunity",
+        "令人兴奋的机会"
+      ]
+    },
+    "related": [
+      {
+        "word": "quality",
+        "meaning": "质量",
+        "relation": "同场景"
+      },
+      {
+        "word": "expectation",
+        "meaning": "预期",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-236",
+      "21-237"
+    ],
+    "examples": [
+      {
+        "en": "The keen volunteer approached every task with remarkable zeal.",
+        "zh": "这位热心的志愿者以非凡的热情对待每项任务。"
+      },
+      {
+        "en": "Her zeal for discovery made her a keen participant in the field trip.",
+        "zh": "她对探索的热情使她积极参与这次实地考察。"
+      },
+      {
+        "en": "A keen interest can sustain a student’s zeal even when progress is slow.",
+        "zh": "浓厚的兴趣能在进展缓慢时维持学生的热情。"
+      }
+    ],
+    "collocations": {
+      "21-236": [
+        "a keen interest",
+        "浓厚的兴趣"
+      ],
+      "21-237": [
+        "zeal for reform",
+        "改革的热情"
+      ]
+    },
+    "related": [
+      {
+        "word": "enthusiasm",
+        "meaning": "热情",
+        "relation": "同场景"
+      },
+      {
+        "word": "commitment",
+        "meaning": "投入；承诺",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-238",
+      "21-239",
+      "21-240"
+    ],
+    "examples": [
+      {
+        "en": "The lovely village had a lively market of which she was especially fond.",
+        "zh": "这个可爱的村庄有一个热闹的集市，她尤其喜爱它。"
+      },
+      {
+        "en": "He grew fond of the lively town and its lovely riverside walks.",
+        "zh": "他渐渐喜欢上这座充满活力的小镇和它宜人的河畔步道。"
+      },
+      {
+        "en": "Their lively grandmother was fond of telling lovely stories about her childhood.",
+        "zh": "他们活泼的祖母喜欢讲述童年时的美好故事。"
+      }
+    ],
+    "collocations": {
+      "21-238": [
+        "a lively discussion",
+        "热烈的讨论"
+      ],
+      "21-239": [
+        "a lovely view",
+        "美丽的景色"
+      ],
+      "21-240": [
+        "be fond of music",
+        "喜欢音乐"
+      ]
+    },
+    "related": [
+      {
+        "word": "affection",
+        "meaning": "喜爱",
+        "relation": "同场景"
+      },
+      {
+        "word": "vibrant",
+        "meaning": "充满活力的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-241"
+    ],
+    "examples": [
+      {
+        "en": "The committee voted in favour of the revised plan.",
+        "zh": "委员会投票支持修订后的计划。"
+      },
+      {
+        "en": "Could you do me a favour and check these figures?",
+        "zh": "你能帮我个忙，核查这些数字吗？"
+      },
+      {
+        "en": "The new rules should not favour one applicant over another.",
+        "zh": "新规则不应偏袒任何申请人。"
+      }
+    ],
+    "collocations": {
+      "21-241": [
+        "in favour of",
+        "支持；赞成"
+      ]
+    },
+    "related": [
+      {
+        "word": "support",
+        "meaning": "支持",
+        "relation": "同场景"
+      },
+      {
+        "word": "preference",
+        "meaning": "偏好",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-242",
+      "21-244"
+    ],
+    "examples": [
+      {
+        "en": "The amazing view was a surprising reward after the difficult climb.",
+        "zh": "艰难攀登之后，那令人惊叹的景色是一份意外奖励。"
+      },
+      {
+        "en": "Her amazing progress produced a surprising change in the team’s expectations.",
+        "zh": "她惊人的进步出乎意料地改变了团队的预期。"
+      },
+      {
+        "en": "The documentary revealed a surprising story behind the amazing discovery.",
+        "zh": "纪录片揭示了这项惊人发现背后一个令人意外的故事。"
+      }
+    ],
+    "collocations": {
+      "21-242": [
+        "a surprising result",
+        "出乎意料的结果"
+      ],
+      "21-244": [
+        "an amazing achievement",
+        "惊人的成就"
+      ]
+    },
+    "related": [
+      {
+        "word": "unexpected",
+        "meaning": "意外的",
+        "relation": "同场景"
+      },
+      {
+        "word": "astonishment",
+        "meaning": "惊讶",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-243",
+      "21-245"
+    ],
+    "examples": [
+      {
+        "en": "A sudden noise may startle the visitors, while the scale of the cave can astound them.",
+        "zh": "突然的声响可能吓游客一跳，而洞穴的规模会令他们惊叹。"
+      },
+      {
+        "en": "The opening scene is designed to startle the audience before the special effects astound them.",
+        "zh": "开场场景旨在先让观众一惊，再用特效让他们赞叹。"
+      },
+      {
+        "en": "A performer can startle us with a sudden movement and astound us with an unexpected skill.",
+        "zh": "表演者可以用突然的动作使我们一惊，也可以用出人意料的技艺让我们惊叹。"
+      }
+    ],
+    "collocations": {
+      "21-243": [
+        "startle a sleeping child",
+        "惊醒熟睡的孩子"
+      ],
+      "21-245": [
+        "astound the audience",
+        "令观众惊叹"
+      ]
+    },
+    "related": [
+      {
+        "word": "surprise",
+        "meaning": "使惊讶",
+        "relation": "同场景"
+      },
+      {
+        "word": "shock",
+        "meaning": "震惊",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-246",
+      "21-247",
+      "21-248"
+    ],
+    "examples": [
+      {
+        "en": "Despite a hectic schedule, the generous host was liberal with her time.",
+        "zh": "尽管日程忙碌，这位慷慨的主人仍愿意拿出很多时间。"
+      },
+      {
+        "en": "The hectic campaign relied on a generous donor who was liberal in supporting local projects.",
+        "zh": "这场忙碌的活动依靠一位大力支持地方项目的慷慨捐助者。"
+      },
+      {
+        "en": "Her liberal approach to sharing resources was generous, even during a hectic week.",
+        "zh": "即便在忙得不可开交的一周，她在分享资源方面仍十分慷慨。"
+      }
+    ],
+    "collocations": {
+      "21-246": [
+        "a hectic schedule",
+        "忙碌的日程"
+      ],
+      "21-247": [
+        "liberal with praise",
+        "不吝赞美"
+      ],
+      "21-248": [
+        "a generous donation",
+        "慷慨的捐款"
+      ]
+    },
+    "related": [
+      {
+        "word": "charity",
+        "meaning": "慈善",
+        "relation": "同场景"
+      },
+      {
+        "word": "busy",
+        "meaning": "忙碌的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-249",
+      "21-250",
+      "21-251"
+    ],
+    "examples": [
+      {
+        "en": "The gentle instructor remained humble and modest about her success.",
+        "zh": "这位温和的导师对自己的成功始终保持谦逊。"
+      },
+      {
+        "en": "A humble leader can offer gentle guidance while taking a modest share of the credit.",
+        "zh": "谦逊的领导者能温和地指导他人，并不过多居功。"
+      },
+      {
+        "en": "His gentle manner and modest claims reflected a humble attitude to learning.",
+        "zh": "他温和的举止和不夸耀的说法体现了谦虚的学习态度。"
+      }
+    ],
+    "collocations": {
+      "21-249": [
+        "a gentle voice",
+        "温柔的声音"
+      ],
+      "21-250": [
+        "a humble attitude",
+        "谦逊的态度"
+      ],
+      "21-251": [
+        "modest about success",
+        "对成功不自夸"
+      ]
+    },
+    "related": [
+      {
+        "word": "humility",
+        "meaning": "谦逊",
+        "relation": "同场景"
+      },
+      {
+        "word": "kindness",
+        "meaning": "善意",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-252",
+      "21-253",
+      "21-254",
+      "21-259"
+    ],
+    "examples": [
+      {
+        "en": "Her humorous reply was polite, frank and direct.",
+        "zh": "她幽默的回答礼貌、坦诚又直接。"
+      },
+      {
+        "en": "A frank and direct conversation can remain polite without losing its humorous moments.",
+        "zh": "坦诚直接的谈话也可以保持礼貌，并带有幽默的时刻。"
+      },
+      {
+        "en": "The humorous speaker gave a direct answer that was both frank and polite.",
+        "zh": "这位幽默的讲者给出了一个既坦诚又礼貌的直接回答。"
+      }
+    ],
+    "collocations": {
+      "21-252": [
+        "a humorous remark",
+        "幽默的话语"
+      ],
+      "21-253": [
+        "a polite response",
+        "礼貌的回应"
+      ],
+      "21-254": [
+        "a frank discussion",
+        "坦诚的讨论"
+      ],
+      "21-259": [
+        "a direct answer",
+        "直接的回答"
+      ]
+    },
+    "related": [
+      {
+        "word": "communication",
+        "meaning": "沟通",
+        "relation": "同场景"
+      },
+      {
+        "word": "tact",
+        "meaning": "圆通；得体",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-255",
+      "21-256"
+    ],
+    "examples": [
+      {
+        "en": "The curious child asked questions about the mysterious building.",
+        "zh": "好奇的孩子询问那座神秘建筑的情况。"
+      },
+      {
+        "en": "A mysterious message made the reporter curious about its sender.",
+        "zh": "一条神秘的信息让记者对发送者产生了好奇。"
+      },
+      {
+        "en": "The curious visitors followed the guide into a room filled with mysterious objects.",
+        "zh": "好奇的游客跟随导游走进一间摆满神秘物品的房间。"
+      }
+    ],
+    "collocations": {
+      "21-255": [
+        "a mysterious disappearance",
+        "神秘失踪"
+      ],
+      "21-256": [
+        "curious about the world",
+        "对世界充满好奇"
+      ]
+    },
+    "related": [
+      {
+        "word": "mystery",
+        "meaning": "谜团",
+        "relation": "同场景"
+      },
+      {
+        "word": "inquiry",
+        "meaning": "探究",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-257",
+      "21-258"
+    ],
+    "examples": [
+      {
+        "en": "The film challenges the idea that every daring act must be described as manly.",
+        "zh": "影片质疑了把每个勇敢举动都称作有男子气概的观念。"
+      },
+      {
+        "en": "His daring rescue was praised as manly in the old newspaper report.",
+        "zh": "在那份旧报纸的报道中，他勇敢的救援行为被赞为有男子气概。"
+      },
+      {
+        "en": "The novel questions why a daring heroine is judged by a supposedly manly standard.",
+        "zh": "小说质疑为什么一位勇敢的女主人公要接受所谓男子气概标准的评判。"
+      }
+    ],
+    "collocations": {
+      "21-257": [
+        "a daring attempt",
+        "大胆的尝试"
+      ],
+      "21-258": [
+        "traditional manly virtues",
+        "传统观念中的男性美德"
+      ]
+    },
+    "related": [
+      {
+        "word": "courage",
+        "meaning": "勇气",
+        "relation": "同场景"
+      },
+      {
+        "word": "gender expectations",
+        "meaning": "性别期待",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-260",
+      "21-261",
+      "21-262"
+    ],
+    "examples": [
+      {
+        "en": "The earnest researcher valued honesty and a rational discussion of the evidence.",
+        "zh": "这位认真的研究人员重视诚实和对证据的理性讨论。"
+      },
+      {
+        "en": "Her earnest apology showed honesty, while her rational explanation helped resolve the dispute.",
+        "zh": "她诚恳的道歉体现了诚实，理性的解释则帮助解决了争端。"
+      },
+      {
+        "en": "An earnest commitment to honesty should accompany a rational approach to criticism.",
+        "zh": "认真坚持诚实的态度，应与理性面对批评的方式相结合。"
+      }
+    ],
+    "collocations": {
+      "21-260": [
+        "an earnest effort",
+        "认真的努力"
+      ],
+      "21-261": [
+        "a rational decision",
+        "理性的决定"
+      ],
+      "21-262": [
+        "academic honesty",
+        "学术诚信"
+      ]
+    },
+    "related": [
+      {
+        "word": "integrity",
+        "meaning": "正直",
+        "relation": "同场景"
+      },
+      {
+        "word": "reasoning",
+        "meaning": "推理",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-263",
+      "21-264",
+      "21-265"
+    ],
+    "examples": [
+      {
+        "en": "The proud coach took the failure seriously and gave the team a stern warning.",
+        "zh": "这位自豪的教练认真看待失败，并向球队发出了严厉警告。"
+      },
+      {
+        "en": "Although proud of his students, the stern teacher insisted that they take feedback seriously.",
+        "zh": "虽然为学生感到骄傲，这位严格的老师仍坚持要求他们认真对待反馈。"
+      },
+      {
+        "en": "Her proud expression faded when the normally cheerful manager spoke seriously in a stern voice.",
+        "zh": "平日开朗的经理用严厉的语气郑重说话时，她自豪的神情消失了。"
+      }
+    ],
+    "collocations": {
+      "21-263": [
+        "proud of an achievement",
+        "为成就自豪"
+      ],
+      "21-264": [
+        "take feedback seriously",
+        "认真对待反馈"
+      ],
+      "21-265": [
+        "a stern warning",
+        "严厉的警告"
+      ]
+    },
+    "related": [
+      {
+        "word": "discipline",
+        "meaning": "纪律",
+        "relation": "同场景"
+      },
+      {
+        "word": "responsibility",
+        "meaning": "责任",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-266",
+      "21-267"
+    ],
+    "examples": [
+      {
+        "en": "The friendly family was hospitable to every visitor.",
+        "zh": "这个友善的家庭对每位访客都热情好客。"
+      },
+      {
+        "en": "A hospitable village and its friendly residents made the trip memorable.",
+        "zh": "好客的村庄和友善的居民让这趟旅程难忘。"
+      },
+      {
+        "en": "Her friendly greeting showed that she intended to be a hospitable host.",
+        "zh": "她友好的问候表明，她希望做一个热情好客的主人。"
+      }
+    ],
+    "collocations": {
+      "21-266": [
+        "a friendly greeting",
+        "友善的问候"
+      ],
+      "21-267": [
+        "a hospitable host",
+        "好客的主人"
+      ]
+    },
+    "related": [
+      {
+        "word": "hospitality",
+        "meaning": "好客",
+        "relation": "同场景"
+      },
+      {
+        "word": "welcome",
+        "meaning": "欢迎",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-268",
+      "21-269"
+    ],
+    "examples": [
+      {
+        "en": "The novel presents a romantic vision of freedom and adventure.",
+        "zh": "小说展现了一幅关于自由与冒险的浪漫图景。"
+      },
+      {
+        "en": "Her romantic idea of island life overlooked the practical limits on her freedom.",
+        "zh": "她对岛屿生活的浪漫想象忽略了自由在现实中受到的限制。"
+      },
+      {
+        "en": "The film links a romantic journey with the characters’ search for freedom.",
+        "zh": "影片把一段浪漫旅程与人物对自由的追寻联系起来。"
+      }
+    ],
+    "collocations": {
+      "21-268": [
+        "a romantic ideal",
+        "浪漫的理想"
+      ],
+      "21-269": [
+        "freedom of choice",
+        "选择自由"
+      ]
+    },
+    "related": [
+      {
+        "word": "independence",
+        "meaning": "独立",
+        "relation": "同场景"
+      },
+      {
+        "word": "idealism",
+        "meaning": "理想主义",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-270",
+      "21-271",
+      "21-272"
+    ],
+    "examples": [
+      {
+        "en": "Her careful preparation showed concern for the audience and gave her confidence.",
+        "zh": "她仔细的准备体现了对听众的关心，也让她更有信心。"
+      },
+      {
+        "en": "A careful explanation can address a customer’s concern and restore confidence.",
+        "zh": "仔细的解释可以回应顾客的担忧，恢复信心。"
+      },
+      {
+        "en": "The team’s concern about safety led to careful checks that increased public confidence.",
+        "zh": "团队对安全的关切促成了仔细检查，提高了公众信心。"
+      }
+    ],
+    "collocations": {
+      "21-270": [
+        "a careful analysis",
+        "仔细的分析"
+      ],
+      "21-271": [
+        "express concern",
+        "表达关切"
+      ],
+      "21-272": [
+        "build confidence",
+        "建立信心"
+      ]
+    },
+    "related": [
+      {
+        "word": "reassurance",
+        "meaning": "安抚；保证",
+        "relation": "同场景"
+      },
+      {
+        "word": "preparation",
+        "meaning": "准备",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-273",
+      "21-274",
+      "21-275"
+    ],
+    "examples": [
+      {
+        "en": "The considerate nurse offered a thoughtful response and a sympathetic smile.",
+        "zh": "这位体贴的护士给出了周到的回应和富有同情心的微笑。"
+      },
+      {
+        "en": "A sympathetic listener can be both thoughtful and considerate without giving advice.",
+        "zh": "一个善于共情的倾听者即使不提供建议，也可以周到体贴。"
+      },
+      {
+        "en": "Her thoughtful message revealed a considerate and sympathetic approach to the family’s difficulties.",
+        "zh": "她周到的信息体现了对这个家庭困境的体谅和同情。"
+      }
+    ],
+    "collocations": {
+      "21-273": [
+        "considerate of others",
+        "为他人着想"
+      ],
+      "21-274": [
+        "a thoughtful gesture",
+        "体贴的举动"
+      ],
+      "21-275": [
+        "a sympathetic response",
+        "同情的回应"
+      ]
+    },
+    "related": [
+      {
+        "word": "empathy",
+        "meaning": "共情",
+        "relation": "同场景"
+      },
+      {
+        "word": "compassion",
+        "meaning": "同情；关怀",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-276",
+      "21-277",
+      "21-278"
+    ],
+    "examples": [
+      {
+        "en": "She was ready to apologise and hoped that her apology would repair the friendship.",
+        "zh": "她准备好道歉，希望自己的道歉能修复友谊。"
+      },
+      {
+        "en": "An apology matters more when the speaker is ready to explain why they need to apologise.",
+        "zh": "当说话者愿意说明自己为何需要道歉时，道歉才更有意义。"
+      },
+      {
+        "en": "Before you apologise, be ready to listen to the response rather than simply repeat your apology.",
+        "zh": "道歉前，要做好倾听回应的准备，而不是仅仅重复道歉。"
+      }
+    ],
+    "collocations": {
+      "21-276": [
+        "ready to help",
+        "乐于帮助"
+      ],
+      "21-277": [
+        "apologise for a mistake",
+        "为错误道歉"
+      ],
+      "21-278": [
+        "offer an apology",
+        "表示歉意"
+      ]
+    },
+    "related": [
+      {
+        "word": "reconciliation",
+        "meaning": "和解",
+        "relation": "同场景"
+      },
+      {
+        "word": "forgiveness",
+        "meaning": "原谅",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-279",
+      "21-280",
+      "21-281"
+    ],
+    "examples": [
+      {
+        "en": "We admire the remarkable mercy she showed towards her former opponent.",
+        "zh": "我们钦佩她对昔日对手表现出的非凡宽容。"
+      },
+      {
+        "en": "The story invites readers to admire a remarkable act of mercy.",
+        "zh": "这个故事让读者赞赏一次非凡的仁慈之举。"
+      },
+      {
+        "en": "Her remarkable courage is easy to admire, but her mercy deserves equal attention.",
+        "zh": "她非凡的勇气容易令人钦佩，但她的仁慈同样值得关注。"
+      }
+    ],
+    "collocations": {
+      "21-279": [
+        "show mercy",
+        "表现仁慈"
+      ],
+      "21-280": [
+        "admire someone’s courage",
+        "钦佩某人的勇气"
+      ],
+      "21-281": [
+        "a remarkable achievement",
+        "非凡的成就"
+      ]
+    },
+    "related": [
+      {
+        "word": "compassion",
+        "meaning": "同情",
+        "relation": "同场景"
+      },
+      {
+        "word": "respect",
+        "meaning": "尊重",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-282",
+      "21-283",
+      "21-284"
+    ],
+    "examples": [
+      {
+        "en": "The grateful student was eager to express her gratitude to the volunteers.",
+        "zh": "这位心怀感激的学生急切地想向志愿者表达谢意。"
+      },
+      {
+        "en": "He felt grateful for the help and was eager to show his gratitude through action.",
+        "zh": "他感谢大家的帮助，并急于用行动表达感激。"
+      },
+      {
+        "en": "An eager team of grateful residents prepared a meal as a gesture of gratitude.",
+        "zh": "心怀感激的居民们热心地准备了一顿饭，以表达谢意。"
+      }
+    ],
+    "collocations": {
+      "21-282": [
+        "grateful for support",
+        "感谢支持"
+      ],
+      "21-283": [
+        "express gratitude",
+        "表达感激"
+      ],
+      "21-284": [
+        "eager to learn",
+        "渴望学习"
+      ]
+    },
+    "related": [
+      {
+        "word": "appreciation",
+        "meaning": "感激；欣赏",
+        "relation": "同场景"
+      },
+      {
+        "word": "thanks",
+        "meaning": "谢意",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-285",
+      "21-287",
+      "21-288"
+    ],
+    "examples": [
+      {
+        "en": "The prominent scientist considered the promising proposal a sound investment.",
+        "zh": "这位知名科学家认为，这项有前景的提议值得稳妥投资。"
+      },
+      {
+        "en": "A sound method helped the promising researcher earn a prominent position in the project.",
+        "zh": "可靠的方法帮助这位有潜力的研究人员在项目中获得了重要地位。"
+      },
+      {
+        "en": "The report gave a prominent role to sound evidence and the most promising results.",
+        "zh": "报告突出呈现了可靠证据和最有前景的结果。"
+      }
+    ],
+    "collocations": {
+      "21-285": [
+        "sound advice",
+        "可靠的建议"
+      ],
+      "21-287": [
+        "a promising start",
+        "有希望的开端"
+      ],
+      "21-288": [
+        "a prominent role",
+        "重要角色"
+      ]
+    },
+    "related": [
+      {
+        "word": "reliability",
+        "meaning": "可靠性",
+        "relation": "同场景"
+      },
+      {
+        "word": "potential",
+        "meaning": "潜力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-286",
+      "21-289"
+    ],
+    "examples": [
+      {
+        "en": "The picturesque valley offered an awesome view of the surrounding mountains.",
+        "zh": "风景如画的山谷呈现出周围群山令人惊叹的景致。"
+      },
+      {
+        "en": "Visitors described the picturesque harbour as awesome in their informal reviews.",
+        "zh": "游客在非正式评价中称这个风景如画的港口棒极了。"
+      },
+      {
+        "en": "An awesome sunset made the picturesque village even more memorable.",
+        "zh": "一场壮丽的日落使这座如画的村庄更加令人难忘。"
+      }
+    ],
+    "collocations": {
+      "21-286": [
+        "a picturesque village",
+        "风景如画的村庄"
+      ],
+      "21-289": [
+        "an awesome view",
+        "令人惊叹的景色"
+      ]
+    },
+    "related": [
+      {
+        "word": "scenic",
+        "meaning": "景色优美的",
+        "relation": "同场景"
+      },
+      {
+        "word": "breathtaking",
+        "meaning": "令人惊叹的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-290",
+      "21-291",
+      "21-294"
+    ],
+    "examples": [
+      {
+        "en": "The arduous journey demanded a tough attitude and steadfast support from the team.",
+        "zh": "艰辛的旅程需要坚强的态度和团队坚定的支持。"
+      },
+      {
+        "en": "Her steadfast determination helped her cope with the tough demands of the arduous course.",
+        "zh": "她坚定的决心帮助她应对这门艰难课程的严苛要求。"
+      },
+      {
+        "en": "A tough climb became less arduous thanks to the guide’s steadfast encouragement.",
+        "zh": "有了导游始终不渝的鼓励，艰难的攀登变得没那么吃力。"
+      }
+    ],
+    "collocations": {
+      "21-290": [
+        "an arduous task",
+        "艰巨任务"
+      ],
+      "21-291": [
+        "a tough challenge",
+        "艰难挑战"
+      ],
+      "21-294": [
+        "steadfast support",
+        "坚定的支持"
+      ]
+    },
+    "related": [
+      {
+        "word": "perseverance",
+        "meaning": "毅力",
+        "relation": "同场景"
+      },
+      {
+        "word": "endurance",
+        "meaning": "耐力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-292",
+      "21-293"
+    ],
+    "examples": [
+      {
+        "en": "The sturdy frame and robust design made the bicycle suitable for rough roads.",
+        "zh": "坚固的车架和结实的设计使这辆自行车适合崎岖道路。"
+      },
+      {
+        "en": "A robust shelter needs sturdy supports as well as a secure roof.",
+        "zh": "牢固的避难所既需要坚实的支撑，也需要稳固的屋顶。"
+      },
+      {
+        "en": "The engineer tested whether the sturdy container was robust enough for repeated use.",
+        "zh": "工程师测试了这个坚固的容器是否足够结实，能够反复使用。"
+      }
+    ],
+    "collocations": {
+      "21-292": [
+        "a robust design",
+        "结实可靠的设计"
+      ],
+      "21-293": [
+        "a sturdy frame",
+        "坚固的框架"
+      ]
+    },
+    "related": [
+      {
+        "word": "durable",
+        "meaning": "耐用的",
+        "relation": "同场景"
+      },
+      {
+        "word": "strength",
+        "meaning": "强度",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-295",
+      "21-296",
+      "21-297"
+    ],
+    "examples": [
+      {
+        "en": "The tender shoots of this delicate plant grow well in a temperate climate.",
+        "zh": "这种娇嫩植物的嫩芽在温带气候下生长良好。"
+      },
+      {
+        "en": "A temperate spring protects the delicate flowers and tender leaves from extreme heat.",
+        "zh": "温和的春季使娇嫩的花朵和柔嫩的叶片免受酷热影响。"
+      },
+      {
+        "en": "Gardeners in a temperate region still shelter tender plants with delicate stems from sudden frost.",
+        "zh": "温带地区的园丁仍会保护茎秆纤细的娇嫩植物，使其免受突发霜冻影响。"
+      }
+    ],
+    "collocations": {
+      "21-295": [
+        "tender leaves",
+        "嫩叶"
+      ],
+      "21-296": [
+        "a temperate climate",
+        "温带气候"
+      ],
+      "21-297": [
+        "a delicate flower",
+        "娇嫩的花朵"
+      ]
+    },
+    "related": [
+      {
+        "word": "fragile",
+        "meaning": "脆弱的",
+        "relation": "同场景"
+      },
+      {
+        "word": "mild",
+        "meaning": "温和的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-298",
+      "21-299",
+      "21-300"
+    ],
+    "examples": [
+      {
+        "en": "Her naive belief that every day would be exciting made mundane tasks seem childish.",
+        "zh": "她天真地以为每天都会充满刺激，因此觉得平凡的任务像小孩子的活动。"
+      },
+      {
+        "en": "The novel contrasts a child’s naive dreams with the mundane duties that adults dismiss as childish.",
+        "zh": "小说将孩子天真的梦想与那些被成年人视为幼稚的日常琐事进行对照。"
+      },
+      {
+        "en": "It would be naive to assume that a childish protest could remove the mundane parts of the job.",
+        "zh": "若以为幼稚的抗议能消除工作中的平凡琐事，那就太天真了。"
+      }
+    ],
+    "collocations": {
+      "21-298": [
+        "mundane tasks",
+        "日常琐事"
+      ],
+      "21-299": [
+        "a naive assumption",
+        "天真的假设"
+      ],
+      "21-300": [
+        "childish behaviour",
+        "幼稚的行为"
+      ]
+    },
+    "related": [
+      {
+        "word": "maturity",
+        "meaning": "成熟",
+        "relation": "同场景"
+      },
+      {
+        "word": "routine",
+        "meaning": "常规",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-301",
+      "21-303",
+      "21-304"
+    ],
+    "examples": [
+      {
+        "en": "The enterprising student seemed sincere and trustworthy to her business partner.",
+        "zh": "这位有进取心的学生在商业伙伴看来既真诚又可信。"
+      },
+      {
+        "en": "A sincere apology helped the enterprising manager rebuild her reputation as a trustworthy leader.",
+        "zh": "真诚的道歉帮助这位有进取心的经理重建了值得信赖的领导者形象。"
+      },
+      {
+        "en": "The charity sought an enterprising, trustworthy organiser with a sincere commitment to the community.",
+        "zh": "慈善机构寻找一位有事业心、值得信赖且真心服务社区的组织者。"
+      }
+    ],
+    "collocations": {
+      "21-301": [
+        "a sincere apology",
+        "真诚的道歉"
+      ],
+      "21-303": [
+        "a trustworthy source",
+        "可信的信息来源"
+      ],
+      "21-304": [
+        "an enterprising student",
+        "有进取心的学生"
+      ]
+    },
+    "related": [
+      {
+        "word": "initiative",
+        "meaning": "主动性",
+        "relation": "同场景"
+      },
+      {
+        "word": "integrity",
+        "meaning": "正直",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-302",
+      "21-305",
+      "21-306"
+    ],
+    "examples": [
+      {
+        "en": "During strenuous work, a sane approach recognises that tired people are liable to make mistakes.",
+        "zh": "从事繁重工作时，明智的做法是认识到疲劳的人容易犯错。"
+      },
+      {
+        "en": "It is sane to rest after strenuous activity, when even experienced workers are liable to overlook details.",
+        "zh": "剧烈活动后休息是明智的，因为此时即使有经验的工人也容易忽略细节。"
+      },
+      {
+        "en": "A strenuous schedule is liable to exhaust the team unless its leaders make a sane adjustment.",
+        "zh": "繁重的日程容易让团队筋疲力尽，除非领导者作出明智调整。"
+      }
+    ],
+    "collocations": {
+      "21-302": [
+        "liable to change",
+        "可能变化"
+      ],
+      "21-305": [
+        "a sane decision",
+        "明智的决定"
+      ],
+      "21-306": [
+        "strenuous effort",
+        "艰苦的努力"
+      ]
+    },
+    "related": [
+      {
+        "word": "judgement",
+        "meaning": "判断",
+        "relation": "同场景"
+      },
+      {
+        "word": "exertion",
+        "meaning": "费力；用力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-307",
+      "21-308",
+      "21-309"
+    ],
+    "examples": [
+      {
+        "en": "A frown crossed his face as rage replaced his wretched sense of helplessness.",
+        "zh": "愤怒取代了悲惨的无助感，他的脸上掠过一丝皱眉的神情。"
+      },
+      {
+        "en": "The actor used a frown to suggest rage in the otherwise wretched character.",
+        "zh": "演员用皱眉表现这个原本可怜的人物的愤怒。"
+      },
+      {
+        "en": "Her wretched day ended with a frown rather than an outburst of rage.",
+        "zh": "她悲惨的一天以皱眉结束，而没有爆发怒火。"
+      }
+    ],
+    "collocations": {
+      "21-307": [
+        "a worried frown",
+        "担忧的皱眉"
+      ],
+      "21-308": [
+        "in a rage",
+        "盛怒之下"
+      ],
+      "21-309": [
+        "feel wretched",
+        "感到难过极了"
+      ]
+    },
+    "related": [
+      {
+        "word": "distress",
+        "meaning": "痛苦",
+        "relation": "同场景"
+      },
+      {
+        "word": "expression",
+        "meaning": "表情",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-310",
+      "21-312",
+      "21-313"
+    ],
+    "examples": [
+      {
+        "en": "The frustrating delay filled the furious passengers with anger.",
+        "zh": "令人沮丧的延误让愤怒的乘客满腔怒火。"
+      },
+      {
+        "en": "She understood their anger but asked the furious crowd to remain patient during the frustrating wait.",
+        "zh": "她理解大家的愤怒，但请求愤怒的人群在令人焦躁的等待中保持耐心。"
+      },
+      {
+        "en": "A furious complaint expressed his anger at the frustrating lack of information.",
+        "zh": "一封愤怒的投诉表达了他对令人恼火的信息匮乏的不满。"
+      }
+    ],
+    "collocations": {
+      "21-310": [
+        "a frustrating delay",
+        "令人沮丧的延误"
+      ],
+      "21-312": [
+        "express anger",
+        "表达愤怒"
+      ],
+      "21-313": [
+        "furious about the decision",
+        "对决定十分愤怒"
+      ]
+    },
+    "related": [
+      {
+        "word": "frustration",
+        "meaning": "挫败感",
+        "relation": "同场景"
+      },
+      {
+        "word": "complaint",
+        "meaning": "投诉",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-311"
+    ],
+    "examples": [
+      {
+        "en": "The community gathered to mourn the loss of its founder.",
+        "zh": "社区居民聚在一起悼念创始人的离世。"
+      },
+      {
+        "en": "Families need time to mourn in their own way.",
+        "zh": "家庭需要时间以各自的方式哀悼。"
+      },
+      {
+        "en": "The poem invites readers to mourn a world that has disappeared.",
+        "zh": "这首诗邀请读者为一个已经消逝的世界感伤。"
+      }
+    ],
+    "collocations": {
+      "21-311": [
+        "mourn the loss of someone",
+        "哀悼某人的离世"
+      ]
+    },
+    "related": [
+      {
+        "word": "grief",
+        "meaning": "悲痛",
+        "relation": "同场景"
+      },
+      {
+        "word": "remembrance",
+        "meaning": "追忆；纪念",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-314",
+      "21-317",
+      "21-319"
+    ],
+    "examples": [
+      {
+        "en": "The repeated nuisance could irritate and vex even the most patient neighbour.",
+        "zh": "反复出现的扰人之事会让最有耐心的邻居也感到恼火。"
+      },
+      {
+        "en": "To irritate someone deliberately is a nuisance that can vex the whole group.",
+        "zh": "故意惹人生气是一种会让整个群体烦恼的扰人行为。"
+      },
+      {
+        "en": "The noise was a nuisance likely to irritate the workers and vex the manager.",
+        "zh": "这种噪声是个麻烦，很容易惹恼工人并让经理烦心。"
+      }
+    ],
+    "collocations": {
+      "21-314": [
+        "irritate the skin",
+        "刺激皮肤"
+      ],
+      "21-317": [
+        "a public nuisance",
+        "妨害公众的事物"
+      ],
+      "21-319": [
+        "vex the committee",
+        "使委员会烦恼"
+      ]
+    },
+    "related": [
+      {
+        "word": "annoyance",
+        "meaning": "烦恼",
+        "relation": "同场景"
+      },
+      {
+        "word": "disturbance",
+        "meaning": "干扰",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-315",
+      "21-316"
+    ],
+    "examples": [
+      {
+        "en": "She came to hate the constant quarrels but refused to let hatred shape her actions.",
+        "zh": "她开始厌恶不断的争吵，却拒绝让仇恨左右自己的行动。"
+      },
+      {
+        "en": "The story shows how people who hate injustice can still reject hatred towards individuals.",
+        "zh": "故事展现了憎恶不公的人如何仍然拒绝仇视具体的人。"
+      },
+      {
+        "en": "He admitted that he used to hate his rival, although his hatred had faded over time.",
+        "zh": "他承认自己过去憎恨对手，但这种仇恨已随时间淡去。"
+      }
+    ],
+    "collocations": {
+      "21-315": [
+        "hate doing housework",
+        "讨厌做家务"
+      ],
+      "21-316": [
+        "deep hatred",
+        "深深的仇恨"
+      ]
+    },
+    "related": [
+      {
+        "word": "resentment",
+        "meaning": "怨恨",
+        "relation": "同场景"
+      },
+      {
+        "word": "reconciliation",
+        "meaning": "和解",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-318",
+      "21-320"
+    ],
+    "examples": [
+      {
+        "en": "The report describes the disgust felt by employees whose colleagues continued to harass them.",
+        "zh": "报告描述了遭同事持续骚扰的员工所感到的厌恶。"
+      },
+      {
+        "en": "Her disgust grew when she saw the same group harass another visitor.",
+        "zh": "当她看到同一伙人骚扰另一名游客时，她更加厌恶。"
+      },
+      {
+        "en": "The supervisor expressed disgust at attempts to harass staff who had raised concerns.",
+        "zh": "主管对骚扰提出问题的员工的行为表示厌恶。"
+      }
+    ],
+    "collocations": {
+      "21-318": [
+        "express disgust",
+        "表示厌恶"
+      ],
+      "21-320": [
+        "harass a colleague",
+        "骚扰同事"
+      ]
+    },
+    "related": [
+      {
+        "word": "harassment",
+        "meaning": "骚扰",
+        "relation": "同场景"
+      },
+      {
+        "word": "respect",
+        "meaning": "尊重",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-321",
+      "21-322",
+      "21-323"
+    ],
+    "examples": [
+      {
+        "en": "A troublesome presentation can bore the audience and bother the organiser.",
+        "zh": "一场令人烦恼的报告会让听众厌倦，也会困扰组织者。"
+      },
+      {
+        "en": "The troublesome interruptions began to bother the speaker and bore the listeners.",
+        "zh": "这些烦人的打断开始困扰讲者，也让听众感到无聊。"
+      },
+      {
+        "en": "He did not want to bore his guests or bother them with troublesome details.",
+        "zh": "他不想让客人厌烦，也不想用麻烦的细节打扰他们。"
+      }
+    ],
+    "collocations": {
+      "21-321": [
+        "bore the audience",
+        "使听众厌烦"
+      ],
+      "21-322": [
+        "bother someone with questions",
+        "用问题打扰某人"
+      ],
+      "21-323": [
+        "a troublesome issue",
+        "棘手的问题"
+      ]
+    },
+    "related": [
+      {
+        "word": "boredom",
+        "meaning": "无聊",
+        "relation": "同场景"
+      },
+      {
+        "word": "annoy",
+        "meaning": "惹恼",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-324",
+      "21-325",
+      "21-326"
+    ],
+    "examples": [
+      {
+        "en": "The awful weather created unpleasant conditions and had an adverse effect on travel.",
+        "zh": "糟糕的天气带来了令人不快的环境，并对出行造成不利影响。"
+      },
+      {
+        "en": "An awful smell made the room unpleasant, while poor ventilation had an adverse impact on comfort.",
+        "zh": "难闻的气味使房间令人不适，通风不良则降低了舒适度。"
+      },
+      {
+        "en": "The review described an unpleasant journey in awful conditions with adverse consequences for the schedule.",
+        "zh": "评论描述了一次条件恶劣、令人不快且打乱行程的旅行。"
+      }
+    ],
+    "collocations": {
+      "21-324": [
+        "awful weather",
+        "糟糕的天气"
+      ],
+      "21-325": [
+        "an unpleasant experience",
+        "不愉快的经历"
+      ],
+      "21-326": [
+        "an adverse effect",
+        "不利影响"
+      ]
+    },
+    "related": [
+      {
+        "word": "unfavourable",
+        "meaning": "不利的",
+        "relation": "同场景"
+      },
+      {
+        "word": "discomfort",
+        "meaning": "不适",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-327",
+      "21-328",
+      "21-329"
+    ],
+    "examples": [
+      {
+        "en": "The radical proposal met a hostile response from an indignant committee.",
+        "zh": "这项激进提议遭到了愤愤不平的委员会的敌对回应。"
+      },
+      {
+        "en": "An indignant resident challenged the hostile tone of the debate about radical reform.",
+        "zh": "一位愤愤不平的居民质疑了关于激进改革的辩论中的敌对语气。"
+      },
+      {
+        "en": "The editor warned that a hostile account of radical change could leave readers indignant.",
+        "zh": "编辑提醒说，对激进变革怀有敌意的报道可能使读者愤慨。"
+      }
+    ],
+    "collocations": {
+      "21-327": [
+        "a hostile reception",
+        "敌意的接待"
+      ],
+      "21-328": [
+        "indignant at the injustice",
+        "对不公感到愤慨"
+      ],
+      "21-329": [
+        "radical reform",
+        "彻底的改革"
+      ]
+    },
+    "related": [
+      {
+        "word": "opposition",
+        "meaning": "反对",
+        "relation": "同场景"
+      },
+      {
+        "word": "controversy",
+        "meaning": "争议",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-330",
+      "21-331"
+    ],
+    "examples": [
+      {
+        "en": "Her friends thought the plan was crazy, but she was mad about the idea of a new adventure.",
+        "zh": "朋友们觉得这个计划很疯狂，但她对新冒险的想法十分着迷。"
+      },
+      {
+        "en": "The delay drove him mad, and the noisy room made the whole experience feel crazy.",
+        "zh": "延误让他抓狂，嘈杂的房间又使整段经历显得混乱不堪。"
+      },
+      {
+        "en": "The characters call the scheme mad and crazy in a playful exchange.",
+        "zh": "人物在一段玩笑式对话中用“疯了”和“疯狂”来形容这个方案。"
+      }
+    ],
+    "collocations": {
+      "21-330": [
+        "mad about music",
+        "对音乐着迷"
+      ],
+      "21-331": [
+        "a crazy idea",
+        "疯狂的主意"
+      ]
+    },
+    "related": [
+      {
+        "word": "informal language",
+        "meaning": "非正式用语",
+        "relation": "同场景"
+      },
+      {
+        "word": "enthusiasm",
+        "meaning": "热情",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-332",
+      "21-333",
+      "21-334"
+    ],
+    "examples": [
+      {
+        "en": "The wicked villain used vicious threats and vulgar insults to frighten the villagers.",
+        "zh": "邪恶的反派用恶毒的威胁和粗俗的侮辱恐吓村民。"
+      },
+      {
+        "en": "The review criticised the story’s wicked hero for his vicious conduct and vulgar language.",
+        "zh": "评论批评了故事中那个邪恶主角的恶毒行为和粗俗语言。"
+      },
+      {
+        "en": "A vulgar joke can seem vicious when it targets someone unfairly, even without a wicked intention.",
+        "zh": "即使没有恶意，粗俗的玩笑若不公正地针对某人，也会显得恶毒。"
+      }
+    ],
+    "collocations": {
+      "21-332": [
+        "a wicked character",
+        "邪恶的人物"
+      ],
+      "21-333": [
+        "a vicious attack",
+        "恶毒的攻击"
+      ],
+      "21-334": [
+        "vulgar language",
+        "粗俗的语言"
+      ]
+    },
+    "related": [
+      {
+        "word": "cruelty",
+        "meaning": "残忍",
+        "relation": "同场景"
+      },
+      {
+        "word": "insult",
+        "meaning": "侮辱",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-335"
+    ],
+    "examples": [
+      {
+        "en": "The restless audience began to move about during the long delay.",
+        "zh": "漫长的延误中，坐立不安的观众开始走动。"
+      },
+      {
+        "en": "She felt restless after spending the whole day indoors.",
+        "zh": "她整天待在室内之后感到坐立不安。"
+      },
+      {
+        "en": "A restless night left him tired before the journey.",
+        "zh": "一夜辗转不安使他在旅程开始前就已疲惫。"
+      }
+    ],
+    "collocations": {
+      "21-335": [
+        "a restless night",
+        "辗转难眠的一夜"
+      ]
+    },
+    "related": [
+      {
+        "word": "uneasy",
+        "meaning": "不安的",
+        "relation": "同场景"
+      },
+      {
+        "word": "settle down",
+        "meaning": "平静下来",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-336",
+      "21-337",
+      "21-338"
+    ],
+    "examples": [
+      {
+        "en": "His selfish decision and nasty reply suggested a bruised ego.",
+        "zh": "他自私的决定和刻薄的回应显示出自尊受挫。"
+      },
+      {
+        "en": "A large ego does not excuse selfish choices or nasty remarks.",
+        "zh": "强烈的自我意识不能成为自私选择或恶毒言论的借口。"
+      },
+      {
+        "en": "The story follows a selfish manager whose fragile ego leads to a nasty argument.",
+        "zh": "故事讲述一位自私的经理因脆弱的自尊而陷入一场不愉快的争吵。"
+      }
+    ],
+    "collocations": {
+      "21-336": [
+        "a fragile ego",
+        "脆弱的自尊"
+      ],
+      "21-337": [
+        "selfish behaviour",
+        "自私行为"
+      ],
+      "21-338": [
+        "a nasty remark",
+        "恶毒的话"
+      ]
+    },
+    "related": [
+      {
+        "word": "self-esteem",
+        "meaning": "自尊",
+        "relation": "同场景"
+      },
+      {
+        "word": "empathy",
+        "meaning": "共情",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-339",
+      "21-340",
+      "21-341"
+    ],
+    "examples": [
+      {
+        "en": "A rash decision in a volatile situation can lead to a weird result.",
+        "zh": "在不稳定的局面下草率作决定，可能导致古怪的结果。"
+      },
+      {
+        "en": "The volatile leader made a rash promise after hearing a weird rumour.",
+        "zh": "这位情绪多变的领导者听到一个古怪的传闻后，草率作出了许诺。"
+      },
+      {
+        "en": "A weird reaction from the volatile crowd prompted a rash response from the organiser.",
+        "zh": "人群情绪多变而古怪的反应，促使组织者草率回应。"
+      }
+    ],
+    "collocations": {
+      "21-339": [
+        "a rash decision",
+        "草率的决定"
+      ],
+      "21-340": [
+        "a volatile situation",
+        "不稳定的局势"
+      ],
+      "21-341": [
+        "a weird experience",
+        "古怪的经历"
+      ]
+    },
+    "related": [
+      {
+        "word": "impulsive",
+        "meaning": "冲动的",
+        "relation": "同场景"
+      },
+      {
+        "word": "unpredictable",
+        "meaning": "难以预测的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-342",
+      "21-343",
+      "21-344"
+    ],
+    "examples": [
+      {
+        "en": "Excessive noise increased her anxiety and made her feel uneasy.",
+        "zh": "过度的噪声加重了她的焦虑，使她感到不安。"
+      },
+      {
+        "en": "The uneasy silence fed his anxiety about the excessive delay.",
+        "zh": "令人不安的沉默加重了他对过长延误的焦虑。"
+      },
+      {
+        "en": "An excessive workload left the team uneasy and filled the manager with anxiety.",
+        "zh": "过重的工作负荷让团队不安，也令经理充满焦虑。"
+      }
+    ],
+    "collocations": {
+      "21-342": [
+        "excessive pressure",
+        "过大的压力"
+      ],
+      "21-343": [
+        "feel anxiety",
+        "感到焦虑"
+      ],
+      "21-344": [
+        "uneasy about the future",
+        "对未来感到不安"
+      ]
+    },
+    "related": [
+      {
+        "word": "worry",
+        "meaning": "担忧",
+        "relation": "同场景"
+      },
+      {
+        "word": "reassurance",
+        "meaning": "安抚",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-345",
+      "21-346",
+      "21-347"
+    ],
+    "examples": [
+      {
+        "en": "The timid child’s fear grew when the adults made a fuss about the harmless noise.",
+        "zh": "大人对无害的声响大惊小怪，让胆小的孩子更加害怕。"
+      },
+      {
+        "en": "She did not want to make a fuss, but her fear made her unusually timid.",
+        "zh": "她不想大惊小怪，但恐惧使她异常胆怯。"
+      },
+      {
+        "en": "A patient explanation reduced the timid visitor’s fear without creating a fuss.",
+        "zh": "耐心的解释消除了胆怯游客的恐惧，也没有引起小题大做。"
+      }
+    ],
+    "collocations": {
+      "21-345": [
+        "fear of failure",
+        "害怕失败"
+      ],
+      "21-346": [
+        "a timid response",
+        "胆怯的回应"
+      ],
+      "21-347": [
+        "make a fuss",
+        "大惊小怪"
+      ]
+    },
+    "related": [
+      {
+        "word": "courage",
+        "meaning": "勇气",
+        "relation": "同场景"
+      },
+      {
+        "word": "reassurance",
+        "meaning": "安抚",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-348",
+      "21-349"
+    ],
+    "examples": [
+      {
+        "en": "An unkind remark can insult someone even when the speaker intends a joke.",
+        "zh": "即使说话者本想开玩笑，不友善的话也可能侮辱别人。"
+      },
+      {
+        "en": "She considered the unkind comparison an insult to her years of work.",
+        "zh": "她认为这个刻薄的比较是对她多年工作的侮辱。"
+      },
+      {
+        "en": "The interviewer avoided an unkind question that might insult the guest.",
+        "zh": "采访者避开了一个可能冒犯嘉宾的刻薄问题。"
+      }
+    ],
+    "collocations": {
+      "21-348": [
+        "take something as an insult",
+        "认为某事是一种侮辱"
+      ],
+      "21-349": [
+        "an unkind comment",
+        "刻薄的评论"
+      ]
+    },
+    "related": [
+      {
+        "word": "courtesy",
+        "meaning": "礼貌",
+        "relation": "同场景"
+      },
+      {
+        "word": "offend",
+        "meaning": "冒犯",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-350",
+      "21-351"
+    ],
+    "examples": [
+      {
+        "en": "He felt jealous of his colleague but tried not to let envy affect their friendship.",
+        "zh": "他嫉妒同事，却努力不让嫉妒影响两人的友谊。"
+      },
+      {
+        "en": "The jealous character admits her envy when she sees her friend’s success.",
+        "zh": "这个嫉妒心强的人物看到朋友成功时，承认了自己的嫉妒。"
+      },
+      {
+        "en": "People may envy a successful artist without becoming jealous of every achievement.",
+        "zh": "人们可能羡慕成功的艺术家，却不会嫉妒她的每项成就。"
+      }
+    ],
+    "collocations": {
+      "21-350": [
+        "envy someone’s success",
+        "羡慕某人的成功"
+      ],
+      "21-351": [
+        "jealous of a colleague",
+        "嫉妒同事"
+      ]
+    },
+    "related": [
+      {
+        "word": "admiration",
+        "meaning": "钦佩",
+        "relation": "同场景"
+      },
+      {
+        "word": "comparison",
+        "meaning": "比较",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-352",
+      "21-353",
+      "21-354"
+    ],
+    "examples": [
+      {
+        "en": "A sceptical reader expressed doubt and suspicion about the anonymous report.",
+        "zh": "一位持怀疑态度的读者对匿名报告表示疑虑和怀疑。"
+      },
+      {
+        "en": "Her suspicion grew into doubt, leaving her sceptical of the proposed explanation.",
+        "zh": "她的怀疑发展成疑虑，使她不太相信所提出的解释。"
+      },
+      {
+        "en": "The researcher remained sceptical, but insisted that doubt and suspicion should lead to further checks.",
+        "zh": "研究人员仍持怀疑态度，但坚持认为疑虑和猜疑应引导进一步核查。"
+      }
+    ],
+    "collocations": {
+      "21-352": [
+        "cast doubt on",
+        "使人怀疑"
+      ],
+      "21-353": [
+        "raise suspicion",
+        "引起怀疑"
+      ],
+      "21-354": [
+        "sceptical about the claim",
+        "对说法持怀疑态度"
+      ]
+    },
+    "related": [
+      {
+        "word": "evidence",
+        "meaning": "证据",
+        "relation": "同场景"
+      },
+      {
+        "word": "verification",
+        "meaning": "核实",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-355",
+      "21-356",
+      "21-357"
+    ],
+    "examples": [
+      {
+        "en": "The unstable connection made the equipment unsuitable and the test results unsatisfactory.",
+        "zh": "连接不稳定，使设备不适用，测试结果也不令人满意。"
+      },
+      {
+        "en": "An unsuitable support left the shelf unstable and the repair unsatisfactory.",
+        "zh": "不合适的支架使架子不稳，维修效果也不理想。"
+      },
+      {
+        "en": "The review called the software unstable, unsuitable for beginners and generally unsatisfactory.",
+        "zh": "评论认为软件不稳定、不适合初学者，而且总体表现不佳。"
+      }
+    ],
+    "collocations": {
+      "21-355": [
+        "an unsatisfactory result",
+        "不理想的结果"
+      ],
+      "21-356": [
+        "an unstable structure",
+        "不稳定的结构"
+      ],
+      "21-357": [
+        "unsuitable for children",
+        "不适合儿童"
+      ]
+    },
+    "related": [
+      {
+        "word": "reliability",
+        "meaning": "可靠性",
+        "relation": "同场景"
+      },
+      {
+        "word": "suitability",
+        "meaning": "适用性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-358",
+      "21-359",
+      "21-360"
+    ],
+    "examples": [
+      {
+        "en": "An unwilling participant may hesitate to speak and remain reluctant to join the discussion.",
+        "zh": "不愿参与的人可能犹豫着不开口，并一直不情愿加入讨论。"
+      },
+      {
+        "en": "She was reluctant to sign, unwilling to commit and likely to hesitate until she had more information.",
+        "zh": "她不情愿签字，也不愿作出承诺，很可能要等获得更多信息后才不再犹豫。"
+      },
+      {
+        "en": "The reluctant witness was unwilling to guess and did not hesitate to admit uncertainty.",
+        "zh": "这位不情愿的证人不愿猜测，并毫不犹豫地承认自己不确定。"
+      }
+    ],
+    "collocations": {
+      "21-358": [
+        "unwilling to cooperate",
+        "不愿合作"
+      ],
+      "21-359": [
+        "reluctant to change",
+        "不情愿改变"
+      ],
+      "21-360": [
+        "hesitate to ask",
+        "不好意思开口问"
+      ]
+    },
+    "related": [
+      {
+        "word": "willingness",
+        "meaning": "意愿",
+        "relation": "同场景"
+      },
+      {
+        "word": "reservation",
+        "meaning": "顾虑",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-361",
+      "21-362",
+      "21-363"
+    ],
+    "examples": [
+      {
+        "en": "A careless accusation can confuse an innocent person, embarrass them and make them feel guilty.",
+        "zh": "草率的指责可能使无辜的人困惑、尴尬，并产生负罪感。"
+      },
+      {
+        "en": "The investigator avoided questions that might confuse or embarrass the witness rather than establish whether anyone was guilty.",
+        "zh": "调查者避免提出只会让证人困惑或尴尬、却无助于确定是否有人有罪的问题。"
+      },
+      {
+        "en": "The teacher did not want to confuse the class or embarrass the student who already looked guilty.",
+        "zh": "老师不想让全班困惑，也不想让那位已显得内疚的学生难堪。"
+      }
+    ],
+    "collocations": {
+      "21-361": [
+        "confuse two concepts",
+        "混淆两个概念"
+      ],
+      "21-362": [
+        "feel guilty",
+        "感到内疚"
+      ],
+      "21-363": [
+        "embarrass a guest",
+        "使客人尴尬"
+      ]
+    },
+    "related": [
+      {
+        "word": "confusion",
+        "meaning": "困惑",
+        "relation": "同场景"
+      },
+      {
+        "word": "embarrassment",
+        "meaning": "尴尬",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-364",
+      "21-365",
+      "21-366"
+    ],
+    "examples": [
+      {
+        "en": "She felt ashamed of the remark and began to regret it, hoping to repent through better behaviour.",
+        "zh": "她为那句话感到羞愧，开始后悔，希望通过改善行为表达悔改。"
+      },
+      {
+        "en": "The story asks whether a character who feels ashamed and full of regret will truly repent.",
+        "zh": "故事追问一个感到羞愧且满怀遗憾的人物是否会真正悔改。"
+      },
+      {
+        "en": "He was ashamed to admit his regret but knew that he needed to repent of his cruelty.",
+        "zh": "他羞于承认自己的后悔，却知道自己需要为残忍行为悔改。"
+      }
+    ],
+    "collocations": {
+      "21-364": [
+        "regret a decision",
+        "后悔作出某个决定"
+      ],
+      "21-365": [
+        "repent of wrongdoing",
+        "为过错悔改"
+      ],
+      "21-366": [
+        "ashamed of the mistake",
+        "为错误羞愧"
+      ]
+    },
+    "related": [
+      {
+        "word": "remorse",
+        "meaning": "懊悔",
+        "relation": "同场景"
+      },
+      {
+        "word": "amend",
+        "meaning": "改正",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-367",
+      "21-368"
+    ],
+    "examples": [
+      {
+        "en": "She gave a sigh and began to weep when she read the farewell letter.",
+        "zh": "读到告别信时，她叹了一口气，开始哭泣。"
+      },
+      {
+        "en": "The actor was asked to sigh quietly rather than weep during the scene.",
+        "zh": "演员被要求在这一幕轻轻叹息，而不是哭泣。"
+      },
+      {
+        "en": "He could only sigh as he watched the child weep with disappointment.",
+        "zh": "看着孩子失望地哭泣，他只能叹息。"
+      }
+    ],
+    "collocations": {
+      "21-367": [
+        "a sigh of relief",
+        "松了一口气"
+      ],
+      "21-368": [
+        "weep with joy",
+        "喜极而泣"
+      ]
+    },
+    "related": [
+      {
+        "word": "tears",
+        "meaning": "眼泪",
+        "relation": "同场景"
+      },
+      {
+        "word": "emotion",
+        "meaning": "情绪",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-369",
+      "21-370",
+      "21-371"
+    ],
+    "examples": [
+      {
+        "en": "It takes tolerance to endure criticism from someone who is ignorant of the facts.",
+        "zh": "忍受一个不了解事实的人的批评，需要宽容。"
+      },
+      {
+        "en": "She showed tolerance towards the ignorant visitor but refused to endure repeated insults.",
+        "zh": "她对无知的游客表现出宽容，却拒绝忍受一再的侮辱。"
+      },
+      {
+        "en": "The novel explores the tolerance required to endure a society that remains ignorant of a minority’s experience.",
+        "zh": "小说探讨了忍受一个仍不了解少数群体经历的社会所需的宽容。"
+      }
+    ],
+    "collocations": {
+      "21-369": [
+        "tolerance of differences",
+        "对差异的包容"
+      ],
+      "21-370": [
+        "ignorant of the facts",
+        "不了解事实"
+      ],
+      "21-371": [
+        "endure hardship",
+        "忍受困苦"
+      ]
+    },
+    "related": [
+      {
+        "word": "patience",
+        "meaning": "耐心",
+        "relation": "同场景"
+      },
+      {
+        "word": "understanding",
+        "meaning": "理解",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-372",
+      "21-373",
+      "21-374"
+    ],
+    "examples": [
+      {
+        "en": "The cunning official used a sly smile to disguise an arbitrary decision.",
+        "zh": "狡猾的官员用狡黠的微笑掩饰一个武断的决定。"
+      },
+      {
+        "en": "A sly and cunning character can exploit arbitrary rules for personal gain.",
+        "zh": "一个狡猾而诡计多端的人物可能利用随意的规则谋取私利。"
+      },
+      {
+        "en": "The reviewer described the villain as cunning and sly, but called the plot’s ending arbitrary.",
+        "zh": "评论者称反派狡猾诡诈，却认为情节结尾很随意。"
+      }
+    ],
+    "collocations": {
+      "21-372": [
+        "a sly smile",
+        "狡黠的微笑"
+      ],
+      "21-373": [
+        "a cunning plan",
+        "狡诈的计划"
+      ],
+      "21-374": [
+        "an arbitrary decision",
+        "武断的决定"
+      ]
+    },
+    "related": [
+      {
+        "word": "deception",
+        "meaning": "欺骗",
+        "relation": "同场景"
+      },
+      {
+        "word": "manipulation",
+        "meaning": "操纵",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-375",
+      "21-376"
+    ],
+    "examples": [
+      {
+        "en": "The film makes a ridiculous plan look stupid even to its own inventor.",
+        "zh": "电影让一个荒谬计划连在其发明者眼中都显得愚蠢。"
+      },
+      {
+        "en": "She rejected the ridiculous claim without calling the person who made it stupid.",
+        "zh": "她驳斥了这个荒谬说法，却没有称提出它的人愚蠢。"
+      },
+      {
+        "en": "A stupid mistake can have a serious cost even when it seems ridiculous in hindsight.",
+        "zh": "愚蠢的错误即使事后看来可笑，也可能造成严重代价。"
+      }
+    ],
+    "collocations": {
+      "21-375": [
+        "a ridiculous claim",
+        "荒谬的说法"
+      ],
+      "21-376": [
+        "a stupid mistake",
+        "愚蠢的错误"
+      ]
+    },
+    "related": [
+      {
+        "word": "absurd",
+        "meaning": "荒谬的",
+        "relation": "同场景"
+      },
+      {
+        "word": "error",
+        "meaning": "错误",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-377",
+      "21-378",
+      "21-379"
+    ],
+    "examples": [
+      {
+        "en": "A careless movement made the clumsy waiter drop the tray, creating an awkward silence.",
+        "zh": "一个粗心的动作让笨手笨脚的服务员掉了托盘，造成尴尬的沉默。"
+      },
+      {
+        "en": "The awkward arrangement left even a careful worker looking clumsy and careless.",
+        "zh": "不方便的布置让即使仔细的工人看起来也笨拙又粗心。"
+      },
+      {
+        "en": "Her clumsy attempt to repair a careless remark made the conversation more awkward.",
+        "zh": "她笨拙地试图补救一句无心之言，却让谈话更加尴尬。"
+      }
+    ],
+    "collocations": {
+      "21-377": [
+        "an awkward silence",
+        "尴尬的沉默"
+      ],
+      "21-378": [
+        "a clumsy movement",
+        "笨拙的动作"
+      ],
+      "21-379": [
+        "a careless error",
+        "粗心造成的错误"
+      ]
+    },
+    "related": [
+      {
+        "word": "coordination",
+        "meaning": "协调",
+        "relation": "同场景"
+      },
+      {
+        "word": "tact",
+        "meaning": "得体；圆通",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-380",
+      "21-381",
+      "21-382"
+    ],
+    "examples": [
+      {
+        "en": "The naughty child seemed oblivious to how greedy he looked while taking every sweet.",
+        "zh": "那个淘气的孩子拿走所有糖果，似乎没有意识到自己显得多么贪心。"
+      },
+      {
+        "en": "The story follows a greedy shopkeeper who is oblivious to the naughty children playing tricks on him.",
+        "zh": "故事讲述一位贪心的店主没有注意到淘气的孩子们正在捉弄他。"
+      },
+      {
+        "en": "A naughty joke portrayed the greedy guest as oblivious to everyone else’s needs.",
+        "zh": "一个调皮的玩笑把那位贪心的客人描绘成完全不顾他人需要的人。"
+      }
+    ],
+    "collocations": {
+      "21-380": [
+        "oblivious to danger",
+        "未察觉危险"
+      ],
+      "21-381": [
+        "a naughty child",
+        "淘气的孩子"
+      ],
+      "21-382": [
+        "greedy for power",
+        "贪恋权力"
+      ]
+    },
+    "related": [
+      {
+        "word": "awareness",
+        "meaning": "意识",
+        "relation": "同场景"
+      },
+      {
+        "word": "self-interest",
+        "meaning": "自身利益",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-383"
+    ],
+    "examples": [
+      {
+        "en": "The architect kept the new signs clear without making them obtrusive.",
+        "zh": "建筑师让新标识清晰可见，同时避免过于显眼。"
+      },
+      {
+        "en": "An obtrusive advertisement interrupted the quiet scene.",
+        "zh": "一则突兀的广告打断了宁静的画面。"
+      },
+      {
+        "en": "The interviewer tried to observe without becoming an obtrusive presence.",
+        "zh": "采访者尽量观察，却不想成为一个打扰他人的存在。"
+      }
+    ],
+    "collocations": {
+      "21-383": [
+        "an obtrusive advertisement",
+        "突兀的广告"
+      ]
+    },
+    "related": [
+      {
+        "word": "intrusive",
+        "meaning": "打扰人的",
+        "relation": "同场景"
+      },
+      {
+        "word": "discreet",
+        "meaning": "不引人注意的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-384",
+      "21-385"
+    ],
+    "examples": [
+      {
+        "en": "The writer calls the character slothful, although his sluggish movements may simply reflect fatigue.",
+        "zh": "作者称这个人物懒散，尽管他缓慢的动作可能只是疲劳所致。"
+      },
+      {
+        "en": "A sluggish economy does not mean that the people working in it are slothful.",
+        "zh": "经济发展迟缓并不意味着其中的工作者懒惰。"
+      },
+      {
+        "en": "The fable contrasts a slothful ruler with an energetic servant frustrated by the court’s sluggish response.",
+        "zh": "寓言将懒散的统治者与因朝廷反应迟钝而沮丧的精力充沛的仆人进行对比。"
+      }
+    ],
+    "collocations": {
+      "21-384": [
+        "a slothful character",
+        "懒散的人物"
+      ],
+      "21-385": [
+        "sluggish growth",
+        "缓慢的增长"
+      ]
+    },
+    "related": [
+      {
+        "word": "lethargic",
+        "meaning": "无精打采的",
+        "relation": "同场景"
+      },
+      {
+        "word": "energetic",
+        "meaning": "精力充沛的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-386",
+      "21-387",
+      "21-388"
+    ],
+    "examples": [
+      {
+        "en": "A stubborn impulse to follow rigid rules prevented him from adapting.",
+        "zh": "固执地遵循僵硬规则的冲动使他无法适应。"
+      },
+      {
+        "en": "She resisted the impulse to impose a rigid plan on her stubborn team.",
+        "zh": "她克制了将僵化计划强加给固执团队的冲动。"
+      },
+      {
+        "en": "His stubborn insistence on a rigid schedule began with an impulse to control every detail.",
+        "zh": "他固执地坚持僵硬的日程安排，源自想控制每个细节的冲动。"
+      }
+    ],
+    "collocations": {
+      "21-386": [
+        "on impulse",
+        "一时冲动"
+      ],
+      "21-387": [
+        "a rigid structure",
+        "僵硬的结构"
+      ],
+      "21-388": [
+        "a stubborn refusal",
+        "固执的拒绝"
+      ]
+    },
+    "related": [
+      {
+        "word": "flexibility",
+        "meaning": "灵活性",
+        "relation": "同场景"
+      },
+      {
+        "word": "self-control",
+        "meaning": "自制力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "21-389"
+    ],
+    "examples": [
+      {
+        "en": "The film challenges the stereotype that older people cannot learn new skills.",
+        "zh": "影片挑战了老年人学不会新技能的刻板印象。"
+      },
+      {
+        "en": "A stereotype can hide the differences between individuals in the same group.",
+        "zh": "刻板印象会掩盖同一群体内个体之间的差异。"
+      },
+      {
+        "en": "The teacher asked students to question a common stereotype in the advertisement.",
+        "zh": "老师请学生质疑广告中的一个常见刻板印象。"
+      }
+    ],
+    "collocations": {
+      "21-389": [
+        "challenge a stereotype",
+        "挑战刻板印象"
+      ]
+    },
+    "related": [
+      {
+        "word": "prejudice",
+        "meaning": "偏见",
+        "relation": "同场景"
+      },
+      {
+        "word": "generalisation",
+        "meaning": "概括；泛化",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

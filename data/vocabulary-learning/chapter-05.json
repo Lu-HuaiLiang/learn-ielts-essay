@@ -1,0 +1,5229 @@
+[
+  {
+    "ids": [
+      "05-001",
+      "05-002",
+      "05-003",
+      "05-004",
+      "05-005"
+    ],
+    "examples": [
+      {
+        "en": "Primary and secondary education prepare students for university or college.",
+        "zh": "小学和中学教育为学生进入大学或学院做准备。"
+      },
+      {
+        "en": "The reform links primary education with secondary school, college and university pathways.",
+        "zh": "改革将小学教育与中学、学院及大学的升学途径衔接。"
+      },
+      {
+        "en": "Access to university or college often depends on the quality of primary and secondary education.",
+        "zh": "进入大学或学院的机会常取决于小学和中学教育质量。"
+      }
+    ],
+    "collocations": {
+      "05-001": [
+        "public education",
+        "公共教育"
+      ],
+      "05-002": [
+        "primary school",
+        "小学"
+      ],
+      "05-003": [
+        "secondary school",
+        "中学"
+      ],
+      "05-004": [
+        "a research university",
+        "研究型大学"
+      ],
+      "05-005": [
+        "a technical college",
+        "技术学院"
+      ]
+    },
+    "related": [
+      {
+        "word": "schooling",
+        "meaning": "学校教育",
+        "relation": "同场景"
+      },
+      {
+        "word": "curriculum",
+        "meaning": "课程",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-006",
+      "05-007",
+      "05-054",
+      "05-055",
+      "05-056"
+    ],
+    "examples": [
+      {
+        "en": "A graduate of the academy showed institute visitors around the campus and dining hall.",
+        "zh": "一位学院毕业生带研究所访客参观校园和食堂。"
+      },
+      {
+        "en": "The institute shares its campus and dining hall with an academy offering graduate courses.",
+        "zh": "研究所与一所提供研究生课程的学院共用校园和食堂。"
+      },
+      {
+        "en": "Each academy graduate received an invitation to the institute's campus for lunch in the dining hall.",
+        "zh": "每位学院毕业生都收到邀请，前往研究所校园的食堂用午餐。"
+      }
+    ],
+    "collocations": {
+      "05-006": [
+        "a research institute",
+        "研究所"
+      ],
+      "05-007": [
+        "an art academy",
+        "艺术学院"
+      ],
+      "05-054": [
+        "a recent graduate",
+        "应届毕业生"
+      ],
+      "05-055": [
+        "a university campus",
+        "大学校园"
+      ],
+      "05-056": [
+        "the dining hall",
+        "食堂"
+      ]
+    },
+    "related": [
+      {
+        "word": "alumnus",
+        "meaning": "校友",
+        "relation": "同场景"
+      },
+      {
+        "word": "canteen",
+        "meaning": "食堂",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-107",
+      "05-108",
+      "05-109",
+      "05-110"
+    ],
+    "examples": [
+      {
+        "en": "Student accommodation includes a dorm near the laboratory and canteen.",
+        "zh": "学生住宿包括实验室和食堂附近的一栋宿舍。"
+      },
+      {
+        "en": "The new campus offers accommodation in a modern dorm, a canteen and a teaching laboratory.",
+        "zh": "新校园提供现代宿舍住宿、食堂及教学实验室。"
+      },
+      {
+        "en": "From our dorm accommodation, we walk past the canteen to the laboratory.",
+        "zh": "我们从住宿的宿舍出发，经过食堂走到实验室。"
+      }
+    ],
+    "collocations": {
+      "05-107": [
+        "student accommodation",
+        "学生住宿"
+      ],
+      "05-108": [
+        "a shared dorm",
+        "合住宿舍"
+      ],
+      "05-109": [
+        "the staff canteen",
+        "职工食堂"
+      ],
+      "05-110": [
+        "a chemistry laboratory",
+        "化学实验室"
+      ]
+    },
+    "related": [
+      {
+        "word": "residence",
+        "meaning": "住所",
+        "relation": "同场景"
+      },
+      {
+        "word": "facilities",
+        "meaning": "设施",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-008",
+      "05-009",
+      "05-010",
+      "05-011",
+      "05-012"
+    ],
+    "examples": [
+      {
+        "en": "Students study theory, learn practical methods and acquire the knowledge needed to develop expertise.",
+        "zh": "学生学习理论、掌握实用方法，并获取发展专长所需的知识。"
+      },
+      {
+        "en": "To acquire expertise, study carefully, learn from mistakes and apply your knowledge.",
+        "zh": "要获得专长，须认真学习、从错误中学习并应用知识。"
+      },
+      {
+        "en": "Apprentices learn through practice, study safety rules and acquire technical knowledge under expert guidance to build expertise.",
+        "zh": "学徒通过实践学习、研读安全规则，并在专家指导下获取技术知识以形成专长。"
+      }
+    ],
+    "collocations": {
+      "05-008": [
+        "learn a language",
+        "学习语言"
+      ],
+      "05-009": [
+        "study abroad",
+        "出国学习"
+      ],
+      "05-010": [
+        "acquire skills",
+        "获得技能"
+      ],
+      "05-011": [
+        "practical knowledge",
+        "实用知识"
+      ],
+      "05-012": [
+        "technical expertise",
+        "技术专长"
+      ]
+    },
+    "related": [
+      {
+        "word": "learning",
+        "meaning": "学习",
+        "relation": "词形"
+      },
+      {
+        "word": "proficiency",
+        "meaning": "熟练程度",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-013",
+      "05-014",
+      "05-015",
+      "05-016",
+      "05-017"
+    ],
+    "examples": [
+      {
+        "en": "The programme aims to recruit each novice, address illiteracy and build a literate, numerate workforce.",
+        "zh": "项目旨在招收新手、解决文盲问题，并培养能读写和计算的劳动力。"
+      },
+      {
+        "en": "To recruit a novice without worsening inequality, employers can support illiteracy programmes and help workers become literate and numerate.",
+        "zh": "为公平招收新手，雇主可支持扫盲项目，帮助工人掌握读写和计算。"
+      },
+      {
+        "en": "A novice need not be illiterate, so we recruit literate and numerate trainees while separately tackling adult illiteracy.",
+        "zh": "新手不一定不识字，因此我们招收能读写和计算的学员，同时另行应对成人文盲问题。"
+      }
+    ],
+    "collocations": {
+      "05-013": [
+        "a complete novice",
+        "完全的新手"
+      ],
+      "05-014": [
+        "recruit trainees",
+        "招收学员"
+      ],
+      "05-015": [
+        "digitally literate",
+        "具备数字素养的"
+      ],
+      "05-016": [
+        "adult illiteracy",
+        "成人文盲现象"
+      ],
+      "05-017": [
+        "a numerate workforce",
+        "有计算能力的劳动力"
+      ]
+    },
+    "related": [
+      {
+        "word": "literacy",
+        "meaning": "读写能力",
+        "relation": "词形"
+      },
+      {
+        "word": "numeracy",
+        "meaning": "计算能力",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-018",
+      "05-019",
+      "05-020",
+      "05-021"
+    ],
+    "examples": [
+      {
+        "en": "The controversial affair exposed a funding problem and made school access a national issue.",
+        "zh": "这件有争议的事件暴露了资金问题，使入学机会成为全国性议题。"
+      },
+      {
+        "en": "A public affair became controversial when a minor administrative problem revealed a wider issue of discrimination.",
+        "zh": "一个小行政问题揭露更广泛的歧视议题后，一件公共事务引发争议。"
+      },
+      {
+        "en": "The essay examines a controversial affair, explains its central problem and links it to a broader policy issue.",
+        "zh": "文章研究一个有争议的事件，解释核心问题，并将其与更广泛的政策议题联系。"
+      }
+    ],
+    "collocations": {
+      "05-018": [
+        "a difficult problem",
+        "难题"
+      ],
+      "05-019": [
+        "a social issue",
+        "社会议题"
+      ],
+      "05-020": [
+        "a public affair",
+        "公共事务"
+      ],
+      "05-021": [
+        "a controversial policy",
+        "有争议的政策"
+      ]
+    },
+    "related": [
+      {
+        "word": "debate",
+        "meaning": "辩论",
+        "relation": "同场景"
+      },
+      {
+        "word": "controversy",
+        "meaning": "争议",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-022",
+      "05-023",
+      "05-024"
+    ],
+    "examples": [
+      {
+        "en": "An obscure clue made the riddle harder than the visual puzzle.",
+        "zh": "一条晦涩线索使谜语比图形难题更难。"
+      },
+      {
+        "en": "The puzzle contains a riddle based on an obscure historical event.",
+        "zh": "这道难题含有一个以鲜为人知的历史事件为依据的谜语。"
+      },
+      {
+        "en": "We solved the puzzle after recognising the obscure quotation hidden in the riddle.",
+        "zh": "认出谜语中隐藏的冷僻引文后，我们解出了难题。"
+      }
+    ],
+    "collocations": {
+      "05-022": [
+        "a challenging puzzle",
+        "有挑战性的难题"
+      ],
+      "05-023": [
+        "solve a riddle",
+        "解谜语"
+      ],
+      "05-024": [
+        "an obscure reference",
+        "晦涩的典故"
+      ]
+    },
+    "related": [
+      {
+        "word": "clue",
+        "meaning": "线索",
+        "relation": "同场景"
+      },
+      {
+        "word": "ambiguity",
+        "meaning": "歧义",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-025",
+      "05-026",
+      "05-027"
+    ],
+    "examples": [
+      {
+        "en": "Teachers emphasise regular practice to instil confidence rather than encourage students to cram.",
+        "zh": "教师强调经常练习，以培养信心，而非鼓励学生临考突击。"
+      },
+      {
+        "en": "To instil lasting habits, tutors emphasise planning so students do not cram at midnight.",
+        "zh": "为培养持久习惯，导师强调计划，避免学生半夜突击。"
+      },
+      {
+        "en": "Schools that emphasise exam results alone may instil anxiety and pressure pupils to cram.",
+        "zh": "仅强调考试结果的学校可能使学生产生焦虑，并迫使他们突击学习。"
+      }
+    ],
+    "collocations": {
+      "05-025": [
+        "instil confidence",
+        "逐渐培养信心"
+      ],
+      "05-026": [
+        "cram for an exam",
+        "考前突击"
+      ],
+      "05-027": [
+        "emphasise understanding",
+        "强调理解"
+      ]
+    },
+    "related": [
+      {
+        "word": "revision",
+        "meaning": "复习",
+        "relation": "同场景"
+      },
+      {
+        "word": "confidence",
+        "meaning": "信心",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-028",
+      "05-029",
+      "05-030",
+      "05-031",
+      "05-032"
+    ],
+    "examples": [
+      {
+        "en": "A clear personal motive can motivate students, inspire effort, enhance learning and enable progress.",
+        "zh": "明确的个人动机能激励学生、鼓舞努力、改善学习并促成进步。"
+      },
+      {
+        "en": "To enhance learning and enable success, identify the learner's motive and use it to inspire and motivate.",
+        "zh": "为改善学习并促成成功，须识别学习者的动机，并用它来鼓舞和激励。"
+      },
+      {
+        "en": "An ambition to help others can be a motive to inspire research, motivate teamwork, enhance skills and enable discovery.",
+        "zh": "帮助他人的志向可以成为激发研究、促进合作、提升技能及促成发现的动机。"
+      }
+    ],
+    "collocations": {
+      "05-028": [
+        "enhance learning",
+        "改善学习"
+      ],
+      "05-029": [
+        "enable participation",
+        "使参与成为可能"
+      ],
+      "05-030": [
+        "inspire curiosity",
+        "激发好奇心"
+      ],
+      "05-031": [
+        "a personal motive",
+        "个人动机"
+      ],
+      "05-032": [
+        "motivate students",
+        "激励学生"
+      ]
+    },
+    "related": [
+      {
+        "word": "motivation",
+        "meaning": "动力",
+        "relation": "词形"
+      },
+      {
+        "word": "engagement",
+        "meaning": "投入",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-033",
+      "05-034",
+      "05-035"
+    ],
+    "examples": [
+      {
+        "en": "A small grant can stimulate inquiry, spur collaboration and provide an impetus for research.",
+        "zh": "一笔小额资助能激发探究、推动合作，并为研究提供动力。"
+      },
+      {
+        "en": "The new laboratory will stimulate interest and spur experimentation, giving science education fresh impetus.",
+        "zh": "新实验室将激发兴趣、推动实验，为科学教育提供新动力。"
+      },
+      {
+        "en": "Teachers use practical problems to stimulate thought, spur effort and create an impetus for independent learning.",
+        "zh": "教师用实际问题激发思考、促进努力，并产生自主学习动力。"
+      }
+    ],
+    "collocations": {
+      "05-033": [
+        "stimulate discussion",
+        "激发讨论"
+      ],
+      "05-034": [
+        "spur innovation",
+        "推动创新"
+      ],
+      "05-035": [
+        "provide an impetus",
+        "提供动力"
+      ]
+    },
+    "related": [
+      {
+        "word": "incentive",
+        "meaning": "激励因素",
+        "relation": "同场景"
+      },
+      {
+        "word": "curiosity",
+        "meaning": "好奇心",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-036",
+      "05-037",
+      "05-038"
+    ],
+    "examples": [
+      {
+        "en": "Parents should neither indulge every demand and spoil a child nor abuse their authority.",
+        "zh": "父母既不应纵容每个要求、宠坏孩子，也不应滥用权威。"
+      },
+      {
+        "en": "Training helps carers avoid abuse and understand when attempts to indulge children may spoil them.",
+        "zh": "培训帮助照护者避免虐待，并理解何时纵容可能宠坏孩子。"
+      },
+      {
+        "en": "A teacher must not abuse power, indulge favouritism or spoil a class through inconsistent rules.",
+        "zh": "教师不得滥用权力、放任偏爱，或因规则不一致而破坏班级秩序。"
+      }
+    ],
+    "collocations": {
+      "05-036": [
+        "indulge a child",
+        "纵容孩子"
+      ],
+      "05-037": [
+        "spoil a child",
+        "宠坏孩子"
+      ],
+      "05-038": [
+        "abuse authority",
+        "滥用权力"
+      ]
+    },
+    "related": [
+      {
+        "word": "indulgence",
+        "meaning": "纵容",
+        "relation": "词形"
+      },
+      {
+        "word": "neglect",
+        "meaning": "忽视",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-039",
+      "05-040",
+      "05-041",
+      "05-042"
+    ],
+    "examples": [
+      {
+        "en": "An intelligent student made a smart choice, using a clever strategy to achieve all-round improvement.",
+        "zh": "一位聪明学生做出明智选择，用巧妙策略实现全面进步。"
+      },
+      {
+        "en": "All-round education values intelligent questions and clever ideas alongside smart practical decisions.",
+        "zh": "全面教育重视聪明的问题、巧妙想法及明智的实际决定。"
+      },
+      {
+        "en": "A clever answer alone does not prove all-round ability, intelligent judgement or smart teamwork.",
+        "zh": "仅一个巧妙答案不足以证明全面能力、聪明判断或高明合作。"
+      }
+    ],
+    "collocations": {
+      "05-039": [
+        "an intelligent question",
+        "聪明的问题"
+      ],
+      "05-040": [
+        "a clever solution",
+        "巧妙的解决办法"
+      ],
+      "05-041": [
+        "a smart choice",
+        "明智选择"
+      ],
+      "05-042": [
+        "all-round development",
+        "全面发展"
+      ]
+    },
+    "related": [
+      {
+        "word": "intelligence",
+        "meaning": "智力",
+        "relation": "词形"
+      },
+      {
+        "word": "versatile",
+        "meaning": "多才多艺的",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-043",
+      "05-044",
+      "05-045"
+    ],
+    "examples": [
+      {
+        "en": "The elite scholar rejected the labels of genius and idiot as unhelpful judgements of pupils.",
+        "zh": "这位精英学者认为“天才”和“傻瓜”都不是评价学生的有益标签。"
+      },
+      {
+        "en": "Calling one child a genius and another an idiot can reinforce the idea of a fixed academic elite.",
+        "zh": "称一个孩子为天才、另一个为傻瓜，会强化学业精英地位固定不变的观念。"
+      },
+      {
+        "en": "The novel portrays a supposed genius among the elite who behaves like an idiot in ordinary life.",
+        "zh": "小说描写一个精英群体中的所谓天才，在日常生活中却像个傻瓜。"
+      }
+    ],
+    "collocations": {
+      "05-043": [
+        "a mathematical genius",
+        "数学天才"
+      ],
+      "05-044": [
+        "an intellectual elite",
+        "知识精英"
+      ],
+      "05-045": [
+        "call someone an idiot",
+        "骂人傻瓜"
+      ]
+    },
+    "related": [
+      {
+        "word": "talent",
+        "meaning": "天赋",
+        "relation": "同场景"
+      },
+      {
+        "word": "insult",
+        "meaning": "侮辱",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-046",
+      "05-047",
+      "05-048",
+      "05-049"
+    ],
+    "examples": [
+      {
+        "en": "A capable mentor recognised her aptitude, encouraged her wit and shared practical wisdom.",
+        "zh": "一位能干导师识别出她的天赋，鼓励她的机智，并分享实践智慧。"
+      },
+      {
+        "en": "Aptitude and wit made him a capable debater, but experience brought wisdom.",
+        "zh": "天赋和机智使他成为有能力的辩论者，经验则带来智慧。"
+      },
+      {
+        "en": "The scholarship rewards a capable learner whose aptitude, wit and wisdom enrich classroom discussion.",
+        "zh": "奖学金奖励一位有能力的学习者，其天赋、机智和智慧丰富了课堂讨论。"
+      }
+    ],
+    "collocations": {
+      "05-046": [
+        "practical wisdom",
+        "实践智慧"
+      ],
+      "05-047": [
+        "a quick wit",
+        "机智"
+      ],
+      "05-048": [
+        "an aptitude for maths",
+        "数学天赋"
+      ],
+      "05-049": [
+        "a capable student",
+        "有能力的学生"
+      ]
+    },
+    "related": [
+      {
+        "word": "judgement",
+        "meaning": "判断力",
+        "relation": "同场景"
+      },
+      {
+        "word": "competence",
+        "meaning": "能力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-050",
+      "05-051",
+      "05-052",
+      "05-053"
+    ],
+    "examples": [
+      {
+        "en": "Her outstanding skill and brilliant ideas produced excellent results.",
+        "zh": "她杰出的技能和绝妙想法带来了优秀成果。"
+      },
+      {
+        "en": "Excellent teaching helped a brilliant student develop outstanding skill in design.",
+        "zh": "优秀教学帮助一位聪颖学生形成杰出的设计技能。"
+      },
+      {
+        "en": "The brilliant performance showed excellent preparation and outstanding technical skill.",
+        "zh": "精彩表演展现了充分准备及杰出的技术能力。"
+      }
+    ],
+    "collocations": {
+      "05-050": [
+        "excellent results",
+        "优秀成绩"
+      ],
+      "05-051": [
+        "outstanding performance",
+        "杰出表现"
+      ],
+      "05-052": [
+        "a brilliant idea",
+        "绝妙想法"
+      ],
+      "05-053": [
+        "a practical skill",
+        "实用技能"
+      ]
+    },
+    "related": [
+      {
+        "word": "excellence",
+        "meaning": "卓越",
+        "relation": "词形"
+      },
+      {
+        "word": "achievement",
+        "meaning": "成就",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-057",
+      "05-058",
+      "05-059",
+      "05-060"
+    ],
+    "examples": [
+      {
+        "en": "An eminent professor restored the prestige of a school once notorious for its poor reputation.",
+        "zh": "一位杰出教授恢复了学校的声望，该校曾因声誉不佳而臭名昭著。"
+      },
+      {
+        "en": "The eminent institute lost prestige when a notorious scandal damaged its reputation.",
+        "zh": "一起臭名昭著的丑闻损坏声誉，使这所著名研究所失去威望。"
+      },
+      {
+        "en": "Prestige attracts eminent researchers, but a notorious breach of ethics can destroy that reputation.",
+        "zh": "声望吸引杰出研究者，但一次恶名昭著的伦理违规可能摧毁这种声誉。"
+      }
+    ],
+    "collocations": {
+      "05-057": [
+        "academic prestige",
+        "学术声望"
+      ],
+      "05-058": [
+        "a strong reputation",
+        "良好声誉"
+      ],
+      "05-059": [
+        "an eminent scholar",
+        "杰出学者"
+      ],
+      "05-060": [
+        "notorious for cheating",
+        "因作弊而声名狼藉"
+      ]
+    },
+    "related": [
+      {
+        "word": "renown",
+        "meaning": "名望",
+        "relation": "同场景"
+      },
+      {
+        "word": "scandal",
+        "meaning": "丑闻",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-061",
+      "05-062",
+      "05-063",
+      "05-064"
+    ],
+    "examples": [
+      {
+        "en": "We esteem the diligent researcher and respect her painstaking attention to evidence.",
+        "zh": "我们敬重这位勤奋研究者，并尊重她对证据的细致关注。"
+      },
+      {
+        "en": "Painstaking work helped the diligent student earn respect and the esteem of her teachers.",
+        "zh": "细致工作使这位勤奋学生赢得尊重及老师的敬重。"
+      },
+      {
+        "en": "Teachers esteem diligent effort and respect painstaking revision more than effortless claims of talent.",
+        "zh": "教师敬重勤奋努力，也尊重细致修改，胜过轻松宣称自己有天赋。"
+      }
+    ],
+    "collocations": {
+      "05-061": [
+        "esteem a colleague",
+        "尊重同事"
+      ],
+      "05-062": [
+        "earn respect",
+        "赢得尊重"
+      ],
+      "05-063": [
+        "a diligent student",
+        "勤奋学生"
+      ],
+      "05-064": [
+        "painstaking research",
+        "细致研究"
+      ]
+    },
+    "related": [
+      {
+        "word": "diligence",
+        "meaning": "勤奋",
+        "relation": "词形"
+      },
+      {
+        "word": "carefulness",
+        "meaning": "细心",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-065",
+      "05-066",
+      "05-067",
+      "05-068",
+      "05-069"
+    ],
+    "examples": [
+      {
+        "en": "The headmaster, college principal and university dean discussed a shared approach to the mentoring scheme.",
+        "zh": "中学校长、学院院长和大学院长讨论了导师辅导计划的共同方法。"
+      },
+      {
+        "en": "A dean advised the principal and headmaster on an approach that would improve the scheme.",
+        "zh": "一位大学院长向学院院长和中学校长建议改进该计划的方法。"
+      },
+      {
+        "en": "The scheme uses an approach endorsed by a headmaster, a principal and a dean.",
+        "zh": "这项计划采用了一位中学校长、一位学院院长及一位大学院长认可的方法。"
+      }
+    ],
+    "collocations": {
+      "05-065": [
+        "a teaching approach",
+        "教学方法"
+      ],
+      "05-066": [
+        "a mentoring scheme",
+        "导师辅导计划"
+      ],
+      "05-067": [
+        "a school headmaster",
+        "学校男校长"
+      ],
+      "05-068": [
+        "a college principal",
+        "学院院长"
+      ],
+      "05-069": [
+        "a faculty dean",
+        "学院院长"
+      ]
+    },
+    "related": [
+      {
+        "word": "leadership",
+        "meaning": "领导工作",
+        "relation": "同场景"
+      },
+      {
+        "word": "administration",
+        "meaning": "行政管理",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-070",
+      "05-071",
+      "05-072",
+      "05-073"
+    ],
+    "examples": [
+      {
+        "en": "The faculty welcomed a professor, a literary scholar and a climate scientist.",
+        "zh": "教职人员欢迎了一位教授、一位文学学者和一位气候科学家。"
+      },
+      {
+        "en": "A scientist and a scholar joined the professor in planning faculty research.",
+        "zh": "一位科学家和一位学者与教授一起规划教职人员的研究。"
+      },
+      {
+        "en": "The professor asked faculty members to consider both the scholar's interpretation and the scientist's evidence.",
+        "zh": "教授要求教职人员同时考虑学者的解读和科学家的证据。"
+      }
+    ],
+    "collocations": {
+      "05-070": [
+        "faculty members",
+        "教职人员"
+      ],
+      "05-071": [
+        "a visiting professor",
+        "访问教授"
+      ],
+      "05-072": [
+        "a distinguished scholar",
+        "杰出学者"
+      ],
+      "05-073": [
+        "a research scientist",
+        "研究科学家"
+      ]
+    },
+    "related": [
+      {
+        "word": "academia",
+        "meaning": "学术界",
+        "relation": "同场景"
+      },
+      {
+        "word": "scholarship",
+        "meaning": "学术研究",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-074",
+      "05-075",
+      "05-076",
+      "05-077",
+      "05-078"
+    ],
+    "examples": [
+      {
+        "en": "A lecturer acted as mentor to the doctoral candidate, while a tutor supervised the new assistant.",
+        "zh": "一位讲师担任博士候选人的导师，另一位导师指导新助理。"
+      },
+      {
+        "en": "The candidate thanked her mentor, tutor and lecturer, along with the assistant who organised the seminar.",
+        "zh": "候选人感谢她的职业导师、辅导教师、讲师，以及组织研讨会的助理。"
+      },
+      {
+        "en": "A research assistant consulted a lecturer and a tutor before asking a senior mentor to advise the candidate.",
+        "zh": "研究助理先咨询讲师及导师，再请资深导师向候选人提供建议。"
+      }
+    ],
+    "collocations": {
+      "05-074": [
+        "a career mentor",
+        "职业导师"
+      ],
+      "05-075": [
+        "a private tutor",
+        "私人教师"
+      ],
+      "05-076": [
+        "a university lecturer",
+        "大学讲师"
+      ],
+      "05-077": [
+        "a research assistant",
+        "研究助理"
+      ],
+      "05-078": [
+        "a doctoral candidate",
+        "博士候选人"
+      ]
+    },
+    "related": [
+      {
+        "word": "supervision",
+        "meaning": "指导",
+        "relation": "同场景"
+      },
+      {
+        "word": "mentoring",
+        "meaning": "辅导",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-079",
+      "05-084",
+      "05-089",
+      "05-090",
+      "05-091"
+    ],
+    "examples": [
+      {
+        "en": "The diploma states that her degree is Master of Science, rather than Bachelor of Science or Doctor of Philosophy.",
+        "zh": "文凭注明她的学位是理学硕士，而非理学学士或哲学博士。"
+      },
+      {
+        "en": "Each diploma names the degree awarded, such as Bachelor of Arts, Master of Arts or Doctor of Philosophy.",
+        "zh": "每张文凭注明所授学位，如文学学士、文学硕士或哲学博士。"
+      },
+      {
+        "en": "The college offers no Doctor of Philosophy degree, but issues a diploma for each Bachelor of Arts and Master of Arts graduate.",
+        "zh": "该学院不授哲学博士学位，但为每位文学学士和文学硕士毕业生颁发文凭。"
+      }
+    ],
+    "collocations": {
+      "05-079": [
+        "a university degree",
+        "大学学位"
+      ],
+      "05-084": [
+        "a graduation diploma",
+        "毕业文凭"
+      ],
+      "05-089": [
+        "a bachelor's degree",
+        "学士学位"
+      ],
+      "05-090": [
+        "a master's degree",
+        "硕士学位"
+      ],
+      "05-091": [
+        "Doctor of Philosophy",
+        "哲学博士"
+      ]
+    },
+    "related": [
+      {
+        "word": "qualification",
+        "meaning": "资格",
+        "relation": "同场景"
+      },
+      {
+        "word": "graduation",
+        "meaning": "毕业",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-080",
+      "05-081",
+      "05-082",
+      "05-083"
+    ],
+    "examples": [
+      {
+        "en": "To qualify, candidates must certify their training, obtain a license and secure the necessary work permit.",
+        "zh": "为具备资格，申请者须证明培训经历、取得执照并获得所需工作许可。"
+      },
+      {
+        "en": "A work permit does not qualify you to teach or certify that you hold a professional license.",
+        "zh": "工作许可不意味着你有任教资格，也不能证明你持有专业执照。"
+      },
+      {
+        "en": "The board will certify candidates who qualify, but a license and employment permit remain separate requirements.",
+        "zh": "委员会会认证合格候选人，但执照和就业许可仍属不同要求。"
+      }
+    ],
+    "collocations": {
+      "05-080": [
+        "qualify as a teacher",
+        "取得教师资格"
+      ],
+      "05-081": [
+        "certify competence",
+        "证明能力"
+      ],
+      "05-082": [
+        "a teaching license",
+        "教师执照"
+      ],
+      "05-083": [
+        "a work permit",
+        "工作许可"
+      ]
+    },
+    "related": [
+      {
+        "word": "certification",
+        "meaning": "认证",
+        "relation": "词形"
+      },
+      {
+        "word": "licensing",
+        "meaning": "发放执照",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-085",
+      "05-086",
+      "05-087",
+      "05-088"
+    ],
+    "examples": [
+      {
+        "en": "A pupil welcomed the ambassador and another diplomat at the ceremony.",
+        "zh": "一位小学生在典礼上欢迎大使和另一位外交官。"
+      },
+      {
+        "en": "The ambassador invited a pupil to explain the school project before the diplomat opened the ceremony.",
+        "zh": "大使邀请小学生介绍学校项目，随后外交官宣布典礼开始。"
+      },
+      {
+        "en": "At the ceremony, a pupil presented flowers to the ambassador while a diplomat addressed the audience.",
+        "zh": "典礼上，一位小学生向大使献花，一位外交官向观众致辞。"
+      }
+    ],
+    "collocations": {
+      "05-085": [
+        "a senior diplomat",
+        "资深外交官"
+      ],
+      "05-086": [
+        "a cultural ambassador",
+        "文化大使"
+      ],
+      "05-087": [
+        "a primary school pupil",
+        "小学生"
+      ],
+      "05-088": [
+        "an opening ceremony",
+        "开幕典礼"
+      ]
+    },
+    "related": [
+      {
+        "word": "diplomacy",
+        "meaning": "外交",
+        "relation": "词形"
+      },
+      {
+        "word": "delegation",
+        "meaning": "代表团",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-092",
+      "05-093",
+      "05-094",
+      "05-095",
+      "05-096"
+    ],
+    "examples": [
+      {
+        "en": "A fresher joined a sophomore, a junior and a senior to welcome returning alumni.",
+        "zh": "一名新生与二年级、三年级及毕业班学生一起欢迎返校校友。"
+      },
+      {
+        "en": "The alumni mentor spoke separately with a fresher, a sophomore, a junior and a senior.",
+        "zh": "校友导师分别与新生、二年级、三年级和毕业班学生交谈。"
+      },
+      {
+        "en": "The panel paired alumni with a fresher, a sophomore, a junior and a senior to discuss university life.",
+        "zh": "座谈会安排校友与新生及二、三、四年级学生讨论大学生活。"
+      }
+    ],
+    "collocations": {
+      "05-092": [
+        "a university fresher",
+        "大学新生"
+      ],
+      "05-093": [
+        "a college sophomore",
+        "大学二年级学生"
+      ],
+      "05-094": [
+        "a college junior",
+        "大学三年级学生"
+      ],
+      "05-095": [
+        "a graduating senior",
+        "毕业班学生"
+      ],
+      "05-096": [
+        "university alumni",
+        "大学校友"
+      ]
+    },
+    "related": [
+      {
+        "word": "undergraduate",
+        "meaning": "本科生",
+        "relation": "同场景"
+      },
+      {
+        "word": "year group",
+        "meaning": "年级群体",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-097",
+      "05-098",
+      "05-099"
+    ],
+    "examples": [
+      {
+        "en": "The coed college uses an online platform to deliver orientation.",
+        "zh": "这所男女同校的学院利用在线平台开展迎新。"
+      },
+      {
+        "en": "Students at the coed school accessed orientation materials through a shared platform.",
+        "zh": "男女同校学校的学生通过共享平台获取入学介绍材料。"
+      },
+      {
+        "en": "During orientation, the coed college demonstrated its new learning platform.",
+        "zh": "迎新期间，这所男女同校学院演示了新的学习平台。"
+      }
+    ],
+    "collocations": {
+      "05-097": [
+        "an orientation session",
+        "迎新活动"
+      ],
+      "05-098": [
+        "an online platform",
+        "在线平台"
+      ],
+      "05-099": [
+        "a coed school",
+        "男女同校的学校"
+      ]
+    },
+    "related": [
+      {
+        "word": "induction",
+        "meaning": "入门介绍",
+        "relation": "近义"
+      },
+      {
+        "word": "coeducation",
+        "meaning": "男女同校教育",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-100",
+      "05-101",
+      "05-102",
+      "05-103"
+    ],
+    "examples": [
+      {
+        "en": "Students register online, enrol in courses and check the roster before matriculation.",
+        "zh": "学生在线注册、选课，并在正式入学注册前核对名册。"
+      },
+      {
+        "en": "After matriculation, check the roster to ensure you register for every course you intend to enrol in.",
+        "zh": "正式入学后，检查名册，确保登记了打算修读的每门课程。"
+      },
+      {
+        "en": "The matriculation office helps students register, enrol and correct errors on the class roster.",
+        "zh": "入学注册办公室帮助学生登记、选课并纠正班级名册错误。"
+      }
+    ],
+    "collocations": {
+      "05-100": [
+        "register online",
+        "在线注册"
+      ],
+      "05-101": [
+        "a class roster",
+        "班级名册"
+      ],
+      "05-102": [
+        "enrol on a course",
+        "注册课程"
+      ],
+      "05-103": [
+        "university matriculation",
+        "大学入学注册"
+      ]
+    },
+    "related": [
+      {
+        "word": "registration",
+        "meaning": "注册",
+        "relation": "词形"
+      },
+      {
+        "word": "admission",
+        "meaning": "录取",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-104",
+      "05-105",
+      "05-106"
+    ],
+    "examples": [
+      {
+        "en": "The bibliography provides sources on the content and object of the study.",
+        "zh": "参考书目提供有关研究内容和研究对象的资料来源。"
+      },
+      {
+        "en": "To identify the essay's object, examine its content and bibliography together.",
+        "zh": "要识别文章的研究对象，需结合内容和参考书目分析。"
+      },
+      {
+        "en": "The syllabus explains the course content, states its object and includes a short bibliography.",
+        "zh": "教学大纲解释课程内容、说明目标，并附简短参考书目。"
+      }
+    ],
+    "collocations": {
+      "05-104": [
+        "an annotated bibliography",
+        "带注释的参考书目"
+      ],
+      "05-105": [
+        "course content",
+        "课程内容"
+      ],
+      "05-106": [
+        "the object of study",
+        "研究对象"
+      ]
+    },
+    "related": [
+      {
+        "word": "source",
+        "meaning": "资料来源",
+        "relation": "同场景"
+      },
+      {
+        "word": "objective",
+        "meaning": "目标",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-111",
+      "05-112",
+      "05-113",
+      "05-114"
+    ],
+    "examples": [
+      {
+        "en": "The experiment produced a large quantity of data of uneven quality.",
+        "zh": "实验产生了大量质量参差不齐的数据。"
+      },
+      {
+        "en": "Data quality matters more than quantity in this experiment.",
+        "zh": "在这个实验中，数据质量比数量更重要。"
+      },
+      {
+        "en": "We repeated the experiment to improve the quality and quantity of data.",
+        "zh": "我们重复实验，以提升数据质量和数量。"
+      }
+    ],
+    "collocations": {
+      "05-111": [
+        "conduct an experiment",
+        "做实验"
+      ],
+      "05-112": [
+        "collect data",
+        "收集数据"
+      ],
+      "05-113": [
+        "a small quantity",
+        "少量"
+      ],
+      "05-114": [
+        "data quality",
+        "数据质量"
+      ]
+    },
+    "related": [
+      {
+        "word": "measurement",
+        "meaning": "测量",
+        "relation": "同场景"
+      },
+      {
+        "word": "reliability",
+        "meaning": "可靠性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-208",
+      "05-244",
+      "05-245",
+      "05-246"
+    ],
+    "examples": [
+      {
+        "en": "Boil the water, dissolve the sugar and melt the fat, then cool the mixture before allowing it to ferment.",
+        "zh": "烧开水，溶解糖并融化脂肪，然后冷却混合物再让其发酵。"
+      },
+      {
+        "en": "Do not boil the yeast: dissolve the sugar, melt the butter separately and let the cooled dough ferment.",
+        "zh": "不要煮酵母：溶解糖，另行融化黄油，再让冷却的面团发酵。"
+      },
+      {
+        "en": "The recipe asks us to melt butter, dissolve sugar and boil milk before mixing ingredients that will ferment.",
+        "zh": "配方要求先融化黄油、溶解糖及煮沸牛奶，然后混合将要发酵的原料。"
+      }
+    ],
+    "collocations": {
+      "05-208": [
+        "ferment slowly",
+        "缓慢发酵"
+      ],
+      "05-244": [
+        "boil water",
+        "烧开水"
+      ],
+      "05-245": [
+        "melt butter",
+        "融化黄油"
+      ],
+      "05-246": [
+        "dissolve sugar",
+        "溶解糖"
+      ]
+    },
+    "related": [
+      {
+        "word": "fermentation",
+        "meaning": "发酵",
+        "relation": "词形"
+      },
+      {
+        "word": "solubility",
+        "meaning": "溶解度",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-247",
+      "05-248",
+      "05-249",
+      "05-250"
+    ],
+    "examples": [
+      {
+        "en": "Dilute the acid carefully before using it to remove rust, and avoid breathing noxious fumes.",
+        "zh": "用酸除锈前须小心稀释，并避免吸入有害烟气。"
+      },
+      {
+        "en": "The acid used on rust may release noxious vapour, even after technicians dilute it.",
+        "zh": "即使技术人员将酸稀释，用其除锈时仍可能释放有害蒸气。"
+      },
+      {
+        "en": "Do not dilute an unknown acid near rust or other metals, as noxious gases may form.",
+        "zh": "不要在铁锈或其他金属附近稀释未知酸，因为可能生成有害气体。"
+      }
+    ],
+    "collocations": {
+      "05-247": [
+        "iron rust",
+        "铁锈"
+      ],
+      "05-248": [
+        "dilute a solution",
+        "稀释溶液"
+      ],
+      "05-249": [
+        "a strong acid",
+        "强酸"
+      ],
+      "05-250": [
+        "noxious fumes",
+        "有害烟气"
+      ]
+    },
+    "related": [
+      {
+        "word": "corrosion",
+        "meaning": "腐蚀",
+        "relation": "同场景"
+      },
+      {
+        "word": "dilution",
+        "meaning": "稀释",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-231",
+      "05-232",
+      "05-233",
+      "05-234"
+    ],
+    "examples": [
+      {
+        "en": "The kit contains a mercury thermometer marked in Fahrenheit and a 1.5-volt battery.",
+        "zh": "套件含一支标有华氏温标的水银温度计和一节一点五伏特电池。"
+      },
+      {
+        "en": "A one-volt battery powered the display beside a Fahrenheit thermometer containing mercury.",
+        "zh": "一伏特电池为显示器供电，旁边是一支含水银的华氏温度计。"
+      },
+      {
+        "en": "The class compared a one-volt battery with a mercury thermometer calibrated in Fahrenheit.",
+        "zh": "课堂将一伏特电池与按华氏温标校准的水银温度计进行比较。"
+      }
+    ],
+    "collocations": {
+      "05-231": [
+        "a Fahrenheit scale",
+        "华氏温标"
+      ],
+      "05-232": [
+        "liquid mercury",
+        "液态汞"
+      ],
+      "05-233": [
+        "a rechargeable battery",
+        "充电电池"
+      ],
+      "05-234": [
+        "one volt",
+        "一伏特"
+      ]
+    },
+    "related": [
+      {
+        "word": "thermometer",
+        "meaning": "温度计",
+        "relation": "同场景"
+      },
+      {
+        "word": "voltage",
+        "meaning": "电压",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-235",
+      "05-236",
+      "05-237",
+      "05-238",
+      "05-239"
+    ],
+    "examples": [
+      {
+        "en": "Lamps inside the transparent, hollow tube emit ultraviolet light and radiate heat while producing ozone.",
+        "zh": "透明空心管内的灯释放紫外光、辐射热量，并产生臭氧。"
+      },
+      {
+        "en": "The transparent casing lets the lamp emit light and radiate heat, while air passing through its hollow chamber forms ozone.",
+        "zh": "透明外壳让灯发光并辐射热量，空气通过空心腔室时形成臭氧。"
+      },
+      {
+        "en": "Ozone formed as lamps began to emit ultraviolet light and radiate heat inside a hollow, transparent cylinder.",
+        "zh": "灯在透明空心圆柱内发出紫外光并辐射热量时，臭氧形成。"
+      }
+    ],
+    "collocations": {
+      "05-235": [
+        "radiate heat",
+        "辐射热量"
+      ],
+      "05-236": [
+        "emit light",
+        "发光"
+      ],
+      "05-237": [
+        "transparent glass",
+        "透明玻璃"
+      ],
+      "05-238": [
+        "a hollow tube",
+        "空心管"
+      ],
+      "05-239": [
+        "the ozone layer",
+        "臭氧层"
+      ]
+    },
+    "related": [
+      {
+        "word": "radiation",
+        "meaning": "辐射",
+        "relation": "词形"
+      },
+      {
+        "word": "emission",
+        "meaning": "释放",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-240",
+      "05-241",
+      "05-242",
+      "05-243"
+    ],
+    "examples": [
+      {
+        "en": "Gravity turns the eccentric wheel, while friction slows it as its paddles displace water.",
+        "zh": "重力使偏心轮转动，叶片排开水时，摩擦使它减速。"
+      },
+      {
+        "en": "The experiment measures how gravity and friction affect an eccentric wheel used to displace liquid.",
+        "zh": "实验测量重力和摩擦如何影响一个用于排开液体的偏心轮。"
+      },
+      {
+        "en": "Reduce friction so gravity can rotate the eccentric mechanism and displace water through the channel.",
+        "zh": "减少摩擦，使重力能转动偏心机构，将水推过水道。"
+      }
+    ],
+    "collocations": {
+      "05-240": [
+        "the force of gravity",
+        "重力"
+      ],
+      "05-241": [
+        "reduce friction",
+        "减少摩擦"
+      ],
+      "05-242": [
+        "an eccentric wheel",
+        "偏心轮"
+      ],
+      "05-243": [
+        "displace water",
+        "排开水"
+      ]
+    },
+    "related": [
+      {
+        "word": "displacement",
+        "meaning": "位移",
+        "relation": "词形"
+      },
+      {
+        "word": "rotation",
+        "meaning": "转动",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-251",
+      "05-252",
+      "05-253"
+    ],
+    "examples": [
+      {
+        "en": "The inert gas has inherent chemical stability, but static electricity still requires control nearby.",
+        "zh": "这种惰性气体具有固有化学稳定性，但附近仍需控制静电。"
+      },
+      {
+        "en": "Inherent resistance to reaction makes the gas inert, though it does not eliminate static hazards.",
+        "zh": "固有的不易反应特性使气体呈惰性，但这不消除静电风险。"
+      },
+      {
+        "en": "The static display explains an inert gas's inherent properties without demonstrating live reactions.",
+        "zh": "静态展览说明惰性气体的固有属性，不现场演示反应。"
+      }
+    ],
+    "collocations": {
+      "05-251": [
+        "static electricity",
+        "静电"
+      ],
+      "05-252": [
+        "an inert gas",
+        "惰性气体"
+      ],
+      "05-253": [
+        "an inherent property",
+        "固有属性"
+      ]
+    },
+    "related": [
+      {
+        "word": "reactivity",
+        "meaning": "反应活性",
+        "relation": "同场景"
+      },
+      {
+        "word": "stability",
+        "meaning": "稳定性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-255",
+      "05-256",
+      "05-257",
+      "05-258"
+    ],
+    "examples": [
+      {
+        "en": "Each component contributes to the mixture that these ingredients compose when we blend them.",
+        "zh": "我们混合这些原料时，它们组成混合物，每种成分都发挥作用。"
+      },
+      {
+        "en": "Blend each component evenly so the substances compose a uniform mixture.",
+        "zh": "均匀混合每种成分，使这些物质组成均匀混合物。"
+      },
+      {
+        "en": "The ingredients compose a mixture whose quality depends on how well we blend each component.",
+        "zh": "这些原料组成的混合物，其质量取决于各成分混合得多充分。"
+      }
+    ],
+    "collocations": {
+      "05-255": [
+        "a key component",
+        "关键成分"
+      ],
+      "05-256": [
+        "compose a mixture",
+        "组成混合物"
+      ],
+      "05-257": [
+        "a chemical mixture",
+        "化学混合物"
+      ],
+      "05-258": [
+        "blend ingredients",
+        "混合原料"
+      ]
+    },
+    "related": [
+      {
+        "word": "composition",
+        "meaning": "组成",
+        "relation": "词形"
+      },
+      {
+        "word": "homogeneous",
+        "meaning": "均匀的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-115",
+      "05-116",
+      "05-117",
+      "05-118"
+    ],
+    "examples": [
+      {
+        "en": "The library holds an article by an author who specialises in children's literature.",
+        "zh": "图书馆藏有一位专研儿童文学的作者所写的文章。"
+      },
+      {
+        "en": "An author discussed literature at the library after publishing an influential article.",
+        "zh": "一位作者发表有影响力的文章后，在图书馆讨论文学。"
+      },
+      {
+        "en": "To find the article, ask the library for the author index in its literature collection.",
+        "zh": "要找到文章，可向图书馆查询文学馆藏中的作者索引。"
+      }
+    ],
+    "collocations": {
+      "05-115": [
+        "a public library",
+        "公共图书馆"
+      ],
+      "05-116": [
+        "English literature",
+        "英国文学"
+      ],
+      "05-117": [
+        "a journal article",
+        "期刊文章"
+      ],
+      "05-118": [
+        "a published author",
+        "出版作品的作者"
+      ]
+    },
+    "related": [
+      {
+        "word": "publication",
+        "meaning": "出版物",
+        "relation": "同场景"
+      },
+      {
+        "word": "readership",
+        "meaning": "读者群",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-119",
+      "05-120",
+      "05-121",
+      "05-122",
+      "05-123"
+    ],
+    "examples": [
+      {
+        "en": "Her diary inspired a short story, a folk tale retelling and a collection mixing fiction with poetry.",
+        "zh": "她的日记启发了一篇短篇故事、一部民间故事改写，以及一本融合小说和诗歌的作品集。"
+      },
+      {
+        "en": "The course compares a diary with a fictional story, a traditional tale and poetry to explore different forms of fiction.",
+        "zh": "课程比较日记、虚构故事、传统传说和诗歌，以探讨不同的虚构写作形式。"
+      },
+      {
+        "en": "The writer moved from diary entries to poetry, then transformed a family tale into a story of historical fiction.",
+        "zh": "作家从日记转向诗歌，随后将家族传说改写为历史小说故事。"
+      }
+    ],
+    "collocations": {
+      "05-119": [
+        "a folk tale",
+        "民间故事"
+      ],
+      "05-120": [
+        "historical fiction",
+        "历史小说"
+      ],
+      "05-121": [
+        "a short story",
+        "短篇小说"
+      ],
+      "05-122": [
+        "keep a diary",
+        "记日记"
+      ],
+      "05-123": [
+        "modern poetry",
+        "现代诗歌"
+      ]
+    },
+    "related": [
+      {
+        "word": "narrative",
+        "meaning": "叙事",
+        "relation": "同场景"
+      },
+      {
+        "word": "verse",
+        "meaning": "诗体",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-124",
+      "05-125",
+      "05-126",
+      "05-127"
+    ],
+    "examples": [
+      {
+        "en": "The encyclopedia summarises research from a journal and compares it with magazine coverage.",
+        "zh": "百科全书概述了某期刊研究，并将其与杂志报道比较。"
+      },
+      {
+        "en": "Unlike magazine coverage, the journal article reports original research rather than repeating an encyclopedia entry.",
+        "zh": "与杂志报道不同，期刊论文报告原创研究，而非复述百科条目。"
+      },
+      {
+        "en": "Students checked the magazine's coverage against a specialist journal and a reliable encyclopedia.",
+        "zh": "学生用专业期刊和可靠百科全书核查杂志报道。"
+      }
+    ],
+    "collocations": {
+      "05-124": [
+        "a monthly magazine",
+        "月刊杂志"
+      ],
+      "05-125": [
+        "an academic journal",
+        "学术期刊"
+      ],
+      "05-126": [
+        "media coverage",
+        "媒体报道"
+      ],
+      "05-127": [
+        "an online encyclopedia",
+        "在线百科全书"
+      ]
+    },
+    "related": [
+      {
+        "word": "periodical",
+        "meaning": "期刊",
+        "relation": "近义"
+      },
+      {
+        "word": "reference work",
+        "meaning": "参考书",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-128",
+      "05-129",
+      "05-130"
+    ],
+    "examples": [
+      {
+        "en": "The documentary series draws on a newly published biography.",
+        "zh": "这部纪录片系列取材于一本新出版的传记。"
+      },
+      {
+        "en": "A biography inspired the first episode of the documentary series.",
+        "zh": "一本传记启发了这部纪录片系列的第一集。"
+      },
+      {
+        "en": "The biography challenges several claims made in the documentary series.",
+        "zh": "这本传记质疑了纪录片系列中的若干说法。"
+      }
+    ],
+    "collocations": {
+      "05-128": [
+        "a political biography",
+        "政治人物传记"
+      ],
+      "05-129": [
+        "a historical documentary",
+        "历史纪录片"
+      ],
+      "05-130": [
+        "a television series",
+        "电视系列节目"
+      ]
+    },
+    "related": [
+      {
+        "word": "biographical",
+        "meaning": "传记的",
+        "relation": "词形"
+      },
+      {
+        "word": "filmmaking",
+        "meaning": "电影制作",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-131",
+      "05-132",
+      "05-133",
+      "05-134",
+      "05-135"
+    ],
+    "examples": [
+      {
+        "en": "The file contains a record of the interview, a profile draft and a sketch of the subject's career.",
+        "zh": "档案包含访谈记录、简介初稿和当事人职业生涯的概述。"
+      },
+      {
+        "en": "Use the record in this file to draft a profile and sketch the key events.",
+        "zh": "利用这份档案中的记录起草简介，并概述关键事件。"
+      },
+      {
+        "en": "Before revising the profile draft, compare its sketch of events with the original record in the file.",
+        "zh": "修改简介初稿前，先将其事件概述与档案中的原始记录比较。"
+      }
+    ],
+    "collocations": {
+      "05-131": [
+        "an official record",
+        "正式记录"
+      ],
+      "05-132": [
+        "a research file",
+        "研究档案"
+      ],
+      "05-133": [
+        "a personal profile",
+        "个人简介"
+      ],
+      "05-134": [
+        "a first draft",
+        "初稿"
+      ],
+      "05-135": [
+        "a rough sketch",
+        "粗略概述"
+      ]
+    },
+    "related": [
+      {
+        "word": "archive",
+        "meaning": "档案库",
+        "relation": "同场景"
+      },
+      {
+        "word": "revision",
+        "meaning": "修订",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-136",
+      "05-137",
+      "05-138"
+    ],
+    "examples": [
+      {
+        "en": "The brochure shows the finished frame, while the manual explains how to assemble it.",
+        "zh": "宣传册展示成品画框，手册解释如何组装。"
+      },
+      {
+        "en": "We checked the manual before choosing the frame pictured in the brochure.",
+        "zh": "我们先查阅手册，再选择宣传册上展示的画框。"
+      },
+      {
+        "en": "A brochure and manual were included with the flat-packed frame.",
+        "zh": "平板包装的画框附有宣传册和手册。"
+      }
+    ],
+    "collocations": {
+      "05-136": [
+        "an information brochure",
+        "资料手册"
+      ],
+      "05-137": [
+        "a user manual",
+        "用户手册"
+      ],
+      "05-138": [
+        "a picture frame",
+        "画框"
+      ]
+    },
+    "related": [
+      {
+        "word": "instructions",
+        "meaning": "说明",
+        "relation": "同场景"
+      },
+      {
+        "word": "assembly",
+        "meaning": "组装",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-139",
+      "05-140",
+      "05-141",
+      "05-142"
+    ],
+    "examples": [
+      {
+        "en": "The catalogue has an alphabetical index and organises the inventory by category.",
+        "zh": "目录附有字母索引，并按类别组织藏品清单。"
+      },
+      {
+        "en": "Choose a category in the catalogue, then use the index to locate its inventory entries.",
+        "zh": "在目录中选择类别，再用索引定位清单条目。"
+      },
+      {
+        "en": "The inventory lists each item, while the catalogue adds a category and a searchable index.",
+        "zh": "清单列出每件物品，目录则增加分类及可搜索索引。"
+      }
+    ],
+    "collocations": {
+      "05-139": [
+        "an alphabetical index",
+        "字母顺序索引"
+      ],
+      "05-140": [
+        "a library catalogue",
+        "图书目录"
+      ],
+      "05-141": [
+        "a subject category",
+        "学科类别"
+      ],
+      "05-142": [
+        "a detailed inventory",
+        "详细清单"
+      ]
+    },
+    "related": [
+      {
+        "word": "classification",
+        "meaning": "分类",
+        "relation": "同场景"
+      },
+      {
+        "word": "listing",
+        "meaning": "列表",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-143",
+      "05-144",
+      "05-145",
+      "05-146",
+      "05-147"
+    ],
+    "examples": [
+      {
+        "en": "The volume's opening chapter provides context for a list of disasters that still make survivors reel.",
+        "zh": "该卷首章为灾害清单提供背景，那些灾害至今仍使幸存者震惊。"
+      },
+      {
+        "en": "Readers may reel at the casualty list, but this chapter supplies context for the volume's wider argument.",
+        "zh": "伤亡清单可能使读者震惊，但本章为整卷的更广泛论点提供背景。"
+      },
+      {
+        "en": "The chapter places a disturbing list in historical context, although the volume may still make readers reel.",
+        "zh": "本章将令人不安的清单置于历史背景中，尽管该卷仍可能使读者震惊。"
+      }
+    ],
+    "collocations": {
+      "05-143": [
+        "historical context",
+        "历史背景"
+      ],
+      "05-144": [
+        "a reading list",
+        "阅读清单"
+      ],
+      "05-145": [
+        "an introductory chapter",
+        "导论章节"
+      ],
+      "05-146": [
+        "a collected volume",
+        "作品集卷册"
+      ],
+      "05-147": [
+        "reel from shock",
+        "震惊得发晕"
+      ]
+    },
+    "related": [
+      {
+        "word": "compilation",
+        "meaning": "汇编",
+        "relation": "同场景"
+      },
+      {
+        "word": "disorientation",
+        "meaning": "迷失方向",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-148",
+      "05-149",
+      "05-150",
+      "05-151",
+      "05-152"
+    ],
+    "examples": [
+      {
+        "en": "My major is sociology, my minor is politics, and history is another subject I enjoy.",
+        "zh": "我主修社会学，辅修政治学，历史是我喜欢的另一门学科。"
+      },
+      {
+        "en": "Students may major in politics and take sociology as a minor subject.",
+        "zh": "学生可以主修政治学，将社会学作为辅修科目。"
+      },
+      {
+        "en": "Combining a sociology major with a politics minor helps me examine the same subject from different perspectives.",
+        "zh": "主修社会学、辅修政治学有助于我从不同角度研究同一主题。"
+      }
+    ],
+    "collocations": {
+      "05-148": [
+        "a school subject",
+        "学校科目"
+      ],
+      "05-149": [
+        "major in sociology",
+        "主修社会学"
+      ],
+      "05-150": [
+        "a minor in politics",
+        "辅修政治学"
+      ],
+      "05-151": [
+        "urban sociology",
+        "城市社会学"
+      ],
+      "05-152": [
+        "study politics",
+        "学习政治学"
+      ]
+    },
+    "related": [
+      {
+        "word": "interdisciplinary",
+        "meaning": "跨学科的",
+        "relation": "同场景"
+      },
+      {
+        "word": "specialisation",
+        "meaning": "专业方向",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-153",
+      "05-154",
+      "05-155",
+      "05-156"
+    ],
+    "examples": [
+      {
+        "en": "The business course covers economics, marketing and accounting, then introduces financial audit.",
+        "zh": "商科课程涵盖经济学、市场营销和会计，随后介绍财务审计。"
+      },
+      {
+        "en": "Economics explains market incentives, marketing attracts customers, and accounting provides records for an audit.",
+        "zh": "经济学解释市场激励，营销吸引客户，会计为审计提供记录。"
+      },
+      {
+        "en": "A student of economics used accounting records and an audit report to assess a marketing campaign.",
+        "zh": "一位经济学学生用会计记录及审计报告评估营销活动。"
+      }
+    ],
+    "collocations": {
+      "05-153": [
+        "development economics",
+        "发展经济学"
+      ],
+      "05-154": [
+        "digital marketing",
+        "数字营销"
+      ],
+      "05-155": [
+        "financial accounting",
+        "财务会计"
+      ],
+      "05-156": [
+        "an independent audit",
+        "独立审计"
+      ]
+    },
+    "related": [
+      {
+        "word": "finance",
+        "meaning": "金融",
+        "relation": "同场景"
+      },
+      {
+        "word": "business studies",
+        "meaning": "商科",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-157",
+      "05-158",
+      "05-159",
+      "05-160"
+    ],
+    "examples": [
+      {
+        "en": "Psychology uses statistics, while philosophy and logic help clarify its underlying arguments.",
+        "zh": "心理学使用统计学，哲学与逻辑学则帮助厘清其底层论证。"
+      },
+      {
+        "en": "The programme combines statistics with psychology and introduces philosophy through formal logic.",
+        "zh": "课程结合统计学和心理学，并通过形式逻辑介绍哲学。"
+      },
+      {
+        "en": "Students used logic from philosophy and statistics from psychology to evaluate the claim.",
+        "zh": "学生运用哲学中的逻辑与心理学中的统计方法评价该说法。"
+      }
+    ],
+    "collocations": {
+      "05-157": [
+        "apply statistics",
+        "应用统计学"
+      ],
+      "05-158": [
+        "cognitive psychology",
+        "认知心理学"
+      ],
+      "05-159": [
+        "moral philosophy",
+        "道德哲学"
+      ],
+      "05-160": [
+        "formal logic",
+        "形式逻辑"
+      ]
+    },
+    "related": [
+      {
+        "word": "reasoning",
+        "meaning": "推理",
+        "relation": "同场景"
+      },
+      {
+        "word": "evidence",
+        "meaning": "证据",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-161",
+      "05-162",
+      "05-163",
+      "05-164",
+      "05-165"
+    ],
+    "examples": [
+      {
+        "en": "Sustainable agriculture draws on biology, chemistry and physics, while logistics connects farms to markets.",
+        "zh": "可持续农业借助生物学、化学和物理学，物流则连接农场与市场。"
+      },
+      {
+        "en": "The agriculture programme teaches biology, chemistry and physics alongside the logistics of food distribution.",
+        "zh": "农业课程教授生物学、化学和物理学，同时讲授食品配送物流。"
+      },
+      {
+        "en": "Research in biology, physics and chemistry can improve agriculture, but poor logistics may still waste the harvest.",
+        "zh": "生物学、物理学和化学研究能改善农业，但糟糕物流仍可能浪费收成。"
+      }
+    ],
+    "collocations": {
+      "05-161": [
+        "molecular biology",
+        "分子生物学"
+      ],
+      "05-162": [
+        "applied physics",
+        "应用物理学"
+      ],
+      "05-163": [
+        "organic chemistry",
+        "有机化学"
+      ],
+      "05-164": [
+        "sustainable agriculture",
+        "可持续农业"
+      ],
+      "05-165": [
+        "transport logistics",
+        "运输物流"
+      ]
+    },
+    "related": [
+      {
+        "word": "agronomy",
+        "meaning": "农学",
+        "relation": "同场景"
+      },
+      {
+        "word": "supply chain",
+        "meaning": "供应链",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-166",
+      "05-167",
+      "05-168",
+      "05-169",
+      "05-170"
+    ],
+    "examples": [
+      {
+        "en": "The engineering course combines mechanics and electronics with the geography and history of infrastructure.",
+        "zh": "工程课程将力学和电子学与基础设施的地理及历史结合。"
+      },
+      {
+        "en": "Geography and history explain where bridges developed, while engineering, mechanics and electronics explain modern bridge design.",
+        "zh": "地理与历史解释桥梁在何处发展，工程、力学与电子学解释现代桥梁设计。"
+      },
+      {
+        "en": "Students explored the history and geography of transport before applying mechanics and electronics in an engineering project.",
+        "zh": "学生先探讨交通的历史与地理，再在工程项目中应用力学和电子学。"
+      }
+    ],
+    "collocations": {
+      "05-166": [
+        "human geography",
+        "人文地理学"
+      ],
+      "05-167": [
+        "economic history",
+        "经济史"
+      ],
+      "05-168": [
+        "electrical engineering",
+        "电气工程"
+      ],
+      "05-169": [
+        "fluid mechanics",
+        "流体力学"
+      ],
+      "05-170": [
+        "consumer electronics",
+        "消费电子产品"
+      ]
+    },
+    "related": [
+      {
+        "word": "infrastructure",
+        "meaning": "基础设施",
+        "relation": "同场景"
+      },
+      {
+        "word": "technology",
+        "meaning": "技术",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-171",
+      "05-172",
+      "05-173",
+      "05-174",
+      "05-175"
+    ],
+    "examples": [
+      {
+        "en": "The maths curriculum moves from arithmetic to geometry, algebra and calculus.",
+        "zh": "数学课程从算术逐步进入几何、代数和微积分。"
+      },
+      {
+        "en": "Strong arithmetic supports later maths, including geometry, algebra and calculus.",
+        "zh": "扎实算术支持之后的数学学习，包括几何、代数及微积分。"
+      },
+      {
+        "en": "Her maths tutor reviewed arithmetic and geometry before introducing algebra and calculus.",
+        "zh": "她的数学导师先复习算术和几何，再介绍代数及微积分。"
+      }
+    ],
+    "collocations": {
+      "05-171": [
+        "study maths",
+        "学习数学"
+      ],
+      "05-172": [
+        "mental arithmetic",
+        "心算"
+      ],
+      "05-173": [
+        "plane geometry",
+        "平面几何"
+      ],
+      "05-174": [
+        "linear algebra",
+        "线性代数"
+      ],
+      "05-175": [
+        "differential calculus",
+        "微分学"
+      ]
+    },
+    "related": [
+      {
+        "word": "mathematics",
+        "meaning": "数学",
+        "relation": "近义"
+      },
+      {
+        "word": "numeracy",
+        "meaning": "计算能力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-176",
+      "05-177",
+      "05-178",
+      "05-180",
+      "05-181"
+    ],
+    "examples": [
+      {
+        "en": "The equation shows that two plus three has a sum identical to the total of four plus one.",
+        "zh": "等式表明，二加三的和与四加一的总数相同。"
+      },
+      {
+        "en": "Check the equation: the sum of six plus two should be identical to a total of eight.",
+        "zh": "核查等式：六加二的和应与总数八相同。"
+      },
+      {
+        "en": "The sum of five plus five gives a total identical to ten in this equation.",
+        "zh": "在这个等式中，五加五的和得到的总数与十相同。"
+      }
+    ],
+    "collocations": {
+      "05-176": [
+        "two plus three",
+        "二加三"
+      ],
+      "05-177": [
+        "the sum of values",
+        "数值之和"
+      ],
+      "05-178": [
+        "the total cost",
+        "总费用"
+      ],
+      "05-180": [
+        "solve an equation",
+        "解方程"
+      ],
+      "05-181": [
+        "identical results",
+        "相同结果"
+      ]
+    },
+    "related": [
+      {
+        "word": "addition",
+        "meaning": "加法",
+        "relation": "同场景"
+      },
+      {
+        "word": "equality",
+        "meaning": "相等",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-179"
+    ],
+    "examples": [
+      {
+        "en": "The merger brought two universities under one administration.",
+        "zh": "合并使两所大学归入同一管理机构。"
+      },
+      {
+        "en": "Staff worried that the merger would reduce teaching posts.",
+        "zh": "员工担心合并会减少教师岗位。"
+      },
+      {
+        "en": "A successful merger requires careful financial planning.",
+        "zh": "成功的合并需要细致财务规划。"
+      }
+    ],
+    "collocations": {
+      "05-179": [
+        "a corporate merger",
+        "公司合并"
+      ]
+    },
+    "related": [
+      {
+        "word": "acquisition",
+        "meaning": "收购",
+        "relation": "同场景"
+      },
+      {
+        "word": "consolidation",
+        "meaning": "整合",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-182",
+      "05-183"
+    ],
+    "examples": [
+      {
+        "en": "To calculate seven minus three, subtract three from seven.",
+        "zh": "要计算七减三，就从七中减去三。"
+      },
+      {
+        "en": "Write twelve minus five, then subtract five to find the answer.",
+        "zh": "写下十二减五，再减去五求答案。"
+      },
+      {
+        "en": "The word minus tells us to subtract rather than add.",
+        "zh": "minus这个词提示我们做减法而非加法。"
+      }
+    ],
+    "collocations": {
+      "05-182": [
+        "five minus two",
+        "五减二"
+      ],
+      "05-183": [
+        "subtract a value",
+        "减去一个值"
+      ]
+    },
+    "related": [
+      {
+        "word": "subtraction",
+        "meaning": "减法",
+        "relation": "词形"
+      },
+      {
+        "word": "difference",
+        "meaning": "差",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-184",
+      "05-185",
+      "05-186",
+      "05-187"
+    ],
+    "examples": [
+      {
+        "en": "Divide the dividend by the divisor, multiply the quotient back and calculate the remainder.",
+        "zh": "用被除数除以除数，将商乘回除数，并计算余数。"
+      },
+      {
+        "en": "If you divide a dividend of seventeen by five, multiply three by five to check the remainder of two.",
+        "zh": "将被除数十七除以五后，用三乘五核查余数二。"
+      },
+      {
+        "en": "To verify a remainder, multiply the quotient by the number used to divide the dividend, then add what remains.",
+        "zh": "要验证余数，将商乘以用于除被除数的数，再加上所余部分。"
+      }
+    ],
+    "collocations": {
+      "05-184": [
+        "multiply by ten",
+        "乘以十"
+      ],
+      "05-185": [
+        "divide by three",
+        "除以三"
+      ],
+      "05-186": [
+        "the dividend and divisor",
+        "被除数与除数"
+      ],
+      "05-187": [
+        "a remainder of two",
+        "余数为二"
+      ]
+    },
+    "related": [
+      {
+        "word": "divisor",
+        "meaning": "除数",
+        "relation": "同场景"
+      },
+      {
+        "word": "quotient",
+        "meaning": "商",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-188",
+      "05-189",
+      "05-190"
+    ],
+    "examples": [
+      {
+        "en": "The parameter restricts the variable to rational numbers.",
+        "zh": "这个参数将变量限定为有理数。"
+      },
+      {
+        "en": "Changing one parameter makes the variable take a different rational value.",
+        "zh": "改变一个参数使变量取不同的有理数值。"
+      },
+      {
+        "en": "The model uses a rational parameter to describe how one variable changes.",
+        "zh": "模型用一个有理数参数描述某个变量如何变化。"
+      }
+    ],
+    "collocations": {
+      "05-188": [
+        "a rational number",
+        "有理数"
+      ],
+      "05-189": [
+        "a model parameter",
+        "模型参数"
+      ],
+      "05-190": [
+        "an independent variable",
+        "自变量"
+      ]
+    },
+    "related": [
+      {
+        "word": "constant",
+        "meaning": "常量",
+        "relation": "同场景"
+      },
+      {
+        "word": "irrational",
+        "meaning": "无理的",
+        "relation": "反义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-191",
+      "05-192"
+    ],
+    "examples": [
+      {
+        "en": "Adding two odd numbers gives an even number.",
+        "zh": "两个奇数相加得到偶数。"
+      },
+      {
+        "en": "An even number plus an odd number is odd.",
+        "zh": "偶数加奇数得到奇数。"
+      },
+      {
+        "en": "The sequence alternates between even and odd integers.",
+        "zh": "这个数列在偶数与奇数之间交替。"
+      }
+    ],
+    "collocations": {
+      "05-191": [
+        "an even number",
+        "偶数"
+      ],
+      "05-192": [
+        "an odd number",
+        "奇数"
+      ]
+    },
+    "related": [
+      {
+        "word": "integer",
+        "meaning": "整数",
+        "relation": "同场景"
+      },
+      {
+        "word": "parity",
+        "meaning": "奇偶性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-193",
+      "05-194",
+      "05-195",
+      "05-196",
+      "05-197"
+    ],
+    "examples": [
+      {
+        "en": "If we double, triple or quadruple every value, the mean increases by the same multiple.",
+        "zh": "若每个数值都变为两倍、三倍或四倍，平均值也按同样倍数增加。"
+      },
+      {
+        "en": "The chart asks whether the mean will double, triple or quadruple when all measurements change by one common multiple.",
+        "zh": "图表问：所有测量值按同一个倍数变化时，平均值会变为两倍、三倍还是四倍。"
+      },
+      {
+        "en": "To scale the mean by a multiple, double, triple or quadruple each original observation consistently.",
+        "zh": "要使平均值按倍数缩放，需将每个原始观测值一致地变为两倍、三倍或四倍。"
+      }
+    ],
+    "collocations": {
+      "05-193": [
+        "the arithmetic mean",
+        "算术平均数"
+      ],
+      "05-194": [
+        "double the value",
+        "将值加倍"
+      ],
+      "05-195": [
+        "triple the output",
+        "使产量增至三倍"
+      ],
+      "05-196": [
+        "quadruple the amount",
+        "使数量增至四倍"
+      ],
+      "05-197": [
+        "a multiple of four",
+        "四的倍数"
+      ]
+    },
+    "related": [
+      {
+        "word": "average",
+        "meaning": "平均数",
+        "relation": "近义"
+      },
+      {
+        "word": "multiplier",
+        "meaning": "乘数",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-198",
+      "05-199",
+      "05-200"
+    ],
+    "examples": [
+      {
+        "en": "The maximum was approximately twice the minimum.",
+        "zh": "最大值约为最小值的两倍。"
+      },
+      {
+        "en": "Approximately fifty students attended, between the minimum of thirty and the maximum of sixty.",
+        "zh": "约五十名学生参加，介于最低三十人和最高六十人之间。"
+      },
+      {
+        "en": "The report gives a minimum of approximately ten minutes and a maximum of twenty.",
+        "zh": "报告给出最低约十分钟、最高二十分钟。"
+      }
+    ],
+    "collocations": {
+      "05-198": [
+        "a maximum value",
+        "最大值"
+      ],
+      "05-199": [
+        "a minimum wage",
+        "最低工资"
+      ],
+      "05-200": [
+        "approximately equal",
+        "大致相等"
+      ]
+    },
+    "related": [
+      {
+        "word": "range",
+        "meaning": "极差",
+        "relation": "同场景"
+      },
+      {
+        "word": "estimate",
+        "meaning": "估计",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-201",
+      "05-202",
+      "05-203",
+      "05-204",
+      "05-205"
+    ],
+    "examples": [
+      {
+        "en": "The table and matrix store values, while the chart, graph and diagram present different relationships.",
+        "zh": "表格和矩阵存储数值，条形图、曲线图及示意图则呈现不同关系。"
+      },
+      {
+        "en": "Choose a chart or graph for trends, a diagram for processes, and a table or matrix for exact values.",
+        "zh": "呈现趋势选择图表，呈现过程选择示意图，呈现精确数值选择表格或矩阵。"
+      },
+      {
+        "en": "The appendix includes a data table, a correlation matrix, a bar chart, a line graph and a process diagram.",
+        "zh": "附录包含数据表、相关矩阵、条形图、折线图及过程示意图。"
+      }
+    ],
+    "collocations": {
+      "05-201": [
+        "a bar chart",
+        "条形图"
+      ],
+      "05-202": [
+        "a line graph",
+        "折线图"
+      ],
+      "05-203": [
+        "a flow diagram",
+        "流程图"
+      ],
+      "05-204": [
+        "a data table",
+        "数据表"
+      ],
+      "05-205": [
+        "a correlation matrix",
+        "相关矩阵"
+      ]
+    },
+    "related": [
+      {
+        "word": "visualisation",
+        "meaning": "可视化",
+        "relation": "同场景"
+      },
+      {
+        "word": "axis",
+        "meaning": "坐标轴",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-206",
+      "05-207"
+    ],
+    "examples": [
+      {
+        "en": "Express twenty-five percent as the decimal 0.25.",
+        "zh": "将百分之二十五表示为小数0.25。"
+      },
+      {
+        "en": "To convert a decimal to percent, multiply by one hundred.",
+        "zh": "要将小数转换为百分数，乘以一百。"
+      },
+      {
+        "en": "The report gives each result as both a decimal and a percent.",
+        "zh": "报告将每项结果同时表示为小数和百分数。"
+      }
+    ],
+    "collocations": {
+      "05-206": [
+        "a decimal fraction",
+        "小数"
+      ],
+      "05-207": [
+        "ten percent",
+        "百分之十"
+      ]
+    },
+    "related": [
+      {
+        "word": "percentage",
+        "meaning": "百分比",
+        "relation": "词形"
+      },
+      {
+        "word": "conversion",
+        "meaning": "换算",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-209",
+      "05-210",
+      "05-213"
+    ],
+    "examples": [
+      {
+        "en": "The area formula for a triangle differs from that for a rectangle.",
+        "zh": "三角形面积公式与矩形面积公式不同。"
+      },
+      {
+        "en": "Draw a rectangle around the triangle to explain the area formula.",
+        "zh": "在三角形周围画一个矩形，以解释面积公式。"
+      },
+      {
+        "en": "We used a formula to compare the area of the rectangle with that of the triangle.",
+        "zh": "我们用公式比较矩形与三角形面积。"
+      }
+    ],
+    "collocations": {
+      "05-209": [
+        "an area formula",
+        "面积公式"
+      ],
+      "05-210": [
+        "the area of a rectangle",
+        "矩形面积"
+      ],
+      "05-213": [
+        "a right triangle",
+        "直角三角形"
+      ]
+    },
+    "related": [
+      {
+        "word": "base",
+        "meaning": "底边",
+        "relation": "同场景"
+      },
+      {
+        "word": "height",
+        "meaning": "高",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-211",
+      "05-212",
+      "05-214",
+      "05-215"
+    ],
+    "examples": [
+      {
+        "en": "Draw a straight diagonal across one face of the cube and measure its angle to an edge.",
+        "zh": "在立方体一个面上画一条笔直对角线，并测量它与边的夹角。"
+      },
+      {
+        "en": "The cube has straight edges meeting at a right angle, while a diagonal crosses each square face.",
+        "zh": "立方体直棱以直角相交，每个正方形面都可画出对角线。"
+      },
+      {
+        "en": "A straight diagonal on the cube's face makes an angle of forty-five degrees with either adjacent edge.",
+        "zh": "立方体面上的直对角线与相邻任一边形成四十五度角。"
+      }
+    ],
+    "collocations": {
+      "05-211": [
+        "a solid cube",
+        "实心立方体"
+      ],
+      "05-212": [
+        "a right angle",
+        "直角"
+      ],
+      "05-214": [
+        "a face diagonal",
+        "面对角线"
+      ],
+      "05-215": [
+        "a straight line",
+        "直线"
+      ]
+    },
+    "related": [
+      {
+        "word": "vertex",
+        "meaning": "顶点",
+        "relation": "同场景"
+      },
+      {
+        "word": "edge",
+        "meaning": "棱",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-216",
+      "05-217",
+      "05-218",
+      "05-219",
+      "05-220"
+    ],
+    "examples": [
+      {
+        "en": "A dot marks the centre of the circle beneath the round sphere and beside the cone.",
+        "zh": "一个圆点标出圆的中心，圆位于圆球下方、圆锥旁边。"
+      },
+      {
+        "en": "Draw a circle and central dot, then sketch a sphere and a cone with a round base.",
+        "zh": "画一个圆及中心点，再画一个球和一个圆形底面的圆锥。"
+      },
+      {
+        "en": "The model places a dot on a sphere and uses a circle to outline the cone's round base.",
+        "zh": "模型在球上标一个点，并用圆描出圆锥的圆形底面。"
+      }
+    ],
+    "collocations": {
+      "05-216": [
+        "a perfect circle",
+        "正圆"
+      ],
+      "05-217": [
+        "a round base",
+        "圆形底座"
+      ],
+      "05-218": [
+        "a central dot",
+        "中心圆点"
+      ],
+      "05-219": [
+        "a solid sphere",
+        "实心球"
+      ],
+      "05-220": [
+        "a traffic cone",
+        "交通锥"
+      ]
+    },
+    "related": [
+      {
+        "word": "radius",
+        "meaning": "半径",
+        "relation": "同场景"
+      },
+      {
+        "word": "cross-section",
+        "meaning": "横截面",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-221",
+      "05-222",
+      "05-223",
+      "05-228"
+    ],
+    "examples": [
+      {
+        "en": "Use the map scale to calculate the length, width and full extent of the site.",
+        "zh": "用地图比例尺计算遗址长度、宽度及全部范围。"
+      },
+      {
+        "en": "The model's scale reduces its length and width while preserving the extent of each section.",
+        "zh": "模型比例尺缩小长宽，同时保留各部分的范围关系。"
+      },
+      {
+        "en": "The diagram shows the extent of the flood, with length and width measured to scale.",
+        "zh": "示意图按比例显示洪水范围及长宽。"
+      }
+    ],
+    "collocations": {
+      "05-221": [
+        "the full extent",
+        "全部范围"
+      ],
+      "05-222": [
+        "the average width",
+        "平均宽度"
+      ],
+      "05-223": [
+        "the total length",
+        "总长度"
+      ],
+      "05-228": [
+        "a map scale",
+        "地图比例尺"
+      ]
+    },
+    "related": [
+      {
+        "word": "dimension",
+        "meaning": "尺寸",
+        "relation": "同场景"
+      },
+      {
+        "word": "measurement",
+        "meaning": "测量",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-224",
+      "05-225",
+      "05-226",
+      "05-227"
+    ],
+    "examples": [
+      {
+        "en": "Express the proportion as a fraction or ratio before calculating the growth rate.",
+        "zh": "计算增长率之前，将占比表示为分数或比值。"
+      },
+      {
+        "en": "The fraction shows the proportion enrolled, the ratio compares groups, and the rate measures annual change.",
+        "zh": "分数显示入学占比，比值比较群体，增长率衡量年度变化。"
+      },
+      {
+        "en": "A rising rate increased the proportion receiving aid, changing both the fraction supported and the ratio between groups.",
+        "zh": "上升的比率提高了受助占比，同时改变受助分数及群体间的比值。"
+      }
+    ],
+    "collocations": {
+      "05-224": [
+        "a large proportion",
+        "大比例"
+      ],
+      "05-225": [
+        "a growth rate",
+        "增长率"
+      ],
+      "05-226": [
+        "a ratio of two to one",
+        "二比一"
+      ],
+      "05-227": [
+        "a small fraction",
+        "小部分"
+      ]
+    },
+    "related": [
+      {
+        "word": "percentage",
+        "meaning": "百分比",
+        "relation": "同场景"
+      },
+      {
+        "word": "comparison",
+        "meaning": "比较",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-229",
+      "05-230"
+    ],
+    "examples": [
+      {
+        "en": "An ounce of gold occupies less space than an ounce of wood because its density is greater.",
+        "zh": "一盎司黄金占的空间少于一盎司木头，因为其密度更大。"
+      },
+      {
+        "en": "Measure the volume of this ounce of metal to calculate its density.",
+        "zh": "测量这一盎司金属的体积，以计算密度。"
+      },
+      {
+        "en": "Density determines how much space one ounce of a substance occupies.",
+        "zh": "密度决定一盎司物质占多少空间。"
+      }
+    ],
+    "collocations": {
+      "05-229": [
+        "an ounce of gold",
+        "一盎司黄金"
+      ],
+      "05-230": [
+        "material density",
+        "材料密度"
+      ]
+    },
+    "related": [
+      {
+        "word": "mass",
+        "meaning": "质量",
+        "relation": "同场景"
+      },
+      {
+        "word": "volume",
+        "meaning": "体积",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-259",
+      "05-260",
+      "05-261"
+    ],
+    "examples": [
+      {
+        "en": "Empirical evidence tests the theory before engineers develop a practical application.",
+        "zh": "在工程师开发实际应用之前，实证证据先检验理论。"
+      },
+      {
+        "en": "A useful theory connects empirical findings with practical problems.",
+        "zh": "有用理论将实证发现与实际问题联系。"
+      },
+      {
+        "en": "The seminar examined the theory, its empirical support and its practical limitations.",
+        "zh": "研讨课研究了理论、其实证支持及实际局限。"
+      }
+    ],
+    "collocations": {
+      "05-259": [
+        "scientific theory",
+        "科学理论"
+      ],
+      "05-260": [
+        "empirical evidence",
+        "实证证据"
+      ],
+      "05-261": [
+        "a practical application",
+        "实际应用"
+      ]
+    },
+    "related": [
+      {
+        "word": "experiment",
+        "meaning": "实验",
+        "relation": "同场景"
+      },
+      {
+        "word": "application",
+        "meaning": "应用",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-262",
+      "05-263",
+      "05-264"
+    ],
+    "examples": [
+      {
+        "en": "The doctrine makes mutual respect a central principle of classroom discipline.",
+        "zh": "该学说将相互尊重作为课堂纪律的核心原则。"
+      },
+      {
+        "en": "A principle should be open to evidence rather than treated as unquestionable doctrine within the discipline.",
+        "zh": "一个原则应接受证据检验，而非被学科视作不可质疑的信条。"
+      },
+      {
+        "en": "The school's doctrine links firm discipline with the principle of fair treatment.",
+        "zh": "学校的教育学说将严格纪律与公平对待的原则联系。"
+      }
+    ],
+    "collocations": {
+      "05-262": [
+        "an educational doctrine",
+        "教育学说"
+      ],
+      "05-263": [
+        "a guiding principle",
+        "指导原则"
+      ],
+      "05-264": [
+        "classroom discipline",
+        "课堂纪律"
+      ]
+    },
+    "related": [
+      {
+        "word": "disciplinary",
+        "meaning": "纪律的",
+        "relation": "词形"
+      },
+      {
+        "word": "belief",
+        "meaning": "信念",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-254",
+      "05-265",
+      "05-266",
+      "05-267",
+      "05-268"
+    ],
+    "examples": [
+      {
+        "en": "The timetable lists compulsory classes, while the term schedule covers the whole semester.",
+        "zh": "课程表列出必修课，学期日程覆盖整个学期。"
+      },
+      {
+        "en": "Check the timetable and schedule before each term to see which semester activities are compulsory.",
+        "zh": "每学期前检查课程表和日程，确认本学期哪些活动必须参加。"
+      },
+      {
+        "en": "During the first term, compulsory labs appear in the semester timetable and weekly schedule.",
+        "zh": "第一学期，必修实验出现在学期课程表和每周安排中。"
+      }
+    ],
+    "collocations": {
+      "05-254": [
+        "compulsory attendance",
+        "强制出勤"
+      ],
+      "05-265": [
+        "the autumn term",
+        "秋季学期"
+      ],
+      "05-266": [
+        "the first semester",
+        "第一学期"
+      ],
+      "05-267": [
+        "a class timetable",
+        "课程表"
+      ],
+      "05-268": [
+        "a weekly schedule",
+        "每周安排"
+      ]
+    },
+    "related": [
+      {
+        "word": "attendance",
+        "meaning": "出勤",
+        "relation": "同场景"
+      },
+      {
+        "word": "calendar",
+        "meaning": "日历",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-269",
+      "05-270",
+      "05-271",
+      "05-272"
+    ],
+    "examples": [
+      {
+        "en": "The curriculum includes a writing course whose final lesson explains the assignment deadline.",
+        "zh": "课程体系包含写作课，最后一堂课说明作业截止时间。"
+      },
+      {
+        "en": "Every lesson in the course follows the curriculum and prepares students for the project deadline.",
+        "zh": "这门课的每堂课都遵循课程体系，并为项目截止时间做准备。"
+      },
+      {
+        "en": "The course deadline was moved after a lesson required by the curriculum was cancelled.",
+        "zh": "课程体系要求的一堂课取消后，课程作业截止日期被推迟。"
+      }
+    ],
+    "collocations": {
+      "05-269": [
+        "a submission deadline",
+        "提交截止时间"
+      ],
+      "05-270": [
+        "a language course",
+        "语言课程"
+      ],
+      "05-271": [
+        "a practical lesson",
+        "实践课"
+      ],
+      "05-272": [
+        "the national curriculum",
+        "国家课程体系"
+      ]
+    },
+    "related": [
+      {
+        "word": "coursework",
+        "meaning": "课程作业",
+        "relation": "同场景"
+      },
+      {
+        "word": "teaching",
+        "meaning": "教学",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-273",
+      "05-274",
+      "05-275",
+      "05-276"
+    ],
+    "examples": [
+      {
+        "en": "The syllabus links each seminar to an online forum within the learning system.",
+        "zh": "教学大纲将每次研讨课与学习系统中的在线论坛关联。"
+      },
+      {
+        "en": "Our learning system hosts a seminar forum and the current syllabus.",
+        "zh": "我们的学习系统提供研讨课论坛及现行教学大纲。"
+      },
+      {
+        "en": "Read the syllabus before joining the seminar and post questions in the system's forum.",
+        "zh": "参加研讨课前阅读大纲，并在系统论坛发问题。"
+      }
+    ],
+    "collocations": {
+      "05-273": [
+        "a research seminar",
+        "研究研讨课"
+      ],
+      "05-274": [
+        "an online forum",
+        "在线论坛"
+      ],
+      "05-275": [
+        "a course syllabus",
+        "课程大纲"
+      ],
+      "05-276": [
+        "an education system",
+        "教育体系"
+      ]
+    },
+    "related": [
+      {
+        "word": "discussion",
+        "meaning": "讨论",
+        "relation": "同场景"
+      },
+      {
+        "word": "participation",
+        "meaning": "参与",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-277",
+      "05-278",
+      "05-279",
+      "05-280"
+    ],
+    "examples": [
+      {
+        "en": "The elementary course builds basic skills and rudimentary knowledge of fundamental principles.",
+        "zh": "初级课程培养基本技能，并使学生粗浅了解基本原理。"
+      },
+      {
+        "en": "Even rudimentary training should cover basic safety and the fundamental ideas taught in elementary science.",
+        "zh": "即使粗浅培训也应涵盖基本安全及初级科学中的基础概念。"
+      },
+      {
+        "en": "Elementary lessons introduce fundamental rules through basic exercises for students with rudimentary knowledge.",
+        "zh": "初级课程通过基础练习，为知识粗浅的学生介绍基本规则。"
+      }
+    ],
+    "collocations": {
+      "05-277": [
+        "rudimentary knowledge",
+        "粗浅知识"
+      ],
+      "05-278": [
+        "basic skills",
+        "基本技能"
+      ],
+      "05-279": [
+        "fundamental principles",
+        "基本原理"
+      ],
+      "05-280": [
+        "an elementary course",
+        "初级课程"
+      ]
+    },
+    "related": [
+      {
+        "word": "introductory",
+        "meaning": "入门的",
+        "relation": "近义"
+      },
+      {
+        "word": "foundation",
+        "meaning": "基础",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-281",
+      "05-282",
+      "05-283"
+    ],
+    "examples": [
+      {
+        "en": "A profound analysis goes beneath the surface rather than offering a superficial description.",
+        "zh": "深刻分析深入表面之下，而非提供肤浅描述。"
+      },
+      {
+        "en": "His superficial reading missed the profound anxiety beneath the story's cheerful surface.",
+        "zh": "他肤浅的阅读遗漏了故事欢乐表面下的深层焦虑。"
+      },
+      {
+        "en": "The change seemed superficial on the surface but had a profound effect on learning.",
+        "zh": "变化看似仅在表面，却对学习产生深远影响。"
+      }
+    ],
+    "collocations": {
+      "05-281": [
+        "a profound insight",
+        "深刻见解"
+      ],
+      "05-282": [
+        "a superficial analysis",
+        "肤浅分析"
+      ],
+      "05-283": [
+        "beneath the surface",
+        "表面之下"
+      ]
+    },
+    "related": [
+      {
+        "word": "depth",
+        "meaning": "深度",
+        "relation": "同场景"
+      },
+      {
+        "word": "shallow",
+        "meaning": "肤浅的",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-284",
+      "05-285",
+      "05-286"
+    ],
+    "examples": [
+      {
+        "en": "This elective has a statistics prerequisite and a selective admissions process.",
+        "zh": "这门选修课要求先学统计，并采取择优录取流程。"
+      },
+      {
+        "en": "Check the prerequisite before applying for a place in the selective elective programme.",
+        "zh": "申请择优录取的选修项目之前，先核查先修要求。"
+      },
+      {
+        "en": "Selective enrolment ensures that everyone taking the elective has met its prerequisite.",
+        "zh": "择优选课确保每位修读该选修课的人都满足先修要求。"
+      }
+    ],
+    "collocations": {
+      "05-284": [
+        "a course prerequisite",
+        "课程先修要求"
+      ],
+      "05-285": [
+        "selective admission",
+        "择优录取"
+      ],
+      "05-286": [
+        "an elective module",
+        "选修单元"
+      ]
+    },
+    "related": [
+      {
+        "word": "compulsory",
+        "meaning": "必修的",
+        "relation": "反义"
+      },
+      {
+        "word": "eligibility",
+        "meaning": "资格",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-287",
+      "05-288",
+      "05-289",
+      "05-290",
+      "05-291"
+    ],
+    "examples": [
+      {
+        "en": "Preview the chapter, review your notes, revise the assignment and submit it on time.",
+        "zh": "预习章节、复习笔记、修改作业，并按时提交。"
+      },
+      {
+        "en": "Before you submit the assignment, review the feedback, revise weak sections and preview the next lesson.",
+        "zh": "提交作业前，查看反馈、修改薄弱部分并预习下一课。"
+      },
+      {
+        "en": "Students preview sources and review evidence as they revise an assignment they will submit next week.",
+        "zh": "学生预览资料、审查证据，修改下周要提交的作业。"
+      }
+    ],
+    "collocations": {
+      "05-287": [
+        "complete an assignment",
+        "完成作业"
+      ],
+      "05-288": [
+        "submit a draft",
+        "提交初稿"
+      ],
+      "05-289": [
+        "preview a chapter",
+        "预习章节"
+      ],
+      "05-290": [
+        "review notes",
+        "复习笔记"
+      ],
+      "05-291": [
+        "revise an essay",
+        "修改文章"
+      ]
+    },
+    "related": [
+      {
+        "word": "revision",
+        "meaning": "复习修改",
+        "relation": "词形"
+      },
+      {
+        "word": "preparation",
+        "meaning": "准备",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-292",
+      "05-293",
+      "05-294",
+      "05-295",
+      "05-296"
+    ],
+    "examples": [
+      {
+        "en": "Skim the report, scan for errors, inspect each figure, scrutinise the evidence and consult the original sources.",
+        "zh": "略读报告、扫描查错、检查每项图表、细审证据，并查阅原始资料。"
+      },
+      {
+        "en": "We consult the manual, skim its overview, scan the index, inspect the diagrams and scrutinise the warnings.",
+        "zh": "我们查阅手册、略读概览、扫描索引、检查图示并仔细查看警告。"
+      },
+      {
+        "en": "Before you scrutinise the claim, consult relevant research, skim summaries, scan tables and inspect the data.",
+        "zh": "仔细审查说法前，查阅相关研究、略读摘要、扫描表格并检查数据。"
+      }
+    ],
+    "collocations": {
+      "05-292": [
+        "inspect a document",
+        "检查文件"
+      ],
+      "05-293": [
+        "consult a reference",
+        "查阅参考资料"
+      ],
+      "05-294": [
+        "skim a text",
+        "略读文本"
+      ],
+      "05-295": [
+        "scan for keywords",
+        "扫描查找关键词"
+      ],
+      "05-296": [
+        "scrutinise evidence",
+        "仔细审查证据"
+      ]
+    },
+    "related": [
+      {
+        "word": "proofreading",
+        "meaning": "校对",
+        "relation": "同场景"
+      },
+      {
+        "word": "verification",
+        "meaning": "核实",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-297",
+      "05-298"
+    ],
+    "examples": [
+      {
+        "en": "The teacher will dictate a passage before asking us to recite it.",
+        "zh": "老师先口授一段文字让我们听写，然后让我们背诵。"
+      },
+      {
+        "en": "Students recite the poem while partners dictate its final lines for spelling practice.",
+        "zh": "学生背诵诗歌，同伴口授最后几行供拼写练习。"
+      },
+      {
+        "en": "I can recite the dialogue, but I cannot yet dictate it slowly enough for beginners.",
+        "zh": "我能背出对话，但还不能以适合初学者的慢速口授它。"
+      }
+    ],
+    "collocations": {
+      "05-297": [
+        "recite a poem",
+        "背诵诗歌"
+      ],
+      "05-298": [
+        "dictate a sentence",
+        "口授句子让人听写"
+      ]
+    },
+    "related": [
+      {
+        "word": "dictation",
+        "meaning": "听写",
+        "relation": "词形"
+      },
+      {
+        "word": "memorisation",
+        "meaning": "记忆",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-299",
+      "05-300",
+      "05-301",
+      "05-302",
+      "05-303"
+    ],
+    "examples": [
+      {
+        "en": "The quiz and test prepare students for the examination, while the presentation develops each key point orally.",
+        "zh": "小测验和测试为考试做准备，口头报告则用口语展开各要点。"
+      },
+      {
+        "en": "One point from the presentation appeared in the quiz, the practice test and the final examination.",
+        "zh": "报告中的一个要点出现在小测验、模拟测试和期末考试中。"
+      },
+      {
+        "en": "Assessment includes a quiz, a test, an examination and a presentation explaining one main point.",
+        "zh": "评估包括小测验、测试、考试及解释一个主要观点的报告。"
+      }
+    ],
+    "collocations": {
+      "05-299": [
+        "a final examination",
+        "期末考试"
+      ],
+      "05-300": [
+        "a diagnostic test",
+        "诊断性测试"
+      ],
+      "05-301": [
+        "a short quiz",
+        "小测验"
+      ],
+      "05-302": [
+        "an oral presentation",
+        "口头报告"
+      ],
+      "05-303": [
+        "a key point",
+        "要点"
+      ]
+    },
+    "related": [
+      {
+        "word": "assessment",
+        "meaning": "评估",
+        "relation": "同场景"
+      },
+      {
+        "word": "revision",
+        "meaning": "复习",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-304",
+      "05-305",
+      "05-306",
+      "05-307",
+      "05-308"
+    ],
+    "examples": [
+      {
+        "en": "The abstract explains how researchers postulate a cause, detect patterns and deliberate before they diagnose a learning difficulty.",
+        "zh": "摘要解释研究人员如何假设原因、发现规律，并在诊断学习困难前审慎思考。"
+      },
+      {
+        "en": "Before we diagnose the problem, we deliberate on the abstract, postulate alternatives and detect weaknesses in the evidence.",
+        "zh": "诊断问题前，我们仔细考虑摘要、假设其他可能，并发现证据弱点。"
+      },
+      {
+        "en": "Scientists postulate a mechanism in the abstract, detect its effects and deliberate on how best to diagnose the resulting condition.",
+        "zh": "科学家在摘要中假设一种机制、检测其影响，并审慎考虑如何最好地诊断由此产生的状况。"
+      }
+    ],
+    "collocations": {
+      "05-304": [
+        "a research abstract",
+        "研究摘要"
+      ],
+      "05-305": [
+        "postulate a mechanism",
+        "假设一种机制"
+      ],
+      "05-306": [
+        "detect an error",
+        "发现错误"
+      ],
+      "05-307": [
+        "deliberate carefully",
+        "审慎思考"
+      ],
+      "05-308": [
+        "diagnose a problem",
+        "诊断问题"
+      ]
+    },
+    "related": [
+      {
+        "word": "hypothesis",
+        "meaning": "假说",
+        "relation": "同场景"
+      },
+      {
+        "word": "diagnosis",
+        "meaning": "诊断",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-309",
+      "05-310",
+      "05-311"
+    ],
+    "examples": [
+      {
+        "en": "Do not plagiarise: if you copy and print a passage, acknowledge its source.",
+        "zh": "不要抄袭：复制并打印段落时，应注明来源。"
+      },
+      {
+        "en": "Students may copy a blank form and print it, but must not plagiarise completed answers.",
+        "zh": "学生可以复制并打印空白表格，但不得抄袭已完成的答案。"
+      },
+      {
+        "en": "Before you print the essay, check that any copy of another writer's words is credited so you do not plagiarise.",
+        "zh": "打印文章前，检查复制的他人文字是否注明来源，以免抄袭。"
+      }
+    ],
+    "collocations": {
+      "05-309": [
+        "plagiarise an essay",
+        "抄袭文章"
+      ],
+      "05-310": [
+        "copy a passage",
+        "复制段落"
+      ],
+      "05-311": [
+        "print a document",
+        "打印文件"
+      ]
+    },
+    "related": [
+      {
+        "word": "plagiarism",
+        "meaning": "抄袭",
+        "relation": "词形"
+      },
+      {
+        "word": "citation",
+        "meaning": "引用",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-312",
+      "05-313",
+      "05-314",
+      "05-315",
+      "05-316"
+    ],
+    "examples": [
+      {
+        "en": "The project began as an essay, became a conference paper and eventually supported a thesis or dissertation.",
+        "zh": "项目起初是一篇课程文章，后来成为会议论文，最终支撑了学位论文。"
+      },
+      {
+        "en": "A paper drawn from the project requires more evidence than an essay but less detail than the full thesis or dissertation.",
+        "zh": "基于项目的论文比课程文章需要更多证据，但比完整学位论文细节少。"
+      },
+      {
+        "en": "Whether writing an essay, a paper, a thesis or a dissertation, define the project's question clearly.",
+        "zh": "无论写课程文章、论文还是学位论文，都应清晰界定项目问题。"
+      }
+    ],
+    "collocations": {
+      "05-312": [
+        "a doctoral thesis",
+        "博士论文"
+      ],
+      "05-313": [
+        "an argumentative essay",
+        "议论文"
+      ],
+      "05-314": [
+        "a research paper",
+        "研究论文"
+      ],
+      "05-315": [
+        "a master's dissertation",
+        "硕士学位论文"
+      ],
+      "05-316": [
+        "a research project",
+        "研究项目"
+      ]
+    },
+    "related": [
+      {
+        "word": "academic writing",
+        "meaning": "学术写作",
+        "relation": "同场景"
+      },
+      {
+        "word": "supervision",
+        "meaning": "导师指导",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-317",
+      "05-318",
+      "05-319",
+      "05-320",
+      "05-321"
+    ],
+    "examples": [
+      {
+        "en": "At the outset, use a heading and outline to convey the gist of your opinion.",
+        "zh": "开篇时，用标题和提纲传达你观点的主旨。"
+      },
+      {
+        "en": "The outline gives the gist, while the opening heading signals the writer's opinion at the outset.",
+        "zh": "提纲给出主旨，开头标题则在一开始表明作者观点。"
+      },
+      {
+        "en": "State your opinion at the outset, outline the reasons and choose a heading that captures the gist.",
+        "zh": "在开始时陈述观点、概述理由，并选一个概括主旨的标题。"
+      }
+    ],
+    "collocations": {
+      "05-317": [
+        "a section heading",
+        "章节标题"
+      ],
+      "05-318": [
+        "at the outset",
+        "在开始时"
+      ],
+      "05-319": [
+        "an essay outline",
+        "文章提纲"
+      ],
+      "05-320": [
+        "the gist of an argument",
+        "论证主旨"
+      ],
+      "05-321": [
+        "a personal opinion",
+        "个人观点"
+      ]
+    },
+    "related": [
+      {
+        "word": "structure",
+        "meaning": "结构",
+        "relation": "同场景"
+      },
+      {
+        "word": "viewpoint",
+        "meaning": "观点",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-322",
+      "05-323",
+      "05-324",
+      "05-326"
+    ],
+    "examples": [
+      {
+        "en": "Introduce the evidence, cite its source, quote accurately and add a reference.",
+        "zh": "引入证据、注明来源、准确引述，并添加参考文献。"
+      },
+      {
+        "en": "To introduce an opposing view, quote the author briefly, cite the study and provide a full reference.",
+        "zh": "引入反方观点时，简短引用作者、注明研究，并给出完整参考文献。"
+      },
+      {
+        "en": "Do not introduce a claim as established fact unless you can cite a reference or quote reliable evidence.",
+        "zh": "除非能引用参考文献或可靠证据，否则不要将某说法作为既定事实引入。"
+      }
+    ],
+    "collocations": {
+      "05-322": [
+        "introduce an argument",
+        "引入论点"
+      ],
+      "05-323": [
+        "a reference list",
+        "参考文献表"
+      ],
+      "05-324": [
+        "cite a source",
+        "引用来源"
+      ],
+      "05-326": [
+        "quote directly",
+        "直接引述"
+      ]
+    },
+    "related": [
+      {
+        "word": "citation",
+        "meaning": "引用",
+        "relation": "词形"
+      },
+      {
+        "word": "attribution",
+        "meaning": "注明出处",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-325",
+      "05-327",
+      "05-328"
+    ],
+    "examples": [
+      {
+        "en": "The teacher used an extract to elicit discussion before asking for a summary.",
+        "zh": "老师用摘录引发讨论，然后要求写摘要。"
+      },
+      {
+        "en": "A brief summary of the extract helped elicit more thoughtful responses.",
+        "zh": "对摘录的简要概述帮助引出更深思熟虑的回应。"
+      },
+      {
+        "en": "To elicit an interpretation, show students an extract rather than a ready-made summary.",
+        "zh": "要引出学生的解读，给他们看摘录，而非现成摘要。"
+      }
+    ],
+    "collocations": {
+      "05-325": [
+        "elicit a response",
+        "引出回应"
+      ],
+      "05-327": [
+        "an extract from a book",
+        "书中摘录"
+      ],
+      "05-328": [
+        "a concise summary",
+        "简明摘要"
+      ]
+    },
+    "related": [
+      {
+        "word": "excerpt",
+        "meaning": "摘录",
+        "relation": "近义"
+      },
+      {
+        "word": "response",
+        "meaning": "回应",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-329",
+      "05-330",
+      "05-331"
+    ],
+    "examples": [
+      {
+        "en": "Do not assume agreement or presume support simply because you suppose everyone understands.",
+        "zh": "不要仅因你以为人人都理解，就假定大家同意或支持。"
+      },
+      {
+        "en": "Suppose the sample is incomplete: we cannot assume accuracy or presume that it represents everyone.",
+        "zh": "假设样本不完整：我们不能假定准确，也不能推定它代表所有人。"
+      },
+      {
+        "en": "We may suppose the trend will continue, but should not assume certainty or presume to know the outcome.",
+        "zh": "我们可以设想趋势继续，但不应假定确定性，或自认为知道结果。"
+      }
+    ],
+    "collocations": {
+      "05-329": [
+        "assume responsibility",
+        "承担责任"
+      ],
+      "05-330": [
+        "presume innocence",
+        "假定无罪"
+      ],
+      "05-331": [
+        "suppose a scenario",
+        "假设情景"
+      ]
+    },
+    "related": [
+      {
+        "word": "assumption",
+        "meaning": "假设",
+        "relation": "词形"
+      },
+      {
+        "word": "presumption",
+        "meaning": "推定",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-332",
+      "05-333",
+      "05-334"
+    ],
+    "examples": [
+      {
+        "en": "A hypothesis lets us predict outcomes rather than merely speculate about causes.",
+        "zh": "假说使我们能预测结果，而非只是推测原因。"
+      },
+      {
+        "en": "Researchers speculate about a mechanism, propose a hypothesis and predict what a test should reveal.",
+        "zh": "研究者推测机制、提出假说，并预测测试应揭示什么。"
+      },
+      {
+        "en": "We cannot confidently predict the result from this hypothesis, although we can speculate.",
+        "zh": "我们无法依据这一假说有把握地预测结果，尽管可以推测。"
+      }
+    ],
+    "collocations": {
+      "05-332": [
+        "test a hypothesis",
+        "检验假说"
+      ],
+      "05-333": [
+        "speculate about causes",
+        "推测原因"
+      ],
+      "05-334": [
+        "predict an outcome",
+        "预测结果"
+      ]
+    },
+    "related": [
+      {
+        "word": "prediction",
+        "meaning": "预测",
+        "relation": "词形"
+      },
+      {
+        "word": "hypothetical",
+        "meaning": "假设性的",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-335",
+      "05-336",
+      "05-337",
+      "05-338"
+    ],
+    "examples": [
+      {
+        "en": "A conscious observer may perceive movement, discern a pattern and recognise a familiar object.",
+        "zh": "有意识的观察者可能感知运动、辨出规律，并认出熟悉物体。"
+      },
+      {
+        "en": "We can perceive a change without conscious effort, yet need attention to discern details and recognise its cause.",
+        "zh": "我们可能无须刻意就感知变化，却需集中注意力才能辨认细节并识别原因。"
+      },
+      {
+        "en": "The experiment asks whether conscious participants perceive the image, discern its outline and recognise the face.",
+        "zh": "实验探究清醒参与者能否感知图像、辨出轮廓并认出面孔。"
+      }
+    ],
+    "collocations": {
+      "05-335": [
+        "perceive a difference",
+        "察觉差异"
+      ],
+      "05-336": [
+        "discern a pattern",
+        "辨识规律"
+      ],
+      "05-337": [
+        "recognise a face",
+        "认出面孔"
+      ],
+      "05-338": [
+        "conscious awareness",
+        "有意识的觉察"
+      ]
+    },
+    "related": [
+      {
+        "word": "perception",
+        "meaning": "感知",
+        "relation": "词形"
+      },
+      {
+        "word": "recognition",
+        "meaning": "识别",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-339",
+      "05-340"
+    ],
+    "examples": [
+      {
+        "en": "We reckon the course is worthwhile, but others deem its fees excessive.",
+        "zh": "我们认为课程值得，但其他人觉得费用过高。"
+      },
+      {
+        "en": "The tutors reckon students need more practice and deem a second workshop necessary.",
+        "zh": "导师估计学生需要更多练习，并认为第二次工作坊有必要。"
+      },
+      {
+        "en": "Some reckon the evidence is strong, while reviewers deem it inconclusive.",
+        "zh": "有人认为证据充分，评审则认为尚无定论。"
+      }
+    ],
+    "collocations": {
+      "05-339": [
+        "reckon the cost",
+        "估算成本"
+      ],
+      "05-340": [
+        "deem it necessary",
+        "认为有必要"
+      ]
+    },
+    "related": [
+      {
+        "word": "estimate",
+        "meaning": "估计",
+        "relation": "近义"
+      },
+      {
+        "word": "judgement",
+        "meaning": "判断",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-341",
+      "05-342",
+      "05-343",
+      "05-344"
+    ],
+    "examples": [
+      {
+        "en": "Researchers insist that the figures represent uncertainty and do not imply certainty while doubts persist.",
+        "zh": "研究者坚称，这些数字代表不确定性；疑问仍存时，它们不意味着确定性。"
+      },
+      {
+        "en": "Critics persist in asking what the symbols represent, while authors insist they do not imply causation.",
+        "zh": "批评者持续追问符号代表什么，作者则坚持它们不暗示因果关系。"
+      },
+      {
+        "en": "We insist that models represent evidence honestly and never imply problems have vanished when they persist.",
+        "zh": "我们坚持模型如实呈现证据，问题仍存在时绝不暗示其已经消失。"
+      }
+    ],
+    "collocations": {
+      "05-341": [
+        "imply a relationship",
+        "暗示一种关系"
+      ],
+      "05-342": [
+        "represent a population",
+        "代表总体"
+      ],
+      "05-343": [
+        "insist on accuracy",
+        "坚持准确性"
+      ],
+      "05-344": [
+        "persist despite setbacks",
+        "遭遇挫折仍坚持"
+      ]
+    },
+    "related": [
+      {
+        "word": "representation",
+        "meaning": "代表",
+        "relation": "词形"
+      },
+      {
+        "word": "persistence",
+        "meaning": "坚持",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-345",
+      "05-346"
+    ],
+    "examples": [
+      {
+        "en": "Students may understand individual words yet fail to comprehend the argument.",
+        "zh": "学生可能理解单词，却无法领会论证。"
+      },
+      {
+        "en": "To comprehend the theory, first understand its basic assumptions.",
+        "zh": "要领会理论，先理解其基本假设。"
+      },
+      {
+        "en": "I understand the procedure but cannot fully comprehend why it works.",
+        "zh": "我理解步骤，却无法完全领会它为何有效。"
+      }
+    ],
+    "collocations": {
+      "05-345": [
+        "understand a concept",
+        "理解概念"
+      ],
+      "05-346": [
+        "comprehend an argument",
+        "领会论证"
+      ]
+    },
+    "related": [
+      {
+        "word": "understanding",
+        "meaning": "理解",
+        "relation": "词形"
+      },
+      {
+        "word": "comprehension",
+        "meaning": "理解力",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-347",
+      "05-348",
+      "05-349",
+      "05-350"
+    ],
+    "examples": [
+      {
+        "en": "Analyse the evidence, infer a pattern, deduce its implications and conclude cautiously.",
+        "zh": "分析证据、推断规律、演绎其含义，并谨慎下结论。"
+      },
+      {
+        "en": "We analyse responses to infer attitudes, deduce likely behaviour and conclude whether the policy works.",
+        "zh": "我们分析回应以推断态度、演绎可能行为，并判断政策是否有效。"
+      },
+      {
+        "en": "Do not conclude before you analyse the data and distinguish what you can infer from what you can logically deduce.",
+        "zh": "分析数据并区分可推断内容与可逻辑演绎内容之前，不要下结论。"
+      }
+    ],
+    "collocations": {
+      "05-347": [
+        "analyse data",
+        "分析数据"
+      ],
+      "05-348": [
+        "infer a meaning",
+        "推断含义"
+      ],
+      "05-349": [
+        "deduce a result",
+        "演绎结果"
+      ],
+      "05-350": [
+        "conclude from evidence",
+        "据证据得出结论"
+      ]
+    },
+    "related": [
+      {
+        "word": "inference",
+        "meaning": "推断",
+        "relation": "词形"
+      },
+      {
+        "word": "deduction",
+        "meaning": "演绎",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-351",
+      "05-352",
+      "05-353",
+      "05-354",
+      "05-355"
+    ],
+    "examples": [
+      {
+        "en": "Apply the analogy cautiously, compare the survey results and note the contrast between groups.",
+        "zh": "谨慎应用类比、比较调查结果，并注意群体之间的对比。"
+      },
+      {
+        "en": "We used a survey to compare responses, apply an analogy and explain the contrast between generations.",
+        "zh": "我们用调查比较回应、应用类比，并解释代际差异。"
+      },
+      {
+        "en": "The survey revealed a contrast that helped us compare communities and apply a useful analogy.",
+        "zh": "调查揭示的对比帮助我们比较社区，并应用一个有用类比。"
+      }
+    ],
+    "collocations": {
+      "05-351": [
+        "an analogy with nature",
+        "与自然的类比"
+      ],
+      "05-352": [
+        "compare results",
+        "比较结果"
+      ],
+      "05-353": [
+        "a sharp contrast",
+        "鲜明对比"
+      ],
+      "05-354": [
+        "conduct a survey",
+        "开展调查"
+      ],
+      "05-355": [
+        "apply a method",
+        "应用方法"
+      ]
+    },
+    "related": [
+      {
+        "word": "comparison",
+        "meaning": "比较",
+        "relation": "词形"
+      },
+      {
+        "word": "respondent",
+        "meaning": "受访者",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-356",
+      "05-357",
+      "05-358",
+      "05-359",
+      "05-360"
+    ],
+    "examples": [
+      {
+        "en": "Although course contents overlap, tutors disagree about the fee, differ on assessment and see a contradiction in policy.",
+        "zh": "尽管课程内容重叠，导师对学费有分歧、评估方式不同，并认为政策存在矛盾。"
+      },
+      {
+        "en": "The courses differ in fee but overlap in content; reviewers disagree on whether this creates a contradiction.",
+        "zh": "课程学费不同但内容重叠，评审对这是否构成矛盾有分歧。"
+      },
+      {
+        "en": "Students disagree over a fee increase when courses overlap, although their views differ on the apparent contradiction.",
+        "zh": "课程重叠时，学生对涨学费意见不一，尽管他们对表面矛盾的看法各不相同。"
+      }
+    ],
+    "collocations": {
+      "05-356": [
+        "a tuition fee",
+        "学费"
+      ],
+      "05-357": [
+        "overlap in content",
+        "内容重叠"
+      ],
+      "05-358": [
+        "an apparent contradiction",
+        "表面矛盾"
+      ],
+      "05-359": [
+        "disagree on policy",
+        "在政策上意见不同"
+      ],
+      "05-360": [
+        "differ in approach",
+        "方法不同"
+      ]
+    },
+    "related": [
+      {
+        "word": "disagreement",
+        "meaning": "分歧",
+        "relation": "词形"
+      },
+      {
+        "word": "inconsistency",
+        "meaning": "不一致",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-361",
+      "05-362",
+      "05-363"
+    ],
+    "examples": [
+      {
+        "en": "Inductive reasoning draws on diverse examples but may overlook a nuance in individual cases.",
+        "zh": "归纳推理借助多样实例，却可能忽视个案中的细微差别。"
+      },
+      {
+        "en": "Diverse interviews revealed a nuance that changed the team's inductive explanation.",
+        "zh": "多样访谈揭示了一个细微差别，改变了团队的归纳解释。"
+      },
+      {
+        "en": "The inductive approach preserved each nuance while finding common themes across diverse responses.",
+        "zh": "归纳方法保留细微差别，同时在多样回应中寻找共同主题。"
+      }
+    ],
+    "collocations": {
+      "05-361": [
+        "diverse perspectives",
+        "多样视角"
+      ],
+      "05-362": [
+        "a subtle nuance",
+        "微妙差别"
+      ],
+      "05-363": [
+        "inductive reasoning",
+        "归纳推理"
+      ]
+    },
+    "related": [
+      {
+        "word": "deductive",
+        "meaning": "演绎的",
+        "relation": "反义"
+      },
+      {
+        "word": "generalisation",
+        "meaning": "概括",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-364",
+      "05-365",
+      "05-366",
+      "05-367"
+    ],
+    "examples": [
+      {
+        "en": "A thorough analysis examines every detail of an example rather than treating one instance as proof.",
+        "zh": "详尽分析考察例子的每个细节，而非将单个实例当成证明。"
+      },
+      {
+        "en": "This example illustrates why a thorough review should check each detail in every instance.",
+        "zh": "这个例子说明，详尽审查为何应在每种情况下核对各项细节。"
+      },
+      {
+        "en": "In this instance, a thorough description of one example revealed a crucial detail.",
+        "zh": "在这次情况中，对一个例子的详尽描述揭示了关键细节。"
+      }
+    ],
+    "collocations": {
+      "05-364": [
+        "a crucial detail",
+        "关键细节"
+      ],
+      "05-365": [
+        "a thorough analysis",
+        "详尽分析"
+      ],
+      "05-366": [
+        "a clear example",
+        "清晰例子"
+      ],
+      "05-367": [
+        "a particular instance",
+        "特定实例"
+      ]
+    },
+    "related": [
+      {
+        "word": "specific",
+        "meaning": "具体的",
+        "relation": "同场景"
+      },
+      {
+        "word": "scrutiny",
+        "meaning": "细查",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-368",
+      "05-369",
+      "05-370",
+      "05-371",
+      "05-372"
+    ],
+    "examples": [
+      {
+        "en": "The results illustrate the effect, demonstrate its scale and manifest a pattern, but cannot confirm causation or prove the theory.",
+        "zh": "结果说明效应、展示规模并显现规律，但不能证实因果或证明理论。"
+      },
+      {
+        "en": "To prove the claim, confirm the measurements, demonstrate the mechanism, illustrate each stage and explain how its effects manifest.",
+        "zh": "要证明说法，须核实测量、展示机制、说明各阶段，并解释效应如何显现。"
+      },
+      {
+        "en": "Experiments confirm the observation, illustrate the trend and demonstrate how symptoms manifest, but do not prove every proposed explanation.",
+        "zh": "实验证实观察、说明趋势并展示症状如何显现，但未证明所有提出的解释。"
+      }
+    ],
+    "collocations": {
+      "05-368": [
+        "confirm a finding",
+        "证实发现"
+      ],
+      "05-369": [
+        "demonstrate a process",
+        "演示过程"
+      ],
+      "05-370": [
+        "illustrate a point",
+        "说明要点"
+      ],
+      "05-371": [
+        "manifest a symptom",
+        "显现症状"
+      ],
+      "05-372": [
+        "prove a claim",
+        "证明说法"
+      ]
+    },
+    "related": [
+      {
+        "word": "confirmation",
+        "meaning": "证实",
+        "relation": "词形"
+      },
+      {
+        "word": "proof",
+        "meaning": "证明",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-373",
+      "05-374",
+      "05-375"
+    ],
+    "examples": [
+      {
+        "en": "We must determine the cause, decide on a response and resolve the problem.",
+        "zh": "我们必须查明原因、决定应对方式并解决问题。"
+      },
+      {
+        "en": "Before we decide who is responsible, determine the facts and resolve contradictions.",
+        "zh": "决定谁负责前，先查明事实并解决矛盾。"
+      },
+      {
+        "en": "The committee will determine priorities, decide the budget and resolve outstanding questions.",
+        "zh": "委员会将确定优先事项、决定预算，并解决遗留问题。"
+      }
+    ],
+    "collocations": {
+      "05-373": [
+        "determine a cause",
+        "查明原因"
+      ],
+      "05-374": [
+        "decide on a method",
+        "决定方法"
+      ],
+      "05-375": [
+        "resolve a dispute",
+        "解决争议"
+      ]
+    },
+    "related": [
+      {
+        "word": "resolution",
+        "meaning": "解决",
+        "relation": "词形"
+      },
+      {
+        "word": "decision",
+        "meaning": "决定",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-376",
+      "05-377",
+      "05-378",
+      "05-379",
+      "05-380"
+    ],
+    "examples": [
+      {
+        "en": "Our research combines a questionnaire with visits to observe lessons, inquire about difficulties and query unclear responses.",
+        "zh": "我们的研究结合问卷与访校，以观察课堂、询问困难并追问不清楚的回应。"
+      },
+      {
+        "en": "Use the questionnaire to guide research, observe patterns, inquire further and raise a query when evidence conflicts.",
+        "zh": "用问卷指导研究、观察规律、继续调查，并在证据冲突时提出疑问。"
+      },
+      {
+        "en": "The research team will observe classes, inquire about each query and revise the questionnaire.",
+        "zh": "研究团队将观察课堂、就每个疑问展开询问，并修改问卷。"
+      }
+    ],
+    "collocations": {
+      "05-376": [
+        "conduct research",
+        "开展研究"
+      ],
+      "05-377": [
+        "observe behaviour",
+        "观察行为"
+      ],
+      "05-378": [
+        "inquire into causes",
+        "调查原因"
+      ],
+      "05-379": [
+        "raise a query",
+        "提出疑问"
+      ],
+      "05-380": [
+        "complete a questionnaire",
+        "填写问卷"
+      ]
+    },
+    "related": [
+      {
+        "word": "respondent",
+        "meaning": "受访者",
+        "relation": "同场景"
+      },
+      {
+        "word": "methodology",
+        "meaning": "研究方法",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-381",
+      "05-382",
+      "05-383",
+      "05-384",
+      "05-385"
+    ],
+    "examples": [
+      {
+        "en": "To attain course credit, accomplish each task and earn a score above the pass mark.",
+        "zh": "要获得课程学分，需完成每项任务并取得高于及格分的成绩。"
+      },
+      {
+        "en": "Students accomplish the project to attain credit, with each mark contributing to the final score.",
+        "zh": "学生完成项目以获得学分，各项得分共同构成最终成绩。"
+      },
+      {
+        "en": "A high score or mark does not alone show what students accomplish or whether they attain the skills required for credit.",
+        "zh": "高分本身不能说明学生完成了什么，或是否获得取得学分所需的技能。"
+      }
+    ],
+    "collocations": {
+      "05-381": [
+        "accomplish a task",
+        "完成任务"
+      ],
+      "05-382": [
+        "attain a goal",
+        "达到目标"
+      ],
+      "05-383": [
+        "course credit",
+        "课程学分"
+      ],
+      "05-384": [
+        "a high score",
+        "高分"
+      ],
+      "05-385": [
+        "a pass mark",
+        "及格分"
+      ]
+    },
+    "related": [
+      {
+        "word": "achievement",
+        "meaning": "成就",
+        "relation": "同场景"
+      },
+      {
+        "word": "assessment",
+        "meaning": "评估",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-386",
+      "05-387",
+      "05-388",
+      "05-389"
+    ],
+    "examples": [
+      {
+        "en": "Students waited in a queue for their grade and rank before sitting in the front row.",
+        "zh": "学生排队查询成绩等级和排名后，坐到前排。"
+      },
+      {
+        "en": "No grade or rank determined who joined the queue first or occupied the front row.",
+        "zh": "成绩等级或排名都不决定谁先排队、谁坐前排。"
+      },
+      {
+        "en": "The teacher asked each row to form a queue while reports showing grade and rank were distributed.",
+        "zh": "分发显示成绩等级和排名的报告时，老师让各排学生排队。"
+      }
+    ],
+    "collocations": {
+      "05-386": [
+        "a final grade",
+        "最终成绩等级"
+      ],
+      "05-387": [
+        "an academic rank",
+        "学业排名"
+      ],
+      "05-388": [
+        "the front row",
+        "前排"
+      ],
+      "05-389": [
+        "a long queue",
+        "长队"
+      ]
+    },
+    "related": [
+      {
+        "word": "ranking",
+        "meaning": "排名",
+        "relation": "词形"
+      },
+      {
+        "word": "seating",
+        "meaning": "座位安排",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-390",
+      "05-391",
+      "05-392",
+      "05-393",
+      "05-394"
+    ],
+    "examples": [
+      {
+        "en": "Teachers grant opportunities, praise effort and offer feedback so students appreciate progress without beginning to overestimate their ability.",
+        "zh": "教师提供机会、表扬努力并给出反馈，使学生认识到进步而不开始高估能力。"
+      },
+      {
+        "en": "I appreciate honest feedback more than praise that may lead me to overestimate the chances of receiving a grant.",
+        "zh": "比起可能使我高估获得资助机会的赞美，我更感激诚实反馈。"
+      },
+      {
+        "en": "Before you grant an award, appreciate the feedback, praise genuine improvement and avoid the temptation to overestimate success.",
+        "zh": "颁奖前，重视反馈、赞扬真实进步，并避免高估成功。"
+      }
+    ],
+    "collocations": {
+      "05-390": [
+        "grant permission",
+        "准许"
+      ],
+      "05-391": [
+        "praise effort",
+        "表扬努力"
+      ],
+      "05-392": [
+        "appreciate support",
+        "感激支持"
+      ],
+      "05-393": [
+        "constructive feedback",
+        "建设性反馈"
+      ],
+      "05-394": [
+        "overestimate ability",
+        "高估能力"
+      ]
+    },
+    "related": [
+      {
+        "word": "appreciation",
+        "meaning": "感激",
+        "relation": "词形"
+      },
+      {
+        "word": "self-assessment",
+        "meaning": "自我评估",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "05-395",
+      "05-396",
+      "05-397",
+      "05-398",
+      "05-399"
+    ],
+    "examples": [
+      {
+        "en": "The prize and teaching award reward achievement, while a fellowship and scholarship support further study.",
+        "zh": "奖项和教学奖奖励成就，研究奖学金与普通奖学金支持继续学习。"
+      },
+      {
+        "en": "She received a scholarship, later won a fellowship and accepted an award and prize as a reward for her research.",
+        "zh": "她先获奖学金，后获研究奖学金，并接受奖项作为对研究的奖励。"
+      },
+      {
+        "en": "The university may reward excellence through a scholarship, a fellowship, a teaching award or a research prize.",
+        "zh": "大学可能通过奖学金、研究奖学金、教学奖或研究奖奖励卓越表现。"
+      }
+    ],
+    "collocations": {
+      "05-395": [
+        "a research fellowship",
+        "研究奖学金"
+      ],
+      "05-396": [
+        "a full scholarship",
+        "全额奖学金"
+      ],
+      "05-397": [
+        "reward achievement",
+        "奖励成就"
+      ],
+      "05-398": [
+        "a teaching award",
+        "教学奖"
+      ],
+      "05-399": [
+        "a first prize",
+        "一等奖"
+      ]
+    },
+    "related": [
+      {
+        "word": "funding",
+        "meaning": "资助",
+        "relation": "同场景"
+      },
+      {
+        "word": "recognition",
+        "meaning": "认可",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

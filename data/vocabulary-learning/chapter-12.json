@@ -1,0 +1,2659 @@
+[
+  {
+    "ids": [
+      "12-001",
+      "12-002",
+      "12-022"
+    ],
+    "examples": [
+      {
+        "en": "Read the menu before you order food.",
+        "zh": "点餐前先看菜单。"
+      },
+      {
+        "en": "You can order food from the online menu.",
+        "zh": "你可以根据网上菜单点餐。"
+      },
+      {
+        "en": "The menu makes it easy to order food for a large family.",
+        "zh": "这份菜单让大家庭点餐变得方便。"
+      }
+    ],
+    "collocations": {
+      "12-001": [
+        "order lunch",
+        "点午餐"
+      ],
+      "12-002": [
+        "fresh food",
+        "新鲜食物"
+      ],
+      "12-022": [
+        "read the menu",
+        "看菜单"
+      ]
+    },
+    "related": [
+      {
+        "word": "meal",
+        "meaning": "一餐",
+        "relation": "同场景"
+      },
+      {
+        "word": "waiter",
+        "meaning": "服务员",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-003",
+      "12-004",
+      "12-008"
+    ],
+    "examples": [
+      {
+        "en": "With her appetite restored, she added a wider range of edible vegetables to her diet.",
+        "zh": "食欲恢复后，她在饮食中加入了种类更多的可食用蔬菜。"
+      },
+      {
+        "en": "His travel diary recorded his diet, appetite and the edible plants available during the expedition.",
+        "zh": "他的旅行日记记录了探险期间的饮食、食欲以及能够找到的可食用植物。"
+      },
+      {
+        "en": "The chef’s colourful diet of edible flowers and vegetables appealed to the guest’s appetite.",
+        "zh": "厨师提供的由食用花和蔬菜组成的多彩饮食引起了客人的食欲。"
+      }
+    ],
+    "collocations": {
+      "12-003": [
+        "a balanced diet",
+        "均衡饮食"
+      ],
+      "12-004": [
+        "a healthy appetite",
+        "好胃口"
+      ],
+      "12-008": [
+        "edible plants",
+        "可食用植物"
+      ]
+    },
+    "related": [
+      {
+        "word": "nutrition",
+        "meaning": "营养",
+        "relation": "同场景"
+      },
+      {
+        "word": "poisonous",
+        "meaning": "有毒的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-005",
+      "12-006",
+      "12-007"
+    ],
+    "examples": [
+      {
+        "en": "The charity will cater for older residents and treat them to lunch as part of its food provision.",
+        "zh": "该慈善机构将为老年居民提供餐饮，并把请他们吃午餐作为食品供应服务的一部分。"
+      },
+      {
+        "en": "We can cater for the visitors and treat them to local dishes if the budget for food provision increases.",
+        "zh": "如果食品供应预算增加，我们就能为访客提供餐饮，请他们品尝当地菜。"
+      },
+      {
+        "en": "Better food provision allows the centre to cater for more families and treat children to a hot meal.",
+        "zh": "改善食品供应让中心能为更多家庭提供餐饮，并请孩子们吃上一顿热饭。"
+      }
+    ],
+    "collocations": {
+      "12-005": [
+        "treat someone to dinner",
+        "请某人吃晚餐"
+      ],
+      "12-006": [
+        "cater for guests",
+        "为客人提供餐饮"
+      ],
+      "12-007": [
+        "food provision",
+        "食品供应"
+      ]
+    },
+    "related": [
+      {
+        "word": "hospitality",
+        "meaning": "款待",
+        "relation": "同场景"
+      },
+      {
+        "word": "catering",
+        "meaning": "餐饮服务",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-009",
+      "12-021",
+      "12-024"
+    ],
+    "examples": [
+      {
+        "en": "The chef adapted a traditional recipe to introduce visitors to local cuisine.",
+        "zh": "厨师改编了一道传统食谱，向游客介绍当地菜肴。"
+      },
+      {
+        "en": "A good chef can explain how a simple recipe reflects a region’s cuisine.",
+        "zh": "好厨师能解释一道简单食谱如何体现某地的烹饪特色。"
+      },
+      {
+        "en": "The chef shared a recipe that combines French technique with Chinese cuisine.",
+        "zh": "厨师分享了一道结合法式技法与中式烹饪的食谱。"
+      }
+    ],
+    "collocations": {
+      "12-009": [
+        "follow a recipe",
+        "照食谱做"
+      ],
+      "12-021": [
+        "local cuisine",
+        "当地菜肴"
+      ],
+      "12-024": [
+        "a professional chef",
+        "专业厨师"
+      ]
+    },
+    "related": [
+      {
+        "word": "cookbook",
+        "meaning": "食谱书",
+        "relation": "同场景"
+      },
+      {
+        "word": "culinary tradition",
+        "meaning": "烹饪传统",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-023",
+      "12-025",
+      "12-026"
+    ],
+    "examples": [
+      {
+        "en": "The new takeaway serves gourmet vegetarian meals.",
+        "zh": "新开的外卖店供应精致素食。"
+      },
+      {
+        "en": "We ordered a vegetarian takeaway from a restaurant known for gourmet food.",
+        "zh": "我们从一家以精致美食闻名的餐馆点了素食外卖。"
+      },
+      {
+        "en": "A gourmet vegetarian takeaway costs more, but the ingredients are excellent.",
+        "zh": "精致的素食外卖价格更高，但食材很好。"
+      }
+    ],
+    "collocations": {
+      "12-023": [
+        "order a takeaway",
+        "点外卖"
+      ],
+      "12-025": [
+        "gourmet food",
+        "精致美食"
+      ],
+      "12-026": [
+        "a vegetarian option",
+        "素食选项"
+      ]
+    },
+    "related": [
+      {
+        "word": "delivery",
+        "meaning": "配送",
+        "relation": "同场景"
+      },
+      {
+        "word": "plant-based",
+        "meaning": "以植物为主的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-010",
+      "12-012",
+      "12-016"
+    ],
+    "examples": [
+      {
+        "en": "We had supper at the restaurant before meeting friends at the bar.",
+        "zh": "我们先在餐馆吃晚饭，再去酒吧见朋友。"
+      },
+      {
+        "en": "The hotel has a restaurant for supper and a small bar for drinks.",
+        "zh": "酒店有供应晚餐的餐馆和一家供人喝酒的小酒吧。"
+      },
+      {
+        "en": "After the bar closed, we found a restaurant that still served supper.",
+        "zh": "酒吧关门后，我们找到了一家还供应晚餐的餐馆。"
+      }
+    ],
+    "collocations": {
+      "12-010": [
+        "a family restaurant",
+        "家庭餐馆"
+      ],
+      "12-012": [
+        "a hotel bar",
+        "酒店酒吧"
+      ],
+      "12-016": [
+        "have supper",
+        "吃晚饭"
+      ]
+    },
+    "related": [
+      {
+        "word": "dining room",
+        "meaning": "餐厅",
+        "relation": "同场景"
+      },
+      {
+        "word": "reservation",
+        "meaning": "预订",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-011",
+      "12-013",
+      "12-014"
+    ],
+    "examples": [
+      {
+        "en": "The college replaced its refectory buffet with a modern cafeteria service.",
+        "zh": "学院把食堂的自助餐改成了现代化的自选餐饮服务。"
+      },
+      {
+        "en": "Unlike the cafeteria, the refectory offers a fixed-price buffet.",
+        "zh": "与自选餐厅不同，这家食堂供应固定价格的自助餐。"
+      },
+      {
+        "en": "Students can choose the buffet in the refectory or buy a sandwich in the cafeteria.",
+        "zh": "学生可以选择食堂里的自助餐，也可以在自选餐厅买三明治。"
+      }
+    ],
+    "collocations": {
+      "12-011": [
+        "a college refectory",
+        "学院食堂"
+      ],
+      "12-013": [
+        "a school cafeteria",
+        "学校自助餐厅"
+      ],
+      "12-014": [
+        "a breakfast buffet",
+        "自助早餐"
+      ]
+    },
+    "related": [
+      {
+        "word": "canteen",
+        "meaning": "食堂",
+        "relation": "同场景"
+      },
+      {
+        "word": "self-service",
+        "meaning": "自助服务",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-015",
+      "12-017"
+    ],
+    "examples": [
+      {
+        "en": "We chose a barbecue instead of a formal banquet for the reunion.",
+        "zh": "我们选择用烧烤聚会代替正式宴会来庆祝团聚。"
+      },
+      {
+        "en": "The hotel can arrange either a beach barbecue or an indoor banquet.",
+        "zh": "酒店可以安排沙滩烧烤或室内宴会。"
+      },
+      {
+        "en": "Rain forced us to move the barbecue indoors and turn it into a banquet.",
+        "zh": "雨迫使我们把烧烤移到室内，改办宴会。"
+      }
+    ],
+    "collocations": {
+      "12-015": [
+        "a summer barbecue",
+        "夏日烧烤聚会"
+      ],
+      "12-017": [
+        "a wedding banquet",
+        "婚宴"
+      ]
+    },
+    "related": [
+      {
+        "word": "celebration",
+        "meaning": "庆祝活动",
+        "relation": "同场景"
+      },
+      {
+        "word": "grill",
+        "meaning": "烤架",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-018",
+      "12-019",
+      "12-020"
+    ],
+    "examples": [
+      {
+        "en": "During the refreshment break, each guest received a small snack rather than a formal appetiser.",
+        "zh": "茶点休息时，每位客人拿到了一份小点心，而非正式的开胃菜。"
+      },
+      {
+        "en": "The café sells a light snack that also works as an appetiser at the evening refreshment reception.",
+        "zh": "咖啡馆售卖一种小点心，也可在晚间茶点招待会上当开胃菜。"
+      },
+      {
+        "en": "For the refreshment table, prepare a savoury snack and a cold appetiser.",
+        "zh": "为茶点桌准备一种咸味小吃和一道冷开胃菜。"
+      }
+    ],
+    "collocations": {
+      "12-018": [
+        "a refreshment break",
+        "茶点休息时间"
+      ],
+      "12-019": [
+        "a healthy snack",
+        "健康零食"
+      ],
+      "12-020": [
+        "serve an appetiser",
+        "上开胃菜"
+      ]
+    },
+    "related": [
+      {
+        "word": "canapé",
+        "meaning": "小型开胃点心",
+        "relation": "同场景"
+      },
+      {
+        "word": "reception",
+        "meaning": "招待会",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-027",
+      "12-028"
+    ],
+    "examples": [
+      {
+        "en": "The silver cutlery was reserved for special occasions.",
+        "zh": "这套银餐具专门留着在特殊场合使用。"
+      },
+      {
+        "en": "She polished the silver cutlery before laying the table.",
+        "zh": "她摆桌前擦亮了银餐具。"
+      },
+      {
+        "en": "The museum displayed silver cutlery from a wealthy household.",
+        "zh": "博物馆展出了一户富裕人家的银餐具。"
+      }
+    ],
+    "collocations": {
+      "12-027": [
+        "a set of cutlery",
+        "一套餐具"
+      ],
+      "12-028": [
+        "polish the silver",
+        "擦亮银器"
+      ]
+    },
+    "related": [
+      {
+        "word": "tableware",
+        "meaning": "餐具",
+        "relation": "同场景"
+      },
+      {
+        "word": "stainless steel",
+        "meaning": "不锈钢",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-029",
+      "12-030",
+      "12-031",
+      "12-032"
+    ],
+    "examples": [
+      {
+        "en": "Place the ceramic bowl beside the porcelain dish.",
+        "zh": "把陶碗放在瓷盘旁边。"
+      },
+      {
+        "en": "The ceramic bowl is heavier than the thin porcelain dish.",
+        "zh": "陶碗比薄瓷盘重。"
+      },
+      {
+        "en": "She bought a ceramic bowl for soup and a porcelain dish for fish.",
+        "zh": "她买了一个盛汤的陶碗和一个盛鱼的瓷盘。"
+      }
+    ],
+    "collocations": {
+      "12-029": [
+        "a ceramic plate",
+        "陶瓷盘"
+      ],
+      "12-030": [
+        "fine porcelain",
+        "精美瓷器"
+      ],
+      "12-031": [
+        "a soup bowl",
+        "汤碗"
+      ],
+      "12-032": [
+        "a serving dish",
+        "盛菜盘"
+      ]
+    },
+    "related": [
+      {
+        "word": "glaze",
+        "meaning": "釉",
+        "relation": "同场景"
+      },
+      {
+        "word": "pottery",
+        "meaning": "陶器",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-033",
+      "12-034",
+      "12-039",
+      "12-038"
+    ],
+    "examples": [
+      {
+        "en": "The tray held a mug, a glass and a small saucer.",
+        "zh": "托盘上放着一个大杯、一个玻璃杯和一个小茶托。"
+      },
+      {
+        "en": "Put the mug on the saucer and carry the glass on the tray.",
+        "zh": "把大杯放在茶托上，用托盘端玻璃杯。"
+      },
+      {
+        "en": "A glass slipped from the tray and struck the mug and saucer.",
+        "zh": "一个玻璃杯从托盘滑落，撞到了大杯和茶托。"
+      }
+    ],
+    "collocations": {
+      "12-033": [
+        "a cup and saucer",
+        "杯子和茶托"
+      ],
+      "12-034": [
+        "a serving tray",
+        "餐用托盘"
+      ],
+      "12-039": [
+        "a coffee mug",
+        "咖啡杯"
+      ],
+      "12-038": [
+        "a glass of water",
+        "一杯水"
+      ]
+    },
+    "related": [
+      {
+        "word": "teacup",
+        "meaning": "茶杯",
+        "relation": "同场景"
+      },
+      {
+        "word": "coaster",
+        "meaning": "杯垫",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-035",
+      "12-036",
+      "12-037"
+    ],
+    "examples": [
+      {
+        "en": "Set a fork, a knife and a spoon beside each plate.",
+        "zh": "在每个盘子旁放一把叉子、一把刀和一把勺子。"
+      },
+      {
+        "en": "The child can use a spoon but still needs help with a knife and fork.",
+        "zh": "孩子会用勺子，但用刀叉还需要帮助。"
+      },
+      {
+        "en": "The camping kit includes a folding knife, a fork and a spoon.",
+        "zh": "露营套装包括一把折叠刀、一把叉子和一把勺子。"
+      }
+    ],
+    "collocations": {
+      "12-035": [
+        "a dinner fork",
+        "正餐叉"
+      ],
+      "12-036": [
+        "a sharp knife",
+        "锋利的刀"
+      ],
+      "12-037": [
+        "a soup spoon",
+        "汤匙"
+      ]
+    },
+    "related": [
+      {
+        "word": "chopsticks",
+        "meaning": "筷子",
+        "relation": "同场景"
+      },
+      {
+        "word": "place setting",
+        "meaning": "一人份餐具摆设",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-040",
+      "12-042",
+      "12-043"
+    ],
+    "examples": [
+      {
+        "en": "A kettle and a soup pot stood on the stove.",
+        "zh": "炉子上放着一把水壶和一口汤锅。"
+      },
+      {
+        "en": "Move the pot to the back of the stove before heating the kettle.",
+        "zh": "烧水壶前先把锅移到炉子后方。"
+      },
+      {
+        "en": "The old stove could heat a kettle and a large pot at the same time.",
+        "zh": "旧炉子可以同时烧一壶水和一大锅东西。"
+      }
+    ],
+    "collocations": {
+      "12-040": [
+        "boil a kettle",
+        "烧一壶水"
+      ],
+      "12-042": [
+        "a cooking pot",
+        "煮锅"
+      ],
+      "12-043": [
+        "a gas stove",
+        "燃气灶"
+      ]
+    },
+    "related": [
+      {
+        "word": "burner",
+        "meaning": "炉头",
+        "relation": "同场景"
+      },
+      {
+        "word": "steam",
+        "meaning": "蒸汽",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-041",
+      "12-045",
+      "12-046",
+      "12-047"
+    ],
+    "examples": [
+      {
+        "en": "Put the cake tin in the oven and cover the pan with a lid.",
+        "zh": "把蛋糕模具放进烤箱，并给平底锅盖上盖子。"
+      },
+      {
+        "en": "Use the oven for the bread tin while the pan heats under its lid.",
+        "zh": "用烤箱烤面包模具里的面包，同时让盖着盖子的平底锅加热。"
+      },
+      {
+        "en": "The pan has an oven-safe lid, but the cake tin has none.",
+        "zh": "平底锅有一个可放进烤箱的盖子，但蛋糕模具没有盖子。"
+      }
+    ],
+    "collocations": {
+      "12-041": [
+        "a frying pan",
+        "煎锅"
+      ],
+      "12-045": [
+        "preheat the oven",
+        "预热烤箱"
+      ],
+      "12-046": [
+        "a cake tin",
+        "蛋糕模具"
+      ],
+      "12-047": [
+        "a tight-fitting lid",
+        "严密贴合的盖子"
+      ]
+    },
+    "related": [
+      {
+        "word": "baking tray",
+        "meaning": "烤盘",
+        "relation": "同场景"
+      },
+      {
+        "word": "heatproof",
+        "meaning": "耐热的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-044"
+    ],
+    "examples": [
+      {
+        "en": "The furnace melts metal at extremely high temperatures.",
+        "zh": "熔炉在极高温度下熔化金属。"
+      },
+      {
+        "en": "Workers inspected the furnace before restarting production.",
+        "zh": "工人在恢复生产前检查了熔炉。"
+      },
+      {
+        "en": "A more efficient furnace reduced the factory’s fuel consumption.",
+        "zh": "更高效的熔炉降低了工厂的燃料消耗。"
+      }
+    ],
+    "collocations": {
+      "12-044": [
+        "a steel furnace",
+        "炼钢炉"
+      ]
+    },
+    "related": [
+      {
+        "word": "smelting",
+        "meaning": "冶炼",
+        "relation": "同场景"
+      },
+      {
+        "word": "kiln",
+        "meaning": "窑",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-048",
+      "12-049",
+      "12-050",
+      "12-051"
+    ],
+    "examples": [
+      {
+        "en": "For a cold beverage, you can drink juice or soda.",
+        "zh": "想喝冷饮的话，你可以喝果汁或汽水。"
+      },
+      {
+        "en": "I prefer to drink juice, but the café’s cheapest beverage is soda.",
+        "zh": "我更喜欢喝果汁，但这家咖啡馆最便宜的饮料是汽水。"
+      },
+      {
+        "en": "Choose juice instead of soda if you want a beverage to drink with breakfast.",
+        "zh": "早餐想喝饮料的话，可以选择果汁而非汽水。"
+      }
+    ],
+    "collocations": {
+      "12-048": [
+        "drink water",
+        "喝水"
+      ],
+      "12-049": [
+        "a hot beverage",
+        "热饮"
+      ],
+      "12-050": [
+        "fresh juice",
+        "鲜榨果汁"
+      ],
+      "12-051": [
+        "a can of soda",
+        "一罐汽水"
+      ]
+    },
+    "related": [
+      {
+        "word": "mineral water",
+        "meaning": "矿泉水",
+        "relation": "同场景"
+      },
+      {
+        "word": "soft drink",
+        "meaning": "不含酒精的饮料",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-052",
+      "12-053",
+      "12-054"
+    ],
+    "examples": [
+      {
+        "en": "The café serves coffee but needs a licence to sell alcohol, including liquor.",
+        "zh": "咖啡馆供应咖啡，但售卖包括烈酒在内的酒精饮品需要许可证。"
+      },
+      {
+        "en": "He ordered coffee because he avoids alcohol and never drinks liquor.",
+        "zh": "他点了咖啡，因为他不喝酒，也从不喝烈酒。"
+      },
+      {
+        "en": "The menu lists coffee separately from alcohol, with liquor in its own section.",
+        "zh": "菜单将咖啡与酒精饮品分开列出，烈酒另列一栏。"
+      }
+    ],
+    "collocations": {
+      "12-052": [
+        "black coffee",
+        "黑咖啡"
+      ],
+      "12-053": [
+        "alcohol consumption",
+        "酒精摄入"
+      ],
+      "12-054": [
+        "a liquor licence",
+        "烈酒销售许可证"
+      ]
+    },
+    "related": [
+      {
+        "word": "caffeine",
+        "meaning": "咖啡因",
+        "relation": "同场景"
+      },
+      {
+        "word": "spirits",
+        "meaning": "烈酒",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-055",
+      "12-056",
+      "12-057",
+      "12-061"
+    ],
+    "examples": [
+      {
+        "en": "He stayed sober while his guests became drunk on whisky and brandy.",
+        "zh": "客人喝威士忌和白兰地喝醉了，他却保持清醒。"
+      },
+      {
+        "en": "A sober driver refused the whisky and brandy offered by a drunk friend.",
+        "zh": "一位清醒的司机拒绝了醉酒朋友递来的威士忌和白兰地。"
+      },
+      {
+        "en": "Whether you choose whisky or brandy, arrange a sober driver before anyone gets drunk.",
+        "zh": "无论选择威士忌还是白兰地，都要在有人喝醉前安排好清醒的司机。"
+      }
+    ],
+    "collocations": {
+      "12-055": [
+        "a glass of whisky",
+        "一杯威士忌"
+      ],
+      "12-056": [
+        "a bottle of brandy",
+        "一瓶白兰地"
+      ],
+      "12-057": [
+        "get drunk",
+        "喝醉"
+      ],
+      "12-061": [
+        "stay sober",
+        "保持清醒"
+      ]
+    },
+    "related": [
+      {
+        "word": "intoxication",
+        "meaning": "醉酒",
+        "relation": "同场景"
+      },
+      {
+        "word": "designated driver",
+        "meaning": "指定的不饮酒司机",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-059",
+      "12-060"
+    ],
+    "examples": [
+      {
+        "en": "A cigarette contains tobacco that releases harmful chemicals when burned.",
+        "zh": "香烟含有烟草，燃烧时会释放有害化学物质。"
+      },
+      {
+        "en": "The tax increase affected every cigarette and other tobacco product.",
+        "zh": "增税影响了每一支香烟及其他烟草产品。"
+      },
+      {
+        "en": "The campaign showed how cigarette advertising can encourage tobacco use.",
+        "zh": "这场宣传展示了香烟广告如何促进烟草使用。"
+      }
+    ],
+    "collocations": {
+      "12-059": [
+        "tobacco smoke",
+        "烟草烟雾"
+      ],
+      "12-060": [
+        "a cigarette packet",
+        "香烟盒"
+      ]
+    },
+    "related": [
+      {
+        "word": "nicotine",
+        "meaning": "尼古丁",
+        "relation": "同场景"
+      },
+      {
+        "word": "smoking",
+        "meaning": "吸烟",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-062",
+      "12-063",
+      "12-064",
+      "12-069"
+    ],
+    "examples": [
+      {
+        "en": "This vegetable soup contains tomato, potato and onion.",
+        "zh": "这道蔬菜汤含有番茄、土豆和洋葱。"
+      },
+      {
+        "en": "For a quick vegetable stew, chop a tomato, a potato and an onion.",
+        "zh": "要做一道快捷的蔬菜炖菜，可以切一个番茄、一个土豆和一个洋葱。"
+      },
+      {
+        "en": "The vegetable stall sells tomato plants beside sacks of potato and onion seed.",
+        "zh": "蔬菜摊在成袋的土豆种和洋葱种旁边出售番茄苗。"
+      }
+    ],
+    "collocations": {
+      "12-062": [
+        "vegetable soup",
+        "蔬菜汤"
+      ],
+      "12-063": [
+        "a ripe tomato",
+        "熟番茄"
+      ],
+      "12-064": [
+        "a baked potato",
+        "烤土豆"
+      ],
+      "12-069": [
+        "chop an onion",
+        "切洋葱"
+      ]
+    },
+    "related": [
+      {
+        "word": "produce",
+        "meaning": "农产品",
+        "relation": "同场景"
+      },
+      {
+        "word": "stew",
+        "meaning": "炖菜",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-065",
+      "12-066",
+      "12-067",
+      "12-068"
+    ],
+    "examples": [
+      {
+        "en": "The lunch box contains pea soup, bean salad and cucumber mixed with cabbage.",
+        "zh": "午餐盒里有豌豆汤、豆子沙拉，以及拌着卷心菜的黄瓜。"
+      },
+      {
+        "en": "Serve the pea and bean mixture beside a cucumber and cabbage salad.",
+        "zh": "将豌豆与豆子的混合菜放在黄瓜卷心菜沙拉旁边。"
+      },
+      {
+        "en": "Our vegetable patch has a pea vine, a bean plant, a cucumber vine and a cabbage.",
+        "zh": "我们的菜地里有一株豌豆、一株豆角、一株黄瓜和一棵卷心菜。"
+      }
+    ],
+    "collocations": {
+      "12-065": [
+        "pea soup",
+        "豌豆汤"
+      ],
+      "12-066": [
+        "bean salad",
+        "豆子沙拉"
+      ],
+      "12-067": [
+        "sliced cucumber",
+        "黄瓜片"
+      ],
+      "12-068": [
+        "shredded cabbage",
+        "卷心菜丝"
+      ]
+    },
+    "related": [
+      {
+        "word": "legume",
+        "meaning": "豆科植物",
+        "relation": "同场景"
+      },
+      {
+        "word": "salad dressing",
+        "meaning": "沙拉酱汁",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-070",
+      "12-071"
+    ],
+    "examples": [
+      {
+        "en": "Roast the mushroom and eggplant until tender.",
+        "zh": "把蘑菇和茄子烤到软嫩。"
+      },
+      {
+        "en": "The vegetarian burger uses mushroom and eggplant for a rich texture.",
+        "zh": "这款素汉堡用蘑菇和茄子营造丰富口感。"
+      },
+      {
+        "en": "A little garlic brings out the flavour of mushroom and eggplant.",
+        "zh": "少量大蒜能衬托出蘑菇和茄子的风味。"
+      }
+    ],
+    "collocations": {
+      "12-070": [
+        "mushroom soup",
+        "蘑菇汤"
+      ],
+      "12-071": [
+        "roasted eggplant",
+        "烤茄子"
+      ]
+    },
+    "related": [
+      {
+        "word": "aubergine",
+        "meaning": "茄子",
+        "relation": "同场景"
+      },
+      {
+        "word": "fungus",
+        "meaning": "真菌",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-072",
+      "12-073",
+      "12-074"
+    ],
+    "examples": [
+      {
+        "en": "Slice a carrot, a turnip and a radish for the salad.",
+        "zh": "把一根胡萝卜、一个芜菁和一个萝卜切片做沙拉。"
+      },
+      {
+        "en": "The carrot tastes sweeter than the turnip and the peppery radish.",
+        "zh": "胡萝卜比芜菁和带辛辣味的萝卜更甜。"
+      },
+      {
+        "en": "We pulled a carrot, a turnip and a radish from the garden.",
+        "zh": "我们从菜园里拔了一根胡萝卜、一个芜菁和一个萝卜。"
+      }
+    ],
+    "collocations": {
+      "12-072": [
+        "grated carrot",
+        "胡萝卜丝"
+      ],
+      "12-073": [
+        "turnip soup",
+        "芜菁汤"
+      ],
+      "12-074": [
+        "a crisp radish",
+        "脆萝卜"
+      ]
+    },
+    "related": [
+      {
+        "word": "root vegetable",
+        "meaning": "根菜",
+        "relation": "同场景"
+      },
+      {
+        "word": "beetroot",
+        "meaning": "甜菜根",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-058",
+      "12-076",
+      "12-077",
+      "12-078",
+      "12-075"
+    ],
+    "examples": [
+      {
+        "en": "For the fruit salad, peel the apple and remove its core, strip the orange of its rind, and hull the strawberries.",
+        "zh": "做水果沙拉时，给苹果削皮去核，剥掉橙皮，并去掉草莓蒂。"
+      },
+      {
+        "en": "Before mixing the fruit, hull the strawberries, peel and core the pear, and strip away any tough skin.",
+        "zh": "混合水果前，去掉草莓蒂，给梨削皮去核，并剥掉所有坚硬果皮。"
+      },
+      {
+        "en": "The fruit preparation guide explains how to peel and core apples, strip citrus rind, and hull strawberries.",
+        "zh": "水果处理指南介绍了如何给苹果削皮去核、剥除柑橘果皮和去掉草莓蒂。"
+      }
+    ],
+    "collocations": {
+      "12-058": [
+        "peel an apple",
+        "给苹果削皮"
+      ],
+      "12-076": [
+        "strip off the skin",
+        "剥去外皮"
+      ],
+      "12-077": [
+        "remove the core",
+        "去核"
+      ],
+      "12-078": [
+        "hull strawberries",
+        "去掉草莓蒂"
+      ],
+      "12-075": [
+        "ripe fruit",
+        "成熟水果"
+      ]
+    },
+    "related": [
+      {
+        "word": "rind",
+        "meaning": "厚果皮",
+        "relation": "同场景"
+      },
+      {
+        "word": "pith",
+        "meaning": "果皮内的白瓤",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-079",
+      "12-080",
+      "12-081"
+    ],
+    "examples": [
+      {
+        "en": "She decorated the cake with a cherry, a berry and a grape.",
+        "zh": "她用一颗樱桃、一颗浆果和一颗葡萄装饰蛋糕。"
+      },
+      {
+        "en": "A cherry has a stone, while the berry and grape on this plate do not.",
+        "zh": "樱桃有硬核，而盘子上的这颗浆果和葡萄没有硬核。"
+      },
+      {
+        "en": "The tasting portion included one cherry, one berry and one grape.",
+        "zh": "试吃份里有一颗樱桃、一颗浆果和一颗葡萄。"
+      }
+    ],
+    "collocations": {
+      "12-079": [
+        "a cherry tree",
+        "樱桃树"
+      ],
+      "12-080": [
+        "a berry bush",
+        "浆果灌木"
+      ],
+      "12-081": [
+        "grape juice",
+        "葡萄汁"
+      ]
+    },
+    "related": [
+      {
+        "word": "orchard",
+        "meaning": "果园",
+        "relation": "同场景"
+      },
+      {
+        "word": "seedless",
+        "meaning": "无籽的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-082",
+      "12-087",
+      "12-089"
+    ],
+    "examples": [
+      {
+        "en": "The tropical fruit bowl contains papaya, melon and kiwi.",
+        "zh": "这碗热带风味水果里有木瓜、甜瓜和猕猴桃。"
+      },
+      {
+        "en": "Blend papaya and kiwi with a little melon for a refreshing drink.",
+        "zh": "把木瓜、猕猴桃和少量甜瓜搅打成清爽的饮料。"
+      },
+      {
+        "en": "We served chilled melon with papaya and kiwi for dessert.",
+        "zh": "我们把冰镇甜瓜与木瓜、猕猴桃一起作为甜点端上。"
+      }
+    ],
+    "collocations": {
+      "12-082": [
+        "ripe papaya",
+        "熟木瓜"
+      ],
+      "12-087": [
+        "a slice of melon",
+        "一片甜瓜"
+      ],
+      "12-089": [
+        "kiwi fruit",
+        "猕猴桃"
+      ]
+    },
+    "related": [
+      {
+        "word": "smoothie",
+        "meaning": "果昔",
+        "relation": "同场景"
+      },
+      {
+        "word": "tropical",
+        "meaning": "热带的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-083",
+      "12-084",
+      "12-085"
+    ],
+    "examples": [
+      {
+        "en": "A peach, a pear and a plum were ripening on the windowsill.",
+        "zh": "窗台上的一个桃子、一个梨和一个李子正在逐渐成熟。"
+      },
+      {
+        "en": "She sliced a peach and a pear, then added a whole plum.",
+        "zh": "她把一个桃子和一个梨切片，然后放进一个完整的李子。"
+      },
+      {
+        "en": "The orchard grows peach, pear and plum trees.",
+        "zh": "果园里种着桃树、梨树和李子树。"
+      }
+    ],
+    "collocations": {
+      "12-083": [
+        "a juicy peach",
+        "多汁的桃子"
+      ],
+      "12-084": [
+        "a ripe pear",
+        "熟梨"
+      ],
+      "12-085": [
+        "plum jam",
+        "李子果酱"
+      ]
+    },
+    "related": [
+      {
+        "word": "stone fruit",
+        "meaning": "核果",
+        "relation": "同场景"
+      },
+      {
+        "word": "ripen",
+        "meaning": "成熟",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-086",
+      "12-088"
+    ],
+    "examples": [
+      {
+        "en": "Add orange juice and lemon zest to the dressing.",
+        "zh": "在酱汁中加入橙汁和柠檬皮屑。"
+      },
+      {
+        "en": "The orange is sweeter than the lemon.",
+        "zh": "这个橙子比这个柠檬甜。"
+      },
+      {
+        "en": "She squeezed an orange and half a lemon into the jug.",
+        "zh": "她把一个橙子和半个柠檬的汁挤进了壶里。"
+      }
+    ],
+    "collocations": {
+      "12-086": [
+        "orange juice",
+        "橙汁"
+      ],
+      "12-088": [
+        "lemon zest",
+        "柠檬皮屑"
+      ]
+    },
+    "related": [
+      {
+        "word": "citrus",
+        "meaning": "柑橘类水果",
+        "relation": "同场景"
+      },
+      {
+        "word": "zest",
+        "meaning": "柑橘类果皮屑",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-090",
+      "12-091",
+      "12-092",
+      "12-093",
+      "12-094"
+    ],
+    "examples": [
+      {
+        "en": "Farmers reap the wheat crop before storing the grain beside the corn.",
+        "zh": "农民收割小麦后，把谷物存放在玉米旁边。"
+      },
+      {
+        "en": "To reap a good crop, growers must protect both wheat and corn from grain pests.",
+        "zh": "要取得好收成，种植者必须保护小麦和玉米免受谷物害虫侵害。"
+      },
+      {
+        "en": "The cooperative will reap its wheat crop this week and dry the grain while the corn continues to grow.",
+        "zh": "合作社本周将收割小麦并晾晒谷物，此时玉米仍在生长。"
+      }
+    ],
+    "collocations": {
+      "12-090": [
+        "a cereal crop",
+        "谷类作物"
+      ],
+      "12-091": [
+        "sweet corn",
+        "甜玉米"
+      ],
+      "12-092": [
+        "whole grain",
+        "全谷物"
+      ],
+      "12-093": [
+        "wheat flour",
+        "小麦粉"
+      ],
+      "12-094": [
+        "reap a harvest",
+        "收获庄稼"
+      ]
+    },
+    "related": [
+      {
+        "word": "harvest",
+        "meaning": "收割",
+        "relation": "同场景"
+      },
+      {
+        "word": "silo",
+        "meaning": "粮仓",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-095",
+      "12-096",
+      "12-097"
+    ],
+    "examples": [
+      {
+        "en": "Mix the flour into a paste before stirring it into the porridge.",
+        "zh": "把面粉调成糊，再搅入粥中。"
+      },
+      {
+        "en": "Too much flour can turn smooth porridge into a thick paste.",
+        "zh": "面粉太多会把顺滑的粥变成稠糊。"
+      },
+      {
+        "en": "The recipe uses rice flour to make a paste that thickens the porridge.",
+        "zh": "食谱用米粉调糊来使粥变稠。"
+      }
+    ],
+    "collocations": {
+      "12-095": [
+        "plain flour",
+        "普通面粉"
+      ],
+      "12-096": [
+        "a bowl of porridge",
+        "一碗粥"
+      ],
+      "12-097": [
+        "a thick paste",
+        "稠糊"
+      ]
+    },
+    "related": [
+      {
+        "word": "oats",
+        "meaning": "燕麦",
+        "relation": "同场景"
+      },
+      {
+        "word": "starch",
+        "meaning": "淀粉",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-098",
+      "12-099",
+      "12-100"
+    ],
+    "examples": [
+      {
+        "en": "The farm keeps livestock in one field and raises chicken and turkey breeds in another.",
+        "zh": "农场在一块地饲养家畜，在另一块地饲养不同品种的鸡和火鸡。"
+      },
+      {
+        "en": "The livestock inspector checked every chicken and turkey enclosure.",
+        "zh": "畜牧检查员检查了每一处鸡舍和火鸡围栏。"
+      },
+      {
+        "en": "Livestock feed prices have increased the cost of raising both chicken and turkey flocks.",
+        "zh": "畜禽饲料涨价提高了饲养鸡群和火鸡群的成本。"
+      }
+    ],
+    "collocations": {
+      "12-098": [
+        "raise livestock",
+        "饲养家畜"
+      ],
+      "12-099": [
+        "free-range chicken",
+        "散养鸡"
+      ],
+      "12-100": [
+        "roast turkey",
+        "烤火鸡"
+      ]
+    },
+    "related": [
+      {
+        "word": "poultry",
+        "meaning": "家禽",
+        "relation": "同场景"
+      },
+      {
+        "word": "animal husbandry",
+        "meaning": "畜牧业",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-101",
+      "12-102",
+      "12-103",
+      "12-104"
+    ],
+    "examples": [
+      {
+        "en": "The butcher sells beef, pork and mutton, as well as handmade sausage.",
+        "zh": "肉贩出售牛肉、猪肉、羊肉和手工香肠。"
+      },
+      {
+        "en": "The stew can be made with beef, pork or mutton, with sausage added for flavour.",
+        "zh": "这道炖菜可用牛肉、猪肉或羊肉制作，再加香肠提味。"
+      },
+      {
+        "en": "Choose a beef sausage if you do not eat pork or mutton.",
+        "zh": "如果你不吃猪肉或羊肉，可以选牛肉香肠。"
+      }
+    ],
+    "collocations": {
+      "12-101": [
+        "lean beef",
+        "瘦牛肉"
+      ],
+      "12-102": [
+        "roast pork",
+        "烤猪肉"
+      ],
+      "12-103": [
+        "mutton stew",
+        "炖羊肉"
+      ],
+      "12-104": [
+        "a pork sausage",
+        "猪肉香肠"
+      ]
+    },
+    "related": [
+      {
+        "word": "butcher",
+        "meaning": "肉贩",
+        "relation": "同场景"
+      },
+      {
+        "word": "minced meat",
+        "meaning": "肉末",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-105",
+      "12-106",
+      "12-107"
+    ],
+    "examples": [
+      {
+        "en": "He used a light rod to catch fish in the pond.",
+        "zh": "他用一根轻钓竿在池塘里钓鱼。"
+      },
+      {
+        "en": "You need permission to fish with a rod in this private pond.",
+        "zh": "在这处私人池塘用竿钓鱼需要获得许可。"
+      },
+      {
+        "en": "A child beside the pond watched a fish pull at the line on her rod.",
+        "zh": "池塘边的孩子看着一条鱼拉扯她钓竿上的鱼线。"
+      }
+    ],
+    "collocations": {
+      "12-105": [
+        "catch a fish",
+        "钓到一条鱼"
+      ],
+      "12-106": [
+        "a garden pond",
+        "花园池塘"
+      ],
+      "12-107": [
+        "a fishing rod",
+        "钓竿"
+      ]
+    },
+    "related": [
+      {
+        "word": "bait",
+        "meaning": "鱼饵",
+        "relation": "同场景"
+      },
+      {
+        "word": "fishing line",
+        "meaning": "鱼线",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-108",
+      "12-109",
+      "12-110",
+      "12-111"
+    ],
+    "examples": [
+      {
+        "en": "The dairy counter stocks milk, yogurt and cream.",
+        "zh": "乳品柜台备有牛奶、酸奶和奶油。"
+      },
+      {
+        "en": "Use milk or yogurt instead of cream for a lighter dairy dessert.",
+        "zh": "用牛奶或酸奶代替奶油，可以做出更清淡的乳制甜点。"
+      },
+      {
+        "en": "This dairy-free recipe replaces milk, yogurt and cream with plant-based alternatives.",
+        "zh": "这道不含乳制品的食谱用植物替代品代替牛奶、酸奶和奶油。"
+      }
+    ],
+    "collocations": {
+      "12-108": [
+        "dairy products",
+        "乳制品"
+      ],
+      "12-109": [
+        "fresh milk",
+        "鲜奶"
+      ],
+      "12-110": [
+        "plain yogurt",
+        "原味酸奶"
+      ],
+      "12-111": [
+        "whipped cream",
+        "打发奶油"
+      ]
+    },
+    "related": [
+      {
+        "word": "lactose",
+        "meaning": "乳糖",
+        "relation": "同场景"
+      },
+      {
+        "word": "fermentation",
+        "meaning": "发酵",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-112",
+      "12-114",
+      "12-113"
+    ],
+    "examples": [
+      {
+        "en": "Her shopping list included cheese, butter and a vitamin supplement.",
+        "zh": "她的购物单上有奶酪、黄油和维生素补充剂。"
+      },
+      {
+        "en": "The meal plan uses a little cheese and butter, with a supplement only if advised.",
+        "zh": "这份饮食计划使用少量奶酪和黄油，只在获得建议时使用补充剂。"
+      },
+      {
+        "en": "A supplement cannot replace a balanced diet, and cheese and butter should be eaten in suitable amounts.",
+        "zh": "补充剂不能代替均衡饮食，奶酪和黄油也应适量食用。"
+      }
+    ],
+    "collocations": {
+      "12-112": [
+        "grated cheese",
+        "奶酪碎"
+      ],
+      "12-114": [
+        "unsalted butter",
+        "无盐黄油"
+      ],
+      "12-113": [
+        "a dietary supplement",
+        "膳食补充剂"
+      ]
+    },
+    "related": [
+      {
+        "word": "calcium",
+        "meaning": "钙",
+        "relation": "同场景"
+      },
+      {
+        "word": "fortified food",
+        "meaning": "强化食品",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-115",
+      "12-116",
+      "12-117"
+    ],
+    "examples": [
+      {
+        "en": "She chose a salad while I ordered a sandwich and he had a hamburger.",
+        "zh": "她选了沙拉，我点了三明治，他吃了汉堡。"
+      },
+      {
+        "en": "The lunch deal includes a salad with either a sandwich or a hamburger.",
+        "zh": "午餐套餐包括一份沙拉，以及三明治或汉堡二选一。"
+      },
+      {
+        "en": "A homemade sandwich or hamburger can be served with a fresh salad.",
+        "zh": "自制三明治或汉堡可以配新鲜沙拉。"
+      }
+    ],
+    "collocations": {
+      "12-115": [
+        "a green salad",
+        "绿叶沙拉"
+      ],
+      "12-116": [
+        "a cheese sandwich",
+        "奶酪三明治"
+      ],
+      "12-117": [
+        "a beef hamburger",
+        "牛肉汉堡"
+      ]
+    },
+    "related": [
+      {
+        "word": "side dish",
+        "meaning": "配菜",
+        "relation": "同场景"
+      },
+      {
+        "word": "filling",
+        "meaning": "馅料",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-118",
+      "12-119",
+      "12-120"
+    ],
+    "examples": [
+      {
+        "en": "The bakery sold its last loaf just as the pie and pizza came out of the oven.",
+        "zh": "派和比萨刚出炉时，面包店卖掉了最后一条面包。"
+      },
+      {
+        "en": "We bought a loaf for breakfast, a pizza for lunch and a pie for dessert.",
+        "zh": "我们买了一条面包当早餐，一个比萨当午餐，一个派当甜点。"
+      },
+      {
+        "en": "Use the spare dough for a small loaf, a pie crust or a pizza base.",
+        "zh": "用多余面团做一小条面包、一个派皮或一个比萨饼底。"
+      }
+    ],
+    "collocations": {
+      "12-118": [
+        "a loaf of bread",
+        "一条面包"
+      ],
+      "12-119": [
+        "an apple pie",
+        "苹果派"
+      ],
+      "12-120": [
+        "a cheese pizza",
+        "奶酪比萨"
+      ]
+    },
+    "related": [
+      {
+        "word": "dough",
+        "meaning": "面团",
+        "relation": "同场景"
+      },
+      {
+        "word": "crust",
+        "meaning": "酥皮；外皮",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-121",
+      "12-122",
+      "12-123"
+    ],
+    "examples": [
+      {
+        "en": "We broke the spaghetti into short pieces to use as pasta in the soup.",
+        "zh": "我们把意大利细面条折成小段，作为面食加进汤里。"
+      },
+      {
+        "en": "The pasta course was spaghetti, followed by a bowl of soup.",
+        "zh": "面食菜是意大利细面条，随后上了一碗汤。"
+      },
+      {
+        "en": "Choose a small pasta shape for the soup and save the spaghetti for dinner.",
+        "zh": "选小形状面食煮汤，把意大利细面条留作晚餐。"
+      }
+    ],
+    "collocations": {
+      "12-121": [
+        "fresh pasta",
+        "新鲜意大利面食"
+      ],
+      "12-122": [
+        "spaghetti sauce",
+        "意面酱"
+      ],
+      "12-123": [
+        "vegetable soup",
+        "蔬菜汤"
+      ]
+    },
+    "related": [
+      {
+        "word": "noodles",
+        "meaning": "面条",
+        "relation": "同场景"
+      },
+      {
+        "word": "broth",
+        "meaning": "清汤",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-124",
+      "12-125",
+      "12-126"
+    ],
+    "examples": [
+      {
+        "en": "The pudding came with a biscuit and a spoonful of jam.",
+        "zh": "布丁配了一块饼干和一勺果酱。"
+      },
+      {
+        "en": "Crush a biscuit over the pudding and add some jam.",
+        "zh": "在布丁上压碎一块饼干，再加些果酱。"
+      },
+      {
+        "en": "I chose the fruit pudding while she spread jam on a biscuit.",
+        "zh": "我选了水果布丁，而她把果酱抹在饼干上。"
+      }
+    ],
+    "collocations": {
+      "12-124": [
+        "rice pudding",
+        "米布丁"
+      ],
+      "12-125": [
+        "a chocolate biscuit",
+        "巧克力饼干"
+      ],
+      "12-126": [
+        "strawberry jam",
+        "草莓果酱"
+      ]
+    },
+    "related": [
+      {
+        "word": "dessert",
+        "meaning": "甜点",
+        "relation": "同场景"
+      },
+      {
+        "word": "custard",
+        "meaning": "蛋奶沙司",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-127",
+      "12-128",
+      "12-129",
+      "12-130"
+    ],
+    "examples": [
+      {
+        "en": "The vanilla ice cream has a chocolate swirl and a nut topping.",
+        "zh": "香草冰淇淋里有巧克力纹路，上面撒着坚果。"
+      },
+      {
+        "en": "For a nut-free dessert, serve plain vanilla ice cream with chocolate sauce.",
+        "zh": "要做不含坚果的甜点，可以用原味香草冰淇淋配巧克力酱。"
+      },
+      {
+        "en": "Check the chocolate and vanilla ice cream labels if you have a nut allergy.",
+        "zh": "如果你对坚果过敏，要检查巧克力和香草冰淇淋的标签。"
+      }
+    ],
+    "collocations": {
+      "12-127": [
+        "a nut allergy",
+        "坚果过敏"
+      ],
+      "12-128": [
+        "dark chocolate",
+        "黑巧克力"
+      ],
+      "12-129": [
+        "a scoop of ice cream",
+        "一勺冰淇淋"
+      ],
+      "12-130": [
+        "vanilla extract",
+        "香草精"
+      ]
+    },
+    "related": [
+      {
+        "word": "topping",
+        "meaning": "表层配料",
+        "relation": "同场景"
+      },
+      {
+        "word": "allergen",
+        "meaning": "过敏原",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-131",
+      "12-132",
+      "12-133"
+    ],
+    "examples": [
+      {
+        "en": "Mustard, wasabi and pepper each add a different kind of heat.",
+        "zh": "芥末、山葵和胡椒各自带来不同的辛辣感。"
+      },
+      {
+        "en": "The dressing needs pepper, but mustard or wasabi would change its flavour.",
+        "zh": "这款酱汁需要胡椒，而芥末或山葵会改变其风味。"
+      },
+      {
+        "en": "Use wasabi with sushi, mustard with the sandwich and pepper in the soup.",
+        "zh": "寿司配山葵，三明治配芥末，汤里放胡椒。"
+      }
+    ],
+    "collocations": {
+      "12-131": [
+        "mustard sauce",
+        "芥末酱"
+      ],
+      "12-132": [
+        "wasabi paste",
+        "山葵泥"
+      ],
+      "12-133": [
+        "black pepper",
+        "黑胡椒"
+      ]
+    },
+    "related": [
+      {
+        "word": "pungent",
+        "meaning": "辛辣刺鼻的",
+        "relation": "同场景"
+      },
+      {
+        "word": "condiment",
+        "meaning": "调味品",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-134",
+      "12-135",
+      "12-136"
+    ],
+    "examples": [
+      {
+        "en": "Chop the ginger, garlic and scallion before heating the oil.",
+        "zh": "热油前先切好姜、蒜和葱。"
+      },
+      {
+        "en": "Ginger and garlic flavour the broth, while scallion goes on top.",
+        "zh": "姜和蒜给汤底提味，葱撒在上面。"
+      },
+      {
+        "en": "The steamed fish is served with ginger, garlic and scallion.",
+        "zh": "这道蒸鱼配有姜、蒜和葱。"
+      }
+    ],
+    "collocations": {
+      "12-134": [
+        "fresh ginger",
+        "鲜姜"
+      ],
+      "12-135": [
+        "a clove of garlic",
+        "一瓣蒜"
+      ],
+      "12-136": [
+        "chopped scallion",
+        "切碎的葱"
+      ]
+    },
+    "related": [
+      {
+        "word": "aromatic",
+        "meaning": "芳香的",
+        "relation": "同场景"
+      },
+      {
+        "word": "spring onion",
+        "meaning": "小葱",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-137",
+      "12-138",
+      "12-139"
+    ],
+    "examples": [
+      {
+        "en": "Mix vinegar, salt and sugar to make a quick pickle.",
+        "zh": "把醋、盐和糖混合，制作快腌菜。"
+      },
+      {
+        "en": "Taste the sauce before adding more vinegar, salt or sugar.",
+        "zh": "先尝尝酱汁，再决定是否多放醋、盐或糖。"
+      },
+      {
+        "en": "The recipe balances the sharp vinegar with a little sugar and salt.",
+        "zh": "这道食谱用少量糖和盐来平衡醋的酸味。"
+      }
+    ],
+    "collocations": {
+      "12-137": [
+        "rice vinegar",
+        "米醋"
+      ],
+      "12-138": [
+        "a pinch of salt",
+        "一撮盐"
+      ],
+      "12-139": [
+        "a teaspoon of sugar",
+        "一茶匙糖"
+      ]
+    },
+    "related": [
+      {
+        "word": "seasoning",
+        "meaning": "调味料",
+        "relation": "同场景"
+      },
+      {
+        "word": "pickle",
+        "meaning": "腌菜",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-140",
+      "12-141"
+    ],
+    "examples": [
+      {
+        "en": "The shop sells candy made with honey.",
+        "zh": "这家店卖用蜂蜜做的糖果。"
+      },
+      {
+        "en": "Honey gives this candy a distinctive floral flavour.",
+        "zh": "蜂蜜给这种糖果带来独特的花香。"
+      },
+      {
+        "en": "She bought honey from the beekeeper and candy from the sweet shop.",
+        "zh": "她向养蜂人买蜂蜜，又去糖果店买糖。"
+      }
+    ],
+    "collocations": {
+      "12-140": [
+        "hard candy",
+        "硬糖"
+      ],
+      "12-141": [
+        "a spoonful of honey",
+        "一勺蜂蜜"
+      ]
+    },
+    "related": [
+      {
+        "word": "sweetener",
+        "meaning": "甜味剂",
+        "relation": "同场景"
+      },
+      {
+        "word": "beeswax",
+        "meaning": "蜂蜡",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-152",
+      "12-153",
+      "12-154",
+      "12-156"
+    ],
+    "examples": [
+      {
+        "en": "Ketchup is the main ingredient in this sauce, with paprika added as a spice.",
+        "zh": "番茄酱是这款酱汁的主要原料，另加红椒粉作为香料。"
+      },
+      {
+        "en": "The sauce needs one more ingredient: a little ketchup to balance the spice.",
+        "zh": "这款酱汁还差一种原料：加一点番茄酱来平衡辛香味。"
+      },
+      {
+        "en": "Read the ingredient list on the ketchup before adding it to the spice sauce.",
+        "zh": "把番茄酱加入香料酱汁前，先读它的配料表。"
+      }
+    ],
+    "collocations": {
+      "12-152": [
+        "a spice blend",
+        "混合香料"
+      ],
+      "12-153": [
+        "tomato sauce",
+        "番茄酱汁"
+      ],
+      "12-154": [
+        "a bottle of ketchup",
+        "一瓶番茄酱"
+      ],
+      "12-156": [
+        "a key ingredient",
+        "关键原料"
+      ]
+    },
+    "related": [
+      {
+        "word": "paprika",
+        "meaning": "红椒粉",
+        "relation": "同场景"
+      },
+      {
+        "word": "marinade",
+        "meaning": "腌汁",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-142",
+      "12-143",
+      "12-144",
+      "12-145"
+    ],
+    "examples": [
+      {
+        "en": "The sauce has a sweet flavour at first, followed by sour and bitter notes.",
+        "zh": "这款酱汁起初有甜味，接着带出酸味和苦味。"
+      },
+      {
+        "en": "A little sweet honey balances the sour lemon and bitter herbs without hiding their flavour.",
+        "zh": "少量甜蜂蜜平衡了酸柠檬和苦香草的味道，却没有盖住它们的风味。"
+      },
+      {
+        "en": "Describe the flavour as sweet, sour or bitter after tasting each sample.",
+        "zh": "尝过每份样品后，把味道描述为甜、酸或苦。"
+      }
+    ],
+    "collocations": {
+      "12-142": [
+        "a rich flavour",
+        "浓郁的风味"
+      ],
+      "12-143": [
+        "a sour taste",
+        "酸味"
+      ],
+      "12-144": [
+        "a sweet dessert",
+        "甜点"
+      ],
+      "12-145": [
+        "a bitter aftertaste",
+        "苦涩余味"
+      ]
+    },
+    "related": [
+      {
+        "word": "aftertaste",
+        "meaning": "余味",
+        "relation": "同场景"
+      },
+      {
+        "word": "taste buds",
+        "meaning": "味蕾",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-146",
+      "12-147",
+      "12-148",
+      "12-149"
+    ],
+    "examples": [
+      {
+        "en": "The spicy noodles were so delicious that the children called them yummy and asked for another tasty bowl.",
+        "zh": "辣面条太美味，孩子们直说好吃，还想再来一碗可口的面。"
+      },
+      {
+        "en": "Her review called the spicy curry delicious, while the children simply said it was yummy and tasty.",
+        "zh": "她的评价称这道辣咖喱非常美味，而孩子们只说它好吃又可口。"
+      },
+      {
+        "en": "For a formal review of this spicy dish, use delicious or tasty; yummy sounds more informal.",
+        "zh": "正式评价这道辣菜时可用 delicious 或 tasty；yummy 更口语化。"
+      }
+    ],
+    "collocations": {
+      "12-146": [
+        "spicy food",
+        "辛辣食物"
+      ],
+      "12-147": [
+        "a delicious meal",
+        "美味的一餐"
+      ],
+      "12-148": [
+        "yummy cake",
+        "好吃的蛋糕"
+      ],
+      "12-149": [
+        "a tasty dish",
+        "可口的菜"
+      ]
+    },
+    "related": [
+      {
+        "word": "savoury",
+        "meaning": "咸鲜的",
+        "relation": "同场景"
+      },
+      {
+        "word": "mouth-watering",
+        "meaning": "令人垂涎的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-155"
+    ],
+    "examples": [
+      {
+        "en": "Her perfume had a light floral scent.",
+        "zh": "她的香水有淡淡的花香。"
+      },
+      {
+        "en": "The perfume of roses drifted through the open window.",
+        "zh": "玫瑰的芳香从敞开的窗户飘进来。"
+      },
+      {
+        "en": "Strong perfume can interfere with a professional food tasting.",
+        "zh": "浓烈香水会干扰专业食品品鉴。"
+      }
+    ],
+    "collocations": {
+      "12-155": [
+        "a floral perfume",
+        "花香型香水"
+      ]
+    },
+    "related": [
+      {
+        "word": "fragrance",
+        "meaning": "香味",
+        "relation": "同场景"
+      },
+      {
+        "word": "scent",
+        "meaning": "气味",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-150",
+      "12-151"
+    ],
+    "examples": [
+      {
+        "en": "After the long walk, hunger drove us to the café, where we realised how thirsty we were.",
+        "zh": "长途步行后，饥饿促使我们进了咖啡馆，我们这才意识到自己有多渴。"
+      },
+      {
+        "en": "Carry water if you get thirsty and a snack to relieve hunger.",
+        "zh": "带水以备口渴时喝，再带点零食充饥。"
+      },
+      {
+        "en": "The relief team gave water to thirsty families and food to those suffering from hunger.",
+        "zh": "救援队给口渴的家庭送水，给忍饥的人们送食物。"
+      }
+    ],
+    "collocations": {
+      "12-150": [
+        "relieve hunger",
+        "缓解饥饿"
+      ],
+      "12-151": [
+        "feel thirsty",
+        "感到口渴"
+      ]
+    },
+    "related": [
+      {
+        "word": "dehydration",
+        "meaning": "脱水",
+        "relation": "同场景"
+      },
+      {
+        "word": "satiety",
+        "meaning": "饱足感",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-157",
+      "12-166",
+      "12-164"
+    ],
+    "examples": [
+      {
+        "en": "Chew food well before you swallow it to make it easier to digest.",
+        "zh": "咽下食物前充分咀嚼，使其更容易消化。"
+      },
+      {
+        "en": "People who cannot chew or swallow normally may need food that is easy to digest.",
+        "zh": "无法正常咀嚼或吞咽的人可能需要容易消化的食物。"
+      },
+      {
+        "en": "Take time to chew each bite rather than swallow quickly and force your stomach to digest large pieces.",
+        "zh": "慢慢咀嚼每一口，不要匆忙吞咽，让胃去消化大块食物。"
+      }
+    ],
+    "collocations": {
+      "12-157": [
+        "digest food",
+        "消化食物"
+      ],
+      "12-166": [
+        "chew thoroughly",
+        "充分咀嚼"
+      ],
+      "12-164": [
+        "swallow a mouthful",
+        "咽下一口食物"
+      ]
+    },
+    "related": [
+      {
+        "word": "digestion",
+        "meaning": "消化",
+        "relation": "同场景"
+      },
+      {
+        "word": "saliva",
+        "meaning": "唾液",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-158",
+      "12-159",
+      "12-160"
+    ],
+    "examples": [
+      {
+        "en": "I can cook dinner while you bake the bread and fry the onions.",
+        "zh": "你烤面包、煎洋葱时，我可以做晚餐。"
+      },
+      {
+        "en": "The course teaches beginners to cook soup, bake bread and fry fish.",
+        "zh": "这门课教初学者煮汤、烤面包和煎鱼。"
+      },
+      {
+        "en": "To cook with less oil, bake the potatoes instead of choosing to fry them.",
+        "zh": "想少油烹调，可以烤土豆，而不选择油煎。"
+      }
+    ],
+    "collocations": {
+      "12-158": [
+        "cook a meal",
+        "做一顿饭"
+      ],
+      "12-159": [
+        "bake bread",
+        "烤面包"
+      ],
+      "12-160": [
+        "fry an egg",
+        "煎鸡蛋"
+      ]
+    },
+    "related": [
+      {
+        "word": "boil",
+        "meaning": "煮沸",
+        "relation": "同场景"
+      },
+      {
+        "word": "steam",
+        "meaning": "蒸",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-161",
+      "12-162"
+    ],
+    "examples": [
+      {
+        "en": "Roast the tomatoes and serve them on toast.",
+        "zh": "烤好番茄，再把它们放在烤面包片上。"
+      },
+      {
+        "en": "While we roast the chicken, you can toast some bread for the starter.",
+        "zh": "我们烤鸡时，你可以烤些面包做前菜。"
+      },
+      {
+        "en": "The café offers roast mushrooms on wholemeal toast.",
+        "zh": "咖啡馆供应全麦烤面包配烤蘑菇。"
+      }
+    ],
+    "collocations": {
+      "12-161": [
+        "roast vegetables",
+        "烤蔬菜"
+      ],
+      "12-162": [
+        "toast bread",
+        "烤面包片"
+      ]
+    },
+    "related": [
+      {
+        "word": "grill",
+        "meaning": "烧烤",
+        "relation": "同场景"
+      },
+      {
+        "word": "browning",
+        "meaning": "上色",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-163",
+      "12-165",
+      "12-167"
+    ],
+    "examples": [
+      {
+        "en": "The child wanted to lick an ice lolly, suck a sweet or chew gum during the journey.",
+        "zh": "旅途中，孩子想舔冰棍、吮糖果或嚼口香糖。"
+      },
+      {
+        "en": "You cannot suck a sweet, lick an ice cream and chew gum all at once.",
+        "zh": "你不能同时吮糖果、舔冰淇淋和嚼口香糖。"
+      },
+      {
+        "en": "The dentist asked whether she liked to suck sweets, lick sugary ice lollies or chew sweetened gum.",
+        "zh": "牙医问她是否喜欢吮糖果、舔含糖冰棍或嚼加糖口香糖。"
+      }
+    ],
+    "collocations": {
+      "12-163": [
+        "suck a sweet",
+        "吮糖果"
+      ],
+      "12-165": [
+        "lick an ice lolly",
+        "舔冰棍"
+      ],
+      "12-167": [
+        "chewing gum",
+        "口香糖"
+      ]
+    },
+    "related": [
+      {
+        "word": "lollipop",
+        "meaning": "棒棒糖",
+        "relation": "同场景"
+      },
+      {
+        "word": "chewing",
+        "meaning": "咀嚼",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-168",
+      "12-169",
+      "12-170"
+    ],
+    "examples": [
+      {
+        "en": "Soak the beans first, squeeze lemon over the salad, and dip bread into the finished soup.",
+        "zh": "先泡豆子，在沙拉上挤柠檬汁，然后用面包蘸做好的汤。"
+      },
+      {
+        "en": "You can soak dried fruit in juice, squeeze out the excess liquid, and dip each piece in chocolate.",
+        "zh": "你可以把干果泡在果汁里，挤掉多余液体，再逐块蘸上巧克力。"
+      },
+      {
+        "en": "Soak the cloth, squeeze it gently, then dip one corner into the cleaning solution.",
+        "zh": "浸湿抹布，轻轻拧挤，再把一个角蘸入清洁液。"
+      }
+    ],
+    "collocations": {
+      "12-168": [
+        "soak beans",
+        "泡豆子"
+      ],
+      "12-169": [
+        "dip bread in soup",
+        "用面包蘸汤"
+      ],
+      "12-170": [
+        "squeeze a lemon",
+        "挤柠檬"
+      ]
+    },
+    "related": [
+      {
+        "word": "absorb",
+        "meaning": "吸收",
+        "relation": "同场景"
+      },
+      {
+        "word": "drain",
+        "meaning": "沥干",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "12-171",
+      "12-172",
+      "12-173"
+    ],
+    "examples": [
+      {
+        "en": "Grind the pepper, slice the mushrooms and stir them into the sauce.",
+        "zh": "磨好胡椒，将蘑菇切片，再搅进酱汁中。"
+      },
+      {
+        "en": "While you stir the soup, I will grind some spices and slice the bread.",
+        "zh": "你搅汤的时候，我来磨香料、切面包。"
+      },
+      {
+        "en": "The recipe tells you when to grind the seeds, slice the onions and stir the mixture.",
+        "zh": "食谱会说明何时磨籽、切洋葱和搅拌混合物。"
+      }
+    ],
+    "collocations": {
+      "12-171": [
+        "stir a sauce",
+        "搅拌酱汁"
+      ],
+      "12-172": [
+        "grind pepper",
+        "研磨胡椒"
+      ],
+      "12-173": [
+        "slice bread",
+        "切面包片"
+      ]
+    },
+    "related": [
+      {
+        "word": "chop",
+        "meaning": "切碎",
+        "relation": "同场景"
+      },
+      {
+        "word": "whisk",
+        "meaning": "搅打",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

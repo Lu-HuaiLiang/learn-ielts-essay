@@ -1,0 +1,1229 @@
+[
+  {
+    "ids": [
+      "07-001",
+      "07-002",
+      "07-003"
+    ],
+    "examples": [
+      {
+        "en": "Trade enriched the culture of this civilisation and helped inspire a renaissance in its art.",
+        "zh": "贸易丰富了这个文明的文化，并促进了其艺术复兴。"
+      },
+      {
+        "en": "The exhibition traces the culture of a lost civilisation and the renaissance of interest in its language.",
+        "zh": "展览追溯一个失落文明的文化，以及人们对其语言重新燃起的兴趣。"
+      },
+      {
+        "en": "A renaissance in scholarship changed how historians understood the culture of that ancient civilisation.",
+        "zh": "学术的复兴改变了历史学家对那个古代文明文化的理解。"
+      }
+    ],
+    "collocations": {
+      "07-001": [
+        "local culture",
+        "地方文化"
+      ],
+      "07-002": [
+        "ancient civilisation",
+        "古代文明"
+      ],
+      "07-003": [
+        "a cultural renaissance",
+        "文化复兴"
+      ]
+    },
+    "related": [
+      {
+        "word": "revival",
+        "meaning": "复兴",
+        "relation": "同场景"
+      },
+      {
+        "word": "heritage",
+        "meaning": "文化遗产",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-004",
+      "07-005",
+      "07-006"
+    ],
+    "examples": [
+      {
+        "en": "This epic preserves an oral tradition while reflecting the ideology of its royal sponsors.",
+        "zh": "这部史诗保留了口述传统，同时反映了王室资助者的意识形态。"
+      },
+      {
+        "en": "The poet adapted an epic from local tradition to challenge the ideology of conquest.",
+        "zh": "诗人改编了当地传统中的一部史诗，以质疑征服的意识形态。"
+      },
+      {
+        "en": "A new translation of the epic reveals how tradition can reinforce a ruling ideology.",
+        "zh": "这部史诗的新译本揭示了传统如何强化统治思想。"
+      }
+    ],
+    "collocations": {
+      "07-004": [
+        "a national epic",
+        "民族史诗"
+      ],
+      "07-005": [
+        "political ideology",
+        "政治意识形态"
+      ],
+      "07-006": [
+        "oral tradition",
+        "口述传统"
+      ]
+    },
+    "related": [
+      {
+        "word": "storytelling",
+        "meaning": "讲故事",
+        "relation": "同场景"
+      },
+      {
+        "word": "hero",
+        "meaning": "英雄",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-007",
+      "07-008"
+    ],
+    "examples": [
+      {
+        "en": "Removing shoes is a local custom, while shaking hands is a broader social convention.",
+        "zh": "脱鞋是当地习俗，而握手是一种更普遍的社会惯例。"
+      },
+      {
+        "en": "The guide explained which custom was religious and which convention was simply polite.",
+        "zh": "导游解释了哪种习俗源于宗教，哪种惯例只是出于礼貌。"
+      },
+      {
+        "en": "A wedding custom may survive even when the social convention behind it changes.",
+        "zh": "婚礼习俗可能在其背后的社会惯例改变后依然延续。"
+      }
+    ],
+    "collocations": {
+      "07-007": [
+        "social convention",
+        "社会惯例"
+      ],
+      "07-008": [
+        "a local custom",
+        "当地习俗"
+      ]
+    },
+    "related": [
+      {
+        "word": "norm",
+        "meaning": "规范",
+        "relation": "同场景"
+      },
+      {
+        "word": "practice",
+        "meaning": "惯常做法",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-009",
+      "07-010"
+    ],
+    "examples": [
+      {
+        "en": "The course examines feudalism and slavery as distinct systems of labour and power.",
+        "zh": "课程将封建制度和奴隶制作为不同的劳动与权力体系进行研究。"
+      },
+      {
+        "en": "This chapter compares land ownership under feudalism with human ownership under slavery.",
+        "zh": "本章比较封建制度下的土地所有权与奴隶制下对人的占有。"
+      },
+      {
+        "en": "Neither the decline of feudalism nor the abolition of slavery automatically ended exploitation.",
+        "zh": "封建制度的衰落和奴隶制的废除都没有自动终结剥削。"
+      }
+    ],
+    "collocations": {
+      "07-009": [
+        "medieval feudalism",
+        "中世纪封建制度"
+      ],
+      "07-010": [
+        "abolish slavery",
+        "废除奴隶制"
+      ]
+    },
+    "related": [
+      {
+        "word": "serfdom",
+        "meaning": "农奴制",
+        "relation": "同场景"
+      },
+      {
+        "word": "freedom",
+        "meaning": "自由",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-011",
+      "07-012"
+    ],
+    "examples": [
+      {
+        "en": "Returning stolen artefacts raises ethical questions about a museum's moral responsibility.",
+        "zh": "归还被盗文物引出了有关博物馆道德责任的伦理问题。"
+      },
+      {
+        "en": "The historian faced an ethical dilemma over publishing evidence of a respected leader's moral failures.",
+        "zh": "历史学家在是否公布一位受尊敬领袖道德失范的证据时面临伦理困境。"
+      },
+      {
+        "en": "Students discussed the ethical limits of research and the moral duty to protect participants.",
+        "zh": "学生讨论了研究的伦理界限以及保护参与者的道德义务。"
+      }
+    ],
+    "collocations": {
+      "07-011": [
+        "ethical concerns",
+        "伦理问题"
+      ],
+      "07-012": [
+        "moral responsibility",
+        "道德责任"
+      ]
+    },
+    "related": [
+      {
+        "word": "ethics",
+        "meaning": "伦理学",
+        "relation": "词形"
+      },
+      {
+        "word": "morality",
+        "meaning": "道德",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-013",
+      "07-014",
+      "07-015"
+    ],
+    "examples": [
+      {
+        "en": "An inhabitant of the village explained how the tribe preserves its aboriginal language.",
+        "zh": "村里一位居民解释了这个部落如何保存其原住民语言。"
+      },
+      {
+        "en": "The museum invited an inhabitant from the tribe to discuss aboriginal land rights.",
+        "zh": "博物馆邀请该部落的一位居民讨论原住民土地权利。"
+      },
+      {
+        "en": "Each inhabitant interviewed described the tribe's efforts to pass aboriginal knowledge to children.",
+        "zh": "每位受访居民都讲述了该部落向孩子传承原住民知识的努力。"
+      }
+    ],
+    "collocations": {
+      "07-013": [
+        "an indigenous tribe",
+        "原住民族部落"
+      ],
+      "07-014": [
+        "aboriginal culture",
+        "原住民文化"
+      ],
+      "07-015": [
+        "a local inhabitant",
+        "当地居民"
+      ]
+    },
+    "related": [
+      {
+        "word": "indigenous",
+        "meaning": "原住的",
+        "relation": "同场景"
+      },
+      {
+        "word": "community",
+        "meaning": "群体",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-016",
+      "07-017",
+      "07-018"
+    ],
+    "examples": [
+      {
+        "en": "A local gardener replaced an exotic shrub with a native species.",
+        "zh": "一位当地园丁用本土物种替换了一种外来灌木。"
+      },
+      {
+        "en": "The local guide distinguished native trees from exotic plants introduced through trade.",
+        "zh": "当地导游区分了本土树木和经贸易引进的外来植物。"
+      },
+      {
+        "en": "Local records show when this exotic fruit first entered a diet based on native crops.",
+        "zh": "当地记录表明，这种外来水果何时进入了原本以本土作物为主的饮食。"
+      }
+    ],
+    "collocations": {
+      "07-016": [
+        "native language",
+        "母语"
+      ],
+      "07-017": [
+        "local knowledge",
+        "当地知识"
+      ],
+      "07-018": [
+        "an exotic plant",
+        "外来植物"
+      ]
+    },
+    "related": [
+      {
+        "word": "indigenous",
+        "meaning": "本土的",
+        "relation": "同场景"
+      },
+      {
+        "word": "introduced",
+        "meaning": "引进的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-019",
+      "07-020"
+    ],
+    "examples": [
+      {
+        "en": "As a foreigner, she initially found the local legal system alien.",
+        "zh": "作为外国人，她起初觉得当地法律制度很陌生。"
+      },
+      {
+        "en": "A foreigner may need time to understand customs that seem alien at first.",
+        "zh": "外国人可能需要时间来理解起初显得陌生的习俗。"
+      },
+      {
+        "en": "The novel follows a foreigner learning to feel at home in an apparently alien society.",
+        "zh": "小说讲述一个外国人逐渐融入一个起初看似陌生社会的经历。"
+      }
+    ],
+    "collocations": {
+      "07-019": [
+        "welcome a foreigner",
+        "欢迎外国人"
+      ],
+      "07-020": [
+        "an alien culture",
+        "陌生文化"
+      ]
+    },
+    "related": [
+      {
+        "word": "visitor",
+        "meaning": "访客",
+        "relation": "同场景"
+      },
+      {
+        "word": "unfamiliar",
+        "meaning": "陌生的",
+        "relation": "近义"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-021",
+      "07-022"
+    ],
+    "examples": [
+      {
+        "en": "An anthropologist advised the humanitarian team on local mourning customs.",
+        "zh": "一位人类学家向人道主义援助团队介绍了当地丧葬习俗。"
+      },
+      {
+        "en": "The humanitarian organisation hired an anthropologist to improve communication with displaced families.",
+        "zh": "人道主义组织聘请一位人类学家来改善与流离失所家庭的沟通。"
+      },
+      {
+        "en": "An anthropologist documented how humanitarian aid changed relationships within the village.",
+        "zh": "一位人类学家记录了人道主义援助如何改变村内的人际关系。"
+      }
+    ],
+    "collocations": {
+      "07-021": [
+        "a cultural anthropologist",
+        "文化人类学家"
+      ],
+      "07-022": [
+        "humanitarian assistance",
+        "人道主义援助"
+      ]
+    },
+    "related": [
+      {
+        "word": "fieldwork",
+        "meaning": "实地研究",
+        "relation": "同场景"
+      },
+      {
+        "word": "relief",
+        "meaning": "救济",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-023",
+      "07-024",
+      "07-025"
+    ],
+    "examples": [
+      {
+        "en": "We may inherit an antique, but protecting our shared heritage requires collective action.",
+        "zh": "我们可能继承一件古董，但保护共同遗产需要集体行动。"
+      },
+      {
+        "en": "Families who inherit an antique often donate it to help preserve local heritage.",
+        "zh": "继承古董的家庭常将其捐赠，以帮助保存当地遗产。"
+      },
+      {
+        "en": "You inherit responsibility for this heritage when you accept an antique from the family collection.",
+        "zh": "接受家族收藏中的古董时，你也继承了保护这份遗产的责任。"
+      }
+    ],
+    "collocations": {
+      "07-023": [
+        "cultural heritage",
+        "文化遗产"
+      ],
+      "07-024": [
+        "inherit a house",
+        "继承房屋"
+      ],
+      "07-025": [
+        "an antique vase",
+        "古董花瓶"
+      ]
+    },
+    "related": [
+      {
+        "word": "heir",
+        "meaning": "继承人",
+        "relation": "同场景"
+      },
+      {
+        "word": "preservation",
+        "meaning": "保存",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-026",
+      "07-027",
+      "07-028"
+    ],
+    "examples": [
+      {
+        "en": "Students of archaeology will excavate the site before displaying their finds in a museum.",
+        "zh": "考古学学生将发掘该遗址，随后在博物馆展示出土物。"
+      },
+      {
+        "en": "The museum funds archaeology projects that excavate threatened sites before construction begins.",
+        "zh": "博物馆资助考古项目，在施工开始前发掘受威胁的遗址。"
+      },
+      {
+        "en": "A museum permit does not give every archaeology student permission to excavate anywhere.",
+        "zh": "博物馆的许可并不允许每个考古学生随意在任何地方发掘。"
+      }
+    ],
+    "collocations": {
+      "07-026": [
+        "study archaeology",
+        "研究考古学"
+      ],
+      "07-027": [
+        "excavate a site",
+        "发掘遗址"
+      ],
+      "07-028": [
+        "a history museum",
+        "历史博物馆"
+      ]
+    },
+    "related": [
+      {
+        "word": "artefact",
+        "meaning": "文物",
+        "relation": "同场景"
+      },
+      {
+        "word": "excavation",
+        "meaning": "发掘",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-029",
+      "07-030",
+      "07-031"
+    ],
+    "examples": [
+      {
+        "en": "Artisans decorate the pottery with paint and engrave their initials underneath.",
+        "zh": "工匠用颜料装饰陶器，并在底部刻上姓名首字母。"
+      },
+      {
+        "en": "We watched a potter engrave a pattern before using coloured slips to decorate the pottery.",
+        "zh": "我们看着陶工先刻出图案，再用彩色泥浆装饰陶器。"
+      },
+      {
+        "en": "Visitors can decorate replica pottery and engrave a short message on its base.",
+        "zh": "游客可以装饰仿制陶器，并在底座上刻一条短信息。"
+      }
+    ],
+    "collocations": {
+      "07-029": [
+        "ancient pottery",
+        "古代陶器"
+      ],
+      "07-030": [
+        "engrave a name",
+        "雕刻名字"
+      ],
+      "07-031": [
+        "decorate a room",
+        "装饰房间"
+      ]
+    },
+    "related": [
+      {
+        "word": "ceramic",
+        "meaning": "陶瓷的",
+        "relation": "同场景"
+      },
+      {
+        "word": "inscription",
+        "meaning": "铭文",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-032",
+      "07-033",
+      "07-034",
+      "07-035"
+    ],
+    "examples": [
+      {
+        "en": "The course distinguishes religion and belief from the etiquette surrounding a public ritual.",
+        "zh": "课程区分宗教及信仰与公共仪式中的礼仪规范。"
+      },
+      {
+        "en": "Our guide explained the religion, the belief behind the ritual, and the etiquette expected of visitors.",
+        "zh": "导游解释了这一宗教、仪式背后的信仰，以及对访客的礼仪要求。"
+      },
+      {
+        "en": "Understanding a ritual requires attention to belief, religion and the etiquette of the community.",
+        "zh": "理解一种仪式需要关注群体的信仰、宗教及礼仪。"
+      }
+    ],
+    "collocations": {
+      "07-032": [
+        "organised religion",
+        "有组织的宗教"
+      ],
+      "07-033": [
+        "a burial ritual",
+        "葬礼仪式"
+      ],
+      "07-034": [
+        "social etiquette",
+        "社交礼仪"
+      ],
+      "07-035": [
+        "religious belief",
+        "宗教信仰"
+      ]
+    },
+    "related": [
+      {
+        "word": "ceremony",
+        "meaning": "典礼",
+        "relation": "同场景"
+      },
+      {
+        "word": "worship",
+        "meaning": "崇拜",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-036",
+      "07-037"
+    ],
+    "examples": [
+      {
+        "en": "The poem contrasts the suffering of the soul with the resilience of the human spirit.",
+        "zh": "诗歌将灵魂的痛苦与人类精神的韧性相对照。"
+      },
+      {
+        "en": "Some traditions describe the soul as eternal and the spirit as a source of courage.",
+        "zh": "有些传统将灵魂描述为永恒的存在，将精神视为勇气之源。"
+      },
+      {
+        "en": "The sculpture expresses concern for the soul and celebrates the strength of the human spirit.",
+        "zh": "雕塑表达了对灵魂的关切，并赞颂人的精神力量。"
+      }
+    ],
+    "collocations": {
+      "07-036": [
+        "an immortal soul",
+        "不朽的灵魂"
+      ],
+      "07-037": [
+        "the human spirit",
+        "人的精神"
+      ]
+    },
+    "related": [
+      {
+        "word": "spiritual",
+        "meaning": "精神的",
+        "relation": "词形"
+      },
+      {
+        "word": "afterlife",
+        "meaning": "来世",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-038",
+      "07-039",
+      "07-040"
+    ],
+    "examples": [
+      {
+        "en": "Pilgrims consider this holy site sacred, while historians describe its battlefield as hallowed ground.",
+        "zh": "朝圣者视这处宗教遗址为圣地，历史学家则将其战场视为受尊崇之地。"
+      },
+      {
+        "en": "The holy shrine stands on sacred land beside a hallowed cemetery.",
+        "zh": "这座宗教圣殿坐落于圣地之上，旁边是一处受尊崇的墓地。"
+      },
+      {
+        "en": "Visitors were asked to respect the sacred objects, the holy spring and the hallowed memorial.",
+        "zh": "游客被要求尊重圣物、圣泉以及备受尊崇的纪念碑。"
+      }
+    ],
+    "collocations": {
+      "07-038": [
+        "sacred ground",
+        "圣地"
+      ],
+      "07-039": [
+        "hallowed ground",
+        "受尊崇的土地"
+      ],
+      "07-040": [
+        "a holy site",
+        "宗教圣地"
+      ]
+    },
+    "related": [
+      {
+        "word": "reverence",
+        "meaning": "敬畏",
+        "relation": "同场景"
+      },
+      {
+        "word": "pilgrimage",
+        "meaning": "朝圣",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-041",
+      "07-042",
+      "07-043",
+      "07-044"
+    ],
+    "examples": [
+      {
+        "en": "The Pope greeted a bishop, a missionary and a parish priest after the service.",
+        "zh": "礼拜后，教皇向一位主教、一位传教士和一位堂区神父致意。"
+      },
+      {
+        "en": "A missionary and a local priest invited the bishop to discuss the Pope's message.",
+        "zh": "一位传教士和一位当地神父邀请主教讨论教皇的讲话。"
+      },
+      {
+        "en": "The bishop introduced a priest and a missionary whose work the Pope had praised.",
+        "zh": "主教介绍了一位神父和一位传教士，教皇曾赞扬过他们的工作。"
+      }
+    ],
+    "collocations": {
+      "07-041": [
+        "the Pope's visit",
+        "教皇的访问"
+      ],
+      "07-042": [
+        "a Catholic bishop",
+        "天主教主教"
+      ],
+      "07-043": [
+        "a medical missionary",
+        "医疗传教士"
+      ],
+      "07-044": [
+        "a parish priest",
+        "堂区神父"
+      ]
+    },
+    "related": [
+      {
+        "word": "clergy",
+        "meaning": "神职人员",
+        "relation": "同场景"
+      },
+      {
+        "word": "parish",
+        "meaning": "堂区",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-045",
+      "07-046",
+      "07-047",
+      "07-048"
+    ],
+    "examples": [
+      {
+        "en": "The church choir sang in the cathedral after a reading from the Bible.",
+        "zh": "宣读《圣经》后，教堂唱诗班在大教堂里献唱。"
+      },
+      {
+        "en": "A choir from our church performed at the cathedral during an exhibition of illustrated Bible manuscripts.",
+        "zh": "我们教堂的唱诗班在大教堂的《圣经》插图手稿展期间表演。"
+      },
+      {
+        "en": "The cathedral invited a village church choir to sing music inspired by the Bible.",
+        "zh": "大教堂邀请一个乡村教堂唱诗班演唱受《圣经》启发创作的音乐。"
+      }
+    ],
+    "collocations": {
+      "07-045": [
+        "read the Bible",
+        "阅读《圣经》"
+      ],
+      "07-046": [
+        "attend church",
+        "去教堂礼拜"
+      ],
+      "07-047": [
+        "a Gothic cathedral",
+        "哥特式大教堂"
+      ],
+      "07-048": [
+        "a church choir",
+        "教堂唱诗班"
+      ]
+    },
+    "related": [
+      {
+        "word": "hymn",
+        "meaning": "赞美诗",
+        "relation": "同场景"
+      },
+      {
+        "word": "sermon",
+        "meaning": "布道",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-049",
+      "07-050",
+      "07-051"
+    ],
+    "examples": [
+      {
+        "en": "A monk led visitors through the temple garden towards a wooden pagoda.",
+        "zh": "一位僧人带领游客穿过寺庙花园，走向一座木塔。"
+      },
+      {
+        "en": "The monk explained why the pagoda stands outside the oldest part of the temple.",
+        "zh": "僧人解释了为何宝塔位于寺庙最古老部分的外面。"
+      },
+      {
+        "en": "From the pagoda, we watched a monk sweep the temple courtyard.",
+        "zh": "我们从宝塔上看见一位僧人清扫寺庙庭院。"
+      }
+    ],
+    "collocations": {
+      "07-049": [
+        "a Buddhist monk",
+        "佛教僧人"
+      ],
+      "07-050": [
+        "a Buddhist temple",
+        "佛教寺庙"
+      ],
+      "07-051": [
+        "a wooden pagoda",
+        "木塔"
+      ]
+    },
+    "related": [
+      {
+        "word": "monastery",
+        "meaning": "修道院",
+        "relation": "同场景"
+      },
+      {
+        "word": "meditation",
+        "meaning": "冥想",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-052",
+      "07-053",
+      "07-054",
+      "07-055"
+    ],
+    "examples": [
+      {
+        "en": "The dynasty expanded its empire and used imperial wealth to build a royal palace.",
+        "zh": "该王朝扩张帝国，并用帝国财富建造王宫。"
+      },
+      {
+        "en": "Royal marriages helped the dynasty maintain imperial control across the empire.",
+        "zh": "王室联姻帮助该王朝维持对整个帝国的统治。"
+      },
+      {
+        "en": "The fall of the dynasty ended imperial rule, but the empire's royal archives survived.",
+        "zh": "王朝覆灭终结了帝国统治，但帝国的王室档案保存了下来。"
+      }
+    ],
+    "collocations": {
+      "07-052": [
+        "an ancient empire",
+        "古代帝国"
+      ],
+      "07-053": [
+        "imperial power",
+        "帝国权力"
+      ],
+      "07-054": [
+        "a royal palace",
+        "王宫"
+      ],
+      "07-055": [
+        "the ruling dynasty",
+        "统治王朝"
+      ]
+    },
+    "related": [
+      {
+        "word": "monarchy",
+        "meaning": "君主制",
+        "relation": "同场景"
+      },
+      {
+        "word": "succession",
+        "meaning": "继位",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-056",
+      "07-057",
+      "07-058",
+      "07-059"
+    ],
+    "examples": [
+      {
+        "en": "The chronology places this emperor before the king and queen shown in the next gallery.",
+        "zh": "年表显示，这位皇帝早于下一个展厅展出的国王和女王。"
+      },
+      {
+        "en": "A revised chronology revealed that the emperor corresponded with both the king and the queen.",
+        "zh": "修订后的年表表明，皇帝曾与国王和女王都通过信。"
+      },
+      {
+        "en": "Students used a chronology to compare the reign of an emperor with that of a king or queen.",
+        "zh": "学生用年表比较皇帝与国王或女王的统治时期。"
+      }
+    ],
+    "collocations": {
+      "07-056": [
+        "a historical chronology",
+        "历史年表"
+      ],
+      "07-057": [
+        "a Roman emperor",
+        "罗马皇帝"
+      ],
+      "07-058": [
+        "a medieval king",
+        "中世纪国王"
+      ],
+      "07-059": [
+        "a reigning queen",
+        "在位女王"
+      ]
+    },
+    "related": [
+      {
+        "word": "reign",
+        "meaning": "统治时期",
+        "relation": "同场景"
+      },
+      {
+        "word": "coronation",
+        "meaning": "加冕",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-060",
+      "07-061",
+      "07-062"
+    ],
+    "examples": [
+      {
+        "en": "The prince bowed as the princess addressed the queen as Your Majesty.",
+        "zh": "公主称女王为“陛下”时，王子鞠了一躬。"
+      },
+      {
+        "en": "Your Majesty, the prince and princess have arrived for the ceremony.",
+        "zh": "陛下，王子和公主已经抵达典礼现场。"
+      },
+      {
+        "en": "In the play, the princess says Your Majesty before asking the king to pardon the prince.",
+        "zh": "剧中，公主先称“陛下”，随后请求国王赦免王子。"
+      }
+    ],
+    "collocations": {
+      "07-060": [
+        "a young prince",
+        "年轻的王子"
+      ],
+      "07-061": [
+        "a royal princess",
+        "王室公主"
+      ],
+      "07-062": [
+        "Your Majesty",
+        "陛下"
+      ]
+    },
+    "related": [
+      {
+        "word": "heir",
+        "meaning": "继承人",
+        "relation": "同场景"
+      },
+      {
+        "word": "court",
+        "meaning": "王室宫廷",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-063",
+      "07-064",
+      "07-065",
+      "07-066"
+    ],
+    "examples": [
+      {
+        "en": "A knight served as guardian to the young lord, whose family belonged to the nobility.",
+        "zh": "一位骑士担任年轻领主的监护人，领主的家族属于贵族阶层。"
+      },
+      {
+        "en": "The nobility appointed a trusted knight as guardian of the absent lord's children.",
+        "zh": "贵族们任命一位可信赖的骑士担任那位离乡领主子女的监护人。"
+      },
+      {
+        "en": "A lord from the nobility appointed a knight as guardian of the estate's heir.",
+        "zh": "一位出身贵族的领主任命一名骑士担任庄园继承人的监护人。"
+      }
+    ],
+    "collocations": {
+      "07-063": [
+        "the landed nobility",
+        "土地贵族"
+      ],
+      "07-064": [
+        "a feudal lord",
+        "封建领主"
+      ],
+      "07-065": [
+        "a medieval knight",
+        "中世纪骑士"
+      ],
+      "07-066": [
+        "a legal guardian",
+        "法定监护人"
+      ]
+    },
+    "related": [
+      {
+        "word": "aristocracy",
+        "meaning": "贵族阶层",
+        "relation": "近义"
+      },
+      {
+        "word": "ward",
+        "meaning": "受监护人",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-067",
+      "07-068"
+    ],
+    "examples": [
+      {
+        "en": "The smell of familiar food filled the homesick student with nostalgia.",
+        "zh": "熟悉食物的香味使这位思乡的学生满怀怀旧之情。"
+      },
+      {
+        "en": "Nostalgia for childhood became stronger whenever she felt homesick abroad.",
+        "zh": "每当她在国外思乡时，对童年的怀念便更强烈。"
+      },
+      {
+        "en": "His letters express both nostalgia for village life and the loneliness of being homesick.",
+        "zh": "他的信既表达对乡村生活的怀念，也表达思乡的孤独。"
+      }
+    ],
+    "collocations": {
+      "07-067": [
+        "childhood nostalgia",
+        "对童年的怀念"
+      ],
+      "07-068": [
+        "feel homesick",
+        "思乡"
+      ]
+    },
+    "related": [
+      {
+        "word": "memory",
+        "meaning": "记忆",
+        "relation": "同场景"
+      },
+      {
+        "word": "homesickness",
+        "meaning": "思乡",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-069",
+      "07-070",
+      "07-071"
+    ],
+    "examples": [
+      {
+        "en": "The celebrity discussed how her family background shaped her attitude to social status.",
+        "zh": "这位名人谈到家庭背景如何塑造了她对社会地位的看法。"
+      },
+      {
+        "en": "Celebrity status did not erase his modest background or his attachment to his hometown.",
+        "zh": "名人地位没有抹去他普通的出身，也未消除他对家乡的依恋。"
+      },
+      {
+        "en": "The biography explores a celebrity whose privileged background helped secure her early status.",
+        "zh": "这本传记探讨了一位名人的经历，其优越出身帮助她早期获得了地位。"
+      }
+    ],
+    "collocations": {
+      "07-069": [
+        "international celebrity",
+        "国际名人"
+      ],
+      "07-070": [
+        "social status",
+        "社会地位"
+      ],
+      "07-071": [
+        "family background",
+        "家庭背景"
+      ]
+    },
+    "related": [
+      {
+        "word": "fame",
+        "meaning": "名气",
+        "relation": "同场景"
+      },
+      {
+        "word": "upbringing",
+        "meaning": "成长背景",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-072",
+      "07-073",
+      "07-074",
+      "07-075"
+    ],
+    "examples": [
+      {
+        "en": "His anecdote about a minor incident contrasts with his traumatic experience of a serious accident.",
+        "zh": "他讲述小插曲的趣闻与他经历严重事故的创伤形成对照。"
+      },
+      {
+        "en": "She drew on personal experience to turn an incident after the accident into a moving anecdote.",
+        "zh": "她根据亲身经历，将事故后的一个小插曲讲成了动人的轶事。"
+      },
+      {
+        "en": "Her anecdote describes an incident during her experience of recovery after an accident.",
+        "zh": "她的轶事讲述了事故康复经历中的一件事。"
+      }
+    ],
+    "collocations": {
+      "07-072": [
+        "personal experience",
+        "个人经历"
+      ],
+      "07-073": [
+        "an amusing anecdote",
+        "趣闻"
+      ],
+      "07-074": [
+        "a road accident",
+        "道路事故"
+      ],
+      "07-075": [
+        "a minor incident",
+        "小事件"
+      ]
+    },
+    "related": [
+      {
+        "word": "memoir",
+        "meaning": "回忆录",
+        "relation": "同场景"
+      },
+      {
+        "word": "recollection",
+        "meaning": "回忆",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "07-076",
+      "07-077",
+      "07-078",
+      "07-079"
+    ],
+    "examples": [
+      {
+        "en": "A community can thrive after a setback when shared resources help people overcome adversity and rebuild prosperity.",
+        "zh": "当共享资源帮助人们克服逆境、重建繁荣时，社区能够在挫折后兴旺起来。"
+      },
+      {
+        "en": "Despite adversity and a temporary setback, the port began to thrive and regain its former prosperity.",
+        "zh": "尽管面临逆境和暂时挫折，港口仍开始兴旺，并恢复昔日繁荣。"
+      },
+      {
+        "en": "Prosperity does not prevent every setback, but resilient businesses can thrive even in adversity.",
+        "zh": "繁荣不能防止所有挫折，但有韧性的企业即使在逆境中也能蓬勃发展。"
+      }
+    ],
+    "collocations": {
+      "07-076": [
+        "thrive in adversity",
+        "在逆境中成长"
+      ],
+      "07-077": [
+        "economic prosperity",
+        "经济繁荣"
+      ],
+      "07-078": [
+        "suffer a setback",
+        "遭受挫折"
+      ],
+      "07-079": [
+        "overcome adversity",
+        "克服逆境"
+      ]
+    },
+    "related": [
+      {
+        "word": "resilience",
+        "meaning": "韧性",
+        "relation": "同场景"
+      },
+      {
+        "word": "recovery",
+        "meaning": "复苏",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

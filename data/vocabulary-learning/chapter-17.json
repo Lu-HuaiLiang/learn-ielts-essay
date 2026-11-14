@@ -1,0 +1,1707 @@
+[
+  {
+    "ids": [
+      "17-001",
+      "17-002",
+      "17-003",
+      "17-004",
+      "17-005"
+    ],
+    "examples": [
+      {
+        "en": "Each item in the safety regulation reflects a legal rule established by law.",
+        "zh": "安全法规中的每一条都体现了法律确立的规则。"
+      },
+      {
+        "en": "The committee reviewed an item of law to clarify the legal basis of the new rule and regulation.",
+        "zh": "委员会审查了一项法律条文，澄清新规则与法规的法律依据。"
+      },
+      {
+        "en": "Legal advisers checked every item to ensure that the school rule complied with the law and the relevant regulation.",
+        "zh": "法律顾问逐项检查，确保校规符合法律和相关法规。"
+      }
+    ],
+    "collocations": {
+      "17-001": [
+        "criminal law",
+        "刑法"
+      ],
+      "17-002": [
+        "legal advice",
+        "法律建议"
+      ],
+      "17-003": [
+        "follow a rule",
+        "遵守规则"
+      ],
+      "17-004": [
+        "safety regulation",
+        "安全法规"
+      ],
+      "17-005": [
+        "an agenda item",
+        "议程项目"
+      ]
+    },
+    "related": [
+      {
+        "word": "compliance",
+        "meaning": "合规",
+        "relation": "同场景"
+      },
+      {
+        "word": "legislation",
+        "meaning": "立法",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-006",
+      "17-007",
+      "17-008",
+      "17-009"
+    ],
+    "examples": [
+      {
+        "en": "The treaty created a shared charter, while a later agreement added a protocol on emissions.",
+        "zh": "条约确立了共同宪章，随后一项协议增加了排放议定书。"
+      },
+      {
+        "en": "Delegates compared the treaty with the organisation's charter before approving the agreement and its protocol.",
+        "zh": "代表们将条约与该组织宪章比较后，批准了协议及其议定书。"
+      },
+      {
+        "en": "The charter requires any new treaty or protocol to receive approval under the existing agreement.",
+        "zh": "宪章要求所有新条约或议定书依照现有协议获得批准。"
+      }
+    ],
+    "collocations": {
+      "17-006": [
+        "sign a treaty",
+        "签署条约"
+      ],
+      "17-007": [
+        "reach an agreement",
+        "达成协议"
+      ],
+      "17-008": [
+        "a founding charter",
+        "创立宪章"
+      ],
+      "17-009": [
+        "an international protocol",
+        "国际议定书"
+      ]
+    },
+    "related": [
+      {
+        "word": "diplomacy",
+        "meaning": "外交",
+        "relation": "同场景"
+      },
+      {
+        "word": "ratification",
+        "meaning": "批准",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-010",
+      "17-011",
+      "17-012",
+      "17-013"
+    ],
+    "examples": [
+      {
+        "en": "The criteria use a national benchmark to define a minimum standard rather than a social norm.",
+        "zh": "这些标准采用全国基准来界定最低水准，而非社会规范。"
+      },
+      {
+        "en": "A social norm may influence the criteria, but the benchmark must reflect an objective standard.",
+        "zh": "社会规范可能影响评判标准，但基准必须体现客观水准。"
+      },
+      {
+        "en": "The panel revised its criteria after finding that the usual norm fell below the benchmark for an acceptable standard.",
+        "zh": "评审组发现惯常规范低于合格水准的基准后，修订了标准。"
+      }
+    ],
+    "collocations": {
+      "17-010": [
+        "a social norm",
+        "社会规范"
+      ],
+      "17-011": [
+        "a performance benchmark",
+        "绩效基准"
+      ],
+      "17-012": [
+        "selection criteria",
+        "选拔标准"
+      ],
+      "17-013": [
+        "a minimum standard",
+        "最低标准"
+      ]
+    },
+    "related": [
+      {
+        "word": "assessment",
+        "meaning": "评估",
+        "relation": "同场景"
+      },
+      {
+        "word": "measurement",
+        "meaning": "测量",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-014",
+      "17-015",
+      "17-016"
+    ],
+    "examples": [
+      {
+        "en": "The permit will allow admission to the research centre.",
+        "zh": "该许可证将允许持有人进入研究中心。"
+      },
+      {
+        "en": "Staff only allow admission when visitors show a valid permit.",
+        "zh": "工作人员只允许出示有效许可证的访客进入。"
+      },
+      {
+        "en": "This permit does not allow free admission to special exhibitions.",
+        "zh": "此许可证不允许免费进入特别展览。"
+      }
+    ],
+    "collocations": {
+      "17-014": [
+        "a parking permit",
+        "停车许可证"
+      ],
+      "17-015": [
+        "allow entry",
+        "允许进入"
+      ],
+      "17-016": [
+        "admission to a museum",
+        "博物馆入场"
+      ]
+    },
+    "related": [
+      {
+        "word": "entry",
+        "meaning": "进入",
+        "relation": "同场景"
+      },
+      {
+        "word": "authorisation",
+        "meaning": "授权",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-017",
+      "17-018",
+      "17-019",
+      "17-020"
+    ],
+    "examples": [
+      {
+        "en": "Banks may reject borrowers who default, while courts enforce lenders' duty to perform contractual obligations.",
+        "zh": "银行可能拒绝违约借款人，而法院强制贷款方履行合同义务。"
+      },
+      {
+        "en": "The agency must perform checks, reject unsuitable applications and enforce repayment terms when borrowers default.",
+        "zh": "机构必须进行检查、拒绝不合适的申请，并在借款人违约时执行还款条款。"
+      },
+      {
+        "en": "If contractors default and reject requests to perform repairs, the council can enforce the agreement.",
+        "zh": "如果承包商违约并拒绝维修要求，市政机构可以强制执行协议。"
+      }
+    ],
+    "collocations": {
+      "17-017": [
+        "perform a duty",
+        "履行职责"
+      ],
+      "17-018": [
+        "enforce a contract",
+        "执行合同"
+      ],
+      "17-019": [
+        "default on a loan",
+        "拖欠贷款"
+      ],
+      "17-020": [
+        "reject an application",
+        "拒绝申请"
+      ]
+    },
+    "related": [
+      {
+        "word": "contract",
+        "meaning": "合同",
+        "relation": "同场景"
+      },
+      {
+        "word": "repayment",
+        "meaning": "还款",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-021",
+      "17-022",
+      "17-023",
+      "17-024"
+    ],
+    "examples": [
+      {
+        "en": "The official notice made training mandatory, creating a potent incentive to overcome the budget constraint.",
+        "zh": "正式通知将培训列为强制要求，形成了克服预算限制的有力激励。"
+      },
+      {
+        "en": "Despite a financial constraint, the official programme retained mandatory inspections as a potent safety measure.",
+        "zh": "尽管财务受限，官方项目仍保留强制检查，作为有力的安全措施。"
+      },
+      {
+        "en": "Mandatory reporting can be a potent constraint on misconduct when supported by official oversight.",
+        "zh": "在官方监督支持下，强制报告能有效约束不当行为。"
+      }
+    ],
+    "collocations": {
+      "17-021": [
+        "a budget constraint",
+        "预算限制"
+      ],
+      "17-022": [
+        "an official notice",
+        "正式通知"
+      ],
+      "17-023": [
+        "mandatory training",
+        "强制培训"
+      ],
+      "17-024": [
+        "a potent incentive",
+        "有力的激励"
+      ]
+    },
+    "related": [
+      {
+        "word": "accountability",
+        "meaning": "问责",
+        "relation": "同场景"
+      },
+      {
+        "word": "inspection",
+        "meaning": "检查",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-025",
+      "17-026"
+    ],
+    "examples": [
+      {
+        "en": "Employers are bound by their obligation to provide a safe workplace.",
+        "zh": "雇主受到提供安全工作场所这一义务的约束。"
+      },
+      {
+        "en": "The agreement leaves both parties bound by an obligation of confidentiality.",
+        "zh": "协议使双方都承担保密义务。"
+      },
+      {
+        "en": "Even volunteers may be bound by an obligation to protect personal data.",
+        "zh": "即使志愿者也可能负有保护个人数据的义务。"
+      }
+    ],
+    "collocations": {
+      "17-025": [
+        "bound by law",
+        "受法律约束"
+      ],
+      "17-026": [
+        "a legal obligation",
+        "法律义务"
+      ]
+    },
+    "related": [
+      {
+        "word": "duty",
+        "meaning": "责任",
+        "relation": "同场景"
+      },
+      {
+        "word": "confidentiality",
+        "meaning": "保密",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-027",
+      "17-028",
+      "17-029",
+      "17-030"
+    ],
+    "examples": [
+      {
+        "en": "The supreme court explained how parliament could legislate and enact a revised law.",
+        "zh": "最高法院解释了议会如何立法并通过修订后的法律。"
+      },
+      {
+        "en": "Lawmakers plan to legislate and enact protections after a supreme court ruling exposed a gap.",
+        "zh": "最高法院裁决暴露法律空缺后，立法者计划制定并通过保护措施。"
+      },
+      {
+        "en": "Before they enact the bill, legislators must consider whether the supreme court permits them to legislate in this area.",
+        "zh": "通过法案前，立法者必须考虑最高法院是否允许他们在此领域立法。"
+      }
+    ],
+    "collocations": {
+      "17-027": [
+        "a civil court",
+        "民事法院"
+      ],
+      "17-028": [
+        "the supreme court",
+        "最高法院"
+      ],
+      "17-029": [
+        "enact legislation",
+        "通过立法"
+      ],
+      "17-030": [
+        "legislate against discrimination",
+        "立法反对歧视"
+      ]
+    },
+    "related": [
+      {
+        "word": "parliament",
+        "meaning": "议会",
+        "relation": "同场景"
+      },
+      {
+        "word": "constitution",
+        "meaning": "宪法",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-031",
+      "17-032",
+      "17-033",
+      "17-034",
+      "17-035"
+    ],
+    "examples": [
+      {
+        "en": "A just society promotes equity through fair policies that challenge prejudice and discrimination.",
+        "zh": "公正社会通过挑战偏见和歧视的公平政策促进平等。"
+      },
+      {
+        "en": "Equity requires a fair hearing and a just decision free from prejudice and discrimination.",
+        "zh": "公平需要不受偏见和歧视影响的公正听证与判决。"
+      },
+      {
+        "en": "The campaign links equity to a just workplace where fair recruitment reduces prejudice and discrimination.",
+        "zh": "运动把公平与公正职场联系起来，在那里公平招聘能减少偏见和歧视。"
+      }
+    ],
+    "collocations": {
+      "17-031": [
+        "equity in education",
+        "教育公平"
+      ],
+      "17-032": [
+        "a fair hearing",
+        "公正听证"
+      ],
+      "17-033": [
+        "a just society",
+        "公正社会"
+      ],
+      "17-034": [
+        "racial prejudice",
+        "种族偏见"
+      ],
+      "17-035": [
+        "gender discrimination",
+        "性别歧视"
+      ]
+    },
+    "related": [
+      {
+        "word": "equal opportunity",
+        "meaning": "平等机会",
+        "relation": "同场景"
+      },
+      {
+        "word": "inclusion",
+        "meaning": "包容",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-036",
+      "17-037",
+      "17-038"
+    ],
+    "examples": [
+      {
+        "en": "Victims may accuse the company of negligence and sue for damages, while authorities decide whether to prosecute.",
+        "zh": "受害者可指控公司疏忽并起诉索赔，由当局决定是否提起公诉。"
+      },
+      {
+        "en": "To accuse someone is not necessarily to sue them or persuade the state to prosecute.",
+        "zh": "指控某人不一定意味着对其起诉，也不意味着说服国家提起公诉。"
+      },
+      {
+        "en": "The report prompted residents to accuse the operator of misconduct, sue the firm and ask regulators to prosecute.",
+        "zh": "报告促使居民指控运营商违规、起诉公司，并要求监管机构提起公诉。"
+      }
+    ],
+    "collocations": {
+      "17-036": [
+        "accuse someone of theft",
+        "指控某人盗窃"
+      ],
+      "17-037": [
+        "sue for damages",
+        "起诉索赔"
+      ],
+      "17-038": [
+        "prosecute an offender",
+        "起诉违法者"
+      ]
+    },
+    "related": [
+      {
+        "word": "defendant",
+        "meaning": "被告",
+        "relation": "同场景"
+      },
+      {
+        "word": "damages",
+        "meaning": "损害赔偿",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-039",
+      "17-040",
+      "17-041"
+    ],
+    "examples": [
+      {
+        "en": "Consumers may complain, condemn unfair practices and boycott the brand.",
+        "zh": "消费者可能投诉、谴责不公平做法，并抵制该品牌。"
+      },
+      {
+        "en": "Workers decided to complain formally rather than simply condemn the company or boycott its products.",
+        "zh": "工人决定正式投诉，而非只是谴责公司或抵制其产品。"
+      },
+      {
+        "en": "Campaigners condemn pollution, complain to regulators and encourage people to boycott irresponsible firms.",
+        "zh": "活动人士谴责污染，向监管者投诉，并鼓励公众抵制不负责任的企业。"
+      }
+    ],
+    "collocations": {
+      "17-039": [
+        "condemn violence",
+        "谴责暴力"
+      ],
+      "17-040": [
+        "complain about service",
+        "投诉服务"
+      ],
+      "17-041": [
+        "boycott a brand",
+        "抵制品牌"
+      ]
+    },
+    "related": [
+      {
+        "word": "consumer action",
+        "meaning": "消费者行动",
+        "relation": "同场景"
+      },
+      {
+        "word": "protest",
+        "meaning": "抗议",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-042",
+      "17-043",
+      "17-044",
+      "17-045"
+    ],
+    "examples": [
+      {
+        "en": "At the session, lawyers tried to mediate after a plea for compromise and before the appeal.",
+        "zh": "会上，律师在有人请求妥协后、上诉之前尝试调解。"
+      },
+      {
+        "en": "The judge heard a plea to mediate the dispute during a session devoted to the appeal.",
+        "zh": "法官在专门处理上诉的庭审中听取了调解争端的请求。"
+      },
+      {
+        "en": "A final session may mediate a settlement if both parties accept the plea to suspend the appeal.",
+        "zh": "如果双方接受暂停上诉的请求，最后一次会议可能促成调解和解。"
+      }
+    ],
+    "collocations": {
+      "17-042": [
+        "a mediation session",
+        "调解会议"
+      ],
+      "17-043": [
+        "mediate a dispute",
+        "调解争端"
+      ],
+      "17-044": [
+        "make a plea",
+        "提出请求"
+      ],
+      "17-045": [
+        "file an appeal",
+        "提起上诉"
+      ]
+    },
+    "related": [
+      {
+        "word": "settlement",
+        "meaning": "和解",
+        "relation": "同场景"
+      },
+      {
+        "word": "compromise",
+        "meaning": "妥协",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-046",
+      "17-047",
+      "17-048"
+    ],
+    "examples": [
+      {
+        "en": "The controversy grew when experts used new data to contradict claims and persuade the public.",
+        "zh": "专家用新数据反驳主张并说服公众时，争议扩大了。"
+      },
+      {
+        "en": "To resolve the controversy, we must contradict false allegations and persuade both sides to examine the evidence.",
+        "zh": "为解决争议，我们必须反驳虚假指控，并说服双方审查证据。"
+      },
+      {
+        "en": "An emotional speech may persuade supporters, but facts that contradict it can prolong the controversy.",
+        "zh": "煽情演讲也许能说服支持者，但与之矛盾的事实可能延长争议。"
+      }
+    ],
+    "collocations": {
+      "17-046": [
+        "contradict a claim",
+        "反驳主张"
+      ],
+      "17-047": [
+        "persuade an audience",
+        "说服听众"
+      ],
+      "17-048": [
+        "a public controversy",
+        "公共争议"
+      ]
+    },
+    "related": [
+      {
+        "word": "evidence",
+        "meaning": "证据",
+        "relation": "同场景"
+      },
+      {
+        "word": "allegation",
+        "meaning": "指控",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-049",
+      "17-050",
+      "17-051"
+    ],
+    "examples": [
+      {
+        "en": "A whisper from the gallery became a murmur, prompting the clerk to mutter a warning.",
+        "zh": "旁听席的一声耳语变成低语声，令书记员低声发出警告。"
+      },
+      {
+        "en": "Please do not whisper or mutter while the witness speaks, even if you hear a murmur of disagreement.",
+        "zh": "证人发言时，即使听到低声异议，也请不要耳语或嘟哝。"
+      },
+      {
+        "en": "The actor changed a whisper into a murmur before beginning to mutter in frustration.",
+        "zh": "演员先从耳语转为低语，随后沮丧地嘟哝起来。"
+      }
+    ],
+    "collocations": {
+      "17-049": [
+        "whisper quietly",
+        "低声耳语"
+      ],
+      "17-050": [
+        "mutter a complaint",
+        "小声抱怨"
+      ],
+      "17-051": [
+        "a murmur of agreement",
+        "低声赞同"
+      ]
+    },
+    "related": [
+      {
+        "word": "tone of voice",
+        "meaning": "语气",
+        "relation": "同场景"
+      },
+      {
+        "word": "audience",
+        "meaning": "听众",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-052",
+      "17-053"
+    ],
+    "examples": [
+      {
+        "en": "The room remained silent because every microphone was on mute.",
+        "zh": "由于每个麦克风都处于静音状态，房间里一片寂静。"
+      },
+      {
+        "en": "Please keep your phone silent and your microphone on mute during the hearing.",
+        "zh": "听证时，请将手机调为静音，并关闭麦克风。"
+      },
+      {
+        "en": "The silent recording showed the witness speaking with the audio on mute.",
+        "zh": "这段无声录像显示证人在讲话，但音频被静音了。"
+      }
+    ],
+    "collocations": {
+      "17-052": [
+        "remain silent",
+        "保持沉默"
+      ],
+      "17-053": [
+        "on mute",
+        "处于静音状态"
+      ]
+    },
+    "related": [
+      {
+        "word": "microphone",
+        "meaning": "麦克风",
+        "relation": "同场景"
+      },
+      {
+        "word": "recording",
+        "meaning": "录音",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-054",
+      "17-055",
+      "17-056"
+    ],
+    "examples": [
+      {
+        "en": "Police must investigate the witness account before using it to justify an arrest.",
+        "zh": "警方必须调查证人的陈述，才能据此证明逮捕正当。"
+      },
+      {
+        "en": "A witness asked the agency to investigate whether the evidence could justify its decision.",
+        "zh": "一位证人请该机构调查证据是否足以证明其决定正当。"
+      },
+      {
+        "en": "Officials will investigate the complaint and ask the witness to justify the allegation.",
+        "zh": "官员将调查投诉，并要求证人说明指控依据。"
+      }
+    ],
+    "collocations": {
+      "17-054": [
+        "investigate a complaint",
+        "调查投诉"
+      ],
+      "17-055": [
+        "a reliable witness",
+        "可靠证人"
+      ],
+      "17-056": [
+        "justify a decision",
+        "证明决定正当"
+      ]
+    },
+    "related": [
+      {
+        "word": "testimony",
+        "meaning": "证词",
+        "relation": "同场景"
+      },
+      {
+        "word": "investigation",
+        "meaning": "调查",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-057",
+      "17-058",
+      "17-059"
+    ],
+    "examples": [
+      {
+        "en": "A reasonable investigation needs suitable methods to distinguish a false claim from a genuine one.",
+        "zh": "合理调查需要合适方法来区分虚假与真实主张。"
+      },
+      {
+        "en": "It is reasonable to seek suitable evidence before declaring a statement false.",
+        "zh": "在认定陈述虚假之前寻找合适证据是合理的。"
+      },
+      {
+        "en": "The adviser rejected the false accusation and suggested a suitable, reasonable response.",
+        "zh": "顾问否定了虚假指控，并建议作出合适而合理的回应。"
+      }
+    ],
+    "collocations": {
+      "17-057": [
+        "a reasonable explanation",
+        "合理解释"
+      ],
+      "17-058": [
+        "suitable evidence",
+        "合适的证据"
+      ],
+      "17-059": [
+        "a false statement",
+        "虚假陈述"
+      ]
+    },
+    "related": [
+      {
+        "word": "verification",
+        "meaning": "核实",
+        "relation": "同场景"
+      },
+      {
+        "word": "accuracy",
+        "meaning": "准确性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-060",
+      "17-061",
+      "17-062",
+      "17-063",
+      "17-064"
+    ],
+    "examples": [
+      {
+        "en": "At the trial, the jury considered the suspect's guilt before the judge imposed a sentence.",
+        "zh": "庭审中，陪审团先认定嫌疑人是否有罪，随后法官作出判决。"
+      },
+      {
+        "en": "The judge reminded the jury that a suspect must receive a fair trial before any sentence.",
+        "zh": "法官提醒陪审团，嫌疑人在任何判刑之前都必须接受公正审判。"
+      },
+      {
+        "en": "A sentence followed only after the jury found the suspect guilty at a trial overseen by the judge.",
+        "zh": "只有在法官主持的审判中，陪审团认定嫌疑人有罪后，才会作出刑罚判决。"
+      }
+    ],
+    "collocations": {
+      "17-060": [
+        "a trial judge",
+        "审判法官"
+      ],
+      "17-061": [
+        "a jury verdict",
+        "陪审团裁决"
+      ],
+      "17-062": [
+        "a fair trial",
+        "公正审判"
+      ],
+      "17-063": [
+        "a prime suspect",
+        "主要嫌疑人"
+      ],
+      "17-064": [
+        "a prison sentence",
+        "监禁判决"
+      ]
+    },
+    "related": [
+      {
+        "word": "verdict",
+        "meaning": "裁决",
+        "relation": "同场景"
+      },
+      {
+        "word": "presumption of innocence",
+        "meaning": "无罪推定",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-065",
+      "17-066",
+      "17-067",
+      "17-068"
+    ],
+    "examples": [
+      {
+        "en": "An arrest does not automatically permit officials to confine someone in jail or prison indefinitely.",
+        "zh": "逮捕并不自动允许官员无限期将某人关在看守所或监狱。"
+      },
+      {
+        "en": "The report followed an arrest through detention in jail to a court order to confine the offender in prison.",
+        "zh": "报告追踪了从逮捕、看守所拘留，到法院下令将罪犯关入监狱的过程。"
+      },
+      {
+        "en": "Before they arrest and confine a person in jail, officers must explain the grounds for detention and possible prison proceedings.",
+        "zh": "逮捕并将某人关入看守所前，警员必须说明拘留依据及可能的监禁程序。"
+      }
+    ],
+    "collocations": {
+      "17-065": [
+        "make an arrest",
+        "实施逮捕"
+      ],
+      "17-066": [
+        "send to jail",
+        "送进监狱"
+      ],
+      "17-067": [
+        "a prison cell",
+        "牢房"
+      ],
+      "17-068": [
+        "confine a prisoner",
+        "关押囚犯"
+      ]
+    },
+    "related": [
+      {
+        "word": "detention",
+        "meaning": "拘留",
+        "relation": "同场景"
+      },
+      {
+        "word": "due process",
+        "meaning": "正当程序",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-069",
+      "17-070",
+      "17-071",
+      "17-072"
+    ],
+    "examples": [
+      {
+        "en": "Senior officers oversee security, supervise guards, restrict access and restrain violent visitors.",
+        "zh": "高级警官监管安全、监督警卫、限制进入并制止暴力访客。"
+      },
+      {
+        "en": "Inspectors who oversee the centre must supervise staff who restrict movement or restrain residents.",
+        "zh": "监管中心的检查员必须监督那些限制行动或约束住民的工作人员。"
+      },
+      {
+        "en": "To oversee the event safely, organisers will supervise volunteers, restrict entry and restrain anyone attempting violence.",
+        "zh": "为安全监管活动，组织者将监督志愿者、限制入场，并制止任何企图施暴的人。"
+      }
+    ],
+    "collocations": {
+      "17-069": [
+        "oversee a project",
+        "监督项目"
+      ],
+      "17-070": [
+        "supervise staff",
+        "监督员工"
+      ],
+      "17-071": [
+        "restrict access",
+        "限制进入"
+      ],
+      "17-072": [
+        "restrain violent behaviour",
+        "制止暴力行为"
+      ]
+    },
+    "related": [
+      {
+        "word": "oversight",
+        "meaning": "监督",
+        "relation": "同场景"
+      },
+      {
+        "word": "public safety",
+        "meaning": "公共安全",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-073",
+      "17-074",
+      "17-075",
+      "17-076"
+    ],
+    "examples": [
+      {
+        "en": "A vice is not always a crime, and beliefs about sin do not determine whether someone can commit an offence.",
+        "zh": "恶习不总是犯罪，对罪孽的看法也不决定一个人的行为是否违法。"
+      },
+      {
+        "en": "The essay asks why people commit a crime and how society distinguishes crime from sin or vice.",
+        "zh": "文章探讨人们为何犯罪，以及社会如何区分犯罪、罪孽与恶习。"
+      },
+      {
+        "en": "Religious leaders may condemn a vice as sin even when people who commit it do not commit a crime.",
+        "zh": "宗教领袖可能把某种恶习谴责为罪孽，即使犯此行为的人并未犯罪。"
+      }
+    ],
+    "collocations": {
+      "17-073": [
+        "commit a crime",
+        "犯罪"
+      ],
+      "17-074": [
+        "a mortal sin",
+        "严重罪孽"
+      ],
+      "17-075": [
+        "prevent crime",
+        "预防犯罪"
+      ],
+      "17-076": [
+        "a personal vice",
+        "个人恶习"
+      ]
+    },
+    "related": [
+      {
+        "word": "morality",
+        "meaning": "道德",
+        "relation": "同场景"
+      },
+      {
+        "word": "offence",
+        "meaning": "违法行为",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-077",
+      "17-078",
+      "17-079",
+      "17-080",
+      "17-081"
+    ],
+    "examples": [
+      {
+        "en": "The thief refused to accept a bribe from a pirate who wanted help to rob a warehouse and steal supplies.",
+        "zh": "窃贼拒绝了海盗的贿赂；海盗想让他帮助抢劫仓库、窃取物资。"
+      },
+      {
+        "en": "A pirate may bribe a guard, a thief may steal cargo, and armed raiders may rob the crew.",
+        "zh": "海盗可能贿赂守卫，窃贼可能偷货，而武装袭击者可能抢劫船员。"
+      },
+      {
+        "en": "The novel follows a thief who must choose whether to take a bribe, join a pirate and rob ships to steal gold.",
+        "zh": "小说描写一个窃贼，面对是否收受贿赂、加入海盗并抢船偷金的抉择。"
+      }
+    ],
+    "collocations": {
+      "17-077": [
+        "accept a bribe",
+        "受贿"
+      ],
+      "17-078": [
+        "rob a bank",
+        "抢银行"
+      ],
+      "17-079": [
+        "a pirate ship",
+        "海盗船"
+      ],
+      "17-080": [
+        "steal money",
+        "偷钱"
+      ],
+      "17-081": [
+        "a convicted thief",
+        "被定罪的窃贼"
+      ]
+    },
+    "related": [
+      {
+        "word": "theft",
+        "meaning": "盗窃",
+        "relation": "同场景"
+      },
+      {
+        "word": "robbery",
+        "meaning": "抢劫",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-082"
+    ],
+    "examples": [
+      {
+        "en": "The murder investigation continued for several months.",
+        "zh": "谋杀案调查持续了数月。"
+      },
+      {
+        "en": "The witness provided evidence in a murder trial.",
+        "zh": "证人在谋杀案审判中提供了证据。"
+      },
+      {
+        "en": "The detective novel begins with a murder in a remote village.",
+        "zh": "这部侦探小说以偏远村庄的一起谋杀案开篇。"
+      }
+    ],
+    "collocations": {
+      "17-082": [
+        "a murder investigation",
+        "谋杀案调查"
+      ]
+    },
+    "related": [
+      {
+        "word": "detective",
+        "meaning": "侦探",
+        "relation": "同场景"
+      },
+      {
+        "word": "homicide",
+        "meaning": "杀人案件",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-083"
+    ],
+    "examples": [
+      {
+        "en": "The charity funds research into suicide prevention.",
+        "zh": "这家慈善机构资助自杀预防研究。"
+      },
+      {
+        "en": "The campaign aims to reduce the stigma surrounding suicide.",
+        "zh": "该宣传活动旨在减少围绕自杀的污名。"
+      },
+      {
+        "en": "The report treats suicide as a public health concern.",
+        "zh": "报告将自杀视为公共健康问题。"
+      }
+    ],
+    "collocations": {
+      "17-083": [
+        "suicide prevention",
+        "自杀预防"
+      ]
+    },
+    "related": [
+      {
+        "word": "mental health",
+        "meaning": "心理健康",
+        "relation": "同场景"
+      },
+      {
+        "word": "social support",
+        "meaning": "社会支持",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-084",
+      "17-085",
+      "17-086",
+      "17-087"
+    ],
+    "examples": [
+      {
+        "en": "A liar may deceive investors, cheat customers and commit fraud.",
+        "zh": "说谎者可能欺骗投资者、坑骗顾客并实施诈骗。"
+      },
+      {
+        "en": "The inquiry examined how the liar used fraud to deceive lenders and cheat elderly clients.",
+        "zh": "调查考察了这位说谎者如何通过诈骗欺骗贷款方并坑害老年客户。"
+      },
+      {
+        "en": "Calling someone a liar does not prove fraud; investigators must show an attempt to deceive or cheat.",
+        "zh": "称某人为说谎者并不能证明诈骗；调查人员必须证实其欺骗或坑害的企图。"
+      }
+    ],
+    "collocations": {
+      "17-084": [
+        "deceive investors",
+        "欺骗投资者"
+      ],
+      "17-085": [
+        "cheat in an exam",
+        "考试作弊"
+      ],
+      "17-086": [
+        "financial fraud",
+        "金融诈骗"
+      ],
+      "17-087": [
+        "a habitual liar",
+        "惯于说谎者"
+      ]
+    },
+    "related": [
+      {
+        "word": "dishonesty",
+        "meaning": "不诚实",
+        "relation": "同场景"
+      },
+      {
+        "word": "scam",
+        "meaning": "骗局",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-088",
+      "17-089",
+      "17-090",
+      "17-091"
+    ],
+    "examples": [
+      {
+        "en": "Scammers pretend to be officials and use a trick to fool people into a financial trap.",
+        "zh": "骗子假扮官员，用诡计愚弄人们，使其落入金融圈套。"
+      },
+      {
+        "en": "Do not pretend that this trick can fool an experienced investigator into your trap.",
+        "zh": "别装作这招能骗得有经验的调查员落入你的圈套。"
+      },
+      {
+        "en": "The fraudsters' trick was to pretend to offer help, fool the victim and draw her into a trap.",
+        "zh": "诈骗者的诡计是假装提供帮助，欺骗受害者，让她落入圈套。"
+      }
+    ],
+    "collocations": {
+      "17-088": [
+        "fall into a trap",
+        "落入圈套"
+      ],
+      "17-089": [
+        "play a trick",
+        "耍花招"
+      ],
+      "17-090": [
+        "pretend to agree",
+        "假装同意"
+      ],
+      "17-091": [
+        "fool the public",
+        "愚弄公众"
+      ]
+    },
+    "related": [
+      {
+        "word": "impersonation",
+        "meaning": "冒充",
+        "relation": "同场景"
+      },
+      {
+        "word": "victim",
+        "meaning": "受害者",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-092",
+      "17-093",
+      "17-094",
+      "17-095"
+    ],
+    "examples": [
+      {
+        "en": "The programme helps former offenders confess mistakes, confront stigma, conform to lawful standards and reconcile with families.",
+        "zh": "该项目帮助有前科者承认错误、面对污名、遵守合法标准并与家人和解。"
+      },
+      {
+        "en": "Fear of stigma may stop people from trying to confess, conform to new rules or reconcile with former friends.",
+        "zh": "对污名的恐惧可能阻止人们坦白、遵守新规则或与旧友和解。"
+      },
+      {
+        "en": "Counsellors encourage participants to confess honestly and reconcile their values with social expectations without forcing them to conform through stigma.",
+        "zh": "咨询师鼓励参与者诚实坦白、调和价值观与社会期望，而非用污名迫使他们顺从。"
+      }
+    ],
+    "collocations": {
+      "17-092": [
+        "social stigma",
+        "社会污名"
+      ],
+      "17-093": [
+        "confess to a crime",
+        "认罪"
+      ],
+      "17-094": [
+        "conform to expectations",
+        "顺应期望"
+      ],
+      "17-095": [
+        "reconcile differences",
+        "调和分歧"
+      ]
+    },
+    "related": [
+      {
+        "word": "reintegration",
+        "meaning": "重新融入社会",
+        "relation": "同场景"
+      },
+      {
+        "word": "forgiveness",
+        "meaning": "宽恕",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-096",
+      "17-097"
+    ],
+    "examples": [
+      {
+        "en": "Officials must obey the law and refuse to succumb to political pressure.",
+        "zh": "官员必须遵守法律，并拒绝屈服于政治压力。"
+      },
+      {
+        "en": "Citizens should not have to succumb to intimidation simply to obey an unjust order.",
+        "zh": "公民不应仅为服从不公命令而被迫屈服于恐吓。"
+      },
+      {
+        "en": "The witness chose to obey the court rather than succumb to threats.",
+        "zh": "证人选择服从法院，而非屈服于威胁。"
+      }
+    ],
+    "collocations": {
+      "17-096": [
+        "obey the law",
+        "遵守法律"
+      ],
+      "17-097": [
+        "succumb to pressure",
+        "屈服于压力"
+      ]
+    },
+    "related": [
+      {
+        "word": "compliance",
+        "meaning": "遵从",
+        "relation": "同场景"
+      },
+      {
+        "word": "intimidation",
+        "meaning": "恐吓",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-098",
+      "17-099"
+    ],
+    "examples": [
+      {
+        "en": "The penalty for illegal parking is a fine.",
+        "zh": "违法停车的处罚是罚款。"
+      },
+      {
+        "en": "A small fine may be an ineffective penalty for a wealthy company.",
+        "zh": "小额罚款对富裕公司可能是无效的处罚。"
+      },
+      {
+        "en": "The court replaced the fine with another penalty after reviewing the offender's circumstances.",
+        "zh": "法院审查违法者情况后，用另一种处罚代替罚款。"
+      }
+    ],
+    "collocations": {
+      "17-098": [
+        "a financial penalty",
+        "经济处罚"
+      ],
+      "17-099": [
+        "pay a fine",
+        "缴纳罚款"
+      ]
+    },
+    "related": [
+      {
+        "word": "deterrent",
+        "meaning": "威慑",
+        "relation": "同场景"
+      },
+      {
+        "word": "enforcement",
+        "meaning": "执法",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-100",
+      "17-101",
+      "17-102",
+      "17-103"
+    ],
+    "examples": [
+      {
+        "en": "The seminar covered home ownership, mortgage costs, copyright and the privilege of using protected material.",
+        "zh": "研讨会讨论了住房所有权、按揭成本、版权，以及使用受保护材料的特殊权利。"
+      },
+      {
+        "en": "A mortgage affects property ownership, while copyright determines who has the privilege of reproducing a work.",
+        "zh": "按揭影响房产所有权，而版权决定谁有复制作品的特殊权利。"
+      },
+      {
+        "en": "The lawyer distinguished a mortgage from ownership and a copyright licence from an automatic privilege.",
+        "zh": "律师区分了按揭与所有权，也区分了版权许可与自动享有的特权。"
+      }
+    ],
+    "collocations": {
+      "17-100": [
+        "a mortgage payment",
+        "按揭还款"
+      ],
+      "17-101": [
+        "property ownership",
+        "财产所有权"
+      ],
+      "17-102": [
+        "copyright protection",
+        "版权保护"
+      ],
+      "17-103": [
+        "a special privilege",
+        "特殊权利"
+      ]
+    },
+    "related": [
+      {
+        "word": "intellectual property",
+        "meaning": "知识产权",
+        "relation": "同场景"
+      },
+      {
+        "word": "licence",
+        "meaning": "许可",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-104"
+    ],
+    "examples": [
+      {
+        "en": "The association will accredit colleges that meet its standards.",
+        "zh": "该协会将认证符合其标准的学院。"
+      },
+      {
+        "en": "Independent inspectors assess schools before authorities accredit them.",
+        "zh": "当局认证学校前，由独立检查员进行评估。"
+      },
+      {
+        "en": "The agency can accredit training providers after a detailed review.",
+        "zh": "该机构可在详细审核后认证培训机构。"
+      }
+    ],
+    "collocations": {
+      "17-104": [
+        "accredit an institution",
+        "认证机构"
+      ]
+    },
+    "related": [
+      {
+        "word": "accreditation",
+        "meaning": "认证",
+        "relation": "同场景"
+      },
+      {
+        "word": "quality assurance",
+        "meaning": "质量保障",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-105",
+      "17-106",
+      "17-107",
+      "17-108"
+    ],
+    "examples": [
+      {
+        "en": "An anonymous source with access to the files supplied a genuine clue.",
+        "zh": "有权查阅档案的匿名消息来源提供了一条真实线索。"
+      },
+      {
+        "en": "Investigators need access to records to check whether an anonymous clue is genuine.",
+        "zh": "调查人员需查阅档案，核实匿名线索是否真实。"
+      },
+      {
+        "en": "The genuine clue came from an anonymous employee whose access to the archive was limited.",
+        "zh": "真实线索来自一名查阅档案权限有限的匿名员工。"
+      }
+    ],
+    "collocations": {
+      "17-105": [
+        "a vital clue",
+        "关键线索"
+      ],
+      "17-106": [
+        "access to records",
+        "查阅档案的权限"
+      ],
+      "17-107": [
+        "an anonymous source",
+        "匿名消息来源"
+      ],
+      "17-108": [
+        "genuine evidence",
+        "真实证据"
+      ]
+    },
+    "related": [
+      {
+        "word": "verification",
+        "meaning": "核实",
+        "relation": "同场景"
+      },
+      {
+        "word": "source protection",
+        "meaning": "消息来源保护",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-109",
+      "17-110",
+      "17-111"
+    ],
+    "examples": [
+      {
+        "en": "Ignoring a routine procedure can have a serious consequence.",
+        "zh": "忽视例行程序可能造成严重后果。"
+      },
+      {
+        "en": "The new procedure makes safety checks routine and reduces the chance of an unintended consequence.",
+        "zh": "新程序将安全检查常规化，降低意外后果的可能性。"
+      },
+      {
+        "en": "A routine review found that the complaint procedure had a damaging consequence for vulnerable applicants.",
+        "zh": "例行审查发现，投诉程序对弱势申请者产生了有害后果。"
+      }
+    ],
+    "collocations": {
+      "17-109": [
+        "follow a procedure",
+        "遵循程序"
+      ],
+      "17-110": [
+        "a routine check",
+        "例行检查"
+      ],
+      "17-111": [
+        "an unintended consequence",
+        "意外后果"
+      ]
+    },
+    "related": [
+      {
+        "word": "process",
+        "meaning": "流程",
+        "relation": "同场景"
+      },
+      {
+        "word": "review",
+        "meaning": "审查",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-112",
+      "17-113",
+      "17-114",
+      "17-115"
+    ],
+    "examples": [
+      {
+        "en": "Residents demand action, submit a request and sign a petition to require a formal response.",
+        "zh": "居民要求行动、提交请求并签署请愿书，以要求正式回应。"
+      },
+      {
+        "en": "The petition makes a clear demand, while officials require evidence before accepting the request.",
+        "zh": "请愿书提出明确要求，而官员在接受请求前要求提供证据。"
+      },
+      {
+        "en": "A request can become a public demand when residents petition the council to require safer roads.",
+        "zh": "居民请愿要求市政机构改善道路安全时，一项请求可能成为公众诉求。"
+      }
+    ],
+    "collocations": {
+      "17-112": [
+        "demand an explanation",
+        "要求解释"
+      ],
+      "17-113": [
+        "make a request",
+        "提出请求"
+      ],
+      "17-114": [
+        "require evidence",
+        "要求证据"
+      ],
+      "17-115": [
+        "sign a petition",
+        "签请愿书"
+      ]
+    },
+    "related": [
+      {
+        "word": "civic participation",
+        "meaning": "公民参与",
+        "relation": "同场景"
+      },
+      {
+        "word": "representation",
+        "meaning": "代表权",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "17-116",
+      "17-117"
+    ],
+    "examples": [
+      {
+        "en": "The officer will take command and instruct the rescue team.",
+        "zh": "该警官将接管指挥并指导救援队。"
+      },
+      {
+        "en": "A clear command should instruct staff without causing confusion.",
+        "zh": "明确的命令应指导员工，而不造成混乱。"
+      },
+      {
+        "en": "Those in command must instruct new recruits in emergency procedures.",
+        "zh": "指挥人员必须指导新成员学习紧急程序。"
+      }
+    ],
+    "collocations": {
+      "17-116": [
+        "take command",
+        "接管指挥"
+      ],
+      "17-117": [
+        "instruct a team",
+        "指导团队"
+      ]
+    },
+    "related": [
+      {
+        "word": "leadership",
+        "meaning": "领导",
+        "relation": "同场景"
+      },
+      {
+        "word": "training",
+        "meaning": "培训",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

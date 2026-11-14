@@ -1,0 +1,1532 @@
+[
+  {
+    "ids": [
+      "06-001",
+      "06-002",
+      "06-003",
+      "06-004",
+      "06-005"
+    ],
+    "examples": [
+      {
+        "en": "An engineer at the polytechnic taught a mechanic a technique using laser technology.",
+        "zh": "理工学院的一位工程师教了一名机械师一种使用激光技术的方法。"
+      },
+      {
+        "en": "The polytechnic invited an engineer and a mechanic to demonstrate a new technique in automotive technology.",
+        "zh": "理工学院邀请一位工程师和一名机械师演示汽车技术中的一种新方法。"
+      },
+      {
+        "en": "A mechanic and an engineer refined the technique before introducing the technology at a polytechnic.",
+        "zh": "一名机械师与一位工程师完善了该方法，然后在一所理工学院推广这项技术。"
+      }
+    ],
+    "collocations": {
+      "06-001": [
+        "renewable energy technology",
+        "可再生能源技术"
+      ],
+      "06-002": [
+        "a welding technique",
+        "焊接技术"
+      ],
+      "06-003": [
+        "a polytechnic institute",
+        "理工学院"
+      ],
+      "06-004": [
+        "a civil engineer",
+        "土木工程师"
+      ],
+      "06-005": [
+        "a skilled mechanic",
+        "熟练的机械师"
+      ]
+    },
+    "related": [
+      {
+        "word": "engineering",
+        "meaning": "工程学",
+        "relation": "词形"
+      },
+      {
+        "word": "workshop",
+        "meaning": "车间",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-006",
+      "06-007",
+      "06-008"
+    ],
+    "examples": [
+      {
+        "en": "To advance battery research, companies must innovate rather than wait for a breakthrough.",
+        "zh": "为推动电池研究，公司必须创新，而非等待突破。"
+      },
+      {
+        "en": "A breakthrough can advance an entire industry and encourage smaller firms to innovate.",
+        "zh": "一次突破能够推动整个行业发展，并鼓励小公司创新。"
+      },
+      {
+        "en": "Scientists who innovate gradually may advance knowledge without achieving a dramatic breakthrough.",
+        "zh": "逐步创新的科学家即使未取得重大突破，也可能推动知识进步。"
+      }
+    ],
+    "collocations": {
+      "06-006": [
+        "an advance in medicine",
+        "医学进展"
+      ],
+      "06-007": [
+        "innovate continuously",
+        "不断创新"
+      ],
+      "06-008": [
+        "a technological breakthrough",
+        "技术突破"
+      ]
+    },
+    "related": [
+      {
+        "word": "innovation",
+        "meaning": "创新",
+        "relation": "词形"
+      },
+      {
+        "word": "progress",
+        "meaning": "进步",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-009",
+      "06-010",
+      "06-011",
+      "06-012",
+      "06-013"
+    ],
+    "examples": [
+      {
+        "en": "To invent a useful gizmo, we must discover better materials and devise a design worthy of a patent.",
+        "zh": "要发明实用的小装置，我们必须发现更好的材料，并设计出值得申请专利的方案。"
+      },
+      {
+        "en": "An engineer may discover a fault, devise a remedy, and invent a gizmo protected by a patent.",
+        "zh": "工程师可能发现故障、设计补救方法，并发明出受专利保护的小装置。"
+      },
+      {
+        "en": "They hope to discover a new coating, devise a cheaper process and invent a gizmo eligible for a patent.",
+        "zh": "他们希望发现新涂层、设计更廉价的工艺，并发明可申请专利的小装置。"
+      }
+    ],
+    "collocations": {
+      "06-009": [
+        "a useful gizmo",
+        "实用小装置"
+      ],
+      "06-010": [
+        "apply for a patent",
+        "申请专利"
+      ],
+      "06-011": [
+        "devise a solution",
+        "设计解决方案"
+      ],
+      "06-012": [
+        "invent a device",
+        "发明装置"
+      ],
+      "06-013": [
+        "discover a material",
+        "发现材料"
+      ]
+    },
+    "related": [
+      {
+        "word": "invention",
+        "meaning": "发明",
+        "relation": "词形"
+      },
+      {
+        "word": "prototype",
+        "meaning": "原型",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-014",
+      "06-015",
+      "06-016",
+      "06-017"
+    ],
+    "examples": [
+      {
+        "en": "An independent audit may uncover defects, reveal their cause, expose safety risks and disclose hidden costs.",
+        "zh": "独立审计可能发现缺陷、揭示原因、揭露安全风险并披露隐性成本。"
+      },
+      {
+        "en": "The team will uncover the facts, reveal its findings, expose any fraud and disclose the evidence publicly.",
+        "zh": "团队将查明事实、公布发现、揭露任何欺诈并公开证据。"
+      },
+      {
+        "en": "Tests can uncover a weakness and reveal how to fix it before engineers expose the device to stress or disclose results.",
+        "zh": "测试能发现薄弱点并揭示修复办法，然后工程师才会让设备承受压力或公布结果。"
+      }
+    ],
+    "collocations": {
+      "06-014": [
+        "disclose information",
+        "披露信息"
+      ],
+      "06-015": [
+        "reveal a flaw",
+        "揭示缺陷"
+      ],
+      "06-016": [
+        "uncover evidence",
+        "发现证据"
+      ],
+      "06-017": [
+        "expose a risk",
+        "揭露风险"
+      ]
+    },
+    "related": [
+      {
+        "word": "disclosure",
+        "meaning": "披露",
+        "relation": "词形"
+      },
+      {
+        "word": "investigation",
+        "meaning": "调查",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-018",
+      "06-019",
+      "06-020",
+      "06-021"
+    ],
+    "examples": [
+      {
+        "en": "A solid foundation in physics helps researchers enter a new field within the broader realm of technology and its scientific domain.",
+        "zh": "扎实的物理基础有助于研究者进入技术及其科学范畴中的新研究领域。"
+      },
+      {
+        "en": "In this field, basic mathematics provides the foundation for work in the domain of robotics and the realm of artificial intelligence.",
+        "zh": "在这个领域，基础数学为机器人领域和人工智能领域的工作奠定基础。"
+      },
+      {
+        "en": "Her foundation in biology supports a research field that crosses the medical domain and the realm of engineering.",
+        "zh": "她的生物学基础支撑着一项跨越医学领域和工程领域的研究。"
+      }
+    ],
+    "collocations": {
+      "06-018": [
+        "the public domain",
+        "公共领域"
+      ],
+      "06-019": [
+        "a research field",
+        "研究领域"
+      ],
+      "06-020": [
+        "the realm of science",
+        "科学领域"
+      ],
+      "06-021": [
+        "a solid foundation",
+        "牢固基础"
+      ]
+    },
+    "related": [
+      {
+        "word": "discipline",
+        "meaning": "学科",
+        "relation": "同场景"
+      },
+      {
+        "word": "specialism",
+        "meaning": "专长",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-022",
+      "06-023",
+      "06-024",
+      "06-025"
+    ],
+    "examples": [
+      {
+        "en": "Students who specialise in optics must absorb complex ideas, concentrate during experiments and focus on precision.",
+        "zh": "专攻光学的学生必须吸收复杂概念，实验时集中注意力，并注重精度。"
+      },
+      {
+        "en": "To specialise successfully, learn to absorb feedback, concentrate on difficult tasks and focus on a clear research question.",
+        "zh": "要成功专精一个领域，须学会吸收反馈、专心处理难题，并聚焦明确的研究问题。"
+      },
+      {
+        "en": "Engineers specialise over time as they absorb experience, concentrate their efforts and focus on a particular application.",
+        "zh": "工程师通过吸收经验、集中精力和聚焦特定应用，逐渐形成专长。"
+      }
+    ],
+    "collocations": {
+      "06-022": [
+        "specialise in robotics",
+        "专攻机器人学"
+      ],
+      "06-023": [
+        "absorb information",
+        "吸收信息"
+      ],
+      "06-024": [
+        "concentrate on research",
+        "专注研究"
+      ],
+      "06-025": [
+        "focus on safety",
+        "关注安全"
+      ]
+    },
+    "related": [
+      {
+        "word": "concentration",
+        "meaning": "专注",
+        "relation": "词形"
+      },
+      {
+        "word": "attention",
+        "meaning": "注意力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-026",
+      "06-027",
+      "06-028",
+      "06-029"
+    ],
+    "examples": [
+      {
+        "en": "We utilise a tester to monitor energy usage and apply the results to product design.",
+        "zh": "我们利用测试仪监测能源使用量，并将结果应用于产品设计。"
+      },
+      {
+        "en": "Technicians apply this method and utilise a portable tester to measure electricity usage.",
+        "zh": "技术人员应用这种方法，利用便携式测试仪测量用电量。"
+      },
+      {
+        "en": "To apply the new standard, utilise a calibrated tester and record daily power usage.",
+        "zh": "要应用新标准，需使用校准过的测试仪，并记录每日用电量。"
+      }
+    ],
+    "collocations": {
+      "06-026": [
+        "utilise resources",
+        "利用资源"
+      ],
+      "06-027": [
+        "energy usage",
+        "能源使用量"
+      ],
+      "06-028": [
+        "a voltage tester",
+        "电压测试仪"
+      ],
+      "06-029": [
+        "apply a method",
+        "应用方法"
+      ]
+    },
+    "related": [
+      {
+        "word": "measurement",
+        "meaning": "测量",
+        "relation": "同场景"
+      },
+      {
+        "word": "efficiency",
+        "meaning": "效率",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-030",
+      "06-031",
+      "06-032",
+      "06-033",
+      "06-034"
+    ],
+    "examples": [
+      {
+        "en": "The testing facility checks each appliance with specialist equipment, a measuring instrument and an insulated tool.",
+        "zh": "测试设施使用专业设备、测量仪器和绝缘工具检查每件电器。"
+      },
+      {
+        "en": "At the facility, trainees distinguish a household appliance from laboratory equipment, a scientific instrument and a hand tool.",
+        "zh": "在设施内，学员区分家用电器、实验室设备、科学仪器和手工工具。"
+      },
+      {
+        "en": "Bring the faulty appliance to our facility, where suitable equipment, an instrument and a repair tool are available.",
+        "zh": "请把故障电器带到我们的设施，那里备有合适的设备、仪器和维修工具。"
+      }
+    ],
+    "collocations": {
+      "06-030": [
+        "a household appliance",
+        "家用电器"
+      ],
+      "06-031": [
+        "a testing facility",
+        "测试设施"
+      ],
+      "06-032": [
+        "laboratory equipment",
+        "实验室设备"
+      ],
+      "06-033": [
+        "a measuring instrument",
+        "测量仪器"
+      ],
+      "06-034": [
+        "a hand tool",
+        "手工工具"
+      ]
+    },
+    "related": [
+      {
+        "word": "apparatus",
+        "meaning": "仪器设备",
+        "relation": "同场景"
+      },
+      {
+        "word": "calibration",
+        "meaning": "校准",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-035",
+      "06-036",
+      "06-037",
+      "06-038",
+      "06-039"
+    ],
+    "examples": [
+      {
+        "en": "Use the gauge to measure pressure, count the readings, compute their average and calculate the error.",
+        "zh": "用压力表测量压力，清点读数，计算平均值及误差。"
+      },
+      {
+        "en": "We count each component, measure it with a gauge, compute its volume and calculate the material cost.",
+        "zh": "我们清点每个零件，用量规测量，算出体积并计算材料成本。"
+      },
+      {
+        "en": "The sensor can measure strain, count cycles, compute fatigue and calculate when the gauge needs replacement.",
+        "zh": "传感器能测量应变、计数循环、计算疲劳程度，并算出应变量规何时需更换。"
+      }
+    ],
+    "collocations": {
+      "06-035": [
+        "a pressure gauge",
+        "压力表"
+      ],
+      "06-036": [
+        "measure a distance",
+        "测量距离"
+      ],
+      "06-037": [
+        "calculate the cost",
+        "计算成本"
+      ],
+      "06-038": [
+        "compute an average",
+        "计算平均值"
+      ],
+      "06-039": [
+        "count the parts",
+        "清点零件"
+      ]
+    },
+    "related": [
+      {
+        "word": "reading",
+        "meaning": "读数",
+        "relation": "同场景"
+      },
+      {
+        "word": "calculation",
+        "meaning": "计算",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-040",
+      "06-041"
+    ],
+    "examples": [
+      {
+        "en": "Engineers assess safety risks before they evaluate a prototype's performance.",
+        "zh": "工程师在评价原型性能前先评估安全风险。"
+      },
+      {
+        "en": "We evaluate several designs to assess which offers the best value.",
+        "zh": "我们评价多个设计，以评估哪种最划算。"
+      },
+      {
+        "en": "Independent experts assess the evidence and evaluate the manufacturer's claims.",
+        "zh": "独立专家评估证据，并评价制造商的说法。"
+      }
+    ],
+    "collocations": {
+      "06-040": [
+        "assess a risk",
+        "评估风险"
+      ],
+      "06-041": [
+        "evaluate performance",
+        "评价性能"
+      ]
+    },
+    "related": [
+      {
+        "word": "assessment",
+        "meaning": "评估",
+        "relation": "词形"
+      },
+      {
+        "word": "evaluation",
+        "meaning": "评价",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-042",
+      "06-043",
+      "06-044",
+      "06-045"
+    ],
+    "examples": [
+      {
+        "en": "This versatile machine turns an industrial byproduct into an accessory powered by an auxiliary motor.",
+        "zh": "这台多用途机器将工业副产品制成由辅助电机驱动的配件。"
+      },
+      {
+        "en": "An auxiliary heater allows the versatile dryer to process a wet byproduct used in accessory manufacture.",
+        "zh": "辅助加热器使这台多用途干燥机能够加工用于制造配件的湿副产品。"
+      },
+      {
+        "en": "The versatile printer uses a byproduct of paper production to make an accessory for an auxiliary pump.",
+        "zh": "这台多用途打印机使用造纸副产品制作辅助泵的配件。"
+      }
+    ],
+    "collocations": {
+      "06-042": [
+        "an optional accessory",
+        "可选配件"
+      ],
+      "06-043": [
+        "an industrial byproduct",
+        "工业副产品"
+      ],
+      "06-044": [
+        "an auxiliary motor",
+        "辅助电机"
+      ],
+      "06-045": [
+        "a versatile machine",
+        "多用途机器"
+      ]
+    },
+    "related": [
+      {
+        "word": "attachment",
+        "meaning": "附件",
+        "relation": "同场景"
+      },
+      {
+        "word": "adaptable",
+        "meaning": "适应性强的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-046",
+      "06-047",
+      "06-048",
+      "06-049",
+      "06-050"
+    ],
+    "examples": [
+      {
+        "en": "Gather the parts, assemble the sensor, attach the cable and add power before you accumulate data.",
+        "zh": "收集零件、组装传感器、连接电缆并接通电源，然后再积累数据。"
+      },
+      {
+        "en": "We gather materials and accumulate spare parts, then assemble the frame, add wheels and attach a handle.",
+        "zh": "我们收集材料并积存备用零件，然后组装框架、加上轮子并装上把手。"
+      },
+      {
+        "en": "To accumulate reliable readings, gather suitable sensors, assemble the circuit, add a battery and attach the probes securely.",
+        "zh": "为积累可靠读数，需收集合适的传感器、组装电路、加装电池并牢固连接探针。"
+      }
+    ],
+    "collocations": {
+      "06-046": [
+        "add a component",
+        "添加零件"
+      ],
+      "06-047": [
+        "accumulate data",
+        "积累数据"
+      ],
+      "06-048": [
+        "assemble a model",
+        "组装模型"
+      ],
+      "06-049": [
+        "gather materials",
+        "收集材料"
+      ],
+      "06-050": [
+        "attach a cable",
+        "连接电缆"
+      ]
+    },
+    "related": [
+      {
+        "word": "assembly",
+        "meaning": "组装",
+        "relation": "词形"
+      },
+      {
+        "word": "connection",
+        "meaning": "连接",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-051"
+    ],
+    "examples": [
+      {
+        "en": "These tools belong to the maintenance department.",
+        "zh": "这些工具属于维修部门。"
+      },
+      {
+        "en": "Where does this spare component belong?",
+        "zh": "这个备用零件该放在哪里？"
+      },
+      {
+        "en": "The discovery does not belong to any single researcher.",
+        "zh": "这一发现不属于任何一位研究者个人。"
+      }
+    ],
+    "collocations": {
+      "06-051": [
+        "belong to a team",
+        "属于一个团队"
+      ]
+    },
+    "related": [
+      {
+        "word": "ownership",
+        "meaning": "所有权",
+        "relation": "同场景"
+      },
+      {
+        "word": "member",
+        "meaning": "成员",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-052",
+      "06-053",
+      "06-054"
+    ],
+    "examples": [
+      {
+        "en": "In optics class, we adjusted the lens of a microscope to sharpen the image.",
+        "zh": "光学课上，我们调整显微镜的镜片来使图像清晰。"
+      },
+      {
+        "en": "An understanding of optics helps explain how a microscope lens magnifies a specimen.",
+        "zh": "光学知识有助于解释显微镜镜片如何放大标本。"
+      },
+      {
+        "en": "The optics laboratory replaced a damaged lens in its oldest microscope.",
+        "zh": "光学实验室更换了最老显微镜中一片损坏的镜片。"
+      }
+    ],
+    "collocations": {
+      "06-052": [
+        "study optics",
+        "研究光学"
+      ],
+      "06-053": [
+        "an electron microscope",
+        "电子显微镜"
+      ],
+      "06-054": [
+        "a convex lens",
+        "凸透镜"
+      ]
+    },
+    "related": [
+      {
+        "word": "magnification",
+        "meaning": "放大率",
+        "relation": "同场景"
+      },
+      {
+        "word": "focus",
+        "meaning": "焦点",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-055",
+      "06-056",
+      "06-057"
+    ],
+    "examples": [
+      {
+        "en": "The radar sensor records the echo reflected by an approaching aircraft.",
+        "zh": "雷达传感器记录接近的飞机反射回的回波。"
+      },
+      {
+        "en": "A weak echo reached the radar sensor through heavy rain.",
+        "zh": "微弱的回波穿过大雨到达雷达传感器。"
+      },
+      {
+        "en": "The radar uses a sensitive sensor to distinguish an aircraft's echo from background noise.",
+        "zh": "雷达利用灵敏的传感器将飞机回波与背景噪声区分开。"
+      }
+    ],
+    "collocations": {
+      "06-055": [
+        "radar detection",
+        "雷达探测"
+      ],
+      "06-056": [
+        "a faint echo",
+        "微弱回波"
+      ],
+      "06-057": [
+        "a motion sensor",
+        "运动传感器"
+      ]
+    },
+    "related": [
+      {
+        "word": "detection",
+        "meaning": "探测",
+        "relation": "同场景"
+      },
+      {
+        "word": "reflection",
+        "meaning": "反射",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-058",
+      "06-059",
+      "06-060",
+      "06-063",
+      "06-064"
+    ],
+    "examples": [
+      {
+        "en": "The laptop needs updated software and a reliable network to play multimedia content in its browser.",
+        "zh": "这台笔记本电脑需要更新的软件和可靠的网络，才能在浏览器中播放多媒体内容。"
+      },
+      {
+        "en": "Students use a browser on each laptop to access multimedia software through the school network.",
+        "zh": "学生在每台笔记本电脑上用浏览器通过校园网络访问多媒体软件。"
+      },
+      {
+        "en": "A network fault prevented the laptop browser from loading the multimedia software.",
+        "zh": "网络故障使笔记本电脑浏览器无法加载多媒体软件。"
+      }
+    ],
+    "collocations": {
+      "06-058": [
+        "multimedia content",
+        "多媒体内容"
+      ],
+      "06-059": [
+        "a wireless network",
+        "无线网络"
+      ],
+      "06-060": [
+        "an internet browser",
+        "网络浏览器"
+      ],
+      "06-063": [
+        "a lightweight laptop",
+        "轻便笔记本电脑"
+      ],
+      "06-064": [
+        "install software",
+        "安装软件"
+      ]
+    },
+    "related": [
+      {
+        "word": "application",
+        "meaning": "应用程序",
+        "relation": "同场景"
+      },
+      {
+        "word": "connectivity",
+        "meaning": "连接能力",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-061",
+      "06-062"
+    ],
+    "examples": [
+      {
+        "en": "In the fantasy game, players dial a number to enter a hidden world.",
+        "zh": "在这款奇幻游戏中，玩家拨打一个号码便能进入隐藏世界。"
+      },
+      {
+        "en": "The fantasy film shows a child who can dial the future on an old telephone.",
+        "zh": "这部奇幻电影讲述一个孩子能用旧电话拨号接通未来的故事。"
+      },
+      {
+        "en": "Readers enter a fantasy in which they dial strangers living on another planet.",
+        "zh": "读者进入一个幻想故事，在其中他们拨号联系生活在另一颗星球的陌生人。"
+      }
+    ],
+    "collocations": {
+      "06-061": [
+        "dial a number",
+        "拨打号码"
+      ],
+      "06-062": [
+        "a fantasy world",
+        "幻想世界"
+      ]
+    },
+    "related": [
+      {
+        "word": "imagination",
+        "meaning": "想象力",
+        "relation": "同场景"
+      },
+      {
+        "word": "telephone",
+        "meaning": "电话",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-065",
+      "06-066",
+      "06-067",
+      "06-068"
+    ],
+    "examples": [
+      {
+        "en": "Connect the keyboard, screen, microphone and loudspeaker before starting the video call.",
+        "zh": "开始视频通话前，连接键盘、屏幕、麦克风和扬声器。"
+      },
+      {
+        "en": "The screen displayed instructions while a microphone recorded speech and a loudspeaker played sounds beside the keyboard.",
+        "zh": "屏幕显示说明，麦克风录制语音，扬声器在键盘旁播放声音。"
+      },
+      {
+        "en": "She muted the microphone, lowered the loudspeaker volume and used the keyboard to enlarge text on the screen.",
+        "zh": "她关闭麦克风、调低扬声器音量，并用键盘放大屏幕文字。"
+      }
+    ],
+    "collocations": {
+      "06-065": [
+        "an ergonomic keyboard",
+        "人体工学键盘"
+      ],
+      "06-066": [
+        "a touch screen",
+        "触摸屏"
+      ],
+      "06-067": [
+        "a portable loudspeaker",
+        "便携扬声器"
+      ],
+      "06-068": [
+        "a wireless microphone",
+        "无线麦克风"
+      ]
+    },
+    "related": [
+      {
+        "word": "input",
+        "meaning": "输入",
+        "relation": "同场景"
+      },
+      {
+        "word": "output",
+        "meaning": "输出",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-069",
+      "06-070",
+      "06-071",
+      "06-072"
+    ],
+    "examples": [
+      {
+        "en": "Digital conversion turns sound on cassette tape into binary data.",
+        "zh": "数字转换将盒式磁带上的声音变成二进制数据。"
+      },
+      {
+        "en": "We transferred the cassette tape to a digital file stored as binary information.",
+        "zh": "我们把盒式磁带转换成以二进制信息存储的数字文件。"
+      },
+      {
+        "en": "Unlike cassette tape, a digital recording represents sound using binary numbers.",
+        "zh": "与盒式磁带不同，数字录音用二进制数字表示声音。"
+      }
+    ],
+    "collocations": {
+      "06-069": [
+        "a cassette player",
+        "盒式磁带播放机"
+      ],
+      "06-070": [
+        "magnetic tape",
+        "磁带"
+      ],
+      "06-071": [
+        "binary code",
+        "二进制编码"
+      ],
+      "06-072": [
+        "digital recording",
+        "数字录音"
+      ]
+    },
+    "related": [
+      {
+        "word": "analogue",
+        "meaning": "模拟的",
+        "relation": "同场景"
+      },
+      {
+        "word": "digitisation",
+        "meaning": "数字化",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-073",
+      "06-074",
+      "06-075"
+    ],
+    "examples": [
+      {
+        "en": "A stable wireless connection supports high-definition video and clear audio.",
+        "zh": "稳定的无线连接支持高清视频和清晰音频。"
+      },
+      {
+        "en": "The wireless receiver sends high-definition pictures and audio to the television.",
+        "zh": "无线接收器将高清图像和音频传送到电视。"
+      },
+      {
+        "en": "Poor wireless coverage can interrupt both high-definition streaming and audio playback.",
+        "zh": "无线信号覆盖不佳可能同时中断高清流媒体和音频播放。"
+      }
+    ],
+    "collocations": {
+      "06-073": [
+        "a wireless connection",
+        "无线连接"
+      ],
+      "06-074": [
+        "high-definition video",
+        "高清视频"
+      ],
+      "06-075": [
+        "audio quality",
+        "音频质量"
+      ]
+    },
+    "related": [
+      {
+        "word": "streaming",
+        "meaning": "流媒体传输",
+        "relation": "同场景"
+      },
+      {
+        "word": "bandwidth",
+        "meaning": "带宽",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-076",
+      "06-077",
+      "06-078",
+      "06-079",
+      "06-080"
+    ],
+    "examples": [
+      {
+        "en": "The generator powers a pump that supplies hydraulic pressure to move the gear around its pivot.",
+        "zh": "发电机驱动水泵，提供液压使齿轮绕枢轴运动。"
+      },
+      {
+        "en": "A damaged gear stopped the generator, leaving the hydraulic pump and central pivot without power.",
+        "zh": "损坏的齿轮使发电机停转，导致液压泵和中心枢轴失去动力。"
+      },
+      {
+        "en": "Inspect the generator, pump, gear and pivot before testing the hydraulic system.",
+        "zh": "测试液压系统前，检查发电机、泵、齿轮和枢轴。"
+      }
+    ],
+    "collocations": {
+      "06-076": [
+        "a water pump",
+        "水泵"
+      ],
+      "06-077": [
+        "a diesel generator",
+        "柴油发电机"
+      ],
+      "06-078": [
+        "a low gear",
+        "低挡"
+      ],
+      "06-079": [
+        "a central pivot",
+        "中心枢轴"
+      ],
+      "06-080": [
+        "hydraulic pressure",
+        "液压"
+      ]
+    },
+    "related": [
+      {
+        "word": "rotation",
+        "meaning": "旋转",
+        "relation": "同场景"
+      },
+      {
+        "word": "mechanism",
+        "meaning": "机械装置",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-081",
+      "06-082",
+      "06-083"
+    ],
+    "examples": [
+      {
+        "en": "The sewage plant requires reliable drainage and adequate ventilation.",
+        "zh": "污水处理厂需要可靠的排水设施及充分通风。"
+      },
+      {
+        "en": "Inspectors checked drainage, ventilation and sewage disposal in the new building.",
+        "zh": "检查员检查了新建筑的排水、通风和污水处理情况。"
+      },
+      {
+        "en": "Flooding damaged the sewage pipes, blocked drainage and disabled basement ventilation.",
+        "zh": "洪水损坏污水管道、堵塞排水设施，并使地下室通风失效。"
+      }
+    ],
+    "collocations": {
+      "06-081": [
+        "a drainage system",
+        "排水系统"
+      ],
+      "06-082": [
+        "sewage treatment",
+        "污水处理"
+      ],
+      "06-083": [
+        "adequate ventilation",
+        "充分通风"
+      ]
+    },
+    "related": [
+      {
+        "word": "sanitation",
+        "meaning": "卫生设施",
+        "relation": "同场景"
+      },
+      {
+        "word": "airflow",
+        "meaning": "气流",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-084",
+      "06-085",
+      "06-086",
+      "06-087"
+    ],
+    "examples": [
+      {
+        "en": "We compress the images, condense the text, refine the layout and simplify the instructions.",
+        "zh": "我们压缩图像、精简文字、优化版式并简化说明。"
+      },
+      {
+        "en": "Editors condense technical reports, refine the wording, simplify diagrams and compress the final files.",
+        "zh": "编辑精简技术报告、润色措辞、简化图表，并压缩最终文件。"
+      },
+      {
+        "en": "To simplify publication, refine the draft, condense repeated sections and compress large illustrations.",
+        "zh": "要简化出版工作，需修改初稿、精简重复章节并压缩大型插图。"
+      }
+    ],
+    "collocations": {
+      "06-084": [
+        "compress a file",
+        "压缩文件"
+      ],
+      "06-085": [
+        "condense a report",
+        "压缩报告篇幅"
+      ],
+      "06-086": [
+        "refine a design",
+        "改进设计"
+      ],
+      "06-087": [
+        "simplify a process",
+        "简化过程"
+      ]
+    },
+    "related": [
+      {
+        "word": "compression",
+        "meaning": "压缩",
+        "relation": "词形"
+      },
+      {
+        "word": "revision",
+        "meaning": "修订",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-088",
+      "06-089",
+      "06-090"
+    ],
+    "examples": [
+      {
+        "en": "We filter the sample before we distil it to purify the water further.",
+        "zh": "我们先过滤样品，再进行蒸馏，以进一步净化水。"
+      },
+      {
+        "en": "A laboratory can filter and distil contaminated water to purify it.",
+        "zh": "实验室可以通过过滤和蒸馏净化受污染的水。"
+      },
+      {
+        "en": "To purify this solution, filter out the sediment and distil the remaining liquid.",
+        "zh": "要净化这种溶液，先滤除沉淀，再蒸馏剩余液体。"
+      }
+    ],
+    "collocations": {
+      "06-088": [
+        "purify water",
+        "净化水"
+      ],
+      "06-089": [
+        "a water filter",
+        "滤水器"
+      ],
+      "06-090": [
+        "distil water",
+        "蒸馏水"
+      ]
+    },
+    "related": [
+      {
+        "word": "purification",
+        "meaning": "净化",
+        "relation": "词形"
+      },
+      {
+        "word": "distillation",
+        "meaning": "蒸馏",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-091",
+      "06-092",
+      "06-093",
+      "06-094",
+      "06-095"
+    ],
+    "examples": [
+      {
+        "en": "During this phase, we cast a prototype framework in a mould and test every structural aspect.",
+        "zh": "在这个阶段，我们用模具铸造原型框架，并测试每个结构方面。"
+      },
+      {
+        "en": "A flawed mould affected one aspect of the prototype framework during the final phase.",
+        "zh": "最后阶段，一个有缺陷的模具影响了原型框架的一个方面。"
+      },
+      {
+        "en": "The next phase will examine how the mould shapes each aspect of the prototype's framework.",
+        "zh": "下一阶段将考察模具如何塑造原型框架的各个方面。"
+      }
+    ],
+    "collocations": {
+      "06-091": [
+        "a casting mould",
+        "铸模"
+      ],
+      "06-092": [
+        "a working prototype",
+        "可运行原型"
+      ],
+      "06-093": [
+        "a structural framework",
+        "结构框架"
+      ],
+      "06-094": [
+        "a technical aspect",
+        "技术方面"
+      ],
+      "06-095": [
+        "a testing phase",
+        "测试阶段"
+      ]
+    },
+    "related": [
+      {
+        "word": "casting",
+        "meaning": "浇铸",
+        "relation": "同场景"
+      },
+      {
+        "word": "development",
+        "meaning": "开发",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-096",
+      "06-097",
+      "06-098"
+    ],
+    "examples": [
+      {
+        "en": "Automated controls facilitate safer work and transform how technicians operate machinery.",
+        "zh": "自动控制使工作更安全，并改变技术人员操作机械的方式。"
+      },
+      {
+        "en": "To transform production, the company will facilitate training so workers can operate new equipment.",
+        "zh": "为改变生产方式，公司将提供培训便利，使工人能够操作新设备。"
+      },
+      {
+        "en": "Better interfaces facilitate access and transform who can operate these complex instruments.",
+        "zh": "更好的界面促进使用，并改变了哪些人能操作这些复杂仪器。"
+      }
+    ],
+    "collocations": {
+      "06-096": [
+        "operate machinery",
+        "操作机械"
+      ],
+      "06-097": [
+        "facilitate communication",
+        "促进沟通"
+      ],
+      "06-098": [
+        "transform production",
+        "改变生产方式"
+      ]
+    },
+    "related": [
+      {
+        "word": "automation",
+        "meaning": "自动化",
+        "relation": "同场景"
+      },
+      {
+        "word": "operation",
+        "meaning": "操作",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-099",
+      "06-100",
+      "06-101",
+      "06-102",
+      "06-103"
+    ],
+    "examples": [
+      {
+        "en": "To adapt the machine, alter the frame, shift the motor, turn the handle and adjust the pressure.",
+        "zh": "要改装机器，需修改框架、移动电机、转动手柄并调整压力。"
+      },
+      {
+        "en": "We adjust the software, alter the timing, shift the sensor and turn a dial to adapt the system.",
+        "zh": "我们调节软件、修改时序、移动传感器并转动旋钮，以适配该系统。"
+      },
+      {
+        "en": "Technicians can adapt the device if they alter its casing, shift the screen, turn the bracket and adjust the lens.",
+        "zh": "技术人员可以通过修改外壳、移动屏幕、转动支架和调整镜头来改装设备。"
+      }
+    ],
+    "collocations": {
+      "06-099": [
+        "alter a design",
+        "修改设计"
+      ],
+      "06-100": [
+        "shift position",
+        "改变位置"
+      ],
+      "06-101": [
+        "turn a handle",
+        "转动手柄"
+      ],
+      "06-102": [
+        "adapt a machine",
+        "改装机器"
+      ],
+      "06-103": [
+        "adjust a setting",
+        "调节设置"
+      ]
+    },
+    "related": [
+      {
+        "word": "adaptation",
+        "meaning": "适配",
+        "relation": "词形"
+      },
+      {
+        "word": "modification",
+        "meaning": "修改",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-104",
+      "06-105",
+      "06-106",
+      "06-107"
+    ],
+    "examples": [
+      {
+        "en": "Accurate data and precise coordinates help us pinpoint and correct the error.",
+        "zh": "准确的数据和精确的坐标帮助我们准确定位并纠正错误。"
+      },
+      {
+        "en": "To correct the map, use accurate measurements to pinpoint each site at its precise location.",
+        "zh": "要修正地图，需用准确测量将每个地点定位到其精确位置。"
+      },
+      {
+        "en": "A precise test can pinpoint the fault, but accurate interpretation is needed to correct it.",
+        "zh": "精确的测试能准确找出故障，但仍需准确解读结果才能修复。"
+      }
+    ],
+    "collocations": {
+      "06-104": [
+        "pinpoint a fault",
+        "准确找出故障"
+      ],
+      "06-105": [
+        "accurate measurements",
+        "准确测量"
+      ],
+      "06-106": [
+        "precise coordinates",
+        "精确坐标"
+      ],
+      "06-107": [
+        "correct an error",
+        "纠正错误"
+      ]
+    },
+    "related": [
+      {
+        "word": "accuracy",
+        "meaning": "准确性",
+        "relation": "词形"
+      },
+      {
+        "word": "precision",
+        "meaning": "精确度",
+        "relation": "词形"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-108",
+      "06-109",
+      "06-110",
+      "06-111",
+      "06-112"
+    ],
+    "examples": [
+      {
+        "en": "The wrong reading came from a design flaw and an electrical fault, rather than human error or a calculation mistake.",
+        "zh": "错误读数源于设计缺陷和电路故障，而非人为错误或计算失误。"
+      },
+      {
+        "en": "One mistake left the wrong component installed, causing a fault that exposed a flaw in our error checks.",
+        "zh": "一次失误导致装入错误零件，引发故障，并暴露了错误检查机制的缺陷。"
+      },
+      {
+        "en": "A software flaw produced an error message about the wrong fault, leading the technician to make another mistake.",
+        "zh": "软件缺陷产生了指向错误故障的报错信息，使技术人员再次犯错。"
+      }
+    ],
+    "collocations": {
+      "06-108": [
+        "human error",
+        "人为错误"
+      ],
+      "06-109": [
+        "make a mistake",
+        "犯错"
+      ],
+      "06-110": [
+        "a design flaw",
+        "设计缺陷"
+      ],
+      "06-111": [
+        "a wrong answer",
+        "错误答案"
+      ],
+      "06-112": [
+        "an electrical fault",
+        "电路故障"
+      ]
+    },
+    "related": [
+      {
+        "word": "defect",
+        "meaning": "缺陷",
+        "relation": "近义"
+      },
+      {
+        "word": "troubleshooting",
+        "meaning": "故障排查",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "06-113",
+      "06-114"
+    ],
+    "examples": [
+      {
+        "en": "Our contingency plan covers injuries if visitors stumble over loose cables.",
+        "zh": "我们的应急预案涵盖游客被松散电缆绊倒而受伤的情况。"
+      },
+      {
+        "en": "Without a contingency plan, the project may stumble when a supplier fails.",
+        "zh": "没有应急预案，项目可能因供应商失约而受挫。"
+      },
+      {
+        "en": "Teams can stumble during an emergency unless they rehearse the contingency plan.",
+        "zh": "团队若不演练应急预案，可能在紧急情况下失措。"
+      }
+    ],
+    "collocations": {
+      "06-113": [
+        "stumble over a cable",
+        "被电缆绊倒"
+      ],
+      "06-114": [
+        "a contingency plan",
+        "应急预案"
+      ]
+    },
+    "related": [
+      {
+        "word": "obstacle",
+        "meaning": "障碍",
+        "relation": "同场景"
+      },
+      {
+        "word": "precaution",
+        "meaning": "预防措施",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

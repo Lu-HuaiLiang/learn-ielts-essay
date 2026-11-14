@@ -1,0 +1,2923 @@
+[
+  {
+    "ids": [
+      "18-001",
+      "18-002",
+      "18-003",
+      "18-004"
+    ],
+    "examples": [
+      {
+        "en": "The raid exposed the enormity of the violence caused by the conflict.",
+        "zh": "突袭揭示了冲突造成的暴力的骇人程度。"
+      },
+      {
+        "en": "Only after the raid did observers understand the enormity of the conflict and its violence.",
+        "zh": "突袭后，观察者才理解冲突及其暴力的严重程度。"
+      },
+      {
+        "en": "Survivors described the violence of the raid and the enormity of their losses during the conflict.",
+        "zh": "幸存者描述了突袭的暴力，以及冲突中损失的巨大程度。"
+      }
+    ],
+    "collocations": {
+      "18-001": [
+        "domestic violence",
+        "家庭暴力"
+      ],
+      "18-002": [
+        "armed conflict",
+        "武装冲突"
+      ],
+      "18-003": [
+        "a police raid",
+        "警方突袭"
+      ],
+      "18-004": [
+        "the enormity of a crime",
+        "罪行的骇人程度"
+      ]
+    },
+    "related": [
+      {
+        "word": "civilian",
+        "meaning": "平民",
+        "relation": "同场景"
+      },
+      {
+        "word": "aftermath",
+        "meaning": "后果",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-005",
+      "18-006",
+      "18-007",
+      "18-025"
+    ],
+    "examples": [
+      {
+        "en": "The rescue mission became a struggle for survival as the battle disrupted the relief campaign.",
+        "zh": "战斗打乱救援行动，使救援任务变成了一场求生斗争。"
+      },
+      {
+        "en": "A campaign to rebuild the town followed the battle, but each mission faced a struggle for funding.",
+        "zh": "战斗后，重建城镇的行动开始了，但每项任务都面临筹资困难。"
+      },
+      {
+        "en": "The documentary follows a medical mission through a battle and the subsequent struggle to sustain its vaccination campaign.",
+        "zh": "纪录片跟随医疗队经历战斗，以及此后维持疫苗接种行动的艰难过程。"
+      }
+    ],
+    "collocations": {
+      "18-005": [
+        "an election campaign",
+        "竞选活动"
+      ],
+      "18-006": [
+        "a decisive battle",
+        "决定性战役"
+      ],
+      "18-007": [
+        "a struggle for survival",
+        "求生斗争"
+      ],
+      "18-025": [
+        "a rescue mission",
+        "救援任务"
+      ]
+    },
+    "related": [
+      {
+        "word": "humanitarian aid",
+        "meaning": "人道援助",
+        "relation": "同场景"
+      },
+      {
+        "word": "reconstruction",
+        "meaning": "重建",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-008",
+      "18-009",
+      "18-010",
+      "18-011"
+    ],
+    "examples": [
+      {
+        "en": "The bomb explosion produced a blast as aircraft continued to bombard the outskirts.",
+        "zh": "飞机继续轰炸郊区时，炸弹爆炸产生了冲击波。"
+      },
+      {
+        "en": "Residents heard an explosion and felt the blast before planes returned to bombard the area with another bomb.",
+        "zh": "居民听到爆炸并感到冲击波，随后飞机返回，向该地区投下另一枚炸弹。"
+      },
+      {
+        "en": "The exhibit explains how a bomb creates an explosion and blast, alongside records of orders to bombard the port.",
+        "zh": "展览解释炸弹如何产生爆炸与冲击波，并展示了炮击港口的命令记录。"
+      }
+    ],
+    "collocations": {
+      "18-008": [
+        "a gas explosion",
+        "燃气爆炸"
+      ],
+      "18-009": [
+        "bombard a city",
+        "炮击城市"
+      ],
+      "18-010": [
+        "a bomb shelter",
+        "防空洞"
+      ],
+      "18-011": [
+        "a powerful blast",
+        "猛烈爆炸"
+      ]
+    },
+    "related": [
+      {
+        "word": "shelter",
+        "meaning": "避难所",
+        "relation": "同场景"
+      },
+      {
+        "word": "evacuation",
+        "meaning": "撤离",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-012",
+      "18-013",
+      "18-015",
+      "18-026"
+    ],
+    "examples": [
+      {
+        "en": "A spark reached the gunpowder, producing a burst of flame.",
+        "zh": "一粒火星接触到火药，猛然窜起火焰。"
+      },
+      {
+        "en": "Keep gunpowder away from a spark or naked flame to prevent a sudden burst of fire.",
+        "zh": "让火药远离火星或明火，防止火焰突然爆发。"
+      },
+      {
+        "en": "The historical display used lighting to suggest a spark, a burst of gunpowder and a rising flame.",
+        "zh": "历史展览用灯光模拟火星、火药爆发及升起的火焰。"
+      }
+    ],
+    "collocations": {
+      "18-012": [
+        "a burst of light",
+        "一阵亮光"
+      ],
+      "18-013": [
+        "a spark of fire",
+        "火花"
+      ],
+      "18-015": [
+        "dry gunpowder",
+        "干燥火药"
+      ],
+      "18-026": [
+        "a naked flame",
+        "明火"
+      ]
+    },
+    "related": [
+      {
+        "word": "ignition",
+        "meaning": "点火",
+        "relation": "同场景"
+      },
+      {
+        "word": "fire safety",
+        "meaning": "消防安全",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-014",
+      "18-027",
+      "18-028",
+      "18-029"
+    ],
+    "examples": [
+      {
+        "en": "Stars twinkle above the sea as waves glitter beneath the glow of a distant flare.",
+        "zh": "星星在海面上空闪烁，远处信号弹的光映得海浪发亮。"
+      },
+      {
+        "en": "We saw the flare glow, the water glitter and the lighthouse lights twinkle in the distance.",
+        "zh": "我们看到信号弹发光、水面闪耀，远处灯塔的灯闪烁。"
+      },
+      {
+        "en": "The painting captures a flare and its glow, with a glitter of reflections beneath stars that twinkle.",
+        "zh": "画作描绘了信号弹及其光芒，闪烁星空下的水面泛着粼光。"
+      }
+    ],
+    "collocations": {
+      "18-014": [
+        "stars twinkle",
+        "星星闪烁"
+      ],
+      "18-027": [
+        "a distress flare",
+        "遇险信号弹"
+      ],
+      "18-028": [
+        "glitter in sunlight",
+        "在阳光下闪耀"
+      ],
+      "18-029": [
+        "a warm glow",
+        "温暖的光"
+      ]
+    },
+    "related": [
+      {
+        "word": "reflection",
+        "meaning": "反光",
+        "relation": "同场景"
+      },
+      {
+        "word": "illumination",
+        "meaning": "照明",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-016",
+      "18-017",
+      "18-018",
+      "18-019"
+    ],
+    "examples": [
+      {
+        "en": "The museum displays a tank, a cannon and a missile to illustrate changes in weapon design.",
+        "zh": "博物馆展出坦克、火炮和导弹，以说明武器设计的变化。"
+      },
+      {
+        "en": "Unlike a tank or cannon, a guided missile can be a weapon controlled from far away.",
+        "zh": "与坦克或火炮不同，制导导弹可成为远程控制的武器。"
+      },
+      {
+        "en": "The treaty classifies each weapon, including the tank, the cannon and the missile.",
+        "zh": "条约对各类武器作了分类，包括坦克、火炮和导弹。"
+      }
+    ],
+    "collocations": {
+      "18-016": [
+        "an armoured tank",
+        "装甲坦克"
+      ],
+      "18-017": [
+        "a field cannon",
+        "野战炮"
+      ],
+      "18-018": [
+        "a guided missile",
+        "制导导弹"
+      ],
+      "18-019": [
+        "a defensive weapon",
+        "防御武器"
+      ]
+    },
+    "related": [
+      {
+        "word": "disarmament",
+        "meaning": "裁军",
+        "relation": "同场景"
+      },
+      {
+        "word": "military history",
+        "meaning": "军事史",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-020",
+      "18-021",
+      "18-022",
+      "18-023",
+      "18-024"
+    ],
+    "examples": [
+      {
+        "en": "The test examined whether a barrier could deflect a bullet from a pistol or rifle away from the target.",
+        "zh": "测试考察屏障能否让手枪或步枪子弹偏离目标。"
+      },
+      {
+        "en": "At the museum, a diagram shows a pistol, a rifle and the path a shield might deflect a bullet from its target.",
+        "zh": "博物馆的示意图展示了手枪、步枪，以及盾牌可能使子弹偏离目标的路径。"
+      },
+      {
+        "en": "Researchers used a protected target to compare how armour could deflect a bullet fired from a rifle or pistol.",
+        "zh": "研究者用有防护的靶子，比较装甲如何偏转步枪或手枪射出的子弹。"
+      }
+    ],
+    "collocations": {
+      "18-020": [
+        "a service pistol",
+        "制式手枪"
+      ],
+      "18-021": [
+        "a hunting rifle",
+        "猎枪"
+      ],
+      "18-022": [
+        "a stray bullet",
+        "流弹"
+      ],
+      "18-023": [
+        "hit a target",
+        "击中目标"
+      ],
+      "18-024": [
+        "deflect a projectile",
+        "使弹射物偏转"
+      ]
+    },
+    "related": [
+      {
+        "word": "ballistics",
+        "meaning": "弹道学",
+        "relation": "同场景"
+      },
+      {
+        "word": "protective barrier",
+        "meaning": "防护屏障",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-030",
+      "18-031",
+      "18-032",
+      "18-033"
+    ],
+    "examples": [
+      {
+        "en": "The display includes a sword blade, an ax and a hammer from the same ancient workshop.",
+        "zh": "展品包括同一古代作坊的剑刃、斧头和锤子。"
+      },
+      {
+        "en": "A blacksmith used a hammer to shape the blade of a sword or ax.",
+        "zh": "铁匠用锤子锻造剑或斧头的刃。"
+      },
+      {
+        "en": "Conservators cleaned the sword, checked the ax blade and repaired the hammer handle.",
+        "zh": "修复人员清理了剑，检查斧刃，并修理锤柄。"
+      }
+    ],
+    "collocations": {
+      "18-030": [
+        "a sharp blade",
+        "锋利刀刃"
+      ],
+      "18-031": [
+        "a ceremonial sword",
+        "礼仪用剑"
+      ],
+      "18-032": [
+        "an ax handle",
+        "斧柄"
+      ],
+      "18-033": [
+        "a wooden hammer",
+        "木锤"
+      ]
+    },
+    "related": [
+      {
+        "word": "blacksmith",
+        "meaning": "铁匠",
+        "relation": "同场景"
+      },
+      {
+        "word": "craftsmanship",
+        "meaning": "工艺",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-034",
+      "18-035",
+      "18-036",
+      "18-037",
+      "18-038"
+    ],
+    "examples": [
+      {
+        "en": "The actor wore a helmet and carried a shield, while the display beside him held a bow, an arrow and a spear.",
+        "zh": "演员戴着头盔、拿着盾牌，旁边展柜放着弓、箭和矛。"
+      },
+      {
+        "en": "A museum label explains how a helmet and shield protected soldiers facing an arrow from a bow or a thrown spear.",
+        "zh": "博物馆标签解释头盔和盾牌如何保护士兵抵挡弓射出的箭或投出的矛。"
+      },
+      {
+        "en": "The historical costume included a helmet and shield, but the bow, arrow and spear remained on the exhibition wall.",
+        "zh": "历史服装包括头盔和盾牌，而弓、箭和矛仍陈列在展墙上。"
+      }
+    ],
+    "collocations": {
+      "18-034": [
+        "a hunting bow",
+        "猎弓"
+      ],
+      "18-035": [
+        "shoot an arrow",
+        "射箭"
+      ],
+      "18-036": [
+        "a wooden spear",
+        "木矛"
+      ],
+      "18-037": [
+        "a safety helmet",
+        "安全头盔"
+      ],
+      "18-038": [
+        "a protective shield",
+        "防护盾"
+      ]
+    },
+    "related": [
+      {
+        "word": "armour",
+        "meaning": "盔甲",
+        "relation": "同场景"
+      },
+      {
+        "word": "historical reconstruction",
+        "meaning": "历史复原",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-039",
+      "18-040",
+      "18-041",
+      "18-042"
+    ],
+    "examples": [
+      {
+        "en": "Agencies prepare volunteers, equip teams, provide supplies and deploy staff after floods.",
+        "zh": "洪灾后，机构培训志愿者、装备团队、提供物资并调派人员。"
+      },
+      {
+        "en": "Before we deploy rescuers, we must prepare a route, equip each team and provide communications.",
+        "zh": "调派救援人员前，我们须准备路线、为各队配备装备并提供通信保障。"
+      },
+      {
+        "en": "The council will provide funds to equip shelters, prepare residents and deploy emergency vehicles.",
+        "zh": "市政机构将提供资金，用于装备避难所、让居民做好准备，并调派应急车辆。"
+      }
+    ],
+    "collocations": {
+      "18-039": [
+        "equip a team",
+        "为团队配备装备"
+      ],
+      "18-040": [
+        "prepare for emergencies",
+        "准备应对紧急情况"
+      ],
+      "18-041": [
+        "provide assistance",
+        "提供援助"
+      ],
+      "18-042": [
+        "deploy resources",
+        "调配资源"
+      ]
+    },
+    "related": [
+      {
+        "word": "emergency response",
+        "meaning": "应急响应",
+        "relation": "同场景"
+      },
+      {
+        "word": "logistics",
+        "meaning": "后勤",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-043",
+      "18-044",
+      "18-045",
+      "18-046"
+    ],
+    "examples": [
+      {
+        "en": "The trainer showed how to hit a pad, strike a bag and throw a punch without trying to beat an opponent.",
+        "zh": "教练示范如何击打护垫、拳袋以及出拳，而非试图打倒对手。"
+      },
+      {
+        "en": "In the rehearsal, actors beat a drum, hit a shield and strike poses before staging a harmless punch.",
+        "zh": "排练时，演员敲鼓、击盾并摆出姿势，随后表演一次无伤害的出拳。"
+      },
+      {
+        "en": "You should never hit a person, beat an animal or strike someone with a punch during an argument.",
+        "zh": "争吵时，绝不应该打人、打动物或挥拳击打他人。"
+      }
+    ],
+    "collocations": {
+      "18-043": [
+        "hit the ball",
+        "击球"
+      ],
+      "18-044": [
+        "beat a drum",
+        "敲鼓"
+      ],
+      "18-045": [
+        "strike a surface",
+        "敲击表面"
+      ],
+      "18-046": [
+        "throw a punch",
+        "出拳"
+      ]
+    },
+    "related": [
+      {
+        "word": "rehearsal",
+        "meaning": "排练",
+        "relation": "同场景"
+      },
+      {
+        "word": "self-control",
+        "meaning": "自制",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-047",
+      "18-048"
+    ],
+    "examples": [
+      {
+        "en": "Use a stable board to chop vegetables, and do not stab at slippery food.",
+        "zh": "切菜要用稳固的案板，不要用力戳滑动的食物。"
+      },
+      {
+        "en": "The cooking instructor showed us how to chop herbs without using the knife to stab at the stems.",
+        "zh": "烹饪老师示范如何切香草，而不是用刀戳茎。"
+      },
+      {
+        "en": "For the stage scene, actors mime actions to chop wood and stab a sack without using real blades.",
+        "zh": "舞台场景中，演员不用真刀，模拟劈木和刺袋的动作。"
+      }
+    ],
+    "collocations": {
+      "18-047": [
+        "chop vegetables",
+        "切菜"
+      ],
+      "18-048": [
+        "stab at the food",
+        "用力戳食物"
+      ]
+    },
+    "related": [
+      {
+        "word": "knife safety",
+        "meaning": "刀具安全",
+        "relation": "同场景"
+      },
+      {
+        "word": "stage prop",
+        "meaning": "舞台道具",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-049",
+      "18-050",
+      "18-051",
+      "18-052"
+    ],
+    "examples": [
+      {
+        "en": "The refugee plight posed a dilemma, while rumours of a conspiracy created another pitfall for aid workers.",
+        "zh": "难民的困境带来两难，而阴谋传言又给救援人员造成了另一风险。"
+      },
+      {
+        "en": "A journalist investigating the conspiracy faced a dilemma: exposing it could worsen the plight of witnesses, a serious ethical pitfall.",
+        "zh": "调查阴谋的记者面临两难：揭露它可能加剧证人困境，这是严重的伦理风险。"
+      },
+      {
+        "en": "The report examines the plight of families caught in a conspiracy, the official dilemma and the pitfall of acting without evidence.",
+        "zh": "报告考察了卷入阴谋的家庭的困境、官员的两难及无证据行动的风险。"
+      }
+    ],
+    "collocations": {
+      "18-049": [
+        "face a dilemma",
+        "面临两难"
+      ],
+      "18-050": [
+        "the plight of refugees",
+        "难民的困境"
+      ],
+      "18-051": [
+        "a potential pitfall",
+        "潜在陷阱"
+      ],
+      "18-052": [
+        "a political conspiracy",
+        "政治阴谋"
+      ]
+    },
+    "related": [
+      {
+        "word": "ethical decision",
+        "meaning": "伦理决策",
+        "relation": "同场景"
+      },
+      {
+        "word": "humanitarian crisis",
+        "meaning": "人道危机",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-053",
+      "18-054",
+      "18-055",
+      "18-056"
+    ],
+    "examples": [
+      {
+        "en": "Famine can leave families destitute and deprive children of food until they starve.",
+        "zh": "饥荒会让家庭陷入赤贫，剥夺儿童食物，直至他们饿死。"
+      },
+      {
+        "en": "Aid workers fear that famine will deprive destitute communities of supplies and cause livestock to starve.",
+        "zh": "救援人员担忧饥荒将使赤贫社区失去物资，并导致牲畜饿死。"
+      },
+      {
+        "en": "The relief effort aims to prevent famine, help destitute families and stop drought from continuing to deprive people of food until they starve.",
+        "zh": "救援旨在防止饥荒、帮助赤贫家庭，并阻止干旱继续让人失去食物而挨饿。"
+      }
+    ],
+    "collocations": {
+      "18-053": [
+        "destitute families",
+        "赤贫家庭"
+      ],
+      "18-054": [
+        "prevent famine",
+        "防止饥荒"
+      ],
+      "18-055": [
+        "starve to death",
+        "饿死"
+      ],
+      "18-056": [
+        "deprive people of food",
+        "剥夺食物"
+      ]
+    },
+    "related": [
+      {
+        "word": "food security",
+        "meaning": "粮食安全",
+        "relation": "同场景"
+      },
+      {
+        "word": "relief supplies",
+        "meaning": "救援物资",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-057",
+      "18-058"
+    ],
+    "examples": [
+      {
+        "en": "Students should seize opportunities to pursue meaningful research.",
+        "zh": "学生应抓住开展有意义研究的机会。"
+      },
+      {
+        "en": "The council must seize this chance to pursue a lasting peace.",
+        "zh": "市政机构必须抓住此次机会追求长久和平。"
+      },
+      {
+        "en": "She decided to seize the scholarship opportunity and pursue a career in medicine.",
+        "zh": "她决定抓住奖学金机会，追求医疗事业。"
+      }
+    ],
+    "collocations": {
+      "18-057": [
+        "seize an opportunity",
+        "抓住机会"
+      ],
+      "18-058": [
+        "pursue a goal",
+        "追求目标"
+      ]
+    },
+    "related": [
+      {
+        "word": "ambition",
+        "meaning": "抱负",
+        "relation": "同场景"
+      },
+      {
+        "word": "opportunity",
+        "meaning": "机会",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-059",
+      "18-060",
+      "18-061"
+    ],
+    "examples": [
+      {
+        "en": "Aggressive language may offend neighbours and be perceived as a threat.",
+        "zh": "攻击性语言可能冒犯邻居，并被视为威胁。"
+      },
+      {
+        "en": "The guard asked the aggressive visitor not to offend staff or make a threat.",
+        "zh": "警卫要求这位态度强硬的访客不要冒犯员工或发出威胁。"
+      },
+      {
+        "en": "A policy can address aggressive conduct without assuming that everyone who happens to offend poses a threat.",
+        "zh": "政策可以处理攻击行为，而不必假定每个无意冒犯的人都构成威胁。"
+      }
+    ],
+    "collocations": {
+      "18-059": [
+        "a serious threat",
+        "严重威胁"
+      ],
+      "18-060": [
+        "offend a neighbour",
+        "冒犯邻居"
+      ],
+      "18-061": [
+        "aggressive behaviour",
+        "攻击性行为"
+      ]
+    },
+    "related": [
+      {
+        "word": "intimidation",
+        "meaning": "恐吓",
+        "relation": "同场景"
+      },
+      {
+        "word": "conflict resolution",
+        "meaning": "冲突解决",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-062",
+      "18-063",
+      "18-064",
+      "18-065"
+    ],
+    "examples": [
+      {
+        "en": "The court considered whether drones invade privacy, trespass on property, intrude on family life and violate basic rights.",
+        "zh": "法院审议无人机是否侵犯隐私、擅入地产、干扰家庭生活及违反基本权利。"
+      },
+      {
+        "en": "Tourists must not invade private gardens, trespass on farms, intrude into homes or violate local rules.",
+        "zh": "游客不得闯入私家花园、擅入农场、侵入住宅或违反当地规则。"
+      },
+      {
+        "en": "Campaigners argue that surveillance may invade personal space, intrude on privacy, trespass into private affairs and violate consent.",
+        "zh": "倡导者认为，监控可能侵犯个人空间、干扰隐私、擅自涉足私事并违反同意原则。"
+      }
+    ],
+    "collocations": {
+      "18-062": [
+        "invade a country",
+        "入侵国家"
+      ],
+      "18-063": [
+        "trespass on land",
+        "擅闯土地"
+      ],
+      "18-064": [
+        "intrude on privacy",
+        "侵犯隐私"
+      ],
+      "18-065": [
+        "violate a boundary",
+        "越过界限"
+      ]
+    },
+    "related": [
+      {
+        "word": "privacy",
+        "meaning": "隐私",
+        "relation": "同场景"
+      },
+      {
+        "word": "consent",
+        "meaning": "同意",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-066",
+      "18-067",
+      "18-068"
+    ],
+    "examples": [
+      {
+        "en": "An attack on the clinic and an assault on its staff created a major security challenge.",
+        "zh": "对诊所的袭击和对员工的人身攻击造成了重大安全挑战。"
+      },
+      {
+        "en": "The challenge is to prevent an online attack from leading to a physical assault.",
+        "zh": "挑战在于防止网络攻击演变为人身攻击。"
+      },
+      {
+        "en": "Police reviewed each attack and assault as part of a wider challenge to public safety.",
+        "zh": "警方审查每起袭击和人身攻击，将其视为公共安全面临的更广泛挑战的一部分。"
+      }
+    ],
+    "collocations": {
+      "18-066": [
+        "an armed attack",
+        "武装袭击"
+      ],
+      "18-067": [
+        "a physical assault",
+        "人身攻击"
+      ],
+      "18-068": [
+        "face a challenge",
+        "面对挑战"
+      ]
+    },
+    "related": [
+      {
+        "word": "protection",
+        "meaning": "保护",
+        "relation": "同场景"
+      },
+      {
+        "word": "prevention",
+        "meaning": "预防",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-069",
+      "18-070",
+      "18-071"
+    ],
+    "examples": [
+      {
+        "en": "Walls enclose the town, but troops can surround it during a siege.",
+        "zh": "城墙围住城镇，但军队仍可在围攻时将其包围。"
+      },
+      {
+        "en": "The model shows how soldiers surround the fortress during a siege while walls enclose its central courtyard.",
+        "zh": "模型展示士兵如何在围攻期间包围堡垒，而城墙围住其中庭。"
+      },
+      {
+        "en": "High barriers enclose the compound, while guards surround the gate in a scene resembling a siege.",
+        "zh": "高围栏围住院落，警卫包围大门，场景如同围困。"
+      }
+    ],
+    "collocations": {
+      "18-069": [
+        "under siege",
+        "被围困"
+      ],
+      "18-070": [
+        "surround a building",
+        "包围建筑"
+      ],
+      "18-071": [
+        "enclose a garden",
+        "围住花园"
+      ]
+    },
+    "related": [
+      {
+        "word": "blockade",
+        "meaning": "封锁",
+        "relation": "同场景"
+      },
+      {
+        "word": "fortress",
+        "meaning": "堡垒",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-072",
+      "18-073",
+      "18-074"
+    ],
+    "examples": [
+      {
+        "en": "After a brief pause, managers decided to halt production and cease operations.",
+        "zh": "短暂停顿后，经理决定停止生产并停止运营。"
+      },
+      {
+        "en": "A pause in talks does not necessarily mean that negotiations will halt or cooperation will cease.",
+        "zh": "谈判暂停不一定意味着协商将终止或合作将停止。"
+      },
+      {
+        "en": "The warning caused traffic to halt, workers to cease drilling and the site to fall into a temporary pause.",
+        "zh": "警报使交通停下、工人停止钻探，工地暂时停顿。"
+      }
+    ],
+    "collocations": {
+      "18-072": [
+        "a brief pause",
+        "短暂停顿"
+      ],
+      "18-073": [
+        "halt production",
+        "停止生产"
+      ],
+      "18-074": [
+        "cease operations",
+        "停止运营"
+      ]
+    },
+    "related": [
+      {
+        "word": "suspension",
+        "meaning": "暂停",
+        "relation": "同场景"
+      },
+      {
+        "word": "resumption",
+        "meaning": "恢复",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-075",
+      "18-076",
+      "18-077",
+      "18-078"
+    ],
+    "examples": [
+      {
+        "en": "Citizens can oppose laws that oppress minorities, counter harmful claims and deter intimidation.",
+        "zh": "公民可以反对压迫少数群体的法律、反驳有害言论并威慑恐吓行为。"
+      },
+      {
+        "en": "The coalition aims to counter propaganda, deter violence and oppose leaders who oppress dissenters.",
+        "zh": "联盟旨在反制宣传、阻止暴力，并反对压迫异议者的领导人。"
+      },
+      {
+        "en": "Independent media help oppose efforts to oppress communities, counter misinformation and deter abuses of power.",
+        "zh": "独立媒体有助于反对压迫社区的企图、反制错误信息并遏制滥权。"
+      }
+    ],
+    "collocations": {
+      "18-075": [
+        "oppose a policy",
+        "反对政策"
+      ],
+      "18-076": [
+        "oppress a minority",
+        "压迫少数群体"
+      ],
+      "18-077": [
+        "counter an argument",
+        "反驳论点"
+      ],
+      "18-078": [
+        "deter aggression",
+        "威慑侵略"
+      ]
+    },
+    "related": [
+      {
+        "word": "civil rights",
+        "meaning": "公民权利",
+        "relation": "同场景"
+      },
+      {
+        "word": "dissent",
+        "meaning": "异议",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-079",
+      "18-080",
+      "18-081"
+    ],
+    "examples": [
+      {
+        "en": "The rules forbid smoking and prohibit open flames to prevent accidents.",
+        "zh": "规则禁止吸烟和使用明火，以预防事故。"
+      },
+      {
+        "en": "Signs prohibit entry and forbid parking near the gate to prevent obstruction.",
+        "zh": "标志禁止进入，并禁止在门口附近停车，以防阻塞。"
+      },
+      {
+        "en": "Schools may forbid bullying, prohibit weapons and provide training to prevent violence.",
+        "zh": "学校可禁止霸凌、禁止携带武器，并提供培训来预防暴力。"
+      }
+    ],
+    "collocations": {
+      "18-079": [
+        "forbid smoking",
+        "禁止吸烟"
+      ],
+      "18-080": [
+        "prohibit entry",
+        "禁止进入"
+      ],
+      "18-081": [
+        "prevent accidents",
+        "预防事故"
+      ]
+    },
+    "related": [
+      {
+        "word": "safety policy",
+        "meaning": "安全政策",
+        "relation": "同场景"
+      },
+      {
+        "word": "restriction",
+        "meaning": "限制",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-082",
+      "18-083",
+      "18-084"
+    ],
+    "examples": [
+      {
+        "en": "During the revolt, leaders accused rivals of treason and warned them not to betray the movement.",
+        "zh": "起义期间，领导人指控对手叛国，并警告他们不要背叛运动。"
+      },
+      {
+        "en": "The novel follows a revolt whose supporters debate whether refusing orders would betray the nation or constitute treason.",
+        "zh": "小说讲述一次起义，支持者争论拒绝命令会否背叛国家或构成叛国。"
+      },
+      {
+        "en": "Historians disagree on whether the revolt amounted to treason or whether the rulers had chosen to betray the people.",
+        "zh": "历史学家对起义是否构成叛国，以及统治者是否选择背叛人民看法不一。"
+      }
+    ],
+    "collocations": {
+      "18-082": [
+        "a popular revolt",
+        "民众起义"
+      ],
+      "18-083": [
+        "betray a country",
+        "背叛国家"
+      ],
+      "18-084": [
+        "commit treason",
+        "叛国"
+      ]
+    },
+    "related": [
+      {
+        "word": "loyalty",
+        "meaning": "忠诚",
+        "relation": "同场景"
+      },
+      {
+        "word": "uprising",
+        "meaning": "起义",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-085",
+      "18-086",
+      "18-087"
+    ],
+    "examples": [
+      {
+        "en": "One historian calls him a rebel, another a traitor and a third a patriot.",
+        "zh": "一位历史学家称他为反叛者，另一位称他为叛徒，第三位称他为爱国者。"
+      },
+      {
+        "en": "The rebel refused the label of traitor and insisted he was a patriot.",
+        "zh": "这位反叛者拒绝接受叛徒标签，坚持说自己是爱国者。"
+      },
+      {
+        "en": "Whether a rebel is remembered as a traitor or a patriot often depends on who writes the history.",
+        "zh": "反叛者被记作叛徒还是爱国者，往往取决于由谁书写历史。"
+      }
+    ],
+    "collocations": {
+      "18-085": [
+        "a rebel leader",
+        "反叛领袖"
+      ],
+      "18-086": [
+        "brand someone a traitor",
+        "把某人称为叛徒"
+      ],
+      "18-087": [
+        "a committed patriot",
+        "坚定的爱国者"
+      ]
+    },
+    "related": [
+      {
+        "word": "perspective",
+        "meaning": "视角",
+        "relation": "同场景"
+      },
+      {
+        "word": "allegiance",
+        "meaning": "效忠",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-088",
+      "18-089",
+      "18-090",
+      "18-091"
+    ],
+    "examples": [
+      {
+        "en": "Without reliable evidence or conclusive proof, blame and reproach may be unfair.",
+        "zh": "没有可靠证据或确凿证明，责怪和谴责可能不公平。"
+      },
+      {
+        "en": "The inquiry sought evidence and proof before assigning blame or expressing reproach.",
+        "zh": "调查在归责或表示谴责之前寻求证据与证明。"
+      },
+      {
+        "en": "Her tone of reproach suggested blame, but she offered no evidence that could serve as proof.",
+        "zh": "她的责备语气暗含归罪，但没有提供能充当证明的证据。"
+      }
+    ],
+    "collocations": {
+      "18-088": [
+        "accept the blame",
+        "承担责任"
+      ],
+      "18-089": [
+        "a tone of reproach",
+        "责备语气"
+      ],
+      "18-090": [
+        "reliable evidence",
+        "可靠证据"
+      ],
+      "18-091": [
+        "conclusive proof",
+        "确凿证明"
+      ]
+    },
+    "related": [
+      {
+        "word": "responsibility",
+        "meaning": "责任",
+        "relation": "同场景"
+      },
+      {
+        "word": "investigation",
+        "meaning": "调查",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-092",
+      "18-093",
+      "18-095",
+      "18-096",
+      "18-097"
+    ],
+    "examples": [
+      {
+        "en": "The horrible sight filled residents with terror and dread as an alarm warned of another terrible storm.",
+        "zh": "恐怖景象让居民充满惊恐与担忧，警报预示另一场可怕风暴。"
+      },
+      {
+        "en": "After the terrible fire, even a minor alarm brought back the terror and dread of that horrible night.",
+        "zh": "可怕火灾后，即使小警报也会唤起那个恐怖夜晚的惊恐与担忧。"
+      },
+      {
+        "en": "The alarm sounded during a terrible storm, filling us with dread as horrible images of the flood brought back our earlier terror.",
+        "zh": "警报在可怕风暴中响起，洪水的恐怖画面唤起先前的惊恐，让我们满心恐惧。"
+      }
+    ],
+    "collocations": {
+      "18-092": [
+        "in terror",
+        "惊恐地"
+      ],
+      "18-093": [
+        "a terrible ordeal",
+        "可怕经历"
+      ],
+      "18-095": [
+        "a horrible sight",
+        "恐怖景象"
+      ],
+      "18-096": [
+        "raise the alarm",
+        "发出警报"
+      ],
+      "18-097": [
+        "a sense of dread",
+        "恐惧感"
+      ]
+    },
+    "related": [
+      {
+        "word": "fear",
+        "meaning": "恐惧",
+        "relation": "同场景"
+      },
+      {
+        "word": "warning signal",
+        "meaning": "警报信号",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-094"
+    ],
+    "examples": [
+      {
+        "en": "The young musicians gave a terrific performance.",
+        "zh": "年轻音乐家们献上了出色表演。"
+      },
+      {
+        "en": "A terrific public library can transform a neighbourhood.",
+        "zh": "出色的公共图书馆能改变社区。"
+      },
+      {
+        "en": "The volunteers did a terrific job organising the festival.",
+        "zh": "志愿者把节庆活动组织得非常出色。"
+      }
+    ],
+    "collocations": {
+      "18-094": [
+        "a terrific performance",
+        "出色的表演"
+      ]
+    },
+    "related": [
+      {
+        "word": "excellent",
+        "meaning": "优秀的",
+        "relation": "同场景"
+      },
+      {
+        "word": "achievement",
+        "meaning": "成就",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-098",
+      "18-099",
+      "18-100",
+      "18-101"
+    ],
+    "examples": [
+      {
+        "en": "Political turmoil and rising tension can frighten families during a turbulent period.",
+        "zh": "政治动荡和日益紧张的局势会在动荡时期让家庭害怕。"
+      },
+      {
+        "en": "The turbulent debate created tension, but officials hoped it would not frighten investors or deepen the turmoil.",
+        "zh": "激烈辩论引发紧张，但官员希望它不会吓退投资者或加剧动荡。"
+      },
+      {
+        "en": "News of turmoil may frighten tourists even after a turbulent region has reduced local tension.",
+        "zh": "即使动荡地区已经缓解当地紧张，动乱新闻仍可能吓到游客。"
+      }
+    ],
+    "collocations": {
+      "18-098": [
+        "frighten residents",
+        "吓到居民"
+      ],
+      "18-099": [
+        "rising tension",
+        "日益紧张"
+      ],
+      "18-100": [
+        "a turbulent period",
+        "动荡时期"
+      ],
+      "18-101": [
+        "political turmoil",
+        "政治动荡"
+      ]
+    },
+    "related": [
+      {
+        "word": "instability",
+        "meaning": "不稳定",
+        "relation": "同场景"
+      },
+      {
+        "word": "uncertainty",
+        "meaning": "不确定性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-102",
+      "18-103",
+      "18-104",
+      "18-105",
+      "18-106"
+    ],
+    "examples": [
+      {
+        "en": "The worst-case scenario for the contest was a reckless crowd disrupting order on a festive occasion.",
+        "zh": "比赛最坏的情形是鲁莽人群在欢庆场合扰乱秩序。"
+      },
+      {
+        "en": "On this occasion, officials planned for a scenario in which reckless fans might threaten order after the contest.",
+        "zh": "这次，官员预设了鲁莽球迷可能在赛后威胁秩序的情形。"
+      },
+      {
+        "en": "A contest should be an occasion for fair play; a reckless decision can create a scenario where order breaks down.",
+        "zh": "比赛应成为公平竞技的场合；鲁莽决定可能造成秩序崩溃的局面。"
+      }
+    ],
+    "collocations": {
+      "18-102": [
+        "a worst-case scenario",
+        "最坏情形"
+      ],
+      "18-103": [
+        "on this occasion",
+        "在这个场合"
+      ],
+      "18-104": [
+        "a sporting contest",
+        "体育比赛"
+      ],
+      "18-105": [
+        "maintain order",
+        "维持秩序"
+      ],
+      "18-106": [
+        "reckless behaviour",
+        "鲁莽行为"
+      ]
+    },
+    "related": [
+      {
+        "word": "crowd control",
+        "meaning": "人群管理",
+        "relation": "同场景"
+      },
+      {
+        "word": "sportsmanship",
+        "meaning": "体育精神",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-107",
+      "18-108",
+      "18-109",
+      "18-110"
+    ],
+    "examples": [
+      {
+        "en": "To make progress within the budget limit, we must rein in spending and respect the project's boundary.",
+        "zh": "为在预算限额内推进，我们必须控制支出，并遵守项目边界。"
+      },
+      {
+        "en": "The agreement sets a boundary and a limit on patrols to rein in tensions and support progress.",
+        "zh": "协议划定边界、限制巡逻，以控制紧张局势并支持进展。"
+      },
+      {
+        "en": "A clear boundary helps rein in expansion, but an arbitrary limit may slow progress.",
+        "zh": "清晰边界有助于控制扩张，但随意的限制可能拖慢进展。"
+      }
+    ],
+    "collocations": {
+      "18-107": [
+        "make progress",
+        "取得进展"
+      ],
+      "18-108": [
+        "set a limit",
+        "设定限制"
+      ],
+      "18-109": [
+        "a national boundary",
+        "国界"
+      ],
+      "18-110": [
+        "rein in spending",
+        "控制支出"
+      ]
+    },
+    "related": [
+      {
+        "word": "restraint",
+        "meaning": "克制",
+        "relation": "同场景"
+      },
+      {
+        "word": "negotiation",
+        "meaning": "谈判",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-111",
+      "18-112",
+      "18-113",
+      "18-114",
+      "18-115"
+    ],
+    "examples": [
+      {
+        "en": "A competitor may contend for a title and compete with a rival without treating anyone as an enemy.",
+        "zh": "竞争者可以争夺冠军、与对手比赛，而不把任何人视为敌人。"
+      },
+      {
+        "en": "The coach told each competitor to contend fairly, compete hard and regard a rival as a partner rather than an enemy.",
+        "zh": "教练要求每位选手公平争夺、努力比赛，并把对手当作伙伴而非敌人。"
+      },
+      {
+        "en": "Businesses compete with a rival and contend for customers, but a competitor need not become an enemy.",
+        "zh": "企业与对手竞争并争夺客户，但竞争者无须成为敌人。"
+      }
+    ],
+    "collocations": {
+      "18-111": [
+        "compete for a prize",
+        "争夺奖项"
+      ],
+      "18-112": [
+        "contend for a title",
+        "争夺冠军"
+      ],
+      "18-113": [
+        "a close rival",
+        "实力相近的对手"
+      ],
+      "18-114": [
+        "a strong competitor",
+        "强劲竞争者"
+      ],
+      "18-115": [
+        "a common enemy",
+        "共同敌人"
+      ]
+    },
+    "related": [
+      {
+        "word": "competition",
+        "meaning": "竞争",
+        "relation": "同场景"
+      },
+      {
+        "word": "fair play",
+        "meaning": "公平竞技",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-116",
+      "18-117",
+      "18-118",
+      "18-119"
+    ],
+    "examples": [
+      {
+        "en": "The blueprint sets out a strategy, while each tactic and manoeuvre addresses a specific obstacle.",
+        "zh": "蓝图提出总体战略，而每项战术和行动处理具体障碍。"
+      },
+      {
+        "en": "A successful strategy needs more than a clever tactic or manoeuvre; it needs a practical blueprint.",
+        "zh": "成功战略不仅需要巧妙战术或行动，还需要实用蓝图。"
+      },
+      {
+        "en": "Planners revised the blueprint after one tactic failed and a diplomatic manoeuvre changed the strategy.",
+        "zh": "一项战术失败、一次外交行动改变战略后，规划者修订了蓝图。"
+      }
+    ],
+    "collocations": {
+      "18-116": [
+        "a long-term strategy",
+        "长期战略"
+      ],
+      "18-117": [
+        "a negotiating tactic",
+        "谈判策略"
+      ],
+      "18-118": [
+        "a diplomatic manoeuvre",
+        "外交行动"
+      ],
+      "18-119": [
+        "a blueprint for reform",
+        "改革蓝图"
+      ]
+    },
+    "related": [
+      {
+        "word": "planning",
+        "meaning": "规划",
+        "relation": "同场景"
+      },
+      {
+        "word": "implementation",
+        "meaning": "实施",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-120",
+      "18-121",
+      "18-122"
+    ],
+    "examples": [
+      {
+        "en": "Regulators warn employers that safety rules compel and oblige them to protect staff.",
+        "zh": "监管者警告雇主，安全规则强制并要求他们保护员工。"
+      },
+      {
+        "en": "A notice may warn owners of a hazard, but a court order can compel repairs and oblige them to pay.",
+        "zh": "通知可以警告业主存在危险，但法院命令能强制维修并要求其付款。"
+      },
+      {
+        "en": "Officials must warn residents before laws compel evacuation and oblige families to leave.",
+        "zh": "法律强制撤离并要求家庭离开之前，官员必须警告居民。"
+      }
+    ],
+    "collocations": {
+      "18-120": [
+        "warn of danger",
+        "警告危险"
+      ],
+      "18-121": [
+        "compel compliance",
+        "强制服从"
+      ],
+      "18-122": [
+        "oblige employers to act",
+        "要求雇主行动"
+      ]
+    },
+    "related": [
+      {
+        "word": "legal duty",
+        "meaning": "法律义务",
+        "relation": "同场景"
+      },
+      {
+        "word": "hazard",
+        "meaning": "危险",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-123",
+      "18-124"
+    ],
+    "examples": [
+      {
+        "en": "Organisers used the protest to refute allegations of public indifference.",
+        "zh": "组织者利用抗议反驳公众冷漠的指控。"
+      },
+      {
+        "en": "Officials tried to refute the claims that had prompted the protest.",
+        "zh": "官员试图驳斥引发抗议的主张。"
+      },
+      {
+        "en": "A peaceful protest can challenge policy, but evidence is needed to refute a factual claim.",
+        "zh": "和平抗议可以挑战政策，但反驳事实主张需要证据。"
+      }
+    ],
+    "collocations": {
+      "18-123": [
+        "a peaceful protest",
+        "和平抗议"
+      ],
+      "18-124": [
+        "refute an allegation",
+        "驳斥指控"
+      ]
+    },
+    "related": [
+      {
+        "word": "demonstration",
+        "meaning": "示威",
+        "relation": "同场景"
+      },
+      {
+        "word": "counterargument",
+        "meaning": "反论点",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-125",
+      "18-126",
+      "18-127",
+      "18-128"
+    ],
+    "examples": [
+      {
+        "en": "Military might and force may reinforce a government's position but impair public trust.",
+        "zh": "军事实力和武力可能巩固政府地位，却损害公众信任。"
+      },
+      {
+        "en": "Leaders may use force to reinforce their might, even when doing so could impair diplomatic relations.",
+        "zh": "领导人可能用武力增强实力，即使这会损害外交关系。"
+      },
+      {
+        "en": "The report asks whether economic might can reinforce cooperation without the force that would impair it.",
+        "zh": "报告探讨经济实力能否在不用破坏合作的强制力的情况下巩固合作。"
+      }
+    ],
+    "collocations": {
+      "18-125": [
+        "military might",
+        "军事实力"
+      ],
+      "18-126": [
+        "use force",
+        "使用武力"
+      ],
+      "18-127": [
+        "reinforce a bridge",
+        "加固桥梁"
+      ],
+      "18-128": [
+        "impair judgement",
+        "损害判断"
+      ]
+    },
+    "related": [
+      {
+        "word": "coercion",
+        "meaning": "强制",
+        "relation": "同场景"
+      },
+      {
+        "word": "trust",
+        "meaning": "信任",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-129",
+      "18-130"
+    ],
+    "examples": [
+      {
+        "en": "Volunteers offer comfort to survivors and help mitigate their suffering.",
+        "zh": "志愿者安慰幸存者，帮助减轻痛苦。"
+      },
+      {
+        "en": "Better housing can mitigate hardship and provide comfort after a disaster.",
+        "zh": "更好的住房能减轻困苦，并在灾后提供慰藉。"
+      },
+      {
+        "en": "Counselling aims to mitigate distress and comfort bereaved families.",
+        "zh": "心理辅导旨在减轻悲痛，并安慰丧亲家庭。"
+      }
+    ],
+    "collocations": {
+      "18-129": [
+        "mitigate suffering",
+        "减轻痛苦"
+      ],
+      "18-130": [
+        "comfort survivors",
+        "安慰幸存者"
+      ]
+    },
+    "related": [
+      {
+        "word": "support",
+        "meaning": "支持",
+        "relation": "同场景"
+      },
+      {
+        "word": "compassion",
+        "meaning": "同情与关怀",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-131",
+      "18-132",
+      "18-133",
+      "18-134"
+    ],
+    "examples": [
+      {
+        "en": "A rare event may happen unexpectedly, but similar incidents can occur so often that prevention becomes a serious matter.",
+        "zh": "罕见事件可能意外发生，但类似事故也可能频繁出现，使预防成为严肃问题。"
+      },
+      {
+        "en": "If the event does happen, officials must determine why failures occur and treat the matter seriously.",
+        "zh": "如果事件确实发生，官员必须确定故障为何出现，并严肃处理此事。"
+      },
+      {
+        "en": "The matter concerns what might happen at a public event and where crowding could occur.",
+        "zh": "此事涉及公共活动中可能发生什么，以及哪里可能出现拥挤。"
+      }
+    ],
+    "collocations": {
+      "18-131": [
+        "a major event",
+        "重大事件"
+      ],
+      "18-132": [
+        "a serious matter",
+        "严重事项"
+      ],
+      "18-133": [
+        "happen unexpectedly",
+        "意外发生"
+      ],
+      "18-134": [
+        "occur frequently",
+        "频繁发生"
+      ]
+    },
+    "related": [
+      {
+        "word": "incident",
+        "meaning": "事件",
+        "relation": "同场景"
+      },
+      {
+        "word": "contingency planning",
+        "meaning": "应急规划",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-135",
+      "18-136",
+      "18-137",
+      "18-138",
+      "18-139"
+    ],
+    "examples": [
+      {
+        "en": "In the legend, a fierce devil inspires a savage attack involving foul play and an evil betrayal.",
+        "zh": "传说中，凶猛的魔鬼煽动了一次残暴袭击，其中涉及阴谋与邪恶背叛。"
+      },
+      {
+        "en": "The critic described the villain as an evil devil whose savage methods and foul motives met fierce resistance.",
+        "zh": "评论家把反派描述为邪恶魔鬼，其残暴手段与卑劣动机遭到激烈抵抗。"
+      },
+      {
+        "en": "The story portrays a savage ruler, fierce rebels, foul corruption and an evil adviser compared to a devil.",
+        "zh": "故事描绘了残暴统治者、强悍反叛者、卑劣腐败及被比作魔鬼的邪恶顾问。"
+      }
+    ],
+    "collocations": {
+      "18-135": [
+        "a savage attack",
+        "残暴袭击"
+      ],
+      "18-136": [
+        "fierce opposition",
+        "激烈反对"
+      ],
+      "18-137": [
+        "foul play",
+        "犯罪行为"
+      ],
+      "18-138": [
+        "an evil act",
+        "邪恶行为"
+      ],
+      "18-139": [
+        "a mythical devil",
+        "神话中的魔鬼"
+      ]
+    },
+    "related": [
+      {
+        "word": "villain",
+        "meaning": "反派",
+        "relation": "同场景"
+      },
+      {
+        "word": "folklore",
+        "meaning": "民间传说",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-140",
+      "18-141",
+      "18-142"
+    ],
+    "examples": [
+      {
+        "en": "The historical account examines capital punishment and the former practice of using a rope to hang and execute prisoners.",
+        "zh": "这份历史记录考察死刑及过去用绳索绞死、处决囚犯的做法。"
+      },
+      {
+        "en": "Reformers opposed punishment that allowed the state to hang or otherwise execute offenders.",
+        "zh": "改革者反对允许国家绞死或以其他方式处决罪犯的刑罚。"
+      },
+      {
+        "en": "The museum explains why some societies abolished the punishment that authorised officials to hang and execute people.",
+        "zh": "博物馆解释了一些社会为何废除授权官员绞死和处决人的刑罚。"
+      }
+    ],
+    "collocations": {
+      "18-140": [
+        "capital punishment",
+        "死刑"
+      ],
+      "18-141": [
+        "execute a prisoner",
+        "处决囚犯"
+      ],
+      "18-142": [
+        "hang a prisoner",
+        "绞死囚犯"
+      ]
+    },
+    "related": [
+      {
+        "word": "abolition",
+        "meaning": "废除",
+        "relation": "同场景"
+      },
+      {
+        "word": "human rights",
+        "meaning": "人权",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-143",
+      "18-144",
+      "18-145"
+    ],
+    "examples": [
+      {
+        "en": "The family had to bury another casualty of the war and mourn the needless sacrifice.",
+        "zh": "这家人不得不安葬又一位战争死者，并哀悼无谓的牺牲。"
+      },
+      {
+        "en": "Volunteers helped bury each casualty, while survivors reflected on the sacrifice made by rescuers.",
+        "zh": "志愿者帮助安葬每位死者，幸存者则追思救援者作出的牺牲。"
+      },
+      {
+        "en": "The memorial honours a casualty whose family could not afford to bury him, recalling both hardship and sacrifice.",
+        "zh": "纪念碑纪念一位家人无钱安葬的死者，追忆困苦与牺牲。"
+      }
+    ],
+    "collocations": {
+      "18-143": [
+        "make a sacrifice",
+        "作出牺牲"
+      ],
+      "18-144": [
+        "a civilian casualty",
+        "平民伤亡者"
+      ],
+      "18-145": [
+        "bury the dead",
+        "安葬死者"
+      ]
+    },
+    "related": [
+      {
+        "word": "remembrance",
+        "meaning": "纪念",
+        "relation": "同场景"
+      },
+      {
+        "word": "bereavement",
+        "meaning": "丧亲",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-146",
+      "18-147",
+      "18-148"
+    ],
+    "examples": [
+      {
+        "en": "After the funeral, the family visited a grave near an ancient tomb.",
+        "zh": "葬礼后，家人探访了古墓附近的一处坟墓。"
+      },
+      {
+        "en": "The guide distinguished the royal tomb from a simple grave and described the king's elaborate funeral.",
+        "zh": "导游区分了王陵与普通坟墓，并描述了国王隆重的葬礼。"
+      },
+      {
+        "en": "A photograph of the funeral hangs beside a model tomb and a map showing the grave.",
+        "zh": "葬礼照片挂在陵墓模型和标有坟墓位置的地图旁边。"
+      }
+    ],
+    "collocations": {
+      "18-146": [
+        "attend a funeral",
+        "参加葬礼"
+      ],
+      "18-147": [
+        "a war grave",
+        "战争墓地"
+      ],
+      "18-148": [
+        "a royal tomb",
+        "王陵"
+      ]
+    },
+    "related": [
+      {
+        "word": "burial",
+        "meaning": "安葬",
+        "relation": "同场景"
+      },
+      {
+        "word": "mourning",
+        "meaning": "哀悼",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-149"
+    ],
+    "examples": [
+      {
+        "en": "Survivors described the overcrowded camp as a living hell.",
+        "zh": "幸存者称拥挤营地是人间地狱。"
+      },
+      {
+        "en": "The novel contrasts an image of hell with the hope offered by friendship.",
+        "zh": "小说将地狱景象与友谊带来的希望作对比。"
+      },
+      {
+        "en": "For commuters, months of delays turned the journey into hell.",
+        "zh": "对于通勤者，数月延误让旅程变成煎熬。"
+      }
+    ],
+    "collocations": {
+      "18-149": [
+        "a living hell",
+        "人间地狱"
+      ]
+    },
+    "related": [
+      {
+        "word": "ordeal",
+        "meaning": "磨难",
+        "relation": "同场景"
+      },
+      {
+        "word": "suffering",
+        "meaning": "痛苦",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-150",
+      "18-151",
+      "18-152",
+      "18-153",
+      "18-154"
+    ],
+    "examples": [
+      {
+        "en": "The naval fleet escorted a troop transport toward a landing site near the maritime trade route.",
+        "zh": "海军舰队护送运兵船前往海上贸易路线附近的登陆点。"
+      },
+      {
+        "en": "A maritime museum displays a naval fleet model beside a troop transport used during the landing.",
+        "zh": "海事博物馆在登陆行动使用过的运兵船旁陈列海军舰队模型。"
+      },
+      {
+        "en": "The landing exercise involved a naval fleet and a troop carrier while keeping maritime traffic clear.",
+        "zh": "登陆演习动用了海军舰队和运兵船，同时避开海上交通。"
+      }
+    ],
+    "collocations": {
+      "18-150": [
+        "maritime trade",
+        "海上贸易"
+      ],
+      "18-151": [
+        "a naval base",
+        "海军基地"
+      ],
+      "18-152": [
+        "a troop transport",
+        "运兵船"
+      ],
+      "18-153": [
+        "a fishing fleet",
+        "渔船队"
+      ],
+      "18-154": [
+        "an emergency landing",
+        "紧急着陆"
+      ]
+    },
+    "related": [
+      {
+        "word": "navigation",
+        "meaning": "航行",
+        "relation": "同场景"
+      },
+      {
+        "word": "transport vessel",
+        "meaning": "运输船",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-155",
+      "18-156",
+      "18-157",
+      "18-158",
+      "18-159"
+    ],
+    "examples": [
+      {
+        "en": "The military veteran watched a helicopter hover as inspectors prepared to proceed with nuclear safety checks.",
+        "zh": "这位退伍军人看着直升机盘旋，检查员准备继续进行核安全检查。"
+      },
+      {
+        "en": "A veteran of military rescue work advised the crew to hover above the site before they proceed toward the nuclear facility.",
+        "zh": "有军事救援经验的老兵建议机组在现场上空盘旋，然后再向核设施前进。"
+      },
+      {
+        "en": "The nuclear exercise required a military helicopter to hover while a veteran coordinator decided how to proceed.",
+        "zh": "核应急演习要求军用直升机盘旋，由一名资深协调员决定如何继续行动。"
+      }
+    ],
+    "collocations": {
+      "18-155": [
+        "hover overhead",
+        "在上空盘旋"
+      ],
+      "18-156": [
+        "proceed with caution",
+        "谨慎前进"
+      ],
+      "18-157": [
+        "a war veteran",
+        "退伍军人"
+      ],
+      "18-158": [
+        "military service",
+        "服兵役"
+      ],
+      "18-159": [
+        "nuclear safety",
+        "核安全"
+      ]
+    },
+    "related": [
+      {
+        "word": "inspection",
+        "meaning": "检查",
+        "relation": "同场景"
+      },
+      {
+        "word": "emergency exercise",
+        "meaning": "应急演习",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-160",
+      "18-161",
+      "18-162"
+    ],
+    "examples": [
+      {
+        "en": "A spill can poison the river, devastate fishing communities and put livelihoods at risk.",
+        "zh": "泄漏可能污染河流、重创渔业社区，并危及生计。"
+      },
+      {
+        "en": "Officials assessed the risk that leaking chemicals could poison water and devastate farmland.",
+        "zh": "官员评估了化学品泄漏污染水源并毁坏农田的风险。"
+      },
+      {
+        "en": "To reduce the risk, inspectors monitor substances that might poison wildlife and devastate habitats.",
+        "zh": "为降低风险，检查员监测可能毒害野生动物并摧毁栖息地的物质。"
+      }
+    ],
+    "collocations": {
+      "18-160": [
+        "poison a river",
+        "污染河流"
+      ],
+      "18-161": [
+        "devastate communities",
+        "摧毁社区"
+      ],
+      "18-162": [
+        "at risk",
+        "处于危险中"
+      ]
+    },
+    "related": [
+      {
+        "word": "contamination",
+        "meaning": "污染",
+        "relation": "同场景"
+      },
+      {
+        "word": "environmental damage",
+        "meaning": "环境破坏",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-163",
+      "18-164",
+      "18-165",
+      "18-166"
+    ],
+    "examples": [
+      {
+        "en": "The adventure turned into a catastrophe when a bridge collapse left hikers in peril.",
+        "zh": "桥梁坍塌使徒步者陷入险境，探险变成了灾难。"
+      },
+      {
+        "en": "A responsible adventure company prepares for peril, including a possible collapse or weather catastrophe.",
+        "zh": "负责任的探险公司会为险情做好准备，包括可能发生的坍塌或天气灾难。"
+      },
+      {
+        "en": "The film follows an adventure interrupted by a mine collapse, showing how rescuers faced peril after the catastrophe.",
+        "zh": "电影讲述了一场被矿井坍塌打断的探险，展现救援者在灾难后如何面对险境。"
+      }
+    ],
+    "collocations": {
+      "18-163": [
+        "an outdoor adventure",
+        "户外探险"
+      ],
+      "18-164": [
+        "in peril",
+        "处于险境"
+      ],
+      "18-165": [
+        "a natural catastrophe",
+        "自然灾难"
+      ],
+      "18-166": [
+        "a structural collapse",
+        "结构坍塌"
+      ]
+    },
+    "related": [
+      {
+        "word": "rescue",
+        "meaning": "救援",
+        "relation": "同场景"
+      },
+      {
+        "word": "hazard assessment",
+        "meaning": "危险评估",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-167",
+      "18-168",
+      "18-169",
+      "18-170"
+    ],
+    "examples": [
+      {
+        "en": "Abusive staff may humiliate detainees, cause lasting damage and engage in harmful treatment that amounts to torture.",
+        "zh": "施虐员工可能羞辱被拘留者、造成持久伤害，并实施构成酷刑的有害待遇。"
+      },
+      {
+        "en": "The report condemns torture and other harmful practices that humiliate people and damage their dignity.",
+        "zh": "报告谴责酷刑及其他羞辱人、损害尊严的有害做法。"
+      },
+      {
+        "en": "Rules must prevent officials from using torture or harmful threats to humiliate suspects and damage their health.",
+        "zh": "规则必须防止官员用酷刑或有害威胁羞辱嫌疑人并损害其健康。"
+      }
+    ],
+    "collocations": {
+      "18-167": [
+        "prohibit torture",
+        "禁止酷刑"
+      ],
+      "18-168": [
+        "humiliate a prisoner",
+        "羞辱囚犯"
+      ],
+      "18-169": [
+        "psychological damage",
+        "心理伤害"
+      ],
+      "18-170": [
+        "harmful treatment",
+        "有害待遇"
+      ]
+    },
+    "related": [
+      {
+        "word": "dignity",
+        "meaning": "尊严",
+        "relation": "同场景"
+      },
+      {
+        "word": "abuse",
+        "meaning": "虐待",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-171",
+      "18-172",
+      "18-173",
+      "18-174"
+    ],
+    "examples": [
+      {
+        "en": "False alerts can mislead residents, disturb their sleep, interfere with work and interrupt essential services.",
+        "zh": "虚假警报可能误导居民、打扰睡眠、干扰工作并中断必要服务。"
+      },
+      {
+        "en": "Officials asked reporters not to mislead the public, disturb witnesses, interfere with evidence or interrupt rescue work.",
+        "zh": "官员要求记者不要误导公众、打扰证人、干扰证据或中断救援工作。"
+      },
+      {
+        "en": "An intrusive advertisement may mislead users, disturb their concentration, interfere with reading and interrupt a lesson.",
+        "zh": "侵扰性广告可能误导用户、扰乱专注、妨碍阅读并打断课程。"
+      }
+    ],
+    "collocations": {
+      "18-171": [
+        "mislead the public",
+        "误导公众"
+      ],
+      "18-172": [
+        "disturb residents",
+        "打扰居民"
+      ],
+      "18-173": [
+        "interfere with work",
+        "干扰工作"
+      ],
+      "18-174": [
+        "interrupt a meeting",
+        "打断会议"
+      ]
+    },
+    "related": [
+      {
+        "word": "disruption",
+        "meaning": "干扰",
+        "relation": "同场景"
+      },
+      {
+        "word": "misinformation",
+        "meaning": "错误信息",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-175",
+      "18-176",
+      "18-177",
+      "18-178"
+    ],
+    "examples": [
+      {
+        "en": "Unable to withstand pressure, the army began to withdraw, allowing its defensive line to shrink during the retreat.",
+        "zh": "军队无法承受压力，开始撤离，撤退期间防线缩小。"
+      },
+      {
+        "en": "The plan lets teams withdraw safely, withstand temporary setbacks and avoid letting their options shrink during a retreat.",
+        "zh": "计划让团队安全撤离、承受暂时挫折，并避免在退让中选择范围缩小。"
+      },
+      {
+        "en": "As resources shrink, leaders must decide whether to withstand another crisis, withdraw staff or order a full retreat.",
+        "zh": "资源减少时，领导人必须决定是再扛一次危机、撤走员工，还是下令全面撤退。"
+      }
+    ],
+    "collocations": {
+      "18-175": [
+        "a strategic retreat",
+        "战略撤退"
+      ],
+      "18-176": [
+        "shrink in size",
+        "缩小"
+      ],
+      "18-177": [
+        "withdraw troops",
+        "撤军"
+      ],
+      "18-178": [
+        "withstand pressure",
+        "承受压力"
+      ]
+    },
+    "related": [
+      {
+        "word": "setback",
+        "meaning": "挫折",
+        "relation": "同场景"
+      },
+      {
+        "word": "resilience",
+        "meaning": "韧性",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-179",
+      "18-180",
+      "18-181",
+      "18-182"
+    ],
+    "examples": [
+      {
+        "en": "A compromise can help both sides avoid conflict without forcing either to surrender or escape abroad.",
+        "zh": "妥协能帮助双方避免冲突，而不迫使任何一方投降或逃往国外。"
+      },
+      {
+        "en": "The leaders sought a compromise to avoid further fighting and let civilians escape before any surrender.",
+        "zh": "领导人寻求妥协以避免更多战斗，并让平民在任何投降之前逃离。"
+      },
+      {
+        "en": "To escape the deadlock, negotiators proposed a compromise that would avoid a demand for total surrender.",
+        "zh": "为摆脱僵局，谈判者提出了一个避免要求完全投降的妥协方案。"
+      }
+    ],
+    "collocations": {
+      "18-179": [
+        "reach a compromise",
+        "达成妥协"
+      ],
+      "18-180": [
+        "surrender control",
+        "交出控制权"
+      ],
+      "18-181": [
+        "escape danger",
+        "脱离危险"
+      ],
+      "18-182": [
+        "avoid conflict",
+        "避免冲突"
+      ]
+    },
+    "related": [
+      {
+        "word": "negotiated settlement",
+        "meaning": "谈判解决",
+        "relation": "同场景"
+      },
+      {
+        "word": "deadlock",
+        "meaning": "僵局",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-183",
+      "18-184",
+      "18-185",
+      "18-186",
+      "18-187"
+    ],
+    "examples": [
+      {
+        "en": "To get rid of waste, the team chose to quit unnecessary meetings, abandon paper forms, forgo printed reports and discard broken equipment.",
+        "zh": "为减少浪费，团队决定停止不必要的会议、放弃纸质表格、不再印报告，并丢弃损坏设备。"
+      },
+      {
+        "en": "The policy helps firms get rid of hazards, discard unsafe stock, abandon outdated methods, forgo quick profits and quit risky practices.",
+        "zh": "政策帮助企业消除隐患、丢弃不安全库存、放弃过时方法、不谋求快钱，并停止高风险做法。"
+      },
+      {
+        "en": "Before you quit the project and abandon your plans, consider whether you can discard weaker ideas, forgo some features and get rid of avoidable costs.",
+        "zh": "退出项目并放弃计划前，考虑能否舍弃较弱想法、放弃一些功能，并消除可避免的成本。"
+      }
+    ],
+    "collocations": {
+      "18-183": [
+        "quit a job",
+        "辞职"
+      ],
+      "18-184": [
+        "abandon a plan",
+        "放弃计划"
+      ],
+      "18-185": [
+        "forgo a benefit",
+        "放弃利益"
+      ],
+      "18-186": [
+        "discard old equipment",
+        "丢弃旧设备"
+      ],
+      "18-187": [
+        "get rid of waste",
+        "清除废物"
+      ]
+    },
+    "related": [
+      {
+        "word": "prioritisation",
+        "meaning": "确定优先次序",
+        "relation": "同场景"
+      },
+      {
+        "word": "waste reduction",
+        "meaning": "减少浪费",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-188",
+      "18-189",
+      "18-190",
+      "18-191",
+      "18-192"
+    ],
+    "examples": [
+      {
+        "en": "The game asks players to defend a city, safeguard supplies, resist attacks, defeat an opponent and capture a flag.",
+        "zh": "游戏要求玩家保卫城市、保护物资、抵御进攻、击败对手并夺旗。"
+      },
+      {
+        "en": "The campaign aimed to defend villages, safeguard civilians, resist occupation, defeat the attackers and capture their headquarters.",
+        "zh": "该行动旨在保卫村庄、保护平民、抵抗占领、击败袭击者并夺取其总部。"
+      },
+      {
+        "en": "Historical accounts describe efforts to defend the bridge, safeguard refugees, resist the advance, defeat the attackers and capture a key crossing.",
+        "zh": "历史记述描述了保卫桥梁、保护难民、抵抗推进、击败袭击者并夺取关键渡口的努力。"
+      }
+    ],
+    "collocations": {
+      "18-188": [
+        "defend a border",
+        "保卫边界"
+      ],
+      "18-189": [
+        "safeguard rights",
+        "保障权利"
+      ],
+      "18-190": [
+        "defeat an opponent",
+        "击败对手"
+      ],
+      "18-191": [
+        "resist pressure",
+        "抵抗压力"
+      ],
+      "18-192": [
+        "capture a city",
+        "攻占城市"
+      ]
+    },
+    "related": [
+      {
+        "word": "defence",
+        "meaning": "防御",
+        "relation": "同场景"
+      },
+      {
+        "word": "protection",
+        "meaning": "保护",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-193",
+      "18-194",
+      "18-195"
+    ],
+    "examples": [
+      {
+        "en": "Her triumph was to conquer her fear of speaking, a victory that mattered more than the prize.",
+        "zh": "她的成功在于克服演讲恐惧，这场胜利比奖品更重要。"
+      },
+      {
+        "en": "The climbers celebrated a victory, but their real triumph was learning to conquer doubt.",
+        "zh": "登山者庆祝成功，但真正的胜利是学会克服疑虑。"
+      },
+      {
+        "en": "To conquer a difficult subject takes patience, and each small victory contributes to the final triumph.",
+        "zh": "攻克难学的科目需要耐心，每个小胜利都促成最终成功。"
+      }
+    ],
+    "collocations": {
+      "18-193": [
+        "a decisive victory",
+        "决定性胜利"
+      ],
+      "18-194": [
+        "a personal triumph",
+        "个人胜利"
+      ],
+      "18-195": [
+        "conquer a fear",
+        "克服恐惧"
+      ]
+    },
+    "related": [
+      {
+        "word": "achievement",
+        "meaning": "成就",
+        "relation": "同场景"
+      },
+      {
+        "word": "perseverance",
+        "meaning": "坚持",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-196",
+      "18-197",
+      "18-198"
+    ],
+    "examples": [
+      {
+        "en": "A stone tablet beside the statue explains why the monument was built.",
+        "zh": "雕像旁的石碑解释了纪念碑的修建原因。"
+      },
+      {
+        "en": "The monument includes a bronze statue and a tablet listing the volunteers' names.",
+        "zh": "纪念碑包括一座铜像和一块列有志愿者姓名的石碑。"
+      },
+      {
+        "en": "Conservators repaired the tablet, cleaned the statue and restored the surrounding monument.",
+        "zh": "修复人员修复石碑、清理雕像，并修缮周围纪念建筑。"
+      }
+    ],
+    "collocations": {
+      "18-196": [
+        "a national monument",
+        "国家纪念碑"
+      ],
+      "18-197": [
+        "a stone tablet",
+        "石碑"
+      ],
+      "18-198": [
+        "a bronze statue",
+        "铜像"
+      ]
+    },
+    "related": [
+      {
+        "word": "commemoration",
+        "meaning": "纪念",
+        "relation": "同场景"
+      },
+      {
+        "word": "heritage",
+        "meaning": "遗产",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-199",
+      "18-200",
+      "18-201"
+    ],
+    "examples": [
+      {
+        "en": "The town held a reception in honour of the athlete's glorious victory and gold medal.",
+        "zh": "城镇举行招待会，庆祝运动员的辉煌胜利和金牌。"
+      },
+      {
+        "en": "Her medal represents a glorious achievement, and she accepted it as an honour for the entire team.",
+        "zh": "她的奖章代表辉煌成就，她把它视为全队的荣誉而接受。"
+      },
+      {
+        "en": "A medal alone cannot honour every glorious act of courage.",
+        "zh": "单一奖章无法表彰每一种光辉的勇敢行为。"
+      }
+    ],
+    "collocations": {
+      "18-199": [
+        "win a medal",
+        "赢得奖章"
+      ],
+      "18-200": [
+        "in honour of",
+        "纪念"
+      ],
+      "18-201": [
+        "a glorious achievement",
+        "辉煌成就"
+      ]
+    },
+    "related": [
+      {
+        "word": "recognition",
+        "meaning": "认可",
+        "relation": "同场景"
+      },
+      {
+        "word": "achievement",
+        "meaning": "成就",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-202",
+      "18-203",
+      "18-204"
+    ],
+    "examples": [
+      {
+        "en": "We owe thanks to volunteers who devote their weekends to the project and contribute their skills.",
+        "zh": "我们应感谢把周末投入项目并贡献技能的志愿者。"
+      },
+      {
+        "en": "Students who devote time to helping others contribute to the community they owe so much to.",
+        "zh": "投入时间帮助他人的学生，为给予他们很多的社区作出了贡献。"
+      },
+      {
+        "en": "I owe my mentors gratitude because they devote energy to teaching and contribute far beyond their duties.",
+        "zh": "我感激导师，因为他们倾力教学，贡献远超职责要求。"
+      }
+    ],
+    "collocations": {
+      "18-202": [
+        "contribute to research",
+        "为研究作贡献"
+      ],
+      "18-203": [
+        "devote time to study",
+        "投入时间学习"
+      ],
+      "18-204": [
+        "owe a debt of gratitude",
+        "欠一份感激之情"
+      ]
+    },
+    "related": [
+      {
+        "word": "service",
+        "meaning": "服务",
+        "relation": "同场景"
+      },
+      {
+        "word": "gratitude",
+        "meaning": "感激",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-205",
+      "18-206",
+      "18-207",
+      "18-208"
+    ],
+    "examples": [
+      {
+        "en": "The patrol used camouflage to guard the crossing behind a natural obstacle.",
+        "zh": "巡逻队利用伪装，在天然障碍后守卫渡口。"
+      },
+      {
+        "en": "A guard in camouflage guided the patrol around an obstacle on the path.",
+        "zh": "身着迷彩服的警卫引导巡逻队绕过路上的障碍。"
+      },
+      {
+        "en": "Dense vegetation provided camouflage but became an obstacle for the patrol sent to guard the station.",
+        "zh": "茂密植被提供了掩护，却成了派去守卫车站的巡逻队的障碍。"
+      }
+    ],
+    "collocations": {
+      "18-205": [
+        "a border patrol",
+        "边境巡逻"
+      ],
+      "18-206": [
+        "guard an entrance",
+        "守卫入口"
+      ],
+      "18-207": [
+        "camouflage clothing",
+        "迷彩服"
+      ],
+      "18-208": [
+        "a major obstacle",
+        "重大障碍"
+      ]
+    },
+    "related": [
+      {
+        "word": "concealment",
+        "meaning": "隐蔽",
+        "relation": "同场景"
+      },
+      {
+        "word": "surveillance",
+        "meaning": "监视",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "18-209",
+      "18-210",
+      "18-211",
+      "18-212",
+      "18-213"
+    ],
+    "examples": [
+      {
+        "en": "The general asked a scout and a soldier to inspect a burrow where a spy might hide documents.",
+        "zh": "将军请一名侦察兵和一名士兵检查一个洞穴，间谍可能在那里藏文件。"
+      },
+      {
+        "en": "In the novel, a soldier and a scout discover a spy's message in a burrow and take it to the general.",
+        "zh": "小说中，士兵和侦察兵在洞穴里发现间谍的消息，并将其交给将军。"
+      },
+      {
+        "en": "The general doubted the spy until a scout and a soldier found a concealed burrow near the camp.",
+        "zh": "直到侦察兵和士兵在营地附近找到隐蔽洞穴，将军才相信间谍。"
+      }
+    ],
+    "collocations": {
+      "18-209": [
+        "a rabbit burrow",
+        "兔洞"
+      ],
+      "18-210": [
+        "a wartime spy",
+        "战时间谍"
+      ],
+      "18-211": [
+        "a scout patrol",
+        "侦察巡逻"
+      ],
+      "18-212": [
+        "a senior general",
+        "高级将领"
+      ],
+      "18-213": [
+        "an ordinary soldier",
+        "普通士兵"
+      ]
+    },
+    "related": [
+      {
+        "word": "reconnaissance",
+        "meaning": "侦察",
+        "relation": "同场景"
+      },
+      {
+        "word": "concealment",
+        "meaning": "隐蔽",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5046 @@
+{
+  "conservation": {
+    "paragraphNotes": [
+      {
+        "role": "开头：两因两策",
+        "explanation": "先明确减少的是可安全饮用的水，再分别提出污染和浪费；政府与个人共同参与，为后文分工做准备。",
+        "chain": [
+          "饮用水可用量下降",
+          "生产污染＋生活浪费",
+          "政府监管＋个人节水"
+        ]
+      },
+      {
+        "role": "原因：生产污染与浪费累积",
+        "explanation": "人口增加推动食品和衣物生产，化学品进入水道使水无法饮用；刷牙不关水龙头则以人口规模把小浪费累积为供应压力。",
+        "chain": [
+          "人口增长带动生活品需求",
+          "生产排放污染水源",
+          "安全饮用水减少",
+          "大量微小浪费进一步压低供应"
+        ]
+      },
+      {
+        "role": "措施：逐项对准原因",
+        "explanation": "工业监管同时抓用水效率和污染处罚，排放标准要求废水先处理；个人用洗菜水浇植物、刷牙关水龙头，对应复用和减量。",
+        "chain": [
+          "政府规范生产并处罚污染者",
+          "废水处理达到排放标准",
+          "个人适当复用并关水龙头",
+          "污染和无效耗水共同减少"
+        ]
+      },
+      {
+        "role": "结尾：措施回扣",
+        "explanation": "结尾重申污染与浪费两条原因，回收监管执行和生活减量；could保留严重后果的可能性，而非保证灾难发生。",
+        "chain": [
+          "污染＋浪费导致短缺",
+          "执行监管＋减少日常浪费",
+          "不行动可能加重后果"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "物品类别与污染主体",
+        "original": "essential items (e.g., food supply and fashion industry)",
+        "revised": "essential items such as food and clothing",
+        "explanation": "items指物品，industry是行业，不能并列。后句以The production of these items作主语，明确污染来自生产过程；熟悉的因果结构得以保留。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "人口规模怎样放大浪费",
+        "original": "which leads to the fact some people may still have access to fresh water, but the total amount is decreasing for them.",
+        "revised": "putting further pressure on freshwater supplies.",
+        "explanation": "原句没有清楚落到浪费的后果。改后形成“单次浪费少→人口众多、浪费累积→淡水供应承压”，同时保留the sheer size of the population。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "结尾与措施一致",
+        "original": "including imposing public policies and raising individual awareness",
+        "revised": "including enforcing regulations and reducing waste in daily life",
+        "explanation": "结尾对应主体段已经展开的监管和个人节水，而不突然换成未具体论证的“提高意识”。impose sanctions on与enforce regulations也区分了处罚和执行规则。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "restriction": {
+    "paragraphNotes": [
+      {
+        "role": "开头：区分权利范围",
+        "explanation": "呈现自由使用与政府限制的分歧，并立即限定作者立场：保护基本需求，不承诺无限用水。",
+        "chain": [
+          "个人主张自由用水",
+          "政府主张资源保护",
+          "保障基本需要并管控超额用量"
+        ]
+      },
+      {
+        "role": "一方：共享资源与付费使用",
+        "explanation": "先以共享自然资源说明自由使用的理由，再提出承担处理和运输成本的条件；From this perspective提示这是支持者的视角。",
+        "chain": [
+          "水被视为共享资源",
+          "无主体独占",
+          "支持自由满足生活与商业需要",
+          "使用者承担处理运输成本"
+        ]
+      },
+      {
+        "role": "另一方：有限资源与累积外部影响",
+        "explanation": "明知水有限仍有小额浪费，人口规模让其累积为耗减，可能波及当代与后代，因此引出政府保护公共利益的责任。",
+        "chain": [
+          "个体浪费看似微小",
+          "人口规模放大总浪费",
+          "淡水耗减影响多代人",
+          "政府有公共管理理由"
+        ]
+      },
+      {
+        "role": "个人观点：阶梯水价的机制",
+        "explanation": "关键不是笼统折中，而是基本用量低价、超额部分高价；高边际价格鼓励少浪费，同时保留满足基本需求的入口。",
+        "chain": [
+          "基本需求用量低价",
+          "超额消费单价提高",
+          "降低过度用水动机",
+          "基本获取得到保护",
+          "资源耗减放缓"
+        ]
+      },
+      {
+        "role": "结尾：两目标同一措施",
+        "explanation": "用基本权利与超额监管重申答案，并再次指出阶梯水价协调两目标，避免回到无限使用权。",
+        "chain": [
+          "承认基本用水权",
+          "限制过度消费",
+          "阶梯水价协调需求与保护"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "用资源共享替代循环论证",
+        "original": "The argument in favour of giving priority to individuals' needs is that they have the right to do so.",
+        "revised": "The argument in favour of giving priority to individuals' needs is that water is a shared natural resource.",
+        "explanation": "原文“应优先满足需要，因为他们有权这样做”接近循环论证。改后先交代支持者的资源共享观，再用From this perspective限定这是一方的理由，而非未经解释的权属事实。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "当代与后代都可能受影响",
+        "original": "a problem whose adverse effects cannot be felt nowadays but are bound to plague future generations",
+        "revised": "a problem that could affect both current and future generations",
+        "explanation": "去掉“现在完全感受不到、未来必定受害”两重绝对化。could表达潜在后果，既不排除当前影响，也保留关心后代的论证。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "基本用水权与无限使用不同",
+        "original": "individuals enjoy the right to use water as much as they want",
+        "revised": "individuals should enjoy the right to meet their basic water needs",
+        "explanation": "正文支持阶梯水价，结尾就不能恢复无限用水权。按基本需求与超额用量区分单价，才能说明监管如何兼顾个人需要与资源保护。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "eight-te01": {
+    "paragraphNotes": [
+      {
+        "role": "开头：群体收益与整体判断",
+        "explanation": "先承认同事互动不足，再按员工和公司列出两种受益，为后文分别解释时间和成本做好安排。",
+        "chain": [
+          "远程工作扩大",
+          "互动机会减少",
+          "员工时间＋企业成本收益",
+          "总体利大于弊"
+        ]
+      },
+      {
+        "role": "员工收益：时间重新分配",
+        "explanation": "would otherwise指出本来消耗于通勤的时间；省下时间用于休息与陪伴家人，才落到幸福感，而非只停在方便。",
+        "chain": [
+          "免去日常通勤",
+          "腾出可支配时间",
+          "用于休息或家人",
+          "幸福感改善"
+        ]
+      },
+      {
+        "role": "企业收益：成本转成竞争力",
+        "explanation": "减少场地需求降低租购办公室及相关开销；将节余投向人力和软件，才解释为什么初创企业尤其受益。",
+        "chain": [
+          "办公空间需求下降",
+          "场地开销减少",
+          "节余投入人力与软件",
+          "企业竞争力提升"
+        ]
+      },
+      {
+        "role": "弊端与缓解：同事支持",
+        "explanation": "缺少日常连接伤害团队合作，新人又更难观察学习；定期见面加强联系只能部分缓解，不能保证完全恢复。",
+        "chain": [
+          "接触同事机会减少",
+          "合作与新人学习受阻",
+          "同伴支持不足",
+          "定期面对面会议增进联系"
+        ]
+      },
+      {
+        "role": "结尾：给出权衡依据",
+        "explanation": "With such support回指前段会议支持，用每天持续获得的时间和成本收益，对比仍会丧失的部分自发互动机会。",
+        "chain": [
+          "承认沟通代价",
+          "配套会议缓解部分问题",
+          "每日节省时间与成本",
+          "总体收益更大"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "减少而非取消办公场地",
+        "original": "it eliminates the need for physical bases",
+        "revised": "it reduces the need for physical office space",
+        "explanation": "physical office space明确指办公场地；远程办公可能减少场地需求，不保证完全不需要。can be cost-effective也给节省成本留下条件，不把所有企业一概而论。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "companies与their一致",
+        "original": "to improve its competitiveness",
+        "revised": "to improve their competitiveness",
+        "explanation": "先行词companies是复数，代词应为their。原来“省下办公室开销→投入人力与软件→提高竞争力”的长句链条完整保留。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "面对面表达与同事支持",
+        "original": "they deprive workers of the opportunities to face-to-face communicate or learn from other people, let alone peer support",
+        "revised": "they have fewer opportunities to communicate face to face or learn from other people, reducing their access to peer support",
+        "explanation": "face-to-face可作前置定语，communicate后用face to face。原来的let alone不能把peer support直接并入动词结构；改为说明学习和互动机会减少如何影响同事支持。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-te02": {
+    "paragraphNotes": [
+      {
+        "role": "开头：判断与代价范围",
+        "explanation": "把机器人收益分为职场效率和家庭家务，同时把失业风险限定在部分行业，避免从岗位替代推成社会大失业。",
+        "chain": [
+          "机器人改变工作生活",
+          "效率提升＋家务减少",
+          "部分行业岗位损失",
+          "总体积极"
+        ]
+      },
+      {
+        "role": "收益：同一技术的两类场景",
+        "explanation": "仓库机器人分拣搬运货物推动业务效率；扫地机器人接管清洁任务，两个实例都切合机器人而非任意自动化家电。",
+        "chain": [
+          "仓储机器人高效分拣搬运",
+          "支持网购业务",
+          "扫地机器人承担清洁",
+          "人们减少重复劳动与家务"
+        ]
+      },
+      {
+        "role": "代价与措施：替代到再就业",
+        "explanation": "制造业重复岗位更可能被替代，影响劳动者生计；培训针对受影响的人，让技能适应更重知识的行业需求。",
+        "chain": [
+          "重复任务被机器人承担",
+          "部分工人失去岗位和收入",
+          "再培训与技能升级",
+          "为转岗重新就业做准备"
+        ]
+      },
+      {
+        "role": "结尾：有条件的总体支持",
+        "explanation": "provided that不是装饰，明确总体积极判断以失业问题得到支持为条件；结尾把拓技能落到找到新工作。",
+        "chain": [
+          "企业效率与家庭减负",
+          "承认受影响工人困难",
+          "协助拓展技能并找新工作",
+          "满足支持条件后总体积极"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "机器人实例要切题",
+        "original": "ranging from doing the dishes to cleaning the floor",
+        "revised": "with robot vacuum cleaners taking over floor cleaning",
+        "explanation": "机器人题应举机器人实例；普通洗碗机等自动化家电不宜直接当作机器人。用扫地机器人把论据对象限定清楚，同时保留节省家务时间的功能。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "岗位替代不等于大规模失业",
+        "original": "it is resulting in massive unemployment",
+        "revised": "it can displace workers in some occupations",
+        "explanation": "某些岗位被替代不自动等于整体大规模失业。can与in some occupations限定结论范围；后面仍保留制造业重复性岗位受到影响的机制。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "培训主体与就业目标明确",
+        "original": "by broadening skills to be more employable",
+        "revised": "by helping affected workers broaden their skills and find new employment",
+        "explanation": "明确是谁需要拓宽技能，也说明培训的目标是重新就业。结尾改成有配套支持条件的总体赞成立场，避免一面提出新措施，一面笼统主张维持现状。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-t01": {
+    "paragraphNotes": [
+      {
+        "role": "开头：有用不等于最佳",
+        "explanation": "题眼是best，因此承认油价有部分作用后，转向它未解决用车必要性的局限，而非声称涨价完全无效。",
+        "chain": [
+          "提议涨油价治堵",
+          "承认一定效果",
+          "未解决用车必要性",
+          "寻找更有效替代"
+        ]
+      },
+      {
+        "role": "让步：价格如何影响行为",
+        "explanation": "收入提升让车买得起，便利偏好让车更吸引人；油价提高可能促使减少开车或改乘公交，继而减少路上汽车。",
+        "chain": [
+          "收入与便利偏好增加用车",
+          "拥堵损害通勤者",
+          "油价上涨改变部分出行选择",
+          "汽车减少缓解拥堵"
+        ]
+      },
+      {
+        "role": "反驳：两个前提未必成立",
+        "explanation": "政策需要司机看重油费且有可行替代；但舒适便利、公交缺失可能压过价格变化，养车成本本已不止燃油。",
+        "chain": [
+          "把选择主要归于油费",
+          "假定公交替代可行",
+          "部分司机重便利或缺少替代",
+          "单独涨油价不足以改变选择"
+        ]
+      },
+      {
+        "role": "替代：针对选择与瓶颈",
+        "explanation": "公交扩容、延伸和规划改善实际便利，降低驾驶必要性；在车辆少却仍堵的地方，针对道路瓶颈施工比一味改价格更对症。",
+        "chain": [
+          "公交运力路线服务改善",
+          "吸引自愿改乘",
+          "针对瓶颈改善道路",
+          "分别减少车辆与局部堵塞"
+        ]
+      },
+      {
+        "role": "结尾：条件式比较",
+        "explanation": "用缺少合适替代这一条件限制涨价效果，再以公交网络和道路设计对应替代方案，回答为什么不是最佳。",
+        "chain": [
+          "无替代时油价作用有限",
+          "改善公交与路网设计",
+          "更直接缓解拥堵"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "可行替代方式的行为前提",
+        "original": "private vehicles are much more affordable for people to travel around",
+        "revised": "drivers have practical alternatives to private vehicles",
+        "explanation": "原句比较对象缺失，且与后文私家车成本较高不一致；改为检查有无可行替代方式，使反驳与开头的出行刚需衔接。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "自愿换乘的主语与可能性",
+        "original": "shifting mode from private vehicles to public transport voluntarily takes place",
+        "revised": "people may voluntarily shift from private vehicles to public transport",
+        "explanation": "以 people 作主语，让“自愿”明确修饰人的选择；may 保留服务改善可能促成换乘的论证，不把行为变化写成必然。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "条件效果替代必败判断",
+        "original": "is ineffective in view of the flawed assumption",
+        "revised": "may have limited effects where drivers lack suitable alternatives",
+        "explanation": "“成本以外还有因素”不能推出涨价完全无效；结论限定适用条件，并与前文承认其可能减流量保持一致。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "eight-t02": {
+    "paragraphNotes": [
+      {
+        "role": "开头：定义与实施条件",
+        "explanation": "按题面保留公交、自行车和出租车通行，不把无车日误读为所有车辆禁行；总体支持取决于足够替代运力。",
+        "chain": [
+          "私车增长增加拥堵污染",
+          "指定车辆外限制市中心通行",
+          "需要公交运力承接",
+          "总体收益较大"
+        ]
+      },
+      {
+        "role": "即时收益：车辆减少",
+        "explanation": "车辆排队占用道路且尾气污染空气；减少车辆直接降低这两种负担，健康只写潜在风险，不断言具体疾病。",
+        "chain": [
+          "车辆拥堵道路",
+          "尾气带来污染风险",
+          "限制车辆数量",
+          "交通与空气压力下降"
+        ]
+      },
+      {
+        "role": "长期收益：体验改变偏好",
+        "explanation": "被促使改乘公交的人通过亲身体验认识潜在省钱省时和减排收益；只有体验足够好且降低后续用车依赖，才有长期作用。",
+        "chain": [
+          "活动推动更多人尝试公交",
+          "亲身认识潜在优势",
+          "绿色出行意识增强",
+          "可能持续减少私车依赖"
+        ]
+      },
+      {
+        "role": "弊端、配套与成本理由",
+        "explanation": "客流突增若运力不跟上会让公交变得不吸引人，甚至活动后更依赖私车；追加预算扩容可缓解，且日常乘客继续受益使投入更合理。",
+        "chain": [
+          "活动客流骤增",
+          "运力不足损害体验",
+          "追加预算提供足够服务",
+          "额外运力活动后仍服务乘客"
+        ]
+      },
+      {
+        "role": "结尾：以持续收益权衡",
+        "explanation": "不是因为治堵迫切就推出必须实施，而是比较交通污染收益与扩容成本，突出新增运力的日常价值。",
+        "chain": [
+          "治堵减排收益",
+          "承担服务改善成本",
+          "日常乘客持续受益",
+          "可考虑定期举办"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "健康风险避免具体疾病强因果",
+        "original": "exposing children to pollution-induced lung infections",
+        "revised": "exposing children to pollution that may pose health risks",
+        "explanation": "原文直接断言污染导致肺部感染，具体因果缺少依据；保留污染风险这一论证功能，用 may 和较宽泛的健康风险避免把医学因果写成已证实。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "直接体验与名词并列",
+        "original": "passengers are prompted unconsciously to accept the advantages of public transport: money-saving, time-saving and eco-friendly",
+        "revised": "passengers may come to recognise its potential advantages through direct experience: cost savings, time savings and lower emissions",
+        "explanation": "unconsciously 与“通过体验认识优点”不符；改清体验过程，并将冒号后的项目改为并列名词，避免把省钱省时效果写成无条件保证。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "回答权衡而非只说需求迫切",
+        "original": "the urgent need to ease traffic and mitigate pollution necessitates a vehicle-free day, which should be a norm in the future",
+        "revised": "the potential benefits of easing traffic and mitigating pollution outweigh the costs of improving services, particularly when the additional capacity also benefits everyday passengers. A vehicle-free day could therefore become a regular event in the future",
+        "explanation": "原结尾只强调需求迫切，尚未回答利弊权衡；补明增运力可持续惠及日常乘客，使为何值得投入与正文呼应，并降低“必须实施”的绝对力度。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "eight-t03": {
+    "paragraphNotes": [
+      {
+        "role": "开头：拆分效果与可行性",
+        "explanation": "承认全天免费公交能够帮助部分乘客，再从效果和可行性评价best，为分别分析免票与夜班铺路。",
+        "chain": [
+          "提出24/7免费政策",
+          "承认可能有用",
+          "比较效果与可行性",
+          "不认同最佳方案"
+        ]
+      },
+      {
+        "role": "免票局限：便利前提",
+        "explanation": "部分车主接受私车更高费用来换舒适便利；若公交本身不便，去掉票价也未必促使其改乘。",
+        "chain": [
+          "政策假定票价影响很大",
+          "部分车主优先考虑便利",
+          "公交不能提供可比便利",
+          "单纯免票吸引力有限"
+        ]
+      },
+      {
+        "role": "全天局限：时段与成本",
+        "explanation": "夜间增班可能满足夜间出行，却不直接增加早高峰运力；低夜间需求下还需支付非正常时段加班成本，预算理由不足。",
+        "chain": [
+          "夜间增班服务夜间需求",
+          "难直接缓解高峰拥堵",
+          "非正常时段工资提高运营成本",
+          "低需求地区投入难证明合理"
+        ]
+      },
+      {
+        "role": "替代：按需求改善",
+        "explanation": "把服务延伸限定在需求高的地点或时段，并改善容量路线；再改造具体道路瓶颈，使预算直接对准拥堵原因。",
+        "chain": [
+          "需求高处扩容延伸服务",
+          "提高公交便利吸引转乘",
+          "针对道路瓶颈施工",
+          "减少高峰与局部堵塞"
+        ]
+      },
+      {
+        "role": "结尾：成本效益比较",
+        "explanation": "同时承认部分乘客受益，保留对部分司机作用有限的范围；用潜在成本对照针对性改善，避免判定整个政策必败。",
+        "chain": [
+          "部分乘客受益",
+          "部分司机不转乘",
+          "全天服务可能成本高",
+          "针对性改善更具成本效益"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "服务不便条件下效果有限",
+        "original": "The effort to offer free public transport is an ineffective way to ease traffic problems.",
+        "revised": "The effort to offer free public transport may have a limited effect on traffic problems if services remain inconvenient.",
+        "explanation": "免费可能吸引部分乘客，不能因舒适便利也重要就判定无效；加上服务不便这一条件，使论证针对为何它未必是最佳办法。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "夜间与高峰错位及between搭配",
+        "original": "However, it is bound to fail as traffic congestion often occurs during rush hours (e.g., between 8 am to 9 am).",
+        "revised": "However, extending services overnight may do little to relieve peak-hour congestion, as traffic congestion often occurs during rush hours (e.g., between 8 am and 9 am).",
+        "explanation": "夜间增班与高峰拥堵错位，只能限制这部分措施的治堵效果，不能证明整个政策必败；同时修正 between … and … 的搭配。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "以成本效益回答best",
+        "original": "In conclusion, unavailing and impractical, the 24/7 free policy is surely a recipe for failure, and hence other viable alternative strategies should be considered.",
+        "revised": "In conclusion, although the 24/7 free policy could benefit some passengers, its limited appeal to some drivers and potentially high costs mean that it may be less cost-effective than targeted improvements to public transport and road bottlenecks.",
+        "explanation": "结论承认可能收益，再以吸引力和成本比较正文提出的替代方案，直接回应 best；不把“预算可能承压”夸大为必然超预算或失败。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "eight-f01": {
+    "paragraphNotes": [
+      {
+        "role": "开头：评价全面禁令",
+        "explanation": "承认健康目标，反对的是一刀切的实施方式；按个人日常需要和经济影响两方面评估可行性。",
+        "chain": [
+          "过量摄入带来健康风险",
+          "提出全面禁售",
+          "承认可能健康收益",
+          "质疑个人与经济可行性"
+        ]
+      },
+      {
+        "role": "让步：购买入口与摄入",
+        "explanation": "便利购买可能促成不健康习惯；禁售限制渠道后，顾客可能改买健康产品，继而减少过量摄入相关风险。",
+        "chain": [
+          "便宜易得的高热量高糖产品",
+          "不健康习惯与过量摄入风险",
+          "禁售限制购买渠道",
+          "可能转向健康产品并降低风险"
+        ]
+      },
+      {
+        "role": "个人局限：替代品必须可用",
+        "explanation": "忙碌消费者需要省下做饭时间，部分方便食品受禁后，健康替代若既不便又贵，就难满足日常需要；预制不自动等于有害。",
+        "chain": [
+          "快节奏生活产生便利需求",
+          "部分人依赖预制食品",
+          "同等便利廉价替代不足",
+          "全面禁售妨碍日常需要"
+        ]
+      },
+      {
+        "role": "经济局限：调整成本",
+        "explanation": "食品供应链和餐饮提供就业与税收，全面禁售冲击相关企业和工人；尤其没有适应时间时成本更大，不能只笼统说经济不好。",
+        "chain": [
+          "食品销售产生税收",
+          "供应链餐饮提供就业",
+          "禁令影响相关业务",
+          "缺乏适应时间加重企业工人损失"
+        ]
+      },
+      {
+        "role": "结尾：回扣实际需求",
+        "explanation": "总结健康风险存在，但消费需求与经济成本使禁令并非总可行；没有新增多数人适量食用这样的未经论证理由。",
+        "chain": [
+          "承认过量摄入风险",
+          "考虑消费者实际需要",
+          "考虑经济调整成本",
+          "不支持一概禁售"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "access与结果分词并列",
+        "original": "the channels for customers to such food would be cut, thus encouraging them to purchase more healthy foods and drinks and mitigate the health problems that ensue from junk foods",
+        "revised": "customers’ access to these products would be restricted, thus encouraging them to purchase healthier foods and drinks and potentially mitigating the health problems associated with excessive consumption",
+        "explanation": "用 access to 表明购买渠道受限；将 mitigating 与 encouraging 并列，避免误读成消费者既购买又直接治病，并保留健康效果的不确定性。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "预制类别不等于有害配料",
+        "original": "despite knowing the dangers that lie in the ingredients (preservatives, sweeteners, or colour enhancers)",
+        "revised": "despite concerns about the nutritional quality of some products",
+        "explanation": "不能把防腐剂、甜味剂等整个配料类别直接判为危险；改为对部分产品营养质量的担忧，并限定受禁令影响的食品，避免混淆预制与有害。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "结尾不得新增多数人适量断言",
+        "original": "most of them consume such foods in moderation and thus the effort to improve declining public health by banning them at shops is far from viable because they are arguably necessary evils",
+        "revised": "the effort to improve public health by banning them at shops is not always viable, given consumers’ practical needs and the potential economic costs.",
+        "explanation": "原结尾新增“多数人适度食用”这一未论证事实，也把食品笼统称为必要之恶；改为回扣正文的实际需求和经济影响，使理由与结论一致。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "eight-f02": {
+    "paragraphNotes": [
+      {
+        "role": "开头：区分目标与工具",
+        "explanation": "公共健康目标正当不自动证明所有含糖产品都应涨价；作者针对政策过宽，而非否认过量摄入的风险。",
+        "chain": [
+          "过量糖摄入可能危害健康",
+          "提出降低可负担性",
+          "健康目标可以理解",
+          "普遍涨价范围过宽"
+        ]
+      },
+      {
+        "role": "让步：价格到健康的中间步骤",
+        "explanation": "涨价先影响购买可能性，再影响摄入量，最后才可能降低相关风险；连续might与could让假设链保持一致。",
+        "chain": [
+          "价格提高",
+          "购买可能性下降",
+          "摄入量可能减少",
+          "相关健康风险可能降低"
+        ]
+      },
+      {
+        "role": "反对：适量者的额外成本",
+        "explanation": "把风险中心定位于过量摄入，再承认一些人适量享用舒适食品；这些人会多花钱，却未必改变已经合理的摄入。",
+        "chain": [
+          "问题集中在过量摄入",
+          "部分消费者已适量食用",
+          "涨价仍覆盖这些消费者",
+          "增加支出却未必改善其行为"
+        ]
+      },
+      {
+        "role": "替代：提供信息而非普遍加价",
+        "explanation": "借包装警示原则提出糖含量分级标签，让过量消费者认识风险并有据选择；这是拟议方案而非未经核实的国家政策事实。",
+        "chain": [
+          "清楚标示含糖量等级",
+          "消费者认识风险",
+          "更知情地选择与控制摄入",
+          "避免所有消费者成本上升"
+        ]
+      },
+      {
+        "role": "结尾：针对性判断",
+        "explanation": "保留价格可能有用的让步，再回到已适量者成本与标签的信息作用；清楚表达偏好标签，未宣称标签保证效果。",
+        "chain": [
+          "涨价或有健康作用",
+          "适量者仍承担成本",
+          "标签支持知情选择",
+          "偏好更有针对性的方案"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "价格用raised并保持条件结果一致",
+        "original": "If the price of sugary products were to be made more expensive, people would be less likely to stick with them and reduce their consumption, which in turn lowers the risk of being prone to relevant health problems",
+        "revised": "If the prices of sugary products were to be raised, people might be less likely to buy them and might therefore reduce their consumption, which could in turn lower the risk of associated health problems.",
+        "explanation": "价格用 raised，商品才用 expensive；重复 might 明确“购买减少→摄入减少”，避免 less likely 同时支配 reduce，且使条件与结果语气一致。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "限定适量者与具体支出",
+        "original": "While isolated examples can be found, people, by and large, eat high-sugar food in moderation and they only do it when they are under stress or heavy work before the deadline; they need such comfort food to bring them joy, warmth, and happiness.",
+        "revised": "While cases of excessive consumption can be found, some people eat high-sugar food in moderation, for example when they are under stress or facing a heavy workload before a deadline; such comfort food can bring them joy, warmth, and happiness.",
+        "explanation": "删去“多数人如此”和“只在压力下吃”的无依据概括，修正 workload 搭配；随后补说明普遍涨价对已适量者的额外支出，形成具体反对理由。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "政策事实改成假设标签方案",
+        "original": "For example, Singapore has imposed regulation that food and beverages should be labelled with different levels of sugar content using a government-developed grading system to curb the nation’s sugar intake.",
+        "revised": "For example, food and beverages could be labelled with different levels of sugar content using a government-developed grading system to help consumers make informed choices.",
+        "explanation": "原句将具体制度泛化到所有食品饮料，未核实不宜当事实引用；改为明确假设的标签方案，并删去香烟“从未禁售”的绝对断言，保留警示标签的类比功能。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-f03": {
+    "paragraphNotes": [
+      {
+        "role": "开头：普及与取代不同",
+        "explanation": "承认方便食品便宜省事的吸引力，反对的是由增长推断彻底替代；全篇要证明传统食品仍有位置。",
+        "chain": [
+          "方便食品日益普遍",
+          "出现完全取代预测",
+          "承认实用便利",
+          "保留传统饮食重要性"
+        ]
+      },
+      {
+        "role": "让步：疲惫生活推动普及",
+        "explanation": "食品易得、便宜且少准备，符合工作学习后缺乏时间精力的人；这一链支持未来更流行，却尚不能证明彻底替代。",
+        "chain": [
+          "工作学习后疲惫",
+          "不愿花钱费时做饭",
+          "方便食品易得省力",
+          "未来更普遍"
+        ]
+      },
+      {
+        "role": "反驳：不可仅用便利衡量",
+        "explanation": "有资源时部分人仍选择传统餐；即使工业产品味道营养提高，文化身份与共同制作享用的情感联系仍有独立价值。",
+        "chain": [
+          "时间资源允许选择传统餐",
+          "传统质量体验仍具吸引力",
+          "文化认同超出实用性能",
+          "共同准备与享用增强情感纽带"
+        ]
+      },
+      {
+        "role": "结尾：共存的预测",
+        "explanation": "同时保留方便食品继续普及和传统饮食仍占重要位置，准确反对完全取代，未改成方便食品不能成为主流。",
+        "chain": [
+          "方便食品有实用收益",
+          "传统饮食有体验文化价值",
+          "两类饮食可能共存"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "convenience与access各自配介词",
+        "original": "the convenience and ready access of ready-made food",
+        "revised": "the convenience of and ready access to ready-made food",
+        "explanation": "convenience 接 of，而 access 接 to；两个并列名词各用所需介词，保留原句结构。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "共同制作增强而非创造唯一情感",
+        "original": "only when friends or family members enjoy such foods food together can the emotional bond continue to exist",
+        "revised": "when friends or family members prepare and enjoy such foods together, their emotional bond can be strengthened",
+        "explanation": "删去重复 food；only when 把聚餐写成情感存在的必要条件，力度过强。改为有助于加强关系，并补 prepare 以照应题目的传统制作方式。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "普及不等于完全取代",
+        "original": "The status quo will be maintained, in which convenience foods can be the norm but can never dominate in daily diet.",
+        "revised": "Convenience foods may become more prevalent, but traditional foods and methods of preparation are likely to retain an important place in daily life.",
+        "explanation": "“维持现状”“成为常态却绝不能占主导”与全文未来普及的让步不协调；改为两者可能共存，准确否定完全取代，而不否定方便食品可能更普遍。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-a01": {
+    "paragraphNotes": [
+      {
+        "role": "开头：限定禁令对象",
+        "explanation": "先说明广告销量收益与儿童易受影响，再将支持范围限定为误导性食品广告，避免直接推出所有儿童广告必须禁止。",
+        "chain": [
+          "儿童市场带动广告",
+          "儿童易受营销影响",
+          "准确广告有信息价值",
+          "限制误导食品广告"
+        ]
+      },
+      {
+        "role": "让步：商业信息的双向价值",
+        "explanation": "企业触达童书玩具潜在顾客并提高销量；儿童获得价格口味质量信息，在多选项中有机会作知情决定。",
+        "chain": [
+          "企业介绍新品触达目标群体",
+          "消费者注意到产品",
+          "儿童获取价格口味质量信息",
+          "支持知情选择并提升销量"
+        ]
+      },
+      {
+        "role": "风险：辨别能力与诱导摄入",
+        "explanation": "夸大视觉让儿童冲动求购，可能经高热量过量摄入增加肥胖风险；赠品又模糊食物需要和玩具诱惑，说明限制的针对性。",
+        "chain": [
+          "儿童难辨夸大和营销意图",
+          "视觉与赠品诱导求购",
+          "可能过量摄入高热量食物",
+          "支持误导广告禁令与促销限制"
+        ]
+      },
+      {
+        "role": "结尾：能力差异支持保护",
+        "explanation": "儿童尚不能以成人同等理解力评估广告，部分商家利用这一差异，因此支持禁误导广告；结论与主体段范围一致。",
+        "chain": [
+          "承认销量与信息收益",
+          "儿童理性理解有局限",
+          "营销可能利用局限",
+          "支持禁止误导广告"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "benefits后关系从句补that",
+        "original": "the benefits accrue to companies and children",
+        "revised": "the benefits that accrue to companies and children",
+        "explanation": "lies in 后需要名词短语；补 that 后，accrue 所在从句才能修饰 benefits。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "肥胖论证补过量摄入环节",
+        "original": "which has given rise to the childhood obesity epidemic worldwide",
+        "revised": "a pattern that may encourage excessive consumption of high-calorie foods and contribute to childhood obesity",
+        "explanation": "原句直接把全球儿童肥胖归因于广告，跨度过大。补出过量摄入的中间环节，并用 may、contribute to 保留论证而避免确证强因果。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "误导广告与促销限制范围",
+        "original": "Such problems indeed necessitate a total ban on such advertisements; stringent regulations have been imposed in countries such as the UK to mitigate the problem of childhood obesity.",
+        "revised": "Such problems justify a ban on misleading food advertisements aimed at children, alongside stringent restrictions on promotional tactics that encourage unhealthy eating.",
+        "explanation": "明确禁令针对误导性食品广告，并区分禁令与促销限制，避免从赠品吸引力直接跳到全面禁广告；未经核实的具体法规改为政策主张。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "eight-a02": {
+    "paragraphNotes": [
+      {
+        "role": "开头：呈现两种效果判断",
+        "explanation": "一方看广告促进销售，另一方认为无处不在削弱说服力；后文分别解释主动忽略和仍然有效的机制。",
+        "chain": [
+          "广告行业推动销售",
+          "观点分为有效与被忽略",
+          "比较两种注意与购买机制"
+        ]
+      },
+      {
+        "role": "一方：习惯性忽略",
+        "explanation": "多年被商业信息轰炸使人形成忽略习惯；视频插播被跳过或用来办其他事，说明接触次数不等于真正注意。",
+        "chain": [
+          "商业信息无处不在",
+          "形成忽略习惯",
+          "跳过插播或分心",
+          "内容说服效果减弱"
+        ]
+      },
+      {
+        "role": "另一方：推荐者信任",
+        "explanation": "网红内容既贴合品牌又激发粉丝兴趣；直播演示通过粉丝对推荐者的信任促成即时购买，用情景而非无来源销量。",
+        "chain": [
+          "网红制作贴品牌内容",
+          "激发粉丝兴趣",
+          "演示得到信任",
+          "可能立即购买"
+        ]
+      },
+      {
+        "role": "个人观点：记忆与匹配仍发挥作用",
+        "explanation": "表面不注意时也可能记住品牌，购物时偏好熟悉产品；算法分析浏览购买历史，把相关广告送给已有兴趣的人，降低被忽略概率。",
+        "chain": [
+          "被动接触留下品牌熟悉感",
+          "购物时倾向熟悉品牌",
+          "浏览购买历史支持算法匹配",
+          "相关性提高广告注意机会"
+        ]
+      },
+      {
+        "role": "结尾：忽略与有效可并存",
+        "explanation": "对广告司空见惯并不能推出全部失效；社交推荐和技术匹配仍可能刺激消费，重申作者总体判断。",
+        "chain": [
+          "消费者尝试忽略泛滥广告",
+          "社交媒体与技术改变方式",
+          "仍可能刺激消费"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "habit of doing与不可数指代",
+        "original": "people have developed habits to ignore them",
+        "revised": "people have developed the habit of ignoring it",
+        "explanation": "habit of doing 是自然搭配；advertising 是不可数概念，应以 it 回指。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "无来源销量改成信任情景",
+        "original": "This new form of peer recommendation is so effective that Li Jiaqi, one of the most famous influencers in China, once sold 15,000 lipsticks within five minutes during one of his live-streaming sale sessions.",
+        "revised": "This new form of peer recommendation can be highly effective: during a live-streaming sales session, for example, an influencer’s demonstration of a lipstick may encourage followers who trust the recommendation to buy it immediately.",
+        "explanation": "原材料未给精确销量的来源，单次记录也不能证明普遍效果。改为说明性情景，保留“信任推荐→立即购买”的机制。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "closure改成明确的表面忽略",
+        "original": "at this time of closure",
+        "revised": "even when they appear to ignore advertising",
+        "explanation": "closure 在原文没有明确所指；按本段“表面忽略广告，仍可能记住品牌”的意思补清，不增添新的事件背景。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-a03": {
+    "paragraphNotes": [
+      {
+        "role": "开头：明确高销量的所指",
+        "explanation": "承认广告能引导购买多余商品，但立场讨论的是高销量的来源，不能让this trend误指无用消费再说它体现真需求。",
+        "chain": [
+          "广告用于推动销量",
+          "部分购买可能多余",
+          "高销量受营销影响",
+          "也反映实际需求"
+        ]
+      },
+      {
+        "role": "营销作用一：推荐唤起兴趣",
+        "explanation": "网红内容贴合品牌形象，激发即使已拥有相似产品的粉丝兴趣；信任演示可让兴趣转为即时购买。",
+        "chain": [
+          "贴品牌的网红内容",
+          "粉丝兴趣被激发",
+          "信任推荐与产品演示",
+          "可能立即购买"
+        ]
+      },
+      {
+        "role": "营销作用二：算法发现受众",
+        "explanation": "浏览与购买历史帮助广告找到潜在需求群体；专门教材之类细分产品因此更容易触达受众，论证的是匹配能力。",
+        "chain": [
+          "网络购物积累行为信息",
+          "算法生成匹配广告",
+          "细分产品连接潜在消费者",
+          "有助产品推出"
+        ]
+      },
+      {
+        "role": "反驳排他性：需求仍影响选择",
+        "explanation": "受广告影响不表示不考虑需要；消费者权衡用途与成本会拒绝部分推销品，而补购旧物的广告可回应已经存在的需求。",
+        "chain": [
+          "消费者权衡需求与成本",
+          "拒绝部分产品保留实用品",
+          "补购场景已有实际需要",
+          "广告可以回应而非创造需求"
+        ]
+      },
+      {
+        "role": "结尾：共同解释而非二选一",
+        "explanation": "高销量可以体现广告推动过度消费，也部分体现基本和增长的需要；保留can和to some extent以匹配论证。",
+        "chain": [
+          "营销可能推动过度消费",
+          "消费者也有实际需要",
+          "高销量由两者共同解释"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "高销量指代避免立场矛盾",
+        "original": "Even though this trend is attributed partly and directly to effective marketing strategies, it certainly reflects the real needs of society.",
+        "revised": "Even though high sales are attributed partly to effective marketing strategies, they also reflect the real needs of society.",
+        "explanation": "this trend 紧接“购买多余商品”，与真实需求形成矛盾。明确指高销量，保留广告与需求共同作用的原立场。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "受影响不等于买所有商品",
+        "original": "If they didn’t make such a trade-off and were easily influenced, they would buy all the things hawked by the influencers, which is effectively impossible.",
+        "revised": "If consumers weigh their needs against the cost, they may reject some products hawked by influencers and purchase those that serve a practical purpose.",
+        "explanation": "受广告影响并不意味着买下所有商品，原反证不成立。改为需求与成本的具体权衡，说明消费者仍可能作出有实际用途的选择。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "定向广告不必然证明需求",
+        "original": "Also, target advertising can be effective only when consumers are aware of the need for certain products and be reliable only when consumers have bought the products or similar products, which indicates the need does exist.",
+        "revised": "Also, targeted advertising can be particularly effective when consumers are already aware of a need for certain products, such as replacements for items they have bought before, which indicates that advertising can respond to an existing need.",
+        "explanation": "定向广告并非只对真实需求有效，既往购买也不必然证明再次需要。改为补购情景，说明广告可以回应已有需求，同时修正 targeted。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-a04": {
+    "paragraphNotes": [
+      {
+        "role": "开头：经济与心理两条评价线",
+        "explanation": "一方看繁荣，另一方看物质主义与消费社会；contributing cause保留广告是促成因素之一的范围。",
+        "chain": [
+          "广告促经济繁荣",
+          "广告也可能促成物质主义",
+          "分别讨论经济收益与社会心理代价"
+        ]
+      },
+      {
+        "role": "经济理由：产品信息匹配",
+        "explanation": "广告向潜在买家介绍属性，定向信息激发相关受众兴趣，使专门教材等细分产品更易推出，再落到消费与增长。",
+        "chain": [
+          "介绍产品属性",
+          "定向匹配潜在买家",
+          "细分产品更易触达受众",
+          "消费与经济增长可能增加"
+        ]
+      },
+      {
+        "role": "社会代价：理想形象转化压力",
+        "explanation": "广告把幸福与财富联系，使人将物质当快乐标志；不现实身材标准可能导致自我不满和不健康习惯，也推动理想化产品消费。",
+        "chain": [
+          "广告关联幸福与物质",
+          "将理想身材塑为标准",
+          "产生自我不满",
+          "可能出现不健康习惯或追逐产品"
+        ]
+      },
+      {
+        "role": "结尾：分工缓解",
+        "explanation": "政府限制广告内容以减少误导，消费者用更批判态度作理性选择；两类措施分别对准信息供给和个人判断。",
+        "chain": [
+          "承认经济收益与社会代价",
+          "政府监管内容",
+          "消费者批判判断",
+          "支持理性购买"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "小众产品例子精确分类",
+        "original": "Even niche products such as books and drugs could be easily launched.",
+        "revised": "Even niche products such as specialist textbooks could be more easily launched.",
+        "explanation": "书籍和药品整个类别并非天然小众；specialist textbooks 明确细分受众，more easily 也避免把广告说成轻易上市的保证。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "零脂肪改为不现实纤瘦形象",
+        "original": "to create the impression that the ideal body is necessarily fat-free",
+        "revised": "to present an unrealistically slim body as the ideal",
+        "explanation": "fat-free 将审美暗示写成不恰当的零脂肪目标。改为不现实的纤瘦形象，准确承接本段对广告塑造身材标准的批评。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "追求身材与不健康行为因果",
+        "original": "Some girls develop eating disorders to keep fit, while males often purchase some products with which audiences are promised to be as fit, healthy and happy as the people in the ads.",
+        "revised": "Some girls may develop unhealthy eating habits in an attempt to achieve this ideal, while some males purchase products advertised as making them as fit, healthy and happy as the people in the ads.",
+        "explanation": "饮食失调不是主动采用的健身方法；改为追求理想身材时可能形成不健康习惯。后半句修正被动承诺结构，并让 them 清楚回指购买者。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "eight-a05": {
+    "paragraphNotes": [
+      {
+        "role": "开头：两问分别回答",
+        "explanation": "直接交代强调新特征是为了销量，并承认创新收益，同时点出误用营销会制造焦虑，为整体负面评价铺路。",
+        "chain": [
+          "宣传新品功能",
+          "目标是提高销量",
+          "可能激励创新",
+          "误用引起焦虑与消费主义"
+        ]
+      },
+      {
+        "role": "原因：新功能怎样促销",
+        "explanation": "新功能吸引潜在顾客并区分竞争产品；手机功能、湿厕纸体验与面膜成分是企业提出卖点的说明情景，不是销量证明。",
+        "chain": [
+          "突出功能吸引注意",
+          "宣称比竞争产品更满足需求",
+          "促使获取最新型号或产品",
+          "提高商业成功机会"
+        ]
+      },
+      {
+        "role": "评价：真实改善与夸大诱导比较",
+        "explanation": "真实创新可使消费者受益，但夸大普通产品不足会制造焦虑；缺少实质改善仍反复购买带来不必要负担，是总体负面判断依据。",
+        "chain": [
+          "真实创新改善产品",
+          "夸大差异制造不足感与焦虑",
+          "超出真实需要购买",
+          "无实质改善的重复消费增加负担"
+        ]
+      },
+      {
+        "role": "结尾：原因与判断一起回收",
+        "explanation": "再次回答销量动机，并把负面对象精确为夸大新颖性的广告；承认真实创新不消除其引起的不必要需求。",
+        "chain": [
+          "企业追求商业成功",
+          "承认部分创新收益",
+          "夸大新颖制造焦虑与需求",
+          "总体对社会不利"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "逗号拼接与get hands on",
+        "original": "A good example can be found in the smartphone industry, where the new iPhone was released with its highlighted function – dynamic island, numerous people camped outside the shops to get their hand at the most desirable iPhone.",
+        "revised": "A good example can be found in the smartphone industry, where a new iPhone advertised with a highlighted function such as Dynamic Island may encourage consumers to get their hands on the latest model.",
+        "explanation": "原句用逗号拼接完整分句，get their hand at 也不正确。保留产品功能例子，改成可能的购买反应，避免把无来源排队事件当证据。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "满足需求的搭配与竞争对象",
+        "original": "markets may claim their products distinguish themselves from the competition because they can suit the needs that their counterparts cannot achieve",
+        "revised": "marketers may claim their products distinguish themselves from the competition because they can meet needs that their counterparts cannot satisfy",
+        "explanation": "markets 是市场，marketers 才是营销人员；满足需求应为 meet/satisfy needs，不能用 achieve needs。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "总体负面补具体财务理由",
+        "original": "Such anxiety-creating and function-exaggerating advertising takes the lion’s share in the market, predisposing consumers to the acquisition of goods or services that are beyond their real needs. Therefore, it on balance produces a negative outcome.",
+        "revised": "Such anxiety-creating and function-exaggerating advertising can predispose consumers to the acquisition of goods or services that are beyond their real needs. Therefore, on balance, I regard this trend as negative, because encouraging repeated purchases without substantial improvements places an unnecessary financial burden on consumers.",
+        "explanation": "去掉未经支持的最大市场份额断言；总体负面评价改以缺乏实质改进却反复购买造成的额外开支为依据，使利弊权衡更清楚。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "eight-l01": {
+    "paragraphNotes": [
+      {
+        "role": "开头：趋势与总体判断",
+        "explanation": "主流语言受重视与少数语言使用减少同时发生；以经济和科学交流收益支持积极判断，并承认传承压力。",
+        "chain": [
+          "全球化提升通用语需求",
+          "少数语言使用减少",
+          "文化传承承压",
+          "经济与科学收益支持积极评价"
+        ]
+      },
+      {
+        "role": "经济收益：合同与商业关系",
+        "explanation": "国际贸易提供市场机会，掌握主流语言帮助谈合同更顺畅；外国商人学习中文是沟通促进商业联系的说明例。",
+        "chain": [
+          "跨国贸易创造市场机会",
+          "使用共同语言降低沟通障碍",
+          "合同协商更顺畅",
+          "商业关系与经济福祉改善"
+        ]
+      },
+      {
+        "role": "科学收益：共享成果",
+        "explanation": "论文与国际研讨需要共同沟通媒介；英语可减少语言壁垒，让知识覆盖更广并支持不同国家研究者合作。",
+        "chain": [
+          "研究成果需要跨国传播",
+          "共享语言减少语言障碍",
+          "更多人获取知识",
+          "国际科研合作更容易"
+        ]
+      },
+      {
+        "role": "文化代价：损失仍真实存在",
+        "explanation": "母语使用减少可能削弱独特世界观与文化身份；主流语本地化会创造新文化形式，但这种融合只能补充，不能证明旧损失不重要。",
+        "chain": [
+          "少数人使用母语",
+          "独特文化观念与实践传承减弱",
+          "主流语吸收地方元素",
+          "出现新形式但原损失仍在"
+        ]
+      },
+      {
+        "role": "结尾：比较收益与不可替代代价",
+        "explanation": "生活机会和跨境知识获取是权衡依据；明确新文化不能完全替代流失传统，避免用趋势难逆转代替正负判断。",
+        "chain": [
+          "语言主流化继续",
+          "经济生计与知识传播收益",
+          "文化传统可能流失且不可完全替代",
+          "总体积极但重视成本"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "贡献经济用contribute to",
+        "original": "the dominance of a few languages accrues to economic well-being.",
+        "revised": "The dominance of a few languages contributes to economic well-being.",
+        "explanation": "accrue通常以利益作主语；这里要表达语言主流化促进经济福祉，用contribute to，并修正句首大写。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "新文化不抵消原文化损失",
+        "original": "Nonetheless, this is far from the concern because while the culture created in the past is dying out, new cultures are being created:",
+        "revised": "Nonetheless, although this loss remains a concern, new cultures are also being created:",
+        "explanation": "新文化出现不能证明旧文化损失无需担忧；保留原来的文化融合论点，同时承认损失仍然存在。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "正负判断需要收益比较",
+        "original": "The status quo can hardly be reversed due to the economic and scientific advantages; nonetheless, the necessary evil should also be considered: part of local culture will be lost.",
+        "revised": "On balance, the economic and scientific advantages outweigh the cultural costs because they improve livelihoods and widen access to knowledge across borders; nonetheless, these costs should also be considered, since new cultural forms cannot fully replace the local traditions that may be lost.",
+        "explanation": "“趋势难以逆转”不能直接回答正面还是负面。结尾补出经济与知识共享收益更重要的比较依据，同时把必然文化损失改为可能性，保持原正面立场。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "eight-l02": {
+    "paragraphNotes": [
+      {
+        "role": "开头：工具成功不等于取消学习",
+        "explanation": "准确呈现不再需要学习的主张，而非不应该学习；作者承认工具普及却否定其消除所有学习必要性。",
+        "chain": [
+          "机器翻译进步",
+          "提出无需外语学习",
+          "工具广泛使用",
+          "仍有学习必要"
+        ]
+      },
+      {
+        "role": "反方：工具便利与时间成本",
+        "explanation": "应用识别并翻译文本语音，让日常交流和阅读更容易；支持者据此比较多年学习与其他科目投入，但使用工具不自动证明学习浪费。",
+        "chain": [
+          "翻译工具处理日常内容",
+          "减少沟通与阅读障碍",
+          "学习外语需要多年投入",
+          "反方主张时间投向其他学科"
+        ]
+      },
+      {
+        "role": "反驳一：正式交流的语义要求",
+        "explanation": "医疗或商务讨论不仅传词，还涉及语气、态度、细微含义、术语与情感；语言能力或熟练口译帮助防止信息失真。",
+        "chain": [
+          "正式交流需要细节准确",
+          "理解语气情感与专业术语",
+          "人工语言能力补足理解",
+          "降低信息混乱和遗漏风险"
+        ]
+      },
+      {
+        "role": "反驳二：文化与职业范围",
+        "explanation": "学习语言打开相关文化入口，并在全球化企业中扩大职业选择；例子用于说明文化接触与机会，不应当作保证就业的事实。",
+        "chain": [
+          "学习语言获得文化入口",
+          "理解饮食服饰等传统",
+          "沟通能力适用于跨国企业",
+          "未来职业选择可能增加"
+        ]
+      },
+      {
+        "role": "结尾：工具与学习并存",
+        "explanation": "承认机器翻译帮助沟通，同时总结正式场合的顺畅沟通与额外文化职业价值，因此应继续学习。",
+        "chain": [
+          "机器翻译便利沟通",
+          "正式语义仍需语言能力",
+          "文化与职业收益额外存在",
+          "支持继续外语学习"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "宾语从句语序与必要性范围",
+        "original": "some people think no longer should students learn foreign languages.",
+        "revised": "some people think that students no longer need to learn foreign languages.",
+        "explanation": "think后的宾语从句采用陈述语序；用no longer need回应题面“不必学习”，避免把“不必要”升级成“不应该”。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "机会成本属于反方观点",
+        "original": "The time that would otherwise be wasted on such learning could be better used for other subjects.",
+        "revised": "Supporters of this view therefore argue that the time that would otherwise be spent on such learning could be better used for other subjects.",
+        "explanation": "继续使用翻译工具不能证明学语言是浪费；spent保留机会成本比较，并明确这是反方观点，避免与作者支持学习的立场混淆。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "prevent消息结构与并列",
+        "original": "who can avoid getting message get garbled or lost in translation",
+        "revised": "prevent the message from getting garbled or lost in translation",
+        "explanation": "修正getting与get堆叠及message缺限定词的问题，并与前面的understand、communicate构成并列；本段也将必然需要人工协助改为可能需要。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "eight-l03": {
+    "paragraphNotes": [
+      {
+        "role": "开头：要求与支持一起提出",
+        "explanation": "承认部分学生学习困难，但把受益判断附上教学适配条件；后文必须解释如何兼顾努力与负担。",
+        "chain": [
+          "部分学生外语天赋较弱",
+          "出现允许停止学习主张",
+          "外语学习仍有收益",
+          "教学需适应学习需要"
+        ]
+      },
+      {
+        "role": "反方：挫折与机会成本",
+        "explanation": "母语和英语差异较大可能使学习困难、挫伤自信；停止学习释放时间给其他学科，翻译工具又为日常沟通提供替代。",
+        "chain": [
+          "语言差异增加学习困难",
+          "受挫与自信下降",
+          "停学可把时间投向其他学科",
+          "翻译工具降低部分沟通需求"
+        ]
+      },
+      {
+        "role": "反驳：未精通仍有价值",
+        "explanation": "基础程度也能打开文化入口、拓宽视野，继续学习还可能增加职业选择；未达到精通并不能证明过程收益为零。",
+        "chain": [
+          "未必能精通外语",
+          "基础学习仍接触语言与文化",
+          "视野得到拓宽",
+          "持续学习可能扩大未来职业机会"
+        ]
+      },
+      {
+        "role": "回应强制问题：时间与教学适配",
+        "explanation": "短期结果不应决定全部学习价值，能力可经练习发展；合理目标与额外支持让学校保留基础要求，又不要求困难者过度投入。",
+        "chain": [
+          "进步需要持续练习",
+          "不只看即时表现",
+          "设置可达到目标与额外支持",
+          "保留基础学习并控制额外时间成本"
+        ]
+      },
+      {
+        "role": "结尾：有限要求而非统一高标准",
+        "explanation": "总结文化和沟通收益，保留普遍基础学习要求，但明确教学与预期应因人调整，使强制立场有实施边界。",
+        "chain": [
+          "困难不消除文化沟通收益",
+          "所有人保留基础要求",
+          "教学与预期适应学生需要"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "困难不能改写成完全无能力",
+        "original": "many children are simply incapable of learning an additional language",
+        "revised": "many children find it particularly difficult to learn an additional language",
+        "explanation": "缺乏天赋或学习困难不等于完全没有学习能力；改后仍保留反方的学习负担论点，避免先作无法支持的绝对判断。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "短期结果不能决定全部价值",
+        "original": "They should not be misled by consequentialism, whereby people often judge whether or not something is right by its consequences.",
+        "revised": "They should not judge the value of learning solely by immediate results, since progress can take time.",
+        "explanation": "后果主义不等于“预测学不好就放弃”。改为不能只凭短期结果判断学习价值，使后面的练习与进步论点能够直接回应。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "普遍要求必须有适配支持",
+        "original": "The Status quo should be maintained, in which language learning should be must for everyone.",
+        "revised": "Language learning should remain a requirement for all students, with teaching and expectations adapted to their needs.",
+        "explanation": "修正be must及Status大写，并保留学校要求学习的立场；正文补上合理目标和额外支持，说明怎样兼顾困难学生的时间成本，避免从“有价值”直接跳到“必须学”。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "eight-c01": {
+    "paragraphNotes": [
+      {
+        "role": "开头：重要不等于唯一",
+        "explanation": "题眼solely要求判断是否唯一解决办法；承认父母指导核心作用，再提出其他因素与措施，避免反驳成父母不重要。",
+        "chain": [
+          "少年犯罪有社会成本",
+          "主张只改善家教",
+          "承认家教重要",
+          "其他因素仍需其他措施"
+        ]
+      },
+      {
+        "role": "家教作用：道德理解与行为示范",
+        "explanation": "好的榜样帮助孩子认识道德和犯罪后果；相反，家暴可能使孩子把暴力当正常解决冲突方式，继而对外模仿。",
+        "chain": [
+          "父母提供榜样与道德引导",
+          "孩子理解行为对自己和受害者的影响",
+          "减少街头违法风险",
+          "暴力榜样可能诱发相反学习"
+        ]
+      },
+      {
+        "role": "非唯一：媒介影响未被覆盖",
+        "explanation": "有害内容可能为儿童提供模仿模式，特别在类似情境；这支持限制儿童接触内容，说明家教不能包办全部外部影响。",
+        "chain": [
+          "接触暴力等有害媒介内容",
+          "在相似情境中可能模仿",
+          "家庭引导未覆盖全部影响",
+          "需要更严格内容接触监管"
+        ]
+      },
+      {
+        "role": "补充威慑：个体责任评估",
+        "explanation": "仅因年龄预期过轻处罚可能削弱威慑；量刑应评成熟度与责任，严重蓄意犯罪可受重罚，但必须相称且有依据。",
+        "chain": [
+          "预期过轻处罚削弱部分威慑",
+          "评估成熟度与可责性",
+          "考虑蓄意程度及罪行严重性",
+          "适用相称刑罚"
+        ]
+      },
+      {
+        "role": "结尾：三类工具分工",
+        "explanation": "家教、内容限制、相称处罚分别作用于成长榜样、外部接触与犯罪后果；总结多因素所以不应只用家教。",
+        "chain": [
+          "家庭榜样减少风险",
+          "媒介限制减少有害接触",
+          "相称处罚兼顾成熟度",
+          "多工具回应多因素"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "限定性关系从句去逗号",
+        "original": "Children, whose parents have good parenting skills and have successfully set a good example for them,",
+        "revised": "Children whose parents have good parenting skills and have successfully set a good example for them",
+        "explanation": "去掉逗号，使关系从句限定“父母具有这些特点的孩子”，避免读成所有儿童的父母都如此。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "媒介内容分类与可能性",
+        "original": "on social media, be it video games or violent movies",
+        "revised": "in media content, be it in video games or violent movies",
+        "explanation": "游戏和电影并不天然属于社交媒体，改用上位概念media content；相关行为影响也改为可能性，避免将观看内容直接等同于犯罪。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "成熟度评估不冒充法律事实",
+        "original": "The law “malice supplies the want of years” should be imposed, as has been imposed in some countries such as America, which assesses the maturity of youth offenders to see whether they are as culpable as adult offenders.",
+        "revised": "Sentencing should therefore involve an assessment of the maturity of young offenders to determine the extent to which they are culpable for their actions.",
+        "explanation": "原稿无法支持该格言是美国等地现行法律的概括，改为作者的个别评估主张；保留严肃处罚立场，但不直接跳到终身监禁或死刑。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-c02": {
+    "paragraphNotes": [
+      {
+        "role": "开头：相称与灵活并存",
+        "explanation": "不纵容严重犯罪，但区分犯罪危害与少年个体情形；支持相关情况下灵活量刑，而非一律成人处罚。",
+        "chain": [
+          "过轻处罚可能削弱威慑",
+          "讨论成人刑罚是否同样适用",
+          "坚持罪刑相称",
+          "允许少年情形下灵活量刑"
+        ]
+      },
+      {
+        "role": "支持同罚：理性成本计算",
+        "explanation": "对会权衡得失的人，预期处罚超过犯罪收益可能有威慑；同罚支持者据此排除年龄减刑，但这依赖理性选择前提。",
+        "chain": [
+          "潜在犯罪者比较收益与风险",
+          "处罚成本高于预期收益",
+          "可能不实施犯罪",
+          "支持者主张只按罪行处罚"
+        ]
+      },
+      {
+        "role": "反驳：外部影响与判断条件",
+        "explanation": "不良引导、家庭暴力等可能塑造少年行为；只有这些因素实际削弱判断时，才构成审慎减罚理由，存在背景因素不自动免责。",
+        "chain": [
+          "外部环境持续影响少年",
+          "可能把暴力接受为正常",
+          "判断能力受到影响",
+          "据此考虑适度减轻处罚"
+        ]
+      },
+      {
+        "role": "边界：评估而非自动宽免",
+        "explanation": "不能让年龄带来必然轻罚预期；逐人评估成熟度、责任和危害，严重蓄意且责任较高时可以适当长期监禁。",
+        "chain": [
+          "年龄宽免预期可能削弱威慑",
+          "逐人评估成熟度与责任",
+          "结合蓄意程度和实际危害",
+          "适用适当严厉处罚"
+        ]
+      },
+      {
+        "role": "结尾：年龄只是一个指标",
+        "explanation": "按法律量刑仍允许考虑年龄及成熟度差异；兼顾个体情形和威慑目标，保留全篇有限灵活立场。",
+        "chain": [
+          "依法且罪刑相称",
+          "年龄作为成熟度指标之一",
+          "允许相关情形的灵活性",
+          "保留威慑目标"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "proportionate与威慑限定",
+        "original": "The argument for an equal punishment policy is that proportionated punishment can guarantee crime prevention.",
+        "revised": "The argument for an equal punishment policy is that proportionate punishment can help deter crime.",
+        "explanation": "相称的形容词应为proportionate；刑罚可能有威慑作用，但不能由此保证完全预防犯罪。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "外部因素到判断受损的条件",
+        "original": "In this case, delinquencies are in effect attributable largely to extrinsic factors, and thus it is sensible that punishments can be mitigated thoughtfully and duly.",
+        "revised": "Where such influences have impaired a young offender's judgment, it may be reasonable to take them into account and mitigate punishment thoughtfully and duly.",
+        "explanation": "外部因素存在并不自动免除或减轻责任；补上判断能力受到影响这一中间条件，使“考虑从轻”有明确论证依据。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "个别评估替代未核实法律概括",
+        "original": "Developed countries such as America have adopted a law called “malice supplies the want of years”, whereby juvenile offenders should be individually assessed as to whether they are as mature and culpable as the typical adult violent offenders.",
+        "revised": "Juvenile offenders should be individually assessed to determine their level of maturity and culpability, rather than judged on age alone.",
+        "explanation": "去掉无出处的现行法律概括，保留成熟度与责任应个别评估的主张；后句仍允许严重犯罪受到较重处罚，但不直接推出终身监禁或死刑。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-c03": {
+    "paragraphNotes": [
+      {
+        "role": "开头：两条减罪路线",
+        "explanation": "题目要求讨论更长刑期与其他办法，先中立列出两路线，随后解释威慑的条件和预防的比较优势。",
+        "chain": [
+          "社会需要减少犯罪",
+          "一方主张延长刑期",
+          "另一方支持替代办法",
+          "比较威慑与预防机制"
+        ]
+      },
+      {
+        "role": "支持长刑期：改变预期得失",
+        "explanation": "部分人在犯罪前算成本收益，更长刑期提高损失，使其不再值得；可能放弃抢劫是说明情景，不是所有犯罪者都会算账。",
+        "chain": [
+          "犯罪前权衡奖励与处罚",
+          "长刑期提高预期代价",
+          "代价可能超过收益",
+          "部分潜在犯罪者停止行动"
+        ]
+      },
+      {
+        "role": "局限与教育：处理动机",
+        "explanation": "一些人冲动或相信能逃脱处罚，刑期增加难改变其选择；道德判断与非暴力解冲突教育直接作用于动机。",
+        "chain": [
+          "部分犯罪者不评后果或自信逃脱",
+          "延长刑期作用有限",
+          "教育认识伤害并练非暴力处理",
+          "改变长刑期未触及的动机"
+        ]
+      },
+      {
+        "role": "外部预防：家长与内容监管",
+        "explanation": "家庭暴力可能示范冲突处理方式，媒体有害内容可能被模仿；家长好榜样和政府接触限制分别减少这两类外部影响。",
+        "chain": [
+          "家庭与媒介提供行为模式",
+          "部分孩子模仿暴力",
+          "父母示范良好方式",
+          "政府限制有害内容接触"
+        ]
+      },
+      {
+        "role": "结尾：以犯罪前干预比较",
+        "explanation": "承认更长刑期对部分人有威慑，但替代方法在犯罪发生前处理内在动机和外部影响，因此提出长期更有效的比较判断。",
+        "chain": [
+          "长刑期威慑部分人",
+          "单靠刑期无法涵盖全部原因",
+          "教育榜样监管前置干预",
+          "长期方案更全面"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "威慑只适用于部分理性决策者",
+        "original": "If this policy were to be adopted, the deterrent effect would suffice to prevent crimes: those who would otherwise be prone to robbery may stop, just simply because of such severe punishment.",
+        "revised": "If this policy were to be adopted, the deterrent effect could help prevent some crimes: those who would otherwise be prone to robbery might refrain from offending because of such severe punishment.",
+        "explanation": "保留较长刑期可能有用的论点，将足以预防一切犯罪降为帮助减少部分犯罪；might与假设语气衔接，并明确停止的是犯罪行为。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "教育须说明改变什么动机",
+        "original": "In effect, criminals hardly, if all at all, think about the consequences but always regard themselves are the ones who are lucky enough to escape justice.",
+        "revised": "In effect, some offenders give little thought to the consequences or regard themselves as people who are likely to escape justice.",
+        "explanation": "修正regard…as结构并去掉所有罪犯“总是如此”的概括；后续新增道德判断与冲突解决机制，说明教育为何可能比单纯加刑更有效。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "用犯罪前预防解释长期比较",
+        "original": "In conclusion, even though longer prison sentences may have a stronger deterrent effect, it is a futile attempt to reduce crime.",
+        "revised": "In conclusion, even though longer prison sentences may have a stronger deterrent effect on some potential offenders, they may be insufficient on their own.",
+        "explanation": "有一定威慑作用与完全徒劳互相矛盾，改为单独使用可能不足；末句再按预防动机和外部影响进行比较，不能仅因还有其他因素就否定其最有效性。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "eight-c04": {
+    "paragraphNotes": [
+      {
+        "role": "开头：两个原因与对应项目",
+        "explanation": "再犯不是不知道后果就能解释；开头列出就业与社会支持缺口，再提出教育就业项目，后文需分别连接原因。",
+        "chain": [
+          "释放后仍有再犯",
+          "找不到工作",
+          "缺乏社会支持",
+          "教育就业项目回应"
+        ]
+      },
+      {
+        "role": "原因一：经历断层与生计",
+        "explanation": "长期监禁若缺训练，会失去近期工作经验和雇主所需技能；假设年轻人服刑十年后更难竞争，生计压力增加再犯风险。",
+        "chain": [
+          "长期服刑缺近期经验和训练",
+          "不满足雇主需求",
+          "求职竞争受阻",
+          "生计困难增加再犯风险"
+        ]
+      },
+      {
+        "role": "原因二：标签造成排斥",
+        "explanation": "邻里刻板看法与不信任减少重建生活机会，社会关系难恢复；以may限定排斥与再犯的可能联系。",
+        "chain": [
+          "服刑结束回到社区",
+          "他人标签化并不信任",
+          "重建关系与生活机会减少",
+          "再犯风险可能上升"
+        ]
+      },
+      {
+        "role": "措施：技能、日程与关系三环",
+        "explanation": "基础教育与在监工作训练提高就业能力；稳定工作提供收入和日常安排，又通过交往逐步改变负面看法，从而同时回应两个原因。",
+        "chain": [
+          "教育与工作训练补能力经验",
+          "求职机会提高",
+          "稳定收入与日程减少失序",
+          "工作交往改善他人认知",
+          "帮助复归社会"
+        ]
+      },
+      {
+        "role": "结尾：回收能力到复归",
+        "explanation": "教育就业项目不是只给文凭，而是提高雇用可能性；再由工作与支持对接复归，保持因果措施一致。",
+        "chain": [
+          "就业和支持不足可能再犯",
+          "实施教育与就业项目",
+          "提高可雇用性",
+          "促进社会复归"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "employers与假设经历明确",
+        "original": "After having been incarcerated for a long time, they suffer from a lack of working experience and job training, which are usually what the employees are looking for; for example, a 21-year-old receives a 10-year sentence and how can he compete with his non-criminal peers?",
+        "revised": "After having been incarcerated for a long time, they may lack recent work experience and job training, which are usually what employers are looking for; for example, if a 21-year-old receives a 10-year sentence without access to suitable training, he may struggle to compete with his non-criminal peers after release.",
+        "explanation": "招聘方是employers而非employees；把反问改成有条件的假设，说明缺少近期经验和培训如何阻碍就业，而非声称所有服刑者都无法竞争。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "处理原因的逻辑主语",
+        "original": "Understanding the underlying causes, recidivism can be reduced with educational and employment programs.",
+        "revised": "By addressing the underlying causes, policymakers can help reduce recidivism with educational and employment programs.",
+        "explanation": "原句分词的逻辑主语误落到recidivism上；明确由政策制定者处理原因，并把“理解原因”推进为采取措施。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "就业可能逐步改善偏见",
+        "original": "the negative voice against ex-prisoners will gradually disappear once they have a steady income and start to build a relationship with others while working.",
+        "revised": "negative perceptions of ex-prisoners may gradually weaken as they earn a steady income and start to build relationships with others while working.",
+        "explanation": "就业可能创造建立关系的机会，但不能保证偏见消失；用may weaken保留改善方向，并把单数relationship改为泛指复数。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-e01": {
+    "paragraphNotes": [
+      {
+        "role": "开头：限定成功含义",
+        "explanation": "先从职业与财务成功切入双方路线，给大学和其他办法公平比较；最后一段再解释为何成功定义需要更完整。",
+        "chain": [
+          "人们追求职业与经济成功",
+          "一方认为大学最有效",
+          "另一方认可替代路线",
+          "需要结合目标比较"
+        ]
+      },
+      {
+        "role": "大学理由：资格与岗位需求",
+        "explanation": "学历显示专业知识训练，并是某些职业进入要求；知识密集社会重视受教育劳动者，职业机会与收入有助经济保障，但不是成功保证。",
+        "chain": [
+          "学历证明专业知识训练",
+          "部分职业需要相关资格",
+          "更多职业与收入机会",
+          "财务保障可能改善"
+        ]
+      },
+      {
+        "role": "反方：岗位匹配比文凭本身重要",
+        "explanation": "毕业生也可能被拒或从事非本专业；职业培训以具体实操培养水管工厨师等技术能力，更贴合有实践优势的学生。",
+        "chain": [
+          "大学文凭不保证专业成功",
+          "部分岗位更重实作技能",
+          "职业培训提供岗位指导",
+          "适合技能职业与实践兴趣者"
+        ]
+      },
+      {
+        "role": "观点兼收尾：路径因人而异",
+        "explanation": "大学与职业培训各服务不同目标；进一步扩展成功到健康和人际关系，从定义层面说明不能把大学当普遍最佳途径。",
+        "chain": [
+          "大学扩大学术职业机会",
+          "职业培训服务技能工种",
+          "成功还包括健康与关系",
+          "适合个人且均衡发展更重要"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "职业资格例子分类一致",
+        "original": "Occupations such as lawyers and doctors are only exclusive to those with postgraduate qualifications.",
+        "revised": "Professions such as law and medicine often require relevant academic and professional qualifications.",
+        "explanation": "lawyers/doctors是人，不能直接作occupations的同类例子；删除only exclusive的重复，也不再把研究生学历说成这些职业一概适用的准入要求。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "财务优势不等于人生全面成功",
+        "original": "This makes them more successful than those taking up low-paid occupations",
+        "revised": "This can put them in a stronger financial position than those taking up low-paid occupations",
+        "explanation": "薪资优势只能支持财务维度，不能直接推出整体人生更成功；改后与结尾纳入健康、人际关系的成功定义一致。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "职业培训与特定岗位匹配",
+        "original": "By contrast, those who have failed to go to college but receive vocational training are more likely to be successful:",
+        "revised": "By contrast, those who do not go to college but receive vocational training may be better prepared for certain occupations than graduates of academic courses:",
+        "explanation": "不把未上大学预设成失败，也不笼统断言职教更成功；明确比较对象和特定职业的准备程度，才能回应大学是否为最佳路径。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "eight-e02": {
+    "paragraphNotes": [
+      {
+        "role": "开头：阶段式立场",
+        "explanation": "既回应技术工人需求，又把自由选择限定在高中；初中保留通识必修，后文需要解释为何专业化不能太早。",
+        "chain": [
+          "现代经济需要知识与技能",
+          "蓝领需求支持职业培训",
+          "高中可选择专业路径",
+          "初中先完成通识基础"
+        ]
+      },
+      {
+        "role": "支持职训：需求与课程对接",
+        "explanation": "白领偏好可能造成手工职业缺口，TVET结合技能理论、真实情景与实操准备就业；具体课程如何改善前景是论证重点。",
+        "chain": [
+          "手工职业存在需求",
+          "职业学校提供技能与理论",
+          "真实实例和操作经验",
+          "毕业后求职前景改善"
+        ]
+      },
+      {
+        "role": "阶段限制：通识提升专业表现",
+        "explanation": "教育还培养公民责任和智力，不只让人会某份工作；更广基础使技术工人理解、判断和完成任务更好，初等教育不足以替代完整初中基础。",
+        "chain": [
+          "教育需培养公民与思维能力",
+          "通识基础提升专业工作质量",
+          "小学基础尚不充分",
+          "完成初中后再全时专业化"
+        ]
+      },
+      {
+        "role": "结尾：明确先后顺序",
+        "explanation": "通识与职业培训不是互斥，答案给出顺序：初中广泛学习，高中按需要选择学术或技术资格。",
+        "chain": [
+          "初中通识必修",
+          "高中自由选择路线",
+          "学术或技术资格进入未来路径"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "木工职业与人名类别一致",
+        "original": "choose practice leading to careers such as carpenters",
+        "revised": "choose practical courses leading to careers such as carpentry",
+        "explanation": "practice不能直接代替职业课程，carpenters指木工从业者，carpentry才与careers这一类别相配。题面保留原样，正文修正。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "专业化开始阶段明确",
+        "original": "However, TVET can only start from high school and a 9-year academic course focusing on general education is the sine qua non for development, be it personal or occupational.",
+        "revised": "However, in my view, full-time vocational specialization should start only at high school, and a broad foundation in general education is important for development, be it personal or occupational.",
+        "explanation": "原文把特定学制和九年年限写成普遍规律；改成作者对全日制职业分流时点的主张，并明确后文secondary指lower-secondary，使支持高中选择的立场一致。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "as well as并列完整",
+        "original": "general cultivation as well intensely specialized training",
+        "revised": "a broad education as well as intensive specialized training",
+        "explanation": "补齐as well as的第二个as；a broad education更准确表达通识基础，intensive修饰training表示密集、深入的训练。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "eight-e03": {
+    "paragraphNotes": [
+      {
+        "role": "开头：两种组织方式",
+        "explanation": "对比混合能力同班与学业能力较强者单独教学；争论焦点是教学组织与特殊支持，不是天赋高低的人格价值。",
+        "chain": [
+          "学生当前学业能力有差异",
+          "一方支持混合教学",
+          "另一方支持分别教学",
+          "比较公平与学习匹配"
+        ]
+      },
+      {
+        "role": "混班理由：平等与避免标签",
+        "explanation": "学校像微型社会，接受能力差异并提供共同机会；低成绩者不被单独标记，可能减少自卑和污名对信心的长期伤害。",
+        "chain": [
+          "共同接受教育机会",
+          "不按成绩分离同伴",
+          "减少低成绩标签",
+          "保护信心与自尊"
+        ]
+      },
+      {
+        "role": "分组理由：不同速度的适配",
+        "explanation": "混班教师需同时应对广泛需求；分组使学得快者继续推进、需要帮助者获得更合适解释，关键是双方都得到匹配。",
+        "chain": [
+          "同班学习需要跨度大",
+          "按当前表现分组",
+          "快者加速且困难者获得支持",
+          "更可能发挥潜能"
+        ]
+      },
+      {
+        "role": "个人观点：公平条件与可变分组",
+        "explanation": "加速教学需同时保障平等资源、允许流动，防止固定标签；学生其他背景仍多样，分组不等于消灭所有多样性。",
+        "chain": [
+          "按当前学习需求调整教学",
+          "保证资源平等",
+          "允许组间流动",
+          "减少歧视风险并保留其他多样性"
+        ]
+      },
+      {
+        "role": "结尾：灵活性支持效率",
+        "explanation": "支持的是灵活而非僵化分流；有效资源配置服务于更个性化教学，回扣前段公平条件。",
+        "chain": [
+          "采用灵活分组",
+          "有效配置教学资源",
+          "提供较个性化教学"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "As从句需要主句承接",
+        "original": "As school is a miniature society, where the diversity and disparity in individuals’ abilities are accepted. The same principle applies:",
+        "revised": "As a school is a miniature society in which differences in individuals’ abilities are accepted, the same principle applies:",
+        "explanation": "原As原因从句后直接句号，缺少主句；与后句合并，并补可数名词school的冠词，保留原来的长句推进。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "教师复数与差异化需求",
+        "original": "the apt students who often well assimilate the knowledge in class while allowing teacher to help the slow ability students to gain a better understanding of knowledge",
+        "revised": "students who assimilate new knowledge quickly while allowing teachers to help students who need more support to gain a better understanding of the material",
+        "explanation": "修正well的位置和teacher的单复数；slow ability不自然，改为学习支持需求，也避免把阶段性表现写成固定能力标签。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "分流需有公平资源与流动条件",
+        "original": "which certainly would not cause any inequality or discrimination",
+        "revised": "while ensuring equal access to resources and allowing movement between groups, thereby reducing the risk of inequality or discrimination",
+        "explanation": "前文已承认分班可能造成污名，后文不能保证绝无歧视。补出资源公平与灵活调组条件，说明支持分班的边界及如何降低风险。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-e04": {
+    "paragraphNotes": [
+      {
+        "role": "开头：题眼是排除理论",
+        "explanation": "先承认实操值得重视，再否定因此取消理论的推理；不把题目弱化成实操是否重要。",
+        "chain": [
+          "大学课程面临取舍",
+          "有人主张实操排除理论",
+          "实操有价值",
+          "排除理论缺乏理由"
+        ]
+      },
+      {
+        "role": "实操收益：缩短工作适应",
+        "explanation": "毕业生缺真实解决问题经验，企业需另投入培训；强化实操培养专业胜任力、加快工作适应，才可能降低成本增加利润。",
+        "chain": [
+          "毕业生缺少真实操作经验",
+          "企业额外投入培训",
+          "实操提升专业胜任力",
+          "入职适应更快并可能增利润"
+        ]
+      },
+      {
+        "role": "理论收益：从例行任务到新问题",
+        "explanation": "机械、会计和教育心理例子都体现同一机制：理解原则让人不只完成常规操作，还能分析突发或复杂情境。",
+        "chain": [
+          "掌握领域理论原则",
+          "理解与批判性分析",
+          "系统执行并处理新情境",
+          "理论构成专业表现基础"
+        ]
+      },
+      {
+        "role": "结尾：互补而非替代",
+        "explanation": "把理论知识与实践技能并列为未来成功的重要准备，明确两者应在大学课程中结合。",
+        "chain": [
+          "实操支持应用",
+          "理论支持理解与适应",
+          "大学同时训练两者"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "hands-on经验插入语标点",
+        "original": "little if any, hands-on experience",
+        "revised": "little, if any, hands-on experience",
+        "explanation": "if any是插入语，两侧均需逗号；experience表示经验时不可数，原有hands-on搭配可以保留。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "增加实操不等于认可排除理论",
+        "original": "If this proposal was adopted,",
+        "revised": "If greater emphasis were placed on practical training,",
+        "explanation": "this proposal容易指向题目中“取消理论”的整项提议，与作者立场冲突；明确只认可增加实操，并用were表达正式假设。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "理论是重要基础而非全职业必要前提",
+        "original": "the prerequisite to better performance in any occupation and domain",
+        "revised": "an important foundation for better performance in many occupations and domains",
+        "explanation": "原句把理论说成一切职业更好表现的必要前提，范围过大；many与important foundation足以支持保留理论的立场，无需做全称断言。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "eight-e05": {
+    "paragraphNotes": [
+      {
+        "role": "开头：并列必要目标",
+        "explanation": "承认知识获取是基本任务，同时明确课外活动也必要；不是减少学业价值，而是判断大学教育应涵盖什么。",
+        "chain": [
+          "大学应获取知识",
+          "日程应否包含其他活动",
+          "学业重要",
+          "课外活动同样支持均衡教育"
+        ]
+      },
+      {
+        "role": "学习理由：专业知识与职业机会",
+        "explanation": "职业分化使劳动力市场更需要知识，勤学改善学业和专业准备；就业、薪资与晋升再连接较高生活水平。",
+        "chain": [
+          "职业分工知识要求上升",
+          "勤学改善知识与学业",
+          "专业机会与职业发展扩大",
+          "生活水平可能提高"
+        ]
+      },
+      {
+        "role": "活动理由：交往中的技能习得",
+        "explanation": "社团让志趣相投者交流合作，形成沟通、人际、组织与实践能力；这些能力来自活动过程，不能只靠理论学习获得。",
+        "chain": [
+          "社团连接共同兴趣者",
+          "交流分享与组织活动",
+          "练人际沟通组织实践技能",
+          "支持未来社会与职业参与"
+        ]
+      },
+      {
+        "role": "结尾：结合才覆盖两目标",
+        "explanation": "Only when引出倒装，强调知识学习与活动中的社会学习整合，大学才能同时完成学术和社会化目标。",
+        "chain": [
+          "学业提供知识基础",
+          "课外活动促进社会化",
+          "整合两类学习",
+          "实现双重教育目标"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "activities复数与均衡教育",
+        "original": "extracurricular activities is surely the catalyst for personal success",
+        "revised": "extracurricular activities are also essential to a balanced university education",
+        "explanation": "activities为复数，应与are搭配；将笼统的成功保证改为对均衡大学教育的必要性，直接回应题干essential。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "社团参与才是活动",
+        "original": "Extracurricular activities such as university associations are great avenues where a group of like-minded people gather together to share and explore their interests.",
+        "revised": "Extracurricular activities such as participation in university associations are great avenues for students to share and explore their interests with like-minded people.",
+        "explanation": "社团是组织，参与社团才是活动；avenue表示途径时用avenues for更清楚，保留共同兴趣促进交流的原机制。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "only when倒装与双重目标",
+        "original": "Only when the pursuit of academic achievement is highly integrated with society education based on activities, can an individual truly become a full-fledged citizen.",
+        "revised": "Only when the pursuit of academic achievement is integrated with social learning through activities can university education fulfil both these aims.",
+        "explanation": "修正society education搭配并去掉主句前多余逗号，保留Only when倒装；结论落在学业与社会化两项目标，避免过度保证个人必然全面发展。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "eight-e06": {
+    "paragraphNotes": [
+      {
+        "role": "开头：明确课程设置层面",
+        "explanation": "题面a university should choose有歧义，本篇依原修订文讨论大学提供单一还是广泛学科；承认专业需求但支持课程广度。",
+        "chain": [
+          "职业分化增加专业需求",
+          "提出大学集中一个学科",
+          "承认专业化价值",
+          "支持大学提供广泛学科"
+        ]
+      },
+      {
+        "role": "专业化理由：集中投入",
+        "explanation": "更多注意力投向一个领域可能提升学业，前沿专业知识帮助突破并支持职业发展；这些是专业化收益，尚不证明大学应删其他课程。",
+        "chain": [
+          "集中努力与注意力",
+          "专业学术表现改善",
+          "前沿研究可能突破",
+          "知识密集社会职业发展受益"
+        ]
+      },
+      {
+        "role": "反驳：通识服务专业",
+        "explanation": "跨领域原理帮助理解已有知识并磨炼专业技能；书法课可能启发产品设计，说明广度与深度可互补，而非必然争夺价值。",
+        "chain": [
+          "学习多领域基本原理",
+          "更好理解本专业知识",
+          "通识配合深入专业训练",
+          "专业任务与设计表现可能提高"
+        ]
+      },
+      {
+        "role": "结尾：保留广度兼顾深度",
+        "explanation": "大学保留通识教育，同时重视专业化；结论回应课程范围，没有把全篇改成学生只能选几个专业的不同问题。",
+        "chain": [
+          "保留大学通识",
+          "重视专业深入",
+          "两者共同支持未来发展"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "大学课程设置与学生选科不同",
+        "original": "for university freshmen to choose one subject",
+        "revised": "for a university to concentrate its teaching on one subject",
+        "explanation": "题面写的是a university，原结论却变成新生选科。题面保持原样，正文按大学课程设置理解；该题可能存在抄录歧义，不能擅自当成学生选专业的官方题。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "前沿突破与职业阶梯搭配",
+        "original": "because only specialists who have reached the limit of human knowledge can excel and make a breakthrough; this also contributes to the Career ladder",
+        "revised": "because specialists working at the frontiers of knowledge may be better equipped to make breakthroughs; this can also help students climb the career ladder",
+        "explanation": "删除没有支持的“只有专家才能突破”，把limit改成知识前沿的表达；职业发展搭配为climb the career ladder，career不需大写。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "跨科例子不能写成必要条件",
+        "original": "For example, Steve Jobs, as an industrial designer and businessman, took a calligraphy class, without which he could not make his products as successful as they are now.",
+        "revised": "For example, an industrial designer and businessman who takes a calligraphy class may be able to use this broader learning to improve product design.",
+        "explanation": "原例把一门课设为产品成功的必要条件，反事实因果过强且时态不合；改为明确的泛指假设，保留跨学科学习改善设计的论证功能。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-01": {
+    "paragraphNotes": [
+      {
+        "role": "开头：区分目标",
+        "explanation": "承认天气变化难以短期解决，但把预防对象写成进一步升温，避免将已经发生的变化说成能全部撤销。",
+        "chain": [
+          "全球气候变化难处理",
+          "需要适应当前影响",
+          "仍需预防进一步升温"
+        ]
+      },
+      {
+        "role": "主体一：适应的可行性",
+        "explanation": "能源消耗、工业排放等难立刻消失，所以用遮阴、屋顶绿化和反射路面减轻建筑与街道高温；适应是行动而非习惯。",
+        "chain": [
+          "成因难短期消除",
+          "种树与屋顶绿化",
+          "减少建筑吸热",
+          "浅色路面反射阳光",
+          "降低当前热影响"
+        ]
+      },
+      {
+        "role": "主体二：预防仍有价值",
+        "explanation": "提升能效限制能源消耗增长，替代能源减少化石燃料依赖；不能彻底停止变化，不等于小幅减缓没有价值。",
+        "chain": [
+          "提高能效",
+          "放慢化石燃料燃烧",
+          "发展替代能源",
+          "限制进一步升温",
+          "减少未来损害"
+        ]
+      },
+      {
+        "role": "结尾：双轨答案",
+        "explanation": "可持续发展既要承受眼前变化，也要减少未来损害；结尾保留两项措施，不用适应成功否定减排。",
+        "chain": [
+          "适应当前情况",
+          "预防进一步升温",
+          "共同支持可持续发展"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "适应行动与被动习惯",
+        "original": "a more sensible way to alleviate the problem is to be accustomed to such a worrying situation",
+        "revised": "a sensible way to alleviate its effects is to adapt to such a worrying situation",
+        "explanation": "be accustomed to 只是“习惯于”，不能解释损害为何减少；adapt to 才是采取适应措施。把 problem 改为 its effects，也区分了“减轻高温带来的影响”与“阻止气候变化本身”，与后面的遮阴、屋顶绿化和浅色路面形成因果链。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "屋顶绿化的降温目的",
+        "original": "putting plants and gardens on top of roofs that use vegetation to help trap heat",
+        "revised": "putting plants and gardens on top of roofs to help reduce heat entering buildings",
+        "explanation": "原来的 that use vegetation 修饰 roofs，既生硬，又把降温机制写成“困住热量”。改为不定式说明种植的目的：减少进入建筑物的热量；这样保留绿化例子，同时让措施与降温结果一致。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "停止升温与限制升温",
+        "original": "Prevention of climate change is impossible in a short time, but attempting to do such a try should never be underestimated.",
+        "revised": "Completely halting climate change is impossible in a short time, but efforts to limit further warming should never be underestimated.",
+        "explanation": "do such a try 搭配不成立；更关键的是，全文已经承认气候变化发生，不能再以“让它从未发生”为目标。completely halting 与 limit further warming 区分“短期彻底停止”及“限制进一步升温”，所以前者困难并不否定后者的价值。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-02": {
+    "paragraphNotes": [
+      {
+        "role": "开头：用途分类",
+        "explanation": "动物有生命权，但不是每种利用都同样必要；先提出有条件允许与禁止并存，后文按用途检验。",
+        "chain": [
+          "承认动物生命权",
+          "判断用途必要性",
+          "部分利用可辩护",
+          "部分实践不可接受"
+        ]
+      },
+      {
+        "role": "主体一：食物替代的边界",
+        "explanation": "农业发展让许多人可采用植物性饮食，但不能假设所有人立即获得营养充分的替代食物，因此拒绝全球一刀切。",
+        "chain": [
+          "植物性食物可提供营养",
+          "许多人可以替代肉食",
+          "充分替代品尚非人人可得",
+          "不能要求立即全面停食"
+        ]
+      },
+      {
+        "role": "主体二：医学条件",
+        "explanation": "致命疾病研究的必要性须与缺少已验证替代方案相结合，并加上人道对待；不是动物死亡与人死亡的必然二选一。",
+        "chain": [
+          "严重疾病研究需求",
+          "有效替代方案缺失",
+          "动物研究可能必要",
+          "人道对待成为条件"
+        ]
+      },
+      {
+        "role": "主体三：衣物区别",
+        "explanation": "人造纤维能大规模供应，削弱仅为皮毛杀动物的必要性；肉类产业副产品利用与专为皮毛猎杀分开判断。",
+        "chain": [
+          "替代纤维存在",
+          "可以大量生产",
+          "专为衣物屠杀无必要",
+          "利用现有副产品",
+          "禁止专门猎杀"
+        ]
+      },
+      {
+        "role": "结尾：条件保持一致",
+        "explanation": "结尾允许的是仍有必要的食品和医药用途，禁令只针对专为皮毛的猎杀；避免把正文条件丢掉。",
+        "chain": [
+          "必要性保留",
+          "食物医药有条件允许",
+          "专为皮毛猎杀应禁止"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "替代食品的可获得性",
+        "original": "nor is it possible to feed the world population with fruits and vegetables only",
+        "revised": "nor can we assume that the world population currently has access to nutritionally adequate alternatives",
+        "explanation": "原句把植物性食物缩成蔬果，并直接断言全世界不可能依靠它们生存，超出了段落的依据。修改后保留“尚不能要求所有人立即改用替代食品”的论证功能，但把理由限定为营养充分的替代品是否人人可获得；同时保留 nor 引导的倒装长句。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "医学研究的必要条件",
+        "original": "either an animal will be killed by research or testing, or a human will die from the disease or unsafe vaccinations",
+        "revised": "developing and testing a vaccine for a lethal human disease may require animal studies where validated alternatives are unavailable",
+        "explanation": "原句构造“动物死或人死”的必然二选一，无法由前文推出。现在保留医学研究的重要性，但只在有效替代方法不存在时提出动物研究可能有必要；may 与 where 条件从句使论证范围更准确，后句的人道对待条件也能自然承接。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "大类、成员与生产规模",
+        "original": "available alternatives to animals’ skins and hides, ranging from man-made fibre to rayon, already exist and reach economies of scale",
+        "revised": "alternatives to animals’ skins and hides, including man-made fibres such as rayon, already exist and can be produced on a large scale",
+        "explanation": "rayon 属于人造纤维，不能自然地用 from…to…把大类与其成员当作两个端点；including…such as…保留熟悉例子并理顺分类。economies of scale 通常由生产活动实现，改成 can be produced on a large scale，让“替代品可大量生产→某些屠杀不再必要”的关系更清楚。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-03": {
+    "paragraphNotes": [
+      {
+        "role": "开头：比较投入标准",
+        "explanation": "争论不是动物是否重要，而是现有努力是否超过所需；文章明确判断实际努力仍少于防止灭绝的需要。",
+        "chain": [
+          "保护重要",
+          "出现资源过多质疑",
+          "现有努力少于所需"
+        ]
+      },
+      {
+        "role": "主体一：回应自然淘汰说",
+        "explanation": "先把适者生存归给反方，再区分自然灭绝与伐木、扩城、偷猎造成的下降；人为损害提供干预理由。",
+        "chain": [
+          "反方诉诸自然淘汰",
+          "当前下降也关联人类活动",
+          "栖息地破坏和偷猎加剧风险",
+          "需要保护减损"
+        ]
+      },
+      {
+        "role": "主体二：比较预算机会成本",
+        "explanation": "承认发展中国家有医疗、教育和就业需求，但两类支出并非互斥；小额保护预算转移可能帮助有限，却放任生态损害。",
+        "chain": [
+          "公共预算有多项需求",
+          "可兼顾保护与民生",
+          "小额转移改善可能有限",
+          "生态受损也影响人类"
+        ]
+      },
+      {
+        "role": "结尾：及时投入",
+        "explanation": "有财政成本不等于应停止保护；面对物种灭绝风险，结尾主张继续行动并增加所需关注。",
+        "chain": [
+          "保护有成本",
+          "灭绝风险仍存在",
+          "继续及时保护"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "比较标准补完整",
+        "original": "less effort has been made than it should",
+        "revised": "less effort has been made than is needed",
+        "explanation": "原句的 it should 不能完整承接“本应投入多少努力”的比较关系。than is needed 直接补出比较标准，即“实际投入的努力少于所需”，保留原作者认为保护不足的立场。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "适者并非最强壮者",
+        "original": "whereby only the strongest and most successful animals continue to exist while some animals go extinct",
+        "revised": "whereby better-adapted animals are more likely to survive while some species go extinct",
+        "explanation": "适者生存不等于只有最强壮的动物存活；better-adapted 对应“更适应环境”，more likely 也避免必然性。段首增加 Critics argue、后句用 They believe，是为了把这套反对保护的推理清楚归给反方，随后才能用人为破坏作回应。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "预算机会成本须有条件",
+        "original": "If the money allocated to animal conservation were to be used for other concerns, it would bring trivial changes in other aspects",
+        "revised": "If a relatively small conservation budget were to be used for other concerns, it might bring only limited improvements in other areas",
+        "explanation": "原句无依据地断言挪用所有保护预算只能带来微不足道的改善。改为“若这笔预算相对较小，挪用它可能只能带来有限改善”，保留机会成本比较，但加入适用情境和 might；也删除了“政府已完美分配预算”的无证据前提。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-04": {
+    "paragraphNotes": [
+      {
+        "role": "开头：提出两种保护范围",
+        "explanation": "区分选择性保护与所有动物都应得到关注，为后文把保护原则和资源分配拆开作铺垫。",
+        "chain": [
+          "保护重要",
+          "选择部分物种",
+          "广泛保护所有物种",
+          "需要明确分配原则"
+        ]
+      },
+      {
+        "role": "主体一：解释选择性投入",
+        "explanation": "老虎濒危而城市鼠鸽适应良好，支持不同强度投入；蜂类若种群稳定，较低的是紧迫性而非生态价值。",
+        "chain": [
+          "物种威胁不同",
+          "濒危者需密集保护",
+          "稳定种群紧迫性较低",
+          "无需同等投入"
+        ]
+      },
+      {
+        "role": "主体二：普遍保护的责任",
+        "explanation": "人类伐木、扩城和偷猎使多类物种受威胁，因此不能只按外观或主观价值挑选，必须减少普遍的人为伤害。",
+        "chain": [
+          "人类活动损害多种物种",
+          "部分种群下降",
+          "应阻止破坏行为",
+          "保护不只限于高观赏价值动物"
+        ]
+      },
+      {
+        "role": "观点段：生态联系与分层措施",
+        "explanation": "蜂类减少可能影响授粉，再影响草食动物和捕食者；关联支持整体保护，但不要求每种动物获同额经费。",
+        "chain": [
+          "蜂类减少",
+          "授粉受影响",
+          "依赖植物的草食动物受影响",
+          "食物链可能波及捕食者",
+          "保护广泛而投入有别"
+        ]
+      },
+      {
+        "role": "结尾：原则与优先级并存",
+        "explanation": "尽量保护更多物种，同时按具体风险优先分配关注和资源；不是先支持全部、最后又取消部分动物资格。",
+        "chain": [
+          "尽量广泛保护",
+          "评估物种风险",
+          "确定资源优先级"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "情态动词后的被动",
+        "original": "they should distinguished from other species by the threat the specific animals face and the value of the animal itself",
+        "revised": "they should be distinguished from other species by the threats they face and their value",
+        "explanation": "情态动词后的被动结构必须是 should be distinguished。后半句用 they/their 统一指代这些动物，并用 threats 表示可能存在多种威胁，避免 specific animals、animal itself 在单复数和指代上来回切换。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "紧迫性与生态价值",
+        "original": "the importance of bees is diminished by large population size and ubiquity",
+        "revised": "the urgency of protecting a particular bee species may be lower if it has a large and stable population",
+        "explanation": "常见或数量多，并不意味着生态价值更低。修改保留原来的资源排序思路，但比较的是某种蜂类保护的“紧迫性”，而非蜜蜂的“重要性”；if 条件也避免一概认定所有蜂类都数量庞大，与下一段提到蜂类受威胁保持一致。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "整体保护不等于等额投入",
+        "original": "because every species is closely interconnected and is equally important, thus refuting the idea that certain animals should be prioritized",
+        "revised": "because species are closely interconnected, thus challenging the idea that only certain animals deserve protection",
+        "explanation": "相互关联可以支持整体保护，却不能单独证明所有物种价值完全相同、资源投入必须相等。将争论对象改成“是否只有部分动物值得保护”，保留支持广泛保护的立场，同时允许结尾按风险优先分配资源，消除原文前后冲突。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-05": {
+    "paragraphNotes": [
+      {
+        "role": "开头：原因与行动主体",
+        "explanation": "题目问为什么及如何解决；开头同时给出人为破坏与政府、个人共同努力，避免只描述数量下降。",
+        "chain": [
+          "动植物数量下降",
+          "破坏性人类活动",
+          "政府与个人都需行动"
+        ]
+      },
+      {
+        "role": "主体一：拆分两类人为压力",
+        "explanation": "农业扩张、伐木和基建直接清理家园；宠物、药材和动物部位的需求推动非法交易，两条机制共同增加灭绝风险。",
+        "chain": [
+          "开发土地",
+          "自然栖息地减少",
+          "物种失去家园",
+          "非法交易需求增加",
+          "生存风险上升"
+        ]
+      },
+      {
+        "role": "主体二：措施对准成因",
+        "explanation": "政府用本土树种重造栖息地，个人从认识伤害转为拒买象牙和非法药材；意识必须落实为减少需求。",
+        "chain": [
+          "重植本土树种",
+          "恢复栖息地",
+          "识别消费造成的损害",
+          "拒买相关非法产品",
+          "降低猎杀和采集需求"
+        ]
+      },
+      {
+        "role": "结尾：统一因果与措施",
+        "explanation": "take a heavy toll on概括人为伤害，再用政策与个人拒买对应两条成因；不把责任只推给政府。",
+        "chain": [
+          "人为活动造成损害",
+          "政策修复与个人拒买",
+          "缓解生物多样性下降"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "用where连接地点与机制",
+        "original": "A typical example can be found In the Amazon rainforest, pristine habitats are being cleared for cattle ranching, depriving countless species of their natural homes.",
+        "revised": "A typical example can be found in the Amazon rainforest, where pristine habitats are being cleared for cattle ranching, depriving countless species of their natural homes.",
+        "explanation": "原句把两个完整分句用一个逗号硬接起来，In 也不应大写。改后用 where 引导定语从句，修饰 Amazon rainforest，让“清理栖息地以放牧→物种失去家园”的机制在同一个长句中完整展开，原有例子和 depriving 结果结构均保留。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "从意识落实到拒买",
+        "original": "their environmental awareness should be raised by realizing how their daily behaviour could lead to catastrophes for certain animals or plants",
+        "revised": "Individuals can also help by recognizing how their daily behaviour could lead to catastrophes for certain animals or plants and avoiding products that contribute to this damage",
+        "explanation": "原句让 environmental awareness 去 realizing，表达不自然，而且提高意识尚未等于解决问题。改成 Individuals…by recognizing…and avoiding…，让人同时承担“认识后果”和“停止相关购买”两个动作，才能接上最后的 When the buying stops…。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "take a heavy toll on",
+        "original": "human activities have taken a heavy on flora and fauna",
+        "revised": "human activities have taken a heavy toll on flora and fauna",
+        "explanation": "固定搭配是 take a heavy toll on，toll 表示损害，不能省略。结尾还把含糊的 stopping of individual trade 明确为个人拒买非法交易的野生动植物产品，使措施对应前文的非法交易问题。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-06": {
+    "paragraphNotes": [
+      {
+        "role": "开头：两问同时回答",
+        "explanation": "收入与航空发展回答增长原因，积极评价附带风险管理条件；不是无条件声称游客越多越好。",
+        "chain": [
+          "更多人出国",
+          "收入和航空发展",
+          "风险受控时总体积极"
+        ]
+      },
+      {
+        "role": "主体一：支付能力与可达性",
+        "explanation": "中产扩大使更多人有可支配收入；飞机效率、航空竞争和廉航扩展一起降低旅行门槛，构成需求与供给双侧解释。",
+        "chain": [
+          "中产扩大",
+          "可支配收入增多",
+          "飞机效率与航空竞争提高",
+          "廉航扩展",
+          "国际旅行更可负担"
+        ]
+      },
+      {
+        "role": "主体二：文化与经济收益",
+        "explanation": "旅游者亲历饮食节日，目的地从景点吸引的消费获得收入；居民生活改善依赖游客消费进入本地经济。",
+        "chain": [
+          "接触当地饮食节日",
+          "获得文化体验",
+          "景点吸引游客",
+          "游客消费",
+          "本地收入可能提高"
+        ]
+      },
+      {
+        "role": "主体三：环境损害与对应措施",
+        "explanation": "酒店道路开发可毁林并损害栖息地，政府限制开发、个人保护珊瑚等各有作用；具体行动解释风险如何受控。",
+        "chain": [
+          "旅游设施扩张",
+          "毁林建设",
+          "栖息地与物种受损",
+          "政府限制破坏",
+          "游客减少直接伤害"
+        ]
+      },
+      {
+        "role": "结尾：有条件的双赢",
+        "explanation": "重申收入与廉价航空原因，收益判断依靠政策和个人行为控制损害；结尾保留provided that条件。",
+        "chain": [
+          "收入与低价航空推动",
+          "旅游者和目的地受益",
+          "政策与个人努力控制风险"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "中产群体扩大",
+        "original": "the number of the middle class proliferates",
+        "revised": "the middle class is expanding",
+        "explanation": "the middle class 指一个社会群体，the number of the middle class 不自然；proliferate 也不适合直接与这里的 number 搭配。is expanding 保留“中产群体扩大→更多人拥有可用于旅行的收入”的原因链，后文也明确写 more people，避免 them 指代含糊。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "from A to B范围结构",
+        "original": "ranging from what people usually eat and how people celebrate the local festivals",
+        "revised": "ranging from what people usually eat to how people celebrate local festivals",
+        "explanation": "范围结构应为 ranging from A to B。A、B 继续保留两个名词性从句，因此长句形式没有被拆掉，只修正连接关系；local festivals 泛指当地节日，不需要 the。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "倒装中的复数主语",
+        "original": "With this boom also comes problems.",
+        "revised": "With this boom also come problems.",
+        "explanation": "这是完全倒装，真正的主语是后面的复数 problems，因此谓语用 come。下文还把已有国家禁令改为可采取的一般措施，并补上限制旅游设施毁林这一动作，使政府措施直接回应本段的栖息地损失问题。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-07": {
+    "paragraphNotes": [
+      {
+        "role": "开头：直接给权衡答案",
+        "explanation": "用On balance明确总体收益更大，同时承认环境与文化问题，后文须解释为何这些损害不足以压过收益。",
+        "chain": [
+          "国际旅游繁荣",
+          "环境文化风险存在",
+          "总体经济与文化收益较大"
+        ]
+      },
+      {
+        "role": "主体一：就业与收入",
+        "explanation": "游客消费创造岗位和外汇，旅游收入可提高人均收入；特别需要岗位的地区受益，但旅游并非唯一发展渠道。",
+        "chain": [
+          "游客进入",
+          "岗位与外汇增加",
+          "收入可能提高",
+          "发展中地区获得就业机会"
+        ]
+      },
+      {
+        "role": "主体二：环境风险可被限制",
+        "explanation": "设施和基建扩展导致毁林与栖息地损害，监管开发与游客行为可削弱这条链；承认可缓解还不是完整权衡。",
+        "chain": [
+          "设施扩展",
+          "毁林建设",
+          "栖息地损失",
+          "限制开发与减少游客伤害",
+          "剩余损害降低"
+        ]
+      },
+      {
+        "role": "主体三：文化风险可转为保护动力",
+        "explanation": "迎合游客可能商业化传统；若本地人经营旅游并把收入用于习俗，旅游本身可成为文化保护载体。",
+        "chain": [
+          "迎合外来需求",
+          "传统可能弱化",
+          "政策重视文化",
+          "本地社区经营并回投收入",
+          "文化认同增强"
+        ]
+      },
+      {
+        "role": "结尾：比较剩余损害与持续收益",
+        "explanation": "只在保护措施限制损害时支持旅游，比较的是持续生计和文化保存收益与控制后的损害，不是单纯数优点。",
+        "chain": [
+          "监管和各方努力",
+          "环境文化损害有限",
+          "持续生计与文化收益",
+          "收益超过剩余损害"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "恢复句界与让步主句",
+        "original": "the environment t on balance yields positive outcomes in the form of economic prosperity and cultural preservation. Despite some potential environmental and cultural issues.",
+        "revised": "the environment. On balance, it yields positive outcomes in the form of economic prosperity and cultural preservation, despite some potential environmental and cultural issues.",
+        "explanation": "原文在 environment 后漏了清楚的句界和主语，Despite 短语又单独成了残句。修改补出 On balance, it…，并将 despite 接回完整主句，使“存在风险，但总体利大于弊”的原立场在引言中明确成立。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "旅游并非唯一发展途径",
+        "original": "the opportunities only come with being part of international tourism",
+        "revised": "participation in international tourism can bring valuable employment opportunities",
+        "explanation": "only 把旅游写成发展机会的唯一来源，前文没有证明这一点。改为 can bring 仍保留“游客带来收入与岗位”的论证，但不排除其他产业；原来的 greatest need 也相应收窄，避免把旅游收益直接变成所有发展中经济体都最需要旅游。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "负面影响与旅游的主语分开",
+        "original": "the adverse effects on local culture, with policies that place a premium on cultural histories, local heritage sites, and customs, can be mitigated or even transformed into a vehicle for preserving and revitalizing local cultures",
+        "revised": "with policies that place a premium on cultural histories, local heritage sites, and customs, the adverse effects on local culture can be mitigated and tourism itself can become a vehicle for preserving and revitalizing local cultures",
+        "explanation": "可以被缓解的是 adverse effects；能成为文化保护载体的是 tourism。原句让“负面影响”直接变成“载体”，逻辑主语错位。现在保留长句与 place a premium on、a vehicle for 等表达，通过两个清楚的主谓结构把“减轻风险”和“用旅游支持文化”接起来。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-08": {
+    "paragraphNotes": [
+      {
+        "role": "开头：限定替代程度",
+        "explanation": "问题在于媒介能否替代了解文化所需的旅行，而非旅游是否重要；用cannot fully replace保留部分替代的空间。",
+        "chain": [
+          "媒介文化资源增长",
+          "有人认为无需旅行",
+          "信息可替代一部分",
+          "直接体验不可完全替代"
+        ]
+      },
+      {
+        "role": "主体一：承认媒介优势",
+        "explanation": "书影网络让人在家获取文化信息，节约交通住宿的时间和费用，因此对无需旅行的命题作程度性让步。",
+        "chain": [
+          "旅行耗费时间金钱",
+          "媒介在家可访问",
+          "获得部分文化信息",
+          "节省旅行成本"
+        ]
+      },
+      {
+        "role": "主体二：文化亲历与附带经济效益",
+        "explanation": "和当地人一起饮食过节带来描述难复现的学习；目的地收入另列为附带收益，不拿经济价值证明学习必要性。",
+        "chain": [
+          "与当地人共同参与习俗",
+          "获得直接文化经验",
+          "文字描述难完全复现",
+          "游客消费另有经济收益"
+        ]
+      },
+      {
+        "role": "主体三：个人经历不可复制",
+        "explanation": "计划、迷路、误车以及现实与介绍不符，形成旅行者自己的记忆；他人的叙述不能完整替代此种个人经历。",
+        "chain": [
+          "计划旅行",
+          "经历意外与现实差异",
+          "形成个人理解",
+          "留下自己的记忆",
+          "媒介无法完整复现"
+        ]
+      },
+      {
+        "role": "结尾：知识与体验分开",
+        "explanation": "媒介可探索世界，旅行可直接体验并加深理解；结尾不推出只有出行才能理解文化的绝对结论。",
+        "chain": [
+          "媒介提供知识",
+          "旅行深化亲历理解",
+          "目的地另获经济收益"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "回答能否替代亲历学习",
+        "original": "However, it does not necessarily mean that tourism is of no importance.",
+        "revised": "However, this does not necessarily mean that such resources can replace the firsthand learning that tourism provides.",
+        "explanation": "题目问“了解文化是否需要旅行”，而不是“旅行是否重要”。原句只证明重要性，还不能反驳可由媒介学习的观点。修改把反驳限定为亲历学习能否被替代，并在前段承认媒介可以提供部分文化知识；经济收益则保留为附带作用，不用它证明旅行的必要性。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "在家查阅的自然搭配",
+        "original": "in their comfort at home",
+        "revised": "in the comfort of their own homes",
+        "explanation": "表示“舒舒服服地待在自己家里”，自然搭配是 in the comfort of one’s own home。原来的 in their comfort at home 不是惯常表达；修正后仍是原有的“无需出门即可查阅资料”例子。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "信息传递与个人体验",
+        "original": "books or the internet, a way to communicate travel information and share travel experiences, fails to make travel personal",
+        "revised": "books and the Internet, as ways to communicate travel information and share travel experiences, cannot fully reproduce such a personal experience",
+        "explanation": "原句用单数 a way 概括两类媒介，且 fails to make travel personal 把结论说得过于绝对。修改后的 and…as ways… 指代清楚，cannot fully reproduce 对应前面的个人经历：媒介可以传递信息，却不能完整重现旅行者自己的体验；不再推出“没旅行就无法理解文化”。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-09": {
+    "paragraphNotes": [
+      {
+        "role": "开头：明确收益胜出",
+        "explanation": "开头承认成瘾可能带来身心问题，也呈现学习娱乐功能，直接回答advantages outweigh；后文必须提供适用条件。",
+        "chain": [
+          "游戏受欢迎",
+          "成瘾风险与教育娱乐价值并存",
+          "总体认为收益更大"
+        ]
+      },
+      {
+        "role": "主体一：风险具体化",
+        "explanation": "暴力内容可能影响冲突处理观念；过度游戏挤占户外活动形成久坐，并可能干扰其他任务注意力，不能把所有玩家都归为受害者。",
+        "chain": [
+          "不当内容影响暴力观念",
+          "过度游戏挤占活动",
+          "久坐习惯",
+          "可能增加健康与注意力问题"
+        ]
+      },
+      {
+        "role": "主体二：适度价值与学习边界",
+        "explanation": "适度游戏可暂离压力，操作训练协调和决策；历史背景游戏可引入知识，但虚构内容仍须与史实区分。",
+        "chain": [
+          "控制时长",
+          "减轻过量使用风险",
+          "暂时放松",
+          "练习协调决策",
+          "接触历史但辨别虚构"
+        ]
+      },
+      {
+        "role": "结尾：解释为何收益更大",
+        "explanation": "用选择内容、限制时间和监管自律降低许多风险，使娱乐学习价值保留；权衡结论依赖这些条件。",
+        "chain": [
+          "选择适当内容",
+          "限制时长",
+          "多类风险减少",
+          "娱乐学习收益得以保留"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "久坐链条与因果强度",
+        "original": "thus making them short-sighted or even accustomed to a sedentary lifestyle",
+        "revised": "thus becoming more accustomed to a sedentary lifestyle",
+        "explanation": "原句把长时间游戏、缺少户外活动和近视压成必然因果；这里保留“占用运动时间→形成久坐习惯”这条能直接说明的链条，去掉未经论证的视力结论。前面也用 may arise 限定健康风险，并非所有玩家都会出现问题。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "适度使用才支持无害娱乐",
+        "original": "They are harmless fun because it is the users who are addicted to video games, not the games per se that lead to physical problems and even a sedentary lifestyle.",
+        "revised": "They can be harmless fun when played in moderation, because physical problems and a sedentary lifestyle are more closely linked to excessive use than to playing games per se.",
+        "explanation": "“责任在成瘾的玩家”不能推出“游戏无害”。改为有条件的判断：适度使用可以带来娱乐，而过度使用更容易挤占活动时间。保留 per se 和原因从句，同时让本段对上一段的让步成立。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "历史情景与虚构边界",
+        "original": "a game called Assassin’s Creed franchise",
+        "revised": "a game set in a historical period",
+        "explanation": "franchise 指系列，不能把它当成单款游戏名称；原句还把 Darwin 人名当作历史事件，并断言系列每款游戏都如此。改成历史背景游戏的假设性例子，保留“接触历史→产生学习价值”的作用，同时补上虚构内容与历史事实需要区分。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-10": {
+    "paragraphNotes": [
+      {
+        "role": "开头：原因与评价",
+        "explanation": "先用随时可接触性解释增长，再提出成瘾和浪费时间的风险；负面评价须结合后文的过度使用条件理解。",
+        "chain": [
+          "成人空闲玩手游增多",
+          "随手可得",
+          "娱乐有价值",
+          "过度使用可能损害时间安排"
+        ]
+      },
+      {
+        "role": "主体一：设备与成本优势",
+        "explanation": "手机让游戏脱离电脑和主机，通勤等碎片时间也能玩；比钓鱼爬山更省准备、时间和金钱，并能与玩家交流。",
+        "chain": [
+          "手机可随身携带",
+          "任何地点短时游戏",
+          "时间金钱门槛较低",
+          "放松打发时间并社交"
+        ]
+      },
+      {
+        "role": "主体二：奖励机制与机会成本",
+        "explanation": "部分手游的重复任务和每日奖励延长参与；当它们挤占睡眠、运动、家人和其他兴趣，才产生明确损失，不借简化生理解释代替机制。",
+        "chain": [
+          "重复任务与频繁奖励",
+          "长时间占用与每日登录",
+          "睡眠运动被挤占",
+          "陪伴与其他爱好机会减少"
+        ]
+      },
+      {
+        "role": "结尾：限制评价范围",
+        "explanation": "重申技术便利和低价娱乐原因，批评的是习惯性游戏替代更积极用途的情形，因此提出适度使用而非全面停止。",
+        "chain": [
+          "便利与廉价推动",
+          "习惯游戏挤占其他活动",
+          "负面时间成本",
+          "适度游戏并重新分配时间"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "过去游戏平台的范围",
+        "original": "Traditionally, In the past, games could only be played on desktop computers",
+        "revised": "In the past, many digital games were played on desktop computers or consoles",
+        "explanation": "Traditionally 与 In the past 重复，only 又错误地把过去的游戏平台限定为台式电脑。保留昔今对比，但用 many 并补上 consoles，使“过去受设备限制→手机扩大可获得性”的论证更准确。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "奖励机制而非医学断言",
+        "original": "Computer games require a minimal level of mental activity and feed users with small bursts of dopamine that keep them occupied and entertained for hours",
+        "revised": "Some mobile games involve repetitive tasks and frequent rewards that can keep users occupied and entertained for hours",
+        "explanation": "原句把所有游戏都说成几乎不用脑，并用简化的生理机制解释沉迷。改为部分手游的重复任务与频繁奖励，再接“挤占睡眠和运动→可能影响健康”，保留原来的时间消耗论证而不冒充医学结论。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "陪伴家人与培养爱好",
+        "original": "time that otherwise could be used to accompany family members or develop personal hobbies",
+        "revised": "time that could otherwise be spent with family members or used to pursue other hobbies",
+        "explanation": "保留重复名词 time 加定语从句的结构。accompany 通常指陪同前往某处，日常陪伴家人用 spend time with 更贴切，这里写成被动的 time…be spent with；pursue hobbies 也更自然。加 other 是因为游戏本身也可以是爱好，批评对象应是过度占用时间。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-11": {
+    "paragraphNotes": [
+      {
+        "role": "开头：准确列出双方",
+        "explanation": "一方担忧社会影响并主张审查，另一方视为无害放松；后文应检验风险与价值，不把所有娱乐自动归为同类。",
+        "chain": [
+          "暴力娱乐流行",
+          "一方担忧社会影响",
+          "另一方强调放松",
+          "需要平衡判断"
+        ]
+      },
+      {
+        "role": "主体一：模仿风险",
+        "explanation": "部分年轻人难分虚构与现实，可能把作品中的暴力当作应对冲突的方法；假设模仿情景说明可能性，不冒充实际犯罪证据。",
+        "chain": [
+          "部分年轻人辨别困难",
+          "受暴力内容影响",
+          "把威胁当作处理冲突方法",
+          "现实冲突可能恶化"
+        ]
+      },
+      {
+        "role": "主体二：反对草率归因",
+        "explanation": "许多人能区分虚构，享受替代性刺激并不直接证明愿意现实施暴；社会问题有多种背景，外观相似不足以确定因果。",
+        "chain": [
+          "观众可分虚构现实",
+          "娱乐刺激不等于施暴意愿",
+          "社会问题有多重因素",
+          "不能仅凭相似行为归因"
+        ]
+      },
+      {
+        "role": "观点段：教育效果的内容条件",
+        "explanation": "呈现暴力后果可能引发共情、反思和敬佩勇气；只有特定内容、部分观众才支持可能的劝阻效果。",
+        "chain": [
+          "看到暴力后果",
+          "理解受害伤害",
+          "共情与反思",
+          "部分观众可能打消施暴念头"
+        ]
+      },
+      {
+        "role": "结尾：允许与限制并行",
+        "explanation": "允许放松和教育价值存在的内容，同时针对极端场景及年轻观众施加限制；不是一概审查或无条件开放。",
+        "chain": [
+          "风险因人和内容而异",
+          "多数内容可允许",
+          "限制极端场景",
+          "保护年轻观众"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "区分现实与虚构",
+        "original": "Young users lack the ability to distinguish the virtual world and reality",
+        "revised": "Some young users may have difficulty distinguishing between the virtual world and reality",
+        "explanation": "distinguish between A and B 是准确搭配；Some 与 may 则避免把所有年轻人都说成无法区分现实与虚构。后面的模仿情景也改成可能发生的例子，保留风险机制，不再把未经核实的印度犯罪案例写成事实。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "非必要条件不等于无害",
+        "original": "watching such movies or playing such games is not the sine qua non for crimes",
+        "revised": "Their enjoyment of fictional violence does not in itself establish a willingness to commit violence in real life.",
+        "explanation": "sine qua non 是“必要条件”，但某事不是犯罪的必要条件，并不能证明它无害。修改直接区分“欣赏虚构刺激”与“愿意现实施暴”；后面的社会原因也只提示不能草率归因，不能凭存在其他原因就排除娱乐内容的影响。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "教育效果须有内容条件",
+        "original": "By watching violent entertainment, most people will be dissuaded from such behaviour",
+        "revised": "By watching entertainment that portrays the consequences of violence, some people may be dissuaded from such behaviour",
+        "explanation": "原句的 most people 与 will 保证了多数人的效果，论据不足。加入“呈现暴力后果”的内容条件，再用 some / may，因果链才清楚：看见伤害与后果→产生反思和共情→可能打消施暴意愿。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-12": {
+    "paragraphNotes": [
+      {
+        "role": "开头：争议与群体印象",
+        "explanation": "呈现体能差异论和女性同样能胜任论，后文用岗位内容与个体能力检验，不把平均差异直接变成每个人结论。",
+        "chain": [
+          "体能差异认知",
+          "有人反对女性入职",
+          "有人支持能力平等",
+          "检验岗位与个人"
+        ]
+      },
+      {
+        "role": "主体一：承认高体能门槛",
+        "explanation": "值勤、轮班和面对危险确有体能心理要求，但不达标者不适合特定任务的结论对所有性别适用。",
+        "chain": [
+          "具体职责体能要求高",
+          "需通过体测并应对危险",
+          "按相关标准筛选",
+          "不达标不适合该任务"
+        ]
+      },
+      {
+        "role": "主体二：警务职责多样",
+        "explanation": "社区警务不只依赖力量，还需判断、沟通及亲和；具备这些能力的女性可改善警民关系，避免说所有女性天生更善沟通。",
+        "chain": [
+          "日常警务服务社区",
+          "访谈巡逻调查需判断沟通",
+          "具备能力的女性可胜任",
+          "促进警民联系"
+        ]
+      },
+      {
+        "role": "主体三：军务超出战斗",
+        "explanation": "士兵并非总从事战斗，装备可能缩小部分体能差距，战术策略也影响成败；性别不决定个人智力。",
+        "chain": [
+          "军事岗位不全是战斗",
+          "装备改变部分体能要求",
+          "战术策略也重要",
+          "女性可在多军种贡献"
+        ]
+      },
+      {
+        "role": "结尾：能力与参与统一",
+        "explanation": "承认平均体能差异，同时重申职责范围广且依赖不同个人能力，因此女性有能力参与且已经参与。",
+        "chain": [
+          "平均差异可能存在",
+          "岗位需要多种能力",
+          "女性能参与且已参与"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "间接疑问句与角色搭配",
+        "original": "what role should males and females take in societies",
+        "revised": "what roles males and females should play in society",
+        "explanation": "as to 后接间接疑问从句，要用陈述语序 males and females should，而非 should males and females。表达在社会中的角色通常用 play a role in society；两性承担多种角色，这里用 roles。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "按个人能力评估适岗性",
+        "original": "Therefore, women, who are generally less sturdy and more fragile, are not the optimal choice for these occupations.",
+        "revised": "Therefore, applicants who do not meet the relevant standards, regardless of gender, are not suitable for these particular duties; this does not establish that women as a group are unsuitable.",
+        "explanation": "岗位需要体能，并不能推出所有女性都不适合。原文由群体印象跳到整类人的适岗结论；修改仍承认高体能岗位的门槛，但把筛选单位改为个人、标准改为具体职责，从而与全文支持女性参与的立场一致。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "can play与already play",
+        "original": "females can and are playing a central role in policing and troops",
+        "revised": "females can play, and already play, a central role in policing and the armed forces",
+        "explanation": "can 后要接 play，are 后才接 playing，原来的两个助动词不能共同支配 playing。policing 是工作而 troops 是人员，改为 policing and the armed forces，使并列对象清楚。保留“有能力参与且已在参与”的双重含义。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "nine-13": {
+    "paragraphNotes": [
+      {
+        "role": "开头：变化程度与两问",
+        "explanation": "传统分工是在许多家庭中改变，并非已经消失；开头指出职场歧视减轻和男性成功标准变化，再明确积极评价。",
+        "chain": [
+          "传统分工改变",
+          "女性机会增多",
+          "男性成功标准变化",
+          "总体积极"
+        ]
+      },
+      {
+        "role": "主体一：补足家庭收入比较",
+        "explanation": "女性获得高薪专业与就业机会提高挣钱能力；只有接上母亲收入前景优于伴侣，才能解释为什么父亲选择留家。",
+        "chain": [
+          "教育就业障碍减少",
+          "更多女性进入高薪职业",
+          "母亲收入前景更强",
+          "母亲工作更合算",
+          "父亲承担照护"
+        ]
+      },
+      {
+        "role": "主体二：育儿选择获得尊重",
+        "explanation": "成功不再只按事业和物质衡量，父亲育儿更可能得到尊重，降低羞耻和被批评的顾虑；No longer should是规范主张而非现实已无偏见。",
+        "chain": [
+          "成功标准不只限事业",
+          "社会更尊重个人选择",
+          "父亲育儿顾虑减轻",
+          "更能自信承担照护"
+        ]
+      },
+      {
+        "role": "结尾：评价依据",
+        "explanation": "积极性来自男女均可选择有偿工作与育儿分工，属于机会与自主权扩大，不是简单把传统角色互换。",
+        "chain": [
+          "有偿工作与照护自由扩大",
+          "男女自主权提高",
+          "平等取得进步"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "传统分工正在改变",
+        "original": "Long gone are the days when the husband was the provider the wife was the homemaker",
+        "revised": "In many families, the traditional division in which the husband was the provider and the wife was the homemaker is changing",
+        "explanation": "原文两个分句间缺 and；同时 Long gone 把传统分工说成已经消失。改为 in many families 与 is changing，仍保留丈夫挣钱、妻子顾家的对照，但把范围和变化程度说得更准确。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "收入比较接回父亲留家",
+        "original": "This financially enables women to be breadwinners.",
+        "revised": "This financially enables more women to be breadwinners; when a mother has stronger earning prospects than her partner, it can make financial sense for the father to stay at home.",
+        "explanation": "原句只解释了母亲为什么能挣钱，没有接回“父亲为什么留家照顾孩子”。补上家庭内部收入比较这个中间环节：母亲收入前景较好→让母亲工作更有利→父亲承担照护。用 when 保留条件，不把它说成所有家庭的原因。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "instead前用分号",
+        "original": "look after their children, instead, they can feel comfortable and confident",
+        "revised": "look after their children; instead, they can feel comfortable and confident",
+        "explanation": "instead 是副词，不能仅靠逗号连接前后两个独立分句。改为分号即可保留长句推进；前面的 No longer should 仍表示“不应再因育儿选择而羞愧”，不是断言现实中批评已经完全消失。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-14": {
+    "paragraphNotes": [
+      {
+        "role": "开头：反对一刀切",
+        "explanation": "平等配额看似代表改善，但文章反对每个专业统一强制；判断对象是普遍要求，不是否认促进平等的目标。",
+        "chain": [
+          "促进性别平等",
+          "提出各专业等额",
+          "表面体现平等",
+          "一刀切可能反效果"
+        ]
+      },
+      {
+        "role": "主体一：先解释政策吸引力",
+        "explanation": "性别刻板印象使女生被导向特定专业，配额可增加工程等男性主导专业的女生名额，因而看似改善机会。",
+        "chain": [
+          "刻板印象限制专业选择",
+          "工程等专业男性占多",
+          "配额增加女生名额",
+          "看似推进平等"
+        ]
+      },
+      {
+        "role": "主体二：名额限制机制",
+        "explanation": "合格申请者可能仅因比例目标被拒，男女均可能失去偏好专业名额；配额不是必然强制分配专业。",
+        "chain": [
+          "固定男女比例",
+          "合格申请者因性别被拒",
+          "偏好专业机会减少",
+          "个人发展选择受限"
+        ]
+      },
+      {
+        "role": "主体三：人数差与机会差区分",
+        "explanation": "个人偏好和歧视可共同影响申请；有数量差不能单独证明机会不平等，也不能据此否认存在歧视。",
+        "chain": [
+          "个人偏好与歧视并存",
+          "专业申请人数可能不同",
+          "人数差本身不足证明机会差"
+        ]
+      },
+      {
+        "role": "结尾：提出替代原则",
+        "explanation": "保留自由选择并去掉歧视障碍，再按相关学术要求评估；不是把现状全部合理化。",
+        "chain": [
+          "保护学生选择",
+          "去除歧视障碍",
+          "不以每个人数差强行配额"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "配额限制名额而非强制分科",
+        "original": "some girls who want to study education are forced to study engineering merely to achieve the unrealistic quota",
+        "revised": "qualified girls who want to study education are denied places merely to achieve a quota",
+        "explanation": "男女录取配额并不必然意味着把教育专业申请者强制分去工程。改为“合格申请者可能因配额而失去名额”，保留原来的选择受限观点，也补出政策真正可能产生的机制。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "歧视与偏好可以并存",
+        "original": "it is not the discrimination against women in certain domains but the preference towards future working conditions and duties",
+        "revised": "alongside discrimination in certain domains, preferences for future working conditions and duties",
+        "explanation": "原文把歧视和个人偏好设成非此即彼，依据不足；两者可能同时影响选择。改为 alongside 保留偏好这一原论点，且将搭配修成 preferences for，而不是 preference towards。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "尊重选择同时去除障碍",
+        "original": "The status quo should be maintained, for every choice is the product of volition.",
+        "revised": "Universities should protect students’ freedom of choice while removing discriminatory barriers, rather than assuming that every numerical difference requires a quota.",
+        "explanation": "每个选择都完全自愿这一前提不成立，因此不能据此主张原状一概不变。结尾仍反对所有专业一律等额，但把依据限定为“尊重选择、去除障碍、不能仅凭人数差就认定机会不平等”，与前文修正后的论证相接。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "nine-15": {
+    "paragraphNotes": [
+      {
+        "role": "开头：锁定依赖人数的风险",
+        "explanation": "等额招聘表面体现平等，但文章评价的是把人数当成完成平等工作的充分证据，负面判断由此成立。",
+        "chain": [
+          "企业推行等额招聘",
+          "表面平等",
+          "可能掩盖持续不平等",
+          "依赖人数达标有负面效果"
+        ]
+      },
+      {
+        "role": "主体一：承认招聘收益",
+        "explanation": "刻板印象使一些雇主更偏好男性，等额政策可提高女性进入工程、外科等领域的机会；先公平解释正方。",
+        "chain": [
+          "刻板印象影响招聘",
+          "雇主偏好男性",
+          "等额政策增加女候选人机会",
+          "更多进入原男性主导职业"
+        ]
+      },
+      {
+        "role": "主体二：数量不足与条件反效果",
+        "explanation": "真正平等涉及同值同酬、参与、领导和照护责任；若企业以人数达标替代进一步行动，薪资晋升障碍可能继续。",
+        "chain": [
+          "人数相等不涵盖待遇机会",
+          "薪资晋升照护障碍仍在",
+          "企业以达标宣称已尽责",
+          "后续改革减少",
+          "隐藏不平等持续"
+        ]
+      },
+      {
+        "role": "结尾：结论保持限定",
+        "explanation": "不否认岗位机会增加，但反对把等额视为充分措施；要求继续减少实际障碍。",
+        "chain": [
+          "承认招聘收益",
+          "等额不充分",
+          "继续处理实际不平等"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "in favour of不可缺in",
+        "original": "The argument favour of this equal-number policy",
+        "revised": "The argument in favour of this equal-number policy",
+        "explanation": "固定结构是 the argument in favour of，原文缺 in。这个结构引出支持该政策的理由，后面仍保留“减少录用偏见→增加女性机会”的正方因果链。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "不足与适得其反有别",
+        "original": "However, this policy is unnecessary and counterproductive.",
+        "revised": "However, numerical equality alone is insufficient and can be counterproductive if it diverts attention from other barriers.",
+        "explanation": "原段能证明的是“人数相等不足以实现平等”，还不能直接证明政策总会适得其反。加上转移对其他障碍的关注这一条件，并在段末接到薪资、晋升问题可能持续，才说明何时会产生反效果。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "照护责任相关歧视",
+        "original": "the discrimination based on gender is eliminated, particularly about family and caring responsibilities",
+        "revised": "discrimination based on gender is eliminated, particularly discrimination related to family and caring responsibilities",
+        "explanation": "about 挂接松散，不能准确说明是哪类歧视。重复 discrimination 并接 related to，清楚指向与家庭和照护责任有关的不公平待遇；原有 when…; when… 的并列长句结构保留。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-16": {
+    "paragraphNotes": [
+      {
+        "role": "开头：拆开通用的含义",
+        "explanation": "承认音乐能传递感受，限制的是无需共同背景也能传递具体意义的普遍性；避免把语言资格要求设成绝不含糊。",
+        "chain": [
+          "音乐可传达感受",
+          "听众解释多样",
+          "精确意义不完全通用"
+        ]
+      },
+      {
+        "role": "主体一：跨文化情绪共鸣",
+        "explanation": "不逐字分析也能感知温柔或欢快旋律的情绪，不同背景者可能共鸣；may避免声称所有听众反应一致。",
+        "chain": [
+          "不需逐字理解",
+          "感知旋律情绪",
+          "跨背景听众可能共鸣",
+          "解释通用语言称谓"
+        ]
+      },
+      {
+        "role": "主体二：精确信息受背景限制",
+        "explanation": "歌词隐喻及中西音乐传统需教育、历史与文化背景；同曲不同解说明音乐不可靠地传递精确思想，同时承认口头语言也会含糊。",
+        "chain": [
+          "生活教育经验不同",
+          "对歌词背景和惯例理解不同",
+          "隐喻及文化联想可能丢失",
+          "精确信息交流受限"
+        ]
+      },
+      {
+        "role": "结尾：保留情绪价值",
+        "explanation": "音乐可以跨越口语连接情感，但没有 universally shared 的精确意义体系；结论不是说音乐无交流功能。",
+        "chain": [
+          "情绪交流跨语言",
+          "可连接人群",
+          "精确含义缺乏普遍共享体系"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "跨文化共鸣保留可能性",
+        "original": "there is no doubt that people have a common emotional resonance with certain melodies, which justifies their universality",
+        "revised": "certain melodies may resonate emotionally with people across cultures, which helps explain why music is described as universal",
+        "explanation": "几个听歌场景不足以证明所有人的反应一致。may 与 helps explain 将结论限定为跨文化情绪共鸣的可能性；resonate emotionally with 也比 have a common emotional resonance with 更自然。这样仍能充分说明正方理由。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "功能不等于严格定义",
+        "original": "One important definition of a language is to convey information accurately to avoid misunderstandings and ambiguity.",
+        "revised": "One important function of language is to convey information accurately to avoid misunderstandings and ambiguity, although verbal language can also be ambiguous.",
+        "explanation": "准确传递信息是一种功能，不是语言必须毫无歧义的定义。承认语言本身也可能含糊，再比较音乐传递精确信息的局限，能保留原反驳方向，避免用过严标准先把音乐排除。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "关系从句补出谓语",
+        "original": "a kind of perceptual communication that beyond speaking language, potentially bridgeing people all over the world",
+        "revised": "a kind of emotional communication that goes beyond spoken language, potentially connecting people all over the world",
+        "explanation": "that 后原来缺谓语，补 goes beyond；“口头语言”用 spoken language。bridgeing 拼写不对，且 bridge people 不自然，因此改为 connecting people。emotional 与全文讨论的情绪共鸣对应。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-17": {
+    "paragraphNotes": [
+      {
+        "role": "开头：明确比较范围",
+        "explanation": "承认音乐有多种用途，支持的是日常生活中的放松居首；把everyday life作为后文权衡边界。",
+        "chain": [
+          "音乐用途多样",
+          "比较日常主要功能",
+          "放松最重要"
+        ]
+      },
+      {
+        "role": "主体一：跨场景放松",
+        "explanation": "通勤、学习后和家务时的情景展示音乐暂离噪声或烦恼的作用，同一功能反复服务工作、学习和家庭生活。",
+        "chain": [
+          "通勤噪声或学习烦恼",
+          "音乐暂时转移注意",
+          "家务背景音乐",
+          "多场景日常减压"
+        ]
+      },
+      {
+        "role": "主体二：承认其他用途并按标准比较",
+        "explanation": "悲伤音乐也可能安慰，歌曲可助记、鼓舞和传文化；按持续日常福祉贡献比较，放松的广泛重复收益超过部分场合的较窄用途。",
+        "chain": [
+          "情绪安慰与教育文化功能存在",
+          "明确日常福祉标准",
+          "放松跨生活场景反复受益",
+          "部分仪式教育用途较特定"
+        ]
+      },
+      {
+        "role": "结尾：主要不等于唯一",
+        "explanation": "以最重要日常功能重申立场，同时承认个人放松形式不同；不能因另一功能存在就推翻主要功能。",
+        "chain": [
+          "放松形式因人而异",
+          "共享日常减压需求",
+          "仍为最重要日常功能"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "背景音乐的自然表达",
+        "original": "parents listen to music as a piece of background music when doing chores at home",
+        "revised": "parents may play music in the background when doing chores at home",
+        "explanation": "a piece of music 本身正确，但原句把 music 重复挂接为“作为一段背景音乐听音乐”，显得累赘。play music in the background 直接表达做家务时播放背景音乐；may 说明这是合理场景，而非每位父母的固定行为。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "trigger与bring分别搭配",
+        "original": "not only trigger pain and sadness but also comfort and enjoyment",
+        "revised": "not only trigger pain and sadness but also bring comfort and enjoyment",
+        "explanation": "原句理论上可让 trigger 同时带两组宾语，不一定是缺谓语的语法错；问题在搭配。trigger pain/sadness 自然，安慰和愉悦更适合用 bring。保留 not only… but also… 展示悲伤与安慰并存。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "最重要须建立比较标准",
+        "original": "such functions are not necessarily the main purpose, because people do such things once in a while, but listen to music for relaxation quite often.",
+        "revised": "judged by their contribution to everyday well-being, these functions need not outweigh relaxation: relief from routine pressures can benefit people repeatedly across work, study and home life, while some educational and ceremonial uses serve narrower purposes on particular occasions.",
+        "explanation": "题目问“最重要”，存在其他功能并不能反驳它；反过来，听得更频繁也不自动代表更重要。保留作者支持放松居首的立场，明确以对日常身心状态的持续贡献为标准，再比较跨工作、学习、家务的反复受益和特定场景的用途。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-18": {
+    "paragraphNotes": [
+      {
+        "role": "开头：公平呈现财政分歧",
+        "explanation": "双方分别主张政府出资与个人承担，论题是预算分配及责任，而非先预设私人服务必须被禁止。",
+        "chain": [
+          "公共预算如何分配",
+          "政府支付",
+          "个人支付",
+          "需要比较公共与个人收益"
+        ]
+      },
+      {
+        "role": "主体一：责任与能力分别论证",
+        "explanation": "教育劳动力和可及医疗使社会整体受益，支持政府责任；税收提供出资能力，两条理由不能互相替代。",
+        "chain": [
+          "教育医疗产生社会收益",
+          "政府应资助",
+          "税收提供能力",
+          "建设公共学校医院"
+        ]
+      },
+      {
+        "role": "主体二：个人付费与选择担忧",
+        "explanation": "反方担心使用不同却共同付费，另担心公费供给排除付费选择；后一风险以if限定，不能把所有公共保障等同禁私人服务。",
+        "chain": [
+          "个人使用程度不同",
+          "反方质疑共同出资公平",
+          "若公共供给排除额外服务",
+          "愿付费者选择受限"
+        ]
+      },
+      {
+        "role": "观点结尾：基本保障加私人选择",
+        "explanation": "基本服务关系国家持续发展，应给每个人平等机会；在此基础上允许额外购买，兼顾公共责任与个人意愿。",
+        "chain": [
+          "政府补贴基本服务",
+          "全民基本可及",
+          "允许私人额外选择",
+          "公共与个人努力并存"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "提供经费而非购买金钱",
+        "original": "should pay for the money to support the development",
+        "revised": "should provide funding to support the development",
+        "explanation": "pay for 后面接所购买的商品或服务，不能把 money 当成购买对象。这里要表达政府提供经费，因此改成 provide funding；保留“社会受益→政府应资助”的原推进。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "共同出资与使用程度",
+        "original": "health care and education are rather personal, it is intuitively unfair to use money from all to benefit very few",
+        "revised": "they view health care and education as more personal; from this perspective, it seems unfair to use money from all to pay for services that some people use much more than others",
+        "explanation": "原句既用逗号连接两个独立分句，也把教育医疗说成只有极少数人受益。改用分号，并把反方的公平担忧落在“个人使用程度不同，却共同出资”上，仍保留原来的个人受益论证。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "允许额外私人服务",
+        "original": "guarantee that few people could have better access",
+        "revised": "allow those who wish to pay for additional services to do so",
+        "explanation": "few 表示“几乎没有人”，与原文允许私人选择的本意相反。改成允许有意愿的人购买额外服务，并在前文明确公共服务保障的是 basic services，公共保障与私人选择才不冲突。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-19": {
+    "paragraphNotes": [
+      {
+        "role": "开头：责任范围与财政范围",
+        "explanation": "支持帮助贫困生，但反对预算紧张时必须全额承担学费；用some responsibility与in full区分资助职责和支付方式。",
+        "chain": [
+          "贫困生需要支持",
+          "政府承担部分责任",
+          "有限预算难全额支付",
+          "需要折中"
+        ]
+      },
+      {
+        "role": "主体一：社会回报与财政基础",
+        "explanation": "受教育劳动力服务社会，贫困生未来可能成为专业人才；税收与已有教育预算提供支持能力，但尚未证明能覆盖全部费用。",
+        "chain": [
+          "贫困生完成高教",
+          "未来贡献专业能力",
+          "政府有公共责任",
+          "税收与预算支持一定资助"
+        ]
+      },
+      {
+        "role": "主体二：预算优先与贷款回收",
+        "explanation": "基础教育已占用预算并可能优先，故以可偿还贷款代替全额拨款；毕业还款可回收部分资金，但无息贷款仍有成本。",
+        "chain": [
+          "基础教育优先占用预算",
+          "全额大学资助压力较大",
+          "提供助学贷款",
+          "毕业后偿还",
+          "部分资金回收但仍有公共成本"
+        ]
+      },
+      {
+        "role": "结尾：贷款的可行条件",
+        "explanation": "重申反对的对象是有限预算下全额支付，并以公共成本可管理为无息贷款的条件；不能一面否定所有financial aid一面支持贷款。",
+        "chain": [
+          "预算有限",
+          "全额支付可能不现实",
+          "无息贷款提高可及性",
+          "成本须可管理"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "financial后接名词",
+        "original": "requiring financial from politicians",
+        "revised": "requiring financial support from governments",
+        "explanation": "financial 是形容词，需要后接 support 等名词。这里讨论公共预算的制度安排，用 governments 比 politicians 更准确，不会把政府财政职责写成政治人物个人出钱。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "贷款回收不等于零成本",
+        "original": "students can pay for it after graduation, a win-win situation where students can continue their education with no further budget deficit for the government",
+        "revised": "students could repay them after graduation, a potentially beneficial arrangement in which students can continue their education and some public funding can later be recovered, although loans still involve public costs",
+        "explanation": "偿还贷款用 repay，复数 loans 对应 them。贷款可以回收部分资金，但不能据此保证政府没有新增成本；保留“让学生继续读书，同时减少永久性支出”的论证功能，收窄零成本断言。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "全额学费与所有资助有别",
+        "original": "financial aid for education at the college level is impractical",
+        "revised": "paying their tuition fees in full may be impractical where budgets are limited",
+        "explanation": "financial aid 包含贷款，原句一面否定所有助学支持、一面主张助学贷款，范围不一致。改为预算紧张时“全额支付学费”可能不可行，反对的对象便与后文的贷款折中一致。",
+        "paragraphIndex": 0
+      }
+    ]
+  },
+  "nine-20": {
+    "paragraphNotes": [
+      {
+        "role": "开头：同意再补充主体",
+        "explanation": "先直接同意政府责任，再以although补充共同努力；父母也有作用不能当作反对政府应负责的理由。",
+        "chain": [
+          "儿童肥胖令人担忧",
+          "政府有责任",
+          "明确同意",
+          "成功仍需父母配合"
+        ]
+      },
+      {
+        "role": "主体一：责任与政策权力",
+        "explanation": "儿童健康关系社会未来，政府因此有职责；监管面向儿童的不健康食品广告，可通过减弱不良饮食诱导缓解问题。",
+        "chain": [
+          "儿童健康关系未来",
+          "政府应承担责任",
+          "制定执行广告限制",
+          "减少不健康饮食诱导",
+          "帮助缓解肥胖"
+        ]
+      },
+      {
+        "role": "主体二：家庭层面的能力边界",
+        "explanation": "宏观广告监管难直接改变居家久坐，屏幕活动可挤占运动；父母指导才补上政府触及有限的生活习惯环节。",
+        "chain": [
+          "政府能限制广告",
+          "居家久坐仍难单独改变",
+          "屏幕使用挤占运动",
+          "父母指导理解风险",
+          "改变不健康选择"
+        ]
+      },
+      {
+        "role": "结尾：两方责任相容",
+        "explanation": "政府责任仍然成立，父母作用用于解释解决条件；共同创造发展环境，不把共同责任写成取消政府责任。",
+        "chain": [
+          "政府负责宏观环境",
+          "父母指导日常习惯",
+          "共同支持儿童健康发展"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "共同责任仍然是同意",
+        "original": "Although the government should do so, the success ultimately rests on concerted efforts between governments and parents.",
+        "revised": "I agree that the government should do so, although success ultimately rests on concerted efforts by governments and parents.",
+        "explanation": "题目问政府是否有责任，并未问是否只有政府负责。明确写 I agree，再补充父母配合，避免把共同责任误写成对原命题的反驳；by 表示由双方作出努力。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "广告到饮食的中间机制",
+        "original": "food and drinks high in sugar, salt, and fat, all of which are the principal contributors to children’s obesity",
+        "revised": "food and drinks high in sugar, salt, or fat, since such advertising may encourage unhealthy eating habits and contribute to childhood obesity",
+        "explanation": "原句把糖、盐、脂肪一概断言为主要肥胖原因，因果太强，也没有解释广告为何相关。改成“广告可能鼓励不健康饮食→可能增加肥胖风险”，与政府广告监管这一措施直接对应。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "屏幕使用的时间机会成本",
+        "original": "all of which occupy their free time for exercise",
+        "revised": "all of which can occupy time that could otherwise be spent on exercise",
+        "explanation": "原来的 free time for exercise 不够自然，还暗示所有屏幕活动必然挤占运动。could otherwise be spent on exercise 明确时间机会成本；can 保留这种影响取决于使用时长的空间。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-21": {
+    "paragraphNotes": [
+      {
+        "role": "开头：两种教育方向",
+        "explanation": "一方强调竞争意识，另一方强调合作；题目关心未来成为有用成年人，后文应把儿童训练接到成年表现。",
+        "chain": [
+          "儿童教育目标",
+          "竞争意识培养",
+          "合作技能培养",
+          "比较未来社会作用"
+        ]
+      },
+      {
+        "role": "主体一：竞争激励成长",
+        "explanation": "在竞争情境中较好表现更易获优先，激励学业努力；学习应对挑战可迁移到工作，但不说成绩决定全部机会。",
+        "chain": [
+          "竞争时较好表现获优先",
+          "激励追求卓越",
+          "学会面对挑战",
+          "可能获得更多职业机会"
+        ]
+      },
+      {
+        "role": "主体二：合作处理复杂任务",
+        "explanation": "公司各部门相互依赖，分享意见还需处理分歧和协商方案；儿童练习这些技能，才可在未来有效团队工作。",
+        "chain": [
+          "复杂问题超出个人",
+          "部门协同",
+          "分享意见",
+          "分歧时达成折中",
+          "共同寻求较优方案"
+        ]
+      },
+      {
+        "role": "观点结尾：功能互补",
+        "explanation": "竞争不足可能减动力，合作不足限制走远；结合个人进步与团队成果，而非抽象说两个都好。",
+        "chain": [
+          "竞争促个人目标",
+          "合作补能力限制",
+          "融合两者",
+          "提高个人与团队成就"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "竞争场景而非唯一社会法则",
+        "original": "the fundamental rule in modern society - survival of the fittest, a situation in which only students who have performed better can be given priority over others who have not",
+        "revised": "one feature of modern society: in competitive situations, students who have performed better are often given priority over others who have not",
+        "explanation": "保留“表现较好→更容易获得机会→产生努力动机”的因果链，但不把整个社会概括成唯一的适者生存规则。in competitive situations 限定场景，often 避免宣称成绩决定一切。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "compromise不是comprise",
+        "original": "how to comprise between different ideas",
+        "revised": "how to reach a compromise when ideas differ",
+        "explanation": "comprise 是“由……组成／包含”，并不是“妥协”。reach a compromise 表达达成折中，when ideas differ 交代需要协商的情境，使“分享意见→处理分歧→寻找较优方案”顺畅衔接。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "achieve接目标并收窄绝对判断",
+        "original": "making it harder for them to achieve; without cooperation, individuals can never go further",
+        "revised": "making it harder for them to achieve their goals; without cooperation, individuals may find it difficult to go further",
+        "explanation": "achieve 在此缺少目标，补 their goals；can never 把合作不足写成绝不可能进步，超过前文能支持的范围。改成 may find it difficult，保留个人能力有局限、需要合作的判断。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-22": {
+    "paragraphNotes": [
+      {
+        "role": "开头：明确部分同意范围",
+        "explanation": "many与most不能混为一谈，only又是排他命题；承认许多全球问题需合作，同时保留区域问题可独立解决的范围。",
+        "chain": [
+          "全球问题紧迫",
+          "有人主张多数问题仅靠国际合作",
+          "全球问题常需协调",
+          "部分区域问题可独立处理"
+        ]
+      },
+      {
+        "role": "主体一：共同责任与协调必要",
+        "explanation": "气候问题由跨国活动形成，国家按贡献程度承担责任；不同收入国家可分工减排和限制毁林，协调提高共同措施效果。",
+        "chain": [
+          "各国共同贡献全球问题",
+          "承担程度不同的责任",
+          "跨国协调政策",
+          "各国分工减排与遏制毁林",
+          "共同措施更有效"
+        ]
+      },
+      {
+        "role": "主体二：因地制宜与独立行动",
+        "explanation": "车少地区换电车即时效果可能有限，需调整重点；塑料堵排水的紧急本地问题可以不等协议就限袋、收垃圾，真正回应only。",
+        "chain": [
+          "国情不同",
+          "统一措施即时效果有别",
+          "塑料堵塞本地排水",
+          "独立限袋与改善收集",
+          "无需等待国际协议"
+        ]
+      },
+      {
+        "role": "结尾：尺度决定分工",
+        "explanation": "国际合作提供全球框架，本地既执行协议也独立处理区域问题；一个本地例子只支持保留范围，不能自动证明多数问题不需合作。",
+        "chain": [
+          "全球挑战需要合作",
+          "本地落实具体措施",
+          "部分区域问题独立处理",
+          "相对重要性随尺度变化"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "So...that倒装与责任范围",
+        "original": "So interconnected is the world, that no country can evade the responsibility to mitigate global problems because every country contributes to the problem, albeit to varying degrees.",
+        "revised": "So interconnected is the world that no country can evade responsibility for mitigating shared global problems to which it contributes, albeit to varying degrees.",
+        "explanation": "So + 形容词 + be + 主语 + that 是可保留的正式倒装，that 前不应加这个逗号。responsibility for doing 更自然；to which it contributes 也把责任限定在该国参与造成的共同问题上，避免每个国家都造成所有全球问题的过强概括。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "效果有限不等于不可行",
+        "original": "for underdevelopment countries, such a measure is far from viable because few people own their private vehicles",
+        "revised": "where private vehicle ownership is low, replacing existing cars may have limited immediate effects",
+        "explanation": "underdevelopment 是名词，不能这样修饰 countries；更重要的是，私家车少只能说明替换车辆的即时影响可能有限，不能直接证明政策不可行。改成条件场景，保留不同国情需要不同政策重点的原论证。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "独立本地行动回应only",
+        "original": "Tanzania made great progress in controlling the use of plastic bags while making little contribution to reducing carbon emissions",
+        "revised": "where plastic waste blocks local drains and increases the risk of flooding, a local government could restrict plastic bags and improve waste collection without waiting for an international agreement",
+        "explanation": "未经核验的坦桑尼亚对比不能充分回应 only。保留塑料污染例子，改为本地可以独立处理的紧急排水问题：无需等待国际协议就能采取措施。这样才能说明部分区域问题不以国际合作为前提，而不只是说国际协议还需要本地执行。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "nine-23": {
+    "paragraphNotes": [
+      {
+        "role": "开头：办赛收益与成本之争",
+        "explanation": "问题是主办重大国际赛事的整体效果；引言公平呈现利多与弊多两方，后文把总体判断落实为条件支持。",
+        "chain": [
+          "赛事重要性上升",
+          "主办有收益",
+          "也有重大成本",
+          "需整体评估"
+        ]
+      },
+      {
+        "role": "主体一：建设开支与债务",
+        "explanation": "赢得主办权后场馆、交通和配套设施耗资，若建造成本超预算可引发债务；投入不是自动形成可回收资产。",
+        "chain": [
+          "获得主办权",
+          "建设场馆交通配套",
+          "大量资源投入",
+          "成本超预算",
+          "可能出现债务"
+        ]
+      },
+      {
+        "role": "主体二：国家地位与文化交流",
+        "explanation": "投入和组织国际活动可提升地位；赛事展示文化，参与者学习其他文化，动作主体必须分清。",
+        "chain": [
+          "承担国际组织责任",
+          "展现国家与文化",
+          "参与者学习他国文化",
+          "促进理解合作"
+        ]
+      },
+      {
+        "role": "观点段：收入缓解而非保证盈利",
+        "explanation": "赞助可分担设施运营费，门票旅游产生收入，但收入仅可能抵消部分成本；总收入不能代替净利润检验。",
+        "chain": [
+          "赞助帮助支付成本",
+          "门票与旅游收入增加",
+          "抵消部分费用",
+          "仍需扣除全部相关成本",
+          "才可判断盈利"
+        ]
+      },
+      {
+        "role": "结尾：支持的具体门槛",
+        "explanation": "有经济文化潜力不等于无条件应办赛；需预期收益能支持成本且风险被管理，才能保持支持立场。",
+        "chain": [
+          "经济文化收益",
+          "与成本比较",
+          "财务风险可管理",
+          "有条件支持办赛"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "burden on与成本清单",
+        "original": "pose a heavy financial burden to hosting cities",
+        "revised": "impose a heavy financial burden on host cities",
+        "explanation": "固定搭配是 impose a burden on someone；host cities 是“主办城市”的自然表达。后文同时把 traffic infrastructures 改为不可数的 transport infrastructure，并把航空公司 airlines 换为设施 airports，成本清单才是同一类别。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "赛事展示、参与者学习",
+        "original": "the Beijing 2008 Olympics showcased Chinese culture and traditions to the world, and learned about the cultures of other countries",
+        "revised": "an event such as the Beijing Olympics can showcase Chinese culture and traditions to the world and give participants opportunities to learn about the cultures of other countries",
+        "explanation": "原句的共同主语是 Olympics，结果变成赛事自己“学习文化”。给第二个动作补出 participants，并用 give participants opportunities to learn，让“赛事展示文化→参与者了解其他文化→增进理解”成立。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "总收入不能推出净利润",
+        "original": "where profits are made by selling tickets and boosting tourism. For example, in the 2018 FIFA World Cup in Russia, gross revenue was achieved by doing so.",
+        "revised": "where revenue can be generated by selling tickets and boosting tourism. Such revenue may offset part of the costs, although gross revenue does not by itself demonstrate a net profit.",
+        "explanation": "门票和旅游首先产生收入 revenue，扣掉成本以后才谈得上利润 profit。gross revenue 是总收入，不是纯利润；因此只能说相关收入可能抵消部分成本，不能直接推出财务风险不值得担心。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-24": {
+    "paragraphNotes": [
+      {
+        "role": "开头：两种成功基础",
+        "explanation": "rest on与hinge on对应体能和心态，后文不是证明一项无用，而是比较在不同项目中的侧重点。",
+        "chain": [
+          "成功依赖体能的观点",
+          "成功更依赖心态的观点",
+          "按项目比较"
+        ]
+      },
+      {
+        "role": "主体一：体能优势的条件",
+        "explanation": "速度力量可让运动员在个人项目中领先；假设其他技能相近时短跑者更强的例子，支持体能重要而非只由体能定胜负。",
+        "chain": [
+          "速度力量更优",
+          "相近技术条件下表现更好",
+          "个人项目可能占优",
+          "接力团队也可受益"
+        ]
+      },
+      {
+        "role": "主体二：积极心态与团队增益",
+        "explanation": "身体更强的对手未必获胜，信念、主动性、坚持可让团队超越成员简单相加；心态只是与体能一起贡献，不保证独立决定结果。",
+        "chain": [
+          "对手身体条件强",
+          "团队信念与坚持",
+          "协作形成整体增益",
+          "可能战胜强手"
+        ]
+      },
+      {
+        "role": "观点结尾：按项目分配重点",
+        "explanation": "速度力量项目可更侧重体能，策略协作项目需积极心态帮助个体突破并配合；结合两者才回应双方而不绝对化。",
+        "chain": [
+          "整合体能与心态",
+          "个人项目重速度力量",
+          "团队策略项目重配合",
+          "个人共同发挥推动团队"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "athletes才是发挥的主体",
+        "original": "Being fittest and strongest means sports can perform much better in Individual sports",
+        "revised": "Being among the fittest and strongest means athletes can perform much better in individual sports",
+        "explanation": "能比赛、能发挥的是 athletes，sports 表示运动项目，不能替代运动员。among the fittest and strongest 保留强调顶尖体能的作用，也避免只剩唯一“最强者”才能表现好的含义。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "坚持与战胜的准确搭配",
+        "original": "faith, initiative, and resistance, all of which make them over the strongest opponents",
+        "revised": "faith, initiative, and persistence, all of which can help them overcome strong opponents",
+        "explanation": "此处需要“坚持”persistence，resistance 是抵抗，意思不同。make them over 不能表示战胜；help them overcome 补齐谓语结构，can 也避免把心态直接说成获胜的唯一原因。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "much better与复数limits",
+        "original": "push their limit and work better much as a team",
+        "revised": "push their limits and work much better as a team",
+        "explanation": "push their limits 用复数表示突破自身能力边界；much 修饰比较级 better，必须放在其前。保留“积极心态→个人多发挥一点→团队协作更好”的推进。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-25": {
+    "paragraphNotes": [
+      {
+        "role": "开头：共享题目，保留独立立场",
+        "explanation": "双方比较体育高薪与重要职业报酬；此版后文支持高薪合理，与下一篇同题反对版分别学习。",
+        "chain": [
+          "体育薪资很高",
+          "有人视为合理",
+          "有人以其他职业贡献质疑",
+          "比较公平标准"
+        ]
+      },
+      {
+        "role": "主体一：社会贡献尺度下的反方",
+        "explanation": "如果薪水按社会贡献和责任排序，外科医生、科研者和国家治理者有重大职责，体育报酬显得过高；先充分理解反方标准。",
+        "chain": [
+          "薪酬应反映社会贡献",
+          "其他职业责任重大",
+          "体育高薪比较下显得过高"
+        ]
+      },
+      {
+        "role": "主体二：才华、投入与职业压力",
+        "explanation": "卓越人才稀少，持续竞争、短职业期和媒体压力提供支持理由；注意the number配small，媒体聚焦内才会隐私减少。",
+        "chain": [
+          "卓越运动员稀少",
+          "技能投入受持续考验",
+          "职业期较短",
+          "媒体压力与隐私损失",
+          "提供高薪理由"
+        ]
+      },
+      {
+        "role": "观点段：市场解释接上公平桥梁",
+        "explanation": "受欢迎能解释高薪形成，还需观众自愿付费、运动员创造商业收入及合理分享这一桥接，才能讨论合理性。",
+        "chain": [
+          "公众支持与自愿付费",
+          "运动员创造商业收入",
+          "合理分享所创造收入",
+          "公平不只按社会责任比较"
+        ]
+      },
+      {
+        "role": "结尾：明确采用的标准",
+        "explanation": "承认贡献责任值得考虑，但加入公众支持与收入创造；在此商业分配标准上支持高薪可充分合理。",
+        "chain": [
+          "贡献责任并非唯一标准",
+          "公众支持和收入也相关",
+          "在此基础上高薪可合理"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "the number配small",
+        "original": "the number of professionals with real talent is very few",
+        "revised": "The number of professionals with exceptional talent is very small",
+        "explanation": "主语是 the number，指“数量”，所以用 small，不能用 few；few 修饰的是可数的人或物。exceptional talent 也把稀缺性落在卓越水平，而不是暗示大多数职业运动员没有真正才华。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "聚光灯内的隐私压力",
+        "original": "there is little privacy out of the spotlight",
+        "revised": "there is little privacy in the spotlight",
+        "explanation": "原文想表达媒体聚焦导致隐私减少，却写成“离开聚光灯后”。改为 in the spotlight，媒体关注→私人空间受限，因果才与本段支持高薪的理由吻合。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "市场收入到公平报酬的桥接",
+        "original": "So the notion of ‘fairness’ is not the issue.",
+        "revised": "When supporters voluntarily pay to watch them, these players help generate commercial revenue and can reasonably receive a substantial share of it. So fairness should not be judged solely by comparing the social responsibilities of different professions.",
+        "explanation": "市场为何形成高薪，并不自动证明高薪公平。补上“观众自愿付费→运动员创造商业收入→合理分享收入”的桥接，继续支持原文高薪合理的立场，同时保留公平问题本身。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "nine-26": {
+    "paragraphNotes": [
+      {
+        "role": "开头：同题另一独立答案",
+        "explanation": "保留与合理版相同的双方介绍；学习时关注后续采用的社会贡献尺度，不把共享前三段误当重复贴错。",
+        "chain": [
+          "体育薪资很高",
+          "合理与不公平两方争论",
+          "本版按社会贡献判断"
+        ]
+      },
+      {
+        "role": "主体一：贡献与报酬比较",
+        "explanation": "把运动员薪水与外科医生、科学家、治理者薪水作同类比较，社会责任标准下前者显得过高。",
+        "chain": [
+          "以社会贡献为薪酬标准",
+          "其他职业承担重大责任",
+          "比较相应薪水",
+          "体育报酬显得过高"
+        ]
+      },
+      {
+        "role": "主体二：公平呈现支持高薪理由",
+        "explanation": "仍完整承认卓越人才稀少、投入、短职业期和媒体压力；反驳需要回应这些理由，而非删除正方。",
+        "chain": [
+          "人才稀少",
+          "技能奉献与持续竞争",
+          "短职业期及媒体压力",
+          "正方据此支持高薪"
+        ]
+      },
+      {
+        "role": "观点段：同一标准应适用他人",
+        "explanation": "科学家也稀少且长期投入，农业研究提高产量可改善粮食供给；科研压力亦重大，所以这些特质不足单独证明运动员应获远高报酬。",
+        "chain": [
+          "科研者也有稀缺才能与长期投入",
+          "提高产量",
+          "改善粮食供给",
+          "承担重大压力责任",
+          "相同奖励原则应适用于其他职业"
+        ]
+      },
+      {
+        "role": "结尾：修正立场冲突",
+        "explanation": "用excessive与社会贡献比较重申反对，删去原来误贴的fully justifiable；不是否认任何运动员收入都可支付。",
+        "chain": [
+          "贡献责任应作为标准",
+          "才能投入压力不足单独证明巨大差距",
+          "相对其他职业体育薪资过高"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "薪水与薪水作比较",
+        "original": "They are overpaid especially when comparing these super salaries with those of top surgeons",
+        "revised": "Their salaries appear excessive when compared with those of top surgeons",
+        "explanation": "when comparing 的逻辑主语原本会落到 They，即运动员自己在比较。改成 Their salaries…when compared，把比较对象统一为“薪水与薪水”，也清楚呈现本段反方的评价尺度。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "假设研发例子取代未核验史实",
+        "original": "the scientist Yuan Longping, developed the first hybrid rice, boosting food security and providing a robust food source",
+        "revised": "an agricultural scientist could develop higher-yielding rice, improving food security and providing a more reliable food supply",
+        "explanation": "主谓之间原来的逗号应删除；“首个杂交稻”的科学史断言在材料中没有核验。改为农业科学家的条件性例子，保留“长期研发→提高产量→改善粮食供给”的原论证功能，food supply 也比 robust food source 更准确。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "结尾与反对高薪立场统一",
+        "original": "the amount of money sports stars make is fully justifiable",
+        "revised": "the amount of money sports stars make is excessive when compared with the rewards received by other professionals on the basis of their social contribution",
+        "explanation": "fully justifiable 支持高薪，与本篇反对立场直接冲突。改回 excessive，并明确依据是社会贡献与其他职业报酬的比较；同时正文说明稀缺技能、投入和压力也存在于其他职业，因此不能仅靠这些理由证明体育高薪合理。",
+        "paragraphIndex": 4
+      }
+    ]
+  },
+  "five-a1": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜拆开两个评价标准",
+        "explanation": "开头先承认艺术的重要性，再把争论拆成参与创作与获得广泛认可两个层面。自己的答案直接出现，后文可以分别解释两个标准。",
+        "chain": [
+          "艺术重要",
+          "谁能创作有分歧",
+          "人人可表达",
+          "名作通常需技艺"
+        ]
+      },
+      {
+        "role": "主体一｜低门槛支持普遍参与",
+        "explanation": "从艺术是表达个人经验的渠道出发，以纸笔绘画说明工具要求低。例子证明人们有机会创作，而不是证明每个人都能成为大师。",
+        "chain": [
+          "独特想法与经验",
+          "借艺术媒介表达",
+          "纸笔门槛低",
+          "人人可以参与"
+        ]
+      },
+      {
+        "role": "主体二｜认可标准支持专业能力",
+        "explanation": "另一方把艺术理解为高质量作品，判断依据包括技术与洞察社会现象的能力。usually和generally保留例外，避免把非专业者排除在外。",
+        "chain": [
+          "重视作品质量",
+          "技巧或社会洞察",
+          "技艺更加成熟",
+          "作品较易获得认可"
+        ]
+      },
+      {
+        "role": "个人判断｜用定义化解表面冲突",
+        "explanation": "末段区分艺术本身的表达功能与社会通常讨论的艺术价值、商业价值。训练可以解释名作常出自专业人士，但不能证明别人没有创作资格。",
+        "chain": [
+          "艺术作为表达",
+          "人人能够创作",
+          "社会认可另有标准",
+          "训练帮助获得认可"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "区分创作与广泛认可",
+        "original": "a truly generally recognized product",
+        "revised": "gains wide recognition",
+        "explanation": "先区分“能参与创作”与“作品获得广泛认可”。原来的 a truly generally recognized product 和 All …; only a few … 容易把“他人喜欢”说成少数人才做得到；改为 widely acclaimed / gains wide recognition，保留平行对照，也使标准更清楚。开头直接给出这一立场。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "工具与创作行为匹配",
+        "original": "conducting the art creation",
+        "revised": "create art freely",
+        "explanation": "让例子与工具一致：a pen and a piece of paper 更直接支持 drawing，而非 painting。把 conducting the art creation 改为 create art freely，把 high levels of techniques 改为 a high level of technical skill；原有的长让步结构和 a channel for … 都保留。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "解释现象不等于证明正当",
+        "original": "That justified the status quo",
+        "revised": "This helps to explain why",
+        "explanation": "can recognized 本身缺少被动结构；修订后的整句用 those recognised for … 表示“因……受到认可”。原来的 That justified the status quo 改为 This helps to explain why：专业人士较常创作出名作，可以解释现象，却不能证明只有专业人士能创作。art mediums、art per se 和 be they musicians or writers 本来可用，无须为了小修全部替换。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-a2": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜直接回答艺术告诉我们什么",
+        "explanation": "科学的重要性无需否认；论点是单靠科学解释未必能充分传达人类经验和审美价值。cannot fully capture限定不足的程度，避免制造绝对对立。",
+        "chain": [
+          "科学技术受重视",
+          "艺术仍受重视",
+          "传达人类经验与审美",
+          "补充科学解释"
+        ]
+      },
+      {
+        "role": "主体一｜从创作者走到受众理解",
+        "explanation": "个人用艺术表达喜悦、失落等感受，受众由此理解内在体验；社会层面，作品呈现共享价值和历史变化。这里真正回答的是观者知道了什么。",
+        "chain": [
+          "表达思想感受",
+          "他人理解内在经验",
+          "作品反映共享价值",
+          "理解时代与价值变化"
+        ]
+      },
+      {
+        "role": "主体二｜功能之外的审美意义",
+        "explanation": "手机既需要运行系统，也依赖工业设计。例子把技术能做什么与人为何觉得美分开，说明实用功能不能单独决定意义与吸引力。",
+        "chain": [
+          "科学解释功能",
+          "功能不等于美与意义",
+          "手机也依赖工业设计",
+          "艺术显示日常审美追求"
+        ]
+      },
+      {
+        "role": "结尾｜汇总互补关系",
+        "explanation": "结尾重提个人感受、文化经验、审美三项答案。科学解释世界的运作，艺术进一步传达生活在其中的感受，保持开头的互补立场。",
+        "chain": [
+          "个人感受",
+          "共享文化",
+          "审美价值",
+          "补充科学知识"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "表达之后补受众理解",
+        "original": "",
+        "revised": "what experiences such as joy or loss feel like from the inside",
+        "explanation": "把“艺术受欢迎的原因”拉回题目所问的“艺术告诉我们什么”。self-expression 后补出读者能获得的理解：what experiences such as joy or loss feel like from the inside。这样表达、作品、受众的理解形成一条因果链，而不只是说上艺术课有助放松。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "修正词性并限制艺术科学对立",
+        "original": "art brings aesthetics while science brings functional",
+        "revised": "reveals the aesthetic value of everyday life",
+        "explanation": "修好词性与搭配，但保留对照句。原文 art brings aesthetics while science brings functional 中 functional 是形容词，不能这样作宾语；修订用 aesthetic value 与 how things function 分别说明艺术和科学的侧重点，并用 alone 避免断言科学与审美毫无关联。unique characters 改为 distinctive character，表示一个时期的整体特征。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "撤去未经支持的人物因果",
+        "original": "",
+        "revised": "not only on its operating system but also on its industrial design",
+        "explanation": "原稿把乔布斯上书法课与 iPhone 的大小写命名直接联系起来，材料没有支持这条因果。这里保留“手机技术＋工业设计”的例子，改成一般性的 may rest … not only … but also …；结尾也直接总结情感、文化经验、审美价值，替换未在前文论证过的“维持现状”。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "five-a3": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜支持基本服务但反对撤资",
+        "explanation": "开头同时确定预算优先次序与反对的政策力度。承认基本服务必须满足，并不接受把艺术经费全部抽走。",
+        "chain": [
+          "预算分配争议",
+          "基本服务需满足",
+          "艺术仍有投资理由",
+          "反对撤销经费"
+        ]
+      },
+      {
+        "role": "主体一｜说明服务改善的紧迫性",
+        "explanation": "无障碍设施损坏使残障者出行困难；投入可减少障碍、提升独立生活能力。比较对象是追加艺术支出与紧迫服务需求，不是不同群体有没有文化需求。",
+        "chain": [
+          "设施损坏或失修",
+          "残障者出行受阻",
+          "改善无障碍设施",
+          "独立生活与便利出行"
+        ]
+      },
+      {
+        "role": "主体二｜保留艺术的个人和文化收益",
+        "explanation": "艺术课程让人表达和放松，博物馆等作品帮助人们理解历史价值变化。这两类收益解释保留预算的理由，并不否定前段服务的紧迫性。",
+        "chain": [
+          "艺术参与",
+          "表达情绪与维持心理福祉",
+          "欣赏作品",
+          "理解历史与共享文化"
+        ]
+      },
+      {
+        "role": "主体三｜有条件地比较边际收益",
+        "explanation": "只有基本服务需求已经满足，继续增支的额外收益才可能变小。少量艺术资金转出可能只略改善服务，却损失宝贵参与机会，因此要比较增量收益。",
+        "chain": [
+          "基本服务已满足",
+          "追加服务收益可能递减",
+          "转走少量艺术款改善有限",
+          "保留文化参与机会"
+        ]
+      },
+      {
+        "role": "结尾｜回到预算分配标准",
+        "explanation": "重申紧急服务优先与艺术投资合理两条判断，用明确标准平衡基本需求和文化机会。结尾没有假定现行预算已经最优。",
+        "chain": [
+          "满足紧迫服务",
+          "承认文化及个人收益",
+          "采用清晰标准",
+          "平衡预算"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "预算投入不机械译为建设",
+        "original": "art construction",
+        "revised": "investment in the arts",
+        "explanation": "统一“经费”类搭配：art construction 改为 investment in the arts / arts funding；construction of public services 改为 improving public services。服务不一定涉及建造，艺术也不宜机械翻译为“艺术建设”。开头明确：支持满足基本公共服务需求，同时反对撤掉艺术经费。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "比较紧迫性而非否认文化需求",
+        "original": "live and travel as normal people",
+        "revised": "live more independently and travel with fewer barriers",
+        "explanation": "把“残障者几乎无法从艺术受益”改为“无障碍设施可能更紧迫”。live and travel as normal people 也改为 live more independently and travel with fewer barriers。这样比较的是公共支出的优先程度，而不是断言某一群体没有审美或文化需求。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "收益递减需要前提",
+        "original": "",
+        "revised": "once essential public service needs have been met",
+        "explanation": "收益递减必须有条件。原文从“公共服务预算很大”直接推到“追加投入收益很小”，中间缺了一步；改为 once essential public service needs have been met，再讨论新增投入的额外收益。结尾据此要求平衡基本需求与文化参与，不再假定现实中的预算配置已经合理。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-b1": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜明确预算取舍",
+        "explanation": "道路建设的需求得到承认，但不足以否定修复保护老建筑的政策。两个支出项目必须按理由比较，不能因一项有益便取消另一项。",
+        "chain": [
+          "公共预算有限",
+          "道路需求存在",
+          "老建筑仍有保护理由",
+          "不能全转道路"
+        ]
+      },
+      {
+        "role": "主体一｜道路改善如何惠及通勤者",
+        "explanation": "拥堵损害身心体验；修立交、移除瓶颈可能减少被堵时间。might使效果与设施实际作用相匹配，并未许诺修路必然消除拥堵。",
+        "chain": [
+          "高峰拥堵",
+          "通勤压力与耗时",
+          "立交和瓶颈改善",
+          "通勤体验可能提升"
+        ]
+      },
+      {
+        "role": "主体二｜文化载体与旅游经济",
+        "explanation": "老建筑保留文化的实体证据，帮助后代理解身份；修复后的建筑还可能吸引游客。假设保留古寺的例子具体呈现文化资源如何转化为经济吸引力。",
+        "chain": [
+          "保留实体文化证据",
+          "延续文化认同",
+          "修复古建筑吸引游客",
+          "产生旅游经济价值"
+        ]
+      },
+      {
+        "role": "主体三｜道路较完善时的追加收益",
+        "explanation": "这段只在道路已经较发达的情况下讨论收益递减。继续转入保护款可能改善有限，而少量保护投资仍可保留文化价值。",
+        "chain": [
+          "道路已较完善",
+          "每单位追加收益可能减少",
+          "转移保护款改善有限",
+          "保留经费维护文化价值"
+        ]
+      },
+      {
+        "role": "结尾｜给出双重标准",
+        "explanation": "道路需求应得到满足，老建筑的文化及经济重要性也支持继续出资。严格标准要兼顾两者，而非简单维护既有分配。",
+        "chain": [
+          "交通需求",
+          "遗产文化与经济收益",
+          "维持保护资金",
+          "按标准平衡两项需求"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "统一指代与虚拟条件",
+        "original": "Will future generation",
+        "revised": "Would future generations",
+        "explanation": "保留“道路收益→文化与旅游价值→预算取舍”的推进。统一 government allocates its budget 的机构指代，并把 Will future generation … if … were … 改为 Would future generations … if … were …。英式英语中的 government 配复数动词并非一概错误，这里主要是统一指代；道路的瓶颈则用 removal of traffic bottlenecks 表达得更自然。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "具体城市改为假设场景",
+        "original": "",
+        "revised": "A city, for example, could preserve an old temple",
+        "explanation": "把未经核实的成都寺庙案例改为城市保留古寺的假设，继续保留 capitalizing on its cultural and historic flavour 这一原有表达。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "道路收益递减加适用条件",
+        "original": "",
+        "revised": "where road infrastructure is already well developed",
+        "explanation": "为 diminishing returns 补上道路设施已较完善的适用条件，避免由边际收益下降直接推出所有新增投入几乎无效；结尾改成预算应如何分配，不再假定现行预算已经最优。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-b2": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜把可行性与效果分开",
+        "explanation": "运动不足引出增建公园的提议。作者分别检验是否有钱长期实施，以及是否真能让人运动，两项标准不能互相替代。",
+        "chain": [
+          "运动不足",
+          "提议所有地方增建",
+          "检验财政可行性",
+          "检验健康效果"
+        ]
+      },
+      {
+        "role": "主体一｜承认空间不足时的收益",
+        "explanation": "久坐与工作压力减少日常运动，缺场地进一步恶化问题。增加公园能提供散步和慢跑的场所，所以在设施不足地区有针对性。",
+        "chain": [
+          "久坐与压力",
+          "运动减少",
+          "空间不足加重限制",
+          "新增场地提供运动机会"
+        ]
+      },
+      {
+        "role": "主体二｜建造之外还有持续成本",
+        "explanation": "地方预算同时面对医疗、交通、养老金等需求。欠富裕地区不仅要支付建设费，还要持续维护和清洁，增建可能挤占其他领域。",
+        "chain": [
+          "多领域争夺预算",
+          "增支空间有限",
+          "建设加持续维护",
+          "可能削减其他服务"
+        ]
+      },
+      {
+        "role": "主体三｜时间障碍不能靠扩地解决",
+        "explanation": "场地不足和工作学习负担可以同时限制运动。若人没有时间，增加公园也未必改变行为；因此需要意识教育与日程内的运动时间。",
+        "chain": [
+          "工作学习负担重",
+          "缺少运动时间",
+          "新公园可能闲置",
+          "提高意识并安排运动时间"
+        ]
+      },
+      {
+        "role": "结尾｜按实际障碍选择措施",
+        "explanation": "公共健康值得重视，但所有地方增建既可能昂贵，又可能错过主要障碍。结尾要求意识和运动机会配合设施，保留条件判断。",
+        "chain": [
+          "公共健康需关注",
+          "一律增建可能难负担",
+          "时间障碍仍在",
+          "意识与机会共同改善"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "运动与维护费搭配校正",
+        "original": "consistent maintenance costs",
+        "revised": "ongoing maintenance costs",
+        "explanation": "修正 do regular exercise insufficiently、acerbated、consistent maintenance costs 等不自然或误用的表达；仍保留长句中的让步、条件和结果关系。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "预算有限不等于政策必败",
+        "original": "",
+        "revised": "may have limited scope to increase",
+        "explanation": "把政策必败、现有设施预算已达最高额度改为部分地方可能缺乏增支空间，保留财政资源竞争这一论点，但不把所有城镇一概而论。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "空间与时间障碍可以并存",
+        "original": "",
+        "revised": "not simply the lack of outdoor activity space but also a heavy workload or study burden",
+        "explanation": "工作与学业负担和空间不足可以同时影响运动，因此保留原强调句并加入 not simply… but also…；后文补上安排运动时间，使建议回应前面的时间障碍。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-b3": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜回应最佳而非仅有效",
+        "explanation": "承认住房可能缓解通勤，但作者反对它是最佳，因为它忽略其他主要成因并牺牲绿地。后文需要比较替代措施能解决什么。",
+        "chain": [
+          "通勤耗时",
+          "以公寓替代绿地",
+          "其他成因未解决",
+          "不认定为最佳"
+        ]
+      },
+      {
+        "role": "主体一｜住房缩短通勤的条件",
+        "explanation": "预算有限的职工住在外围导致路程长。新增中心公寓只有同时可负担且靠近工作地点，才可能让这群人搬近并省下时间。",
+        "chain": [
+          "预算有限住外围",
+          "通勤距离长",
+          "新增住房可负担且近工作",
+          "节省通勤与增加休息"
+        ]
+      },
+      {
+        "role": "主体二｜承认距离并补入拥堵",
+        "explanation": "这一段不否认距离重要，而是指出慢速交通也会耗时。只建住宅可能留下拥堵问题，因此效果有局限。",
+        "chain": [
+          "距离影响耗时",
+          "慢速交通也影响耗时",
+          "早出门仍可能堵车",
+          "住房单项措施有限"
+        ]
+      },
+      {
+        "role": "方案比较｜针对原因并避免绿地损失",
+        "explanation": "改善瓶颈服务道路通勤者；企业迁址只有更接近员工住处才缩短距离。适宜土地与较低租金使迁址可能可行，绿地的运动休闲价值则得以保留。",
+        "chain": [
+          "改善交通流与适当迁址",
+          "减少拥堵或职住距离",
+          "考虑租金与可用土地",
+          "保留休闲运动绿地"
+        ]
+      },
+      {
+        "role": "结尾｜按条件选择替代措施",
+        "explanation": "用其他通勤成因和绿地价值再次回答best。考虑道路改善及适当企业迁址，既针对问题也减少替代公园的损失。",
+        "chain": [
+          "其他成因仍存在",
+          "绿地有价值",
+          "考虑交通与迁址",
+          "减通勤且保绿地"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "新增住宅须可负担且靠近工作",
+        "original": "would be afforded to",
+        "revised": "provided these homes were affordable and close to their workplaces",
+        "explanation": "修正 spend time on commute 和 would be afforded to 等搭配；住房增加不自动等于通勤者买得起，因此补上住房可负担且靠近工作地点的条件。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "承认距离并回应最佳方案",
+        "original": "",
+        "revised": "overlooks other important causes of long commuting times",
+        "explanation": "反方改为该方案忽略拥堵等其他成因，不再否认距离对通勤时间的作用；道路改善的受益人也收窄为通过道路通勤的人。开头与结尾明确回应 best：改进交通或适当迁址可以针对其他原因，同时避免牺牲绿地。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "搬迁须接近员工住处",
+        "original": "",
+        "revised": "provided this brings them closer to where their employees live",
+        "explanation": "保留 the first being… 的合法独立主格，只把第一项改成改善交通的措施；企业搬迁补上接近员工住处的条件，租金和用地优势也改为有条件成立，删去无依据的土地价值比较。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-b4": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜价值不直接决定数量优先",
+        "explanation": "公园重要是双方可以接受的起点，作者反对从重要性直接推出它们应比商场优先且更多。论证聚焦具体比较要求。",
+        "chain": [
+          "公园体育设施重要",
+          "提出数量优先",
+          "重要性不足以证明优先",
+          "继续比较商场作用"
+        ]
+      },
+      {
+        "role": "主体一｜降低门槛并形成社区联系",
+        "explanation": "低成本设施使付不起健身会员的人也有运动机会；公园聚会又让居民交流。分别说明身体活动和心理归属两条收益。",
+        "chain": [
+          "低成本设施可达可用",
+          "居民更易运动",
+          "公园促进交流",
+          "健康与社区归属"
+        ]
+      },
+      {
+        "role": "主体二｜商场也承担多种需求",
+        "explanation": "商场可同时购物、社交、娱乐、运动，集中采购省时且停车便利。室内空间遮蔽天气，使其成为另一类休闲选择，而非只有消费功能。",
+        "chain": [
+          "商场多功能",
+          "购物社交休闲集中",
+          "节省时间与便利停车",
+          "室内遮蔽天气"
+        ]
+      },
+      {
+        "role": "结尾｜以需求代替固定比较",
+        "explanation": "把公园优势与商场作用同时纳入规划，按新城具体需要决定建设。没有把题目夸大为强制配额，只拒绝预设数量关系。",
+        "chain": [
+          "公园有健康收益",
+          "商场满足多种需求",
+          "调查新城需要",
+          "按需求决定数量"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "保留正式结构并补费用门槛",
+        "original": "",
+        "revised": "low-cost sports facilities",
+        "explanation": "保留 With… comes… 倒装、resides in the belief that… 和让步长句；修整体育设施条件句，并用 low-cost 补明不能承担健身会员费用的人为何也能使用这些设施。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "运动含义与并列句修整",
+        "original": "taking a brisk stroll",
+        "revised": "taking a brisk walk",
+        "explanation": "将 taking a brisk stroll 调整为 taking a brisk walk，使运动含义更清楚；简化含义模糊的 premises、organized retail stores 等搭配，并修正逗号连接两个完整句的问题。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "天气优势与数量要求不夸大",
+        "original": "",
+        "revised": "their indoor areas can also provide shelter from bad weather",
+        "explanation": "把完全不受极端天气影响改为室内区域能提供遮蔽；结论继续主张按需求建设，但不再把题目夸大成不现实的配额制度。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "five-t1": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜家庭与学校分开判断",
+        "explanation": "电视教育价值引出定期观看建议，作者把学校挤占教学与家庭受监督观看分开。counterproductive带有反效果，必须与替代教师授课的条件连用。",
+        "chain": [
+          "电视有教育价值",
+          "提议定期观看",
+          "学校或挤占教学",
+          "家庭可受指导观看"
+        ]
+      },
+      {
+        "role": "主体一｜内容选择决定学习机会",
+        "explanation": "纪录片帮助理解生态和环境，儿童节目提供日常表达。增加观看只是在适合内容已选好的前提下增加学习机会，不能直接推出学习成效必然更好。",
+        "chain": [
+          "选合适纪录片与儿童节目",
+          "视觉对话吸引注意",
+          "了解世界并学表达",
+          "学习机会可能增加"
+        ]
+      },
+      {
+        "role": "主体二｜碎片观看与系统教学对比",
+        "explanation": "看到授粉现象会感到惊奇，但教师能按顺序解释概念及原因。学校时间若被观看替代，就可能损失系统知识和互动讨论。",
+        "chain": [
+          "节目呈现授粉现象",
+          "学生惊奇但理解未必系统",
+          "教师分步解释概念",
+          "避免屏幕挤占教学"
+        ]
+      },
+      {
+        "role": "主体三｜家庭观看的风险与配套",
+        "explanation": "无人监督容易让娱乐占用过多时间，持续屏幕还可能挤掉户外活动。家长限定内容时长、安排休息，让教育与娱乐取得平衡。",
+        "chain": [
+          "缺少监督",
+          "过多娱乐屏幕",
+          "眼疲劳与户外时间减少",
+          "家长指导及限时休息"
+        ]
+      },
+      {
+        "role": "结尾｜重申使用条件",
+        "explanation": "定期看电视的教育意义不能成为替代教师授课的理由；家庭观看仍可允许，条件是父母帮助控制内容和程度。",
+        "chain": [
+          "认可电视教育",
+          "学校避免替代教学",
+          "家庭保留观看",
+          "父母帮助适度使用"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "纪录片与嵌入问句",
+        "original": "what is pollination",
+        "revised": "what pollination is",
+        "explanation": "documents 指“文件”，这里应是 documentaries；原稿的节目与出品方表述容易混淆，因此保留自然纪录片这一类别。what is pollination 是直接问句，嵌入 including 后改为 what pollination is。仍保留 With … comes、albeit 和正式长句。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "学习机会增加与替代教学分开",
+        "original": "",
+        "revised": "provided that suitable content were selected",
+        "explanation": "将“看得越多就学得越好”限定为选择合适内容后增加学习机会；学校段补上“挤占教师教学”的条件，保留家庭与学校分场景讨论。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "健康风险与结论条件化",
+        "original": "",
+        "revised": "may cause eye strain",
+        "explanation": "减弱健康和教学效果的绝对判断；结尾删除未经定义的“维持现状”，使有指导的家庭观看与学校段立场一致。prone to do 本身合法，此处只优化 lead a sedentary lifestyle 的搭配。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-t2": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜给权衡判断加条件",
+        "explanation": "独看可能带来情感隔离，但保留其他社交活动时可总体积极。条件提前出现，为后文如何弥补交流损失做准备。",
+        "chain": [
+          "独自观看增加",
+          "可能情感孤立",
+          "保留其他社交活动",
+          "便利自由总体可更大"
+        ]
+      },
+      {
+        "role": "主体一｜具体决策展示自主收益",
+        "explanation": "悬疑片与爱情片的偏好冲突会让其中一人妥协；独看可自主暂停、换节目、重看与切换设备，不必协商。便利通过一组具体行为落地。",
+        "chain": [
+          "多人偏好不同",
+          "一方可能妥协",
+          "独看自主控制节目与节奏",
+          "减少协商并尊重偏好"
+        ]
+      },
+      {
+        "role": "主体二｜替代渠道缓解交流损失",
+        "explanation": "共同观影中的讨论和玩笑有助关系，独看减少这个渠道。但真正重要的是互动，若人们继续共餐、散步、购物，社交需要仍可满足。",
+        "chain": [
+          "独看减少共看片段交流",
+          "关系维系机会变少",
+          "保留共餐散步等活动",
+          "其他互动补足需要"
+        ]
+      },
+      {
+        "role": "结尾｜依据可替代程度权衡",
+        "explanation": "不否认独看期间交流较少，而是依据日常互动能补充这个缺点来判断。保留其他共同活动的条件使便利与灵活性可超过损失。",
+        "chain": [
+          "承认独看交流少",
+          "日常共同活动补足",
+          "社交需要可满足",
+          "便利与灵活性可胜出"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "代词与散步搭配修正",
+        "original": "talking for a walk",
+        "revised": "taking a walk",
+        "explanation": "修正 If、them 作主语、talking for a walk 等明确错误，并让 films 与后续代词保持一致；同时修正 social contact 和 social needs 的搭配。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "偏好冲突中一方可能妥协",
+        "original": "",
+        "revised": "one of them may end up watching a less preferable film",
+        "explanation": "保留自由选择、暂停、重看及切换设备的例证，将“协商后看不喜欢的电影”明确为其中一方可能妥协，避免泛指所有观众。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "日常社交补偿需要条件",
+        "original": "",
+        "revised": "when they maintain other shared activities",
+        "explanation": "给“日常交流足以弥补独看损失”补上维持其他共同活动的条件，明确结尾 It 的所指，并直接回应利是否大于弊。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-t3": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜双方极端观点与作者条件",
+        "explanation": "一方认为电视全面有害，另一方重视知识获取。作者认可双方值得考虑，但答案落在适度与指导，不照搬任何绝对判断。",
+        "chain": [
+          "全面有害观点",
+          "知识收益观点",
+          "双方均有可讨论理由",
+          "作者主张适度及成人指导"
+        ]
+      },
+      {
+        "role": "主体一｜条件化说明身体与行为风险",
+        "explanation": "长时间不休息可能眼疲劳并挤掉户外活动；部分儿童难辨虚构现实，可能模仿暴力。may、some避免把潜在机制写成普遍确定事实。",
+        "chain": [
+          "长时观看缺休息",
+          "眼疲劳与户外时间减少",
+          "虚实辨别困难",
+          "部分儿童可能模仿暴力"
+        ]
+      },
+      {
+        "role": "主体二｜视听材料如何帮助学习",
+        "explanation": "模仿角色语言可辅助语言学习，分步骤儿童节目帮助理解世界。英语动画只是语言学习的一部分，教师精选片段仍需要教学整合。",
+        "chain": [
+          "角色语言吸引模仿",
+          "辅助语言学习",
+          "分步视听呈现",
+          "精选片段支持知识教学"
+        ]
+      },
+      {
+        "role": "个人判断｜把风险连接到具体干预",
+        "explanation": "问题主要落在持续无休息的方式；限制电视并增加户外活动回应身体风险。成人讨论年龄适合节目中的暴力，帮助区分虚构及理解后果，同时避开明显不适内容。",
+        "chain": [
+          "识别过度观看方式",
+          "限时休息与户外活动",
+          "讨论虚实和行为后果",
+          "避开不适内容降低风险"
+        ]
+      },
+      {
+        "role": "结尾｜把收益与风险放入同一条件框架",
+        "explanation": "适合的节目可支持语言与知识，不受限制的观看才扩大风险。父母和教师帮助儿童正确使用，比放任不限时不限内容更符合前文。",
+        "chain": [
+          "合适节目带来学习",
+          "无限观看放大问题",
+          "父母教师引导",
+          "适度获取收益"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "冠词及视为结构修正",
+        "original": "",
+        "revised": "acts as a catalyst for",
+        "explanation": "修正句首大小写、a catalyst、English-language cartoons、regarded as 及培养双语能力的搭配；保留双方讨论与个人评价的五段结构。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "健康与行为影响避免绝对化",
+        "original": "",
+        "revised": "may cause eye strain",
+        "explanation": "撤去未经材料支持的近视增长及主要病因断言，改为长时间观看的潜在风险；用 may、some 和观看条件限制行为与教育效果的泛化。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "成人讨论提供模仿风险干预机制",
+        "original": "",
+        "revised": "distinguish fiction from reality",
+        "explanation": "把问题归于观看方式而非儿童本身；原稿把“看到暴力”直接推到“不会模仿”，中间缺少机制。改为成人引导讨论、区分虚构与现实、理解行为后果，同时避开明显不适合的内容，保留原来的长句因果推进。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-c1": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜高薪合理性的限制条件",
+        "explanation": "作者承认薪酬应与表现贡献相称，并主张责任与贡献可支持更高高管报酬。立场是有条件的支持，不替所有现存差距辩护。",
+        "chain": [
+          "高管角色受重视",
+          "薪差引争议",
+          "薪酬须匹配贡献",
+          "责任规模可支持高薪"
+        ]
+      },
+      {
+        "role": "主体一｜公平反对意见",
+        "explanation": "反方质疑的是报酬超过表现应得的程度，尤其企业业绩差却获得大奖励。performance-based给出评价原则，而非断言所有高管薪水都过高。",
+        "chain": [
+          "薪酬看贡献责任",
+          "部分高管奖励过度",
+          "业绩差仍获大奖励",
+          "绩效原则受到质疑"
+        ]
+      },
+      {
+        "role": "主体二｜评价管理贡献的范围",
+        "explanation": "普通员工往往按个人工作评价，领导者决策却影响全团队。成功重组公司是一个假设例子，说明高薪可承认管理者改善整体生产力的贡献。",
+        "chain": [
+          "个人岗位贡献",
+          "管理影响全队",
+          "决策改善整体生产力",
+          "贡献规模可支持高薪"
+        ]
+      },
+      {
+        "role": "主体三｜合同工资与绩效奖金分开",
+        "explanation": "公司失败可能有管理者无法控制的原因，人才也不保证成功。已经履职的约定工资应支付，但不能据此证明贡献不足时巨额绩效奖金合理。",
+        "chain": [
+          "外部因素影响失败",
+          "优秀人才也不保证成功",
+          "工作应获约定工资",
+          "低贡献不支持巨额奖金"
+        ]
+      },
+      {
+        "role": "结尾｜回到责任与自身贡献",
+        "explanation": "结尾用责任规模补充个人贡献标准；企业成败不单独决定薪水合理性，必须看高管本人的作用与职责。",
+        "chain": [
+          "考虑个人贡献",
+          "考虑责任规模",
+          "不能只按公司成败",
+          "有条件认可高薪"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "薪酬句法与自然搭配",
+        "original": "",
+        "revised": "should be in proportion to performance or contribution",
+        "explanation": "补上 should be，改正 talented、paid much more 和 although…but…；把享有薪水／股票报酬改为更自然的 receive 搭配，原来的 can enjoy 并列结构本身并非句法残缺。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "高薪依据限定自身责任贡献",
+        "original": "",
+        "revised": "their decisions can affect the productivity of an entire workforce",
+        "explanation": "保留支持高管高薪的立场与正式长句，但将评价依据限定为高管自己的贡献和责任；删去没有依据的“指数增长”，并将马斯克事例改为假设公司的经营情景。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "约定工资不推出绩效奖金合理",
+        "original": "",
+        "revised": "still receive their agreed salary",
+        "explanation": "区分约定薪水与绩效奖金：经营不佳不自动取消劳动报酬，也不自动证明巨额奖金合理，避免用“应当付薪”直接推出“应当支付高薪”。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-c2": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜把休假视为效率措施",
+        "explanation": "年假看似中断流程，但作者将其视为支持工作效率的安排。开头锁定四周这个具体时长，后文须说明为何不只是少量假期。",
+        "chain": [
+          "提升工作表现目标",
+          "至少四周年假提议",
+          "承认流程干扰",
+          "视为效率安排"
+        ]
+      },
+      {
+        "role": "主体一｜过劳如何损害持续表现",
+        "explanation": "长时间工作缺乏恢复引发压力、情绪和士气问题；工作相关疾病可能导致离职。适当休假通过恢复状态支持持续表现。",
+        "chain": [
+          "工作过久缺休息",
+          "压力情绪士气受损",
+          "疾病与可能离职",
+          "充足年假支持持续表现"
+        ]
+      },
+      {
+        "role": "主体二｜为四周提供安排层面的理由",
+        "explanation": "五天假常被零散用掉，难有持续恢复；四周可安排两周连续恢复及两周全年短休。这是合理的最低安排论证，不是科学证明精确天数。",
+        "chain": [
+          "五天零散使用",
+          "持续休息不足",
+          "两周长休加两周短休",
+          "兼顾恢复与全年动力"
+        ]
+      },
+      {
+        "role": "反驳段｜用组织安排解决实施障碍",
+        "explanation": "难代班的职责可能让流程受阻，管理者需提前协商时间、错峰休假并训练同事覆盖关键职责。四周权利不意味着所有假一次休完。",
+        "chain": [
+          "职责难被替代",
+          "工作流程受扰",
+          "提前协商错峰与交叉培训",
+          "提升休假方案可行性"
+        ]
+      },
+      {
+        "role": "结尾｜把条件写进支持立场",
+        "explanation": "短期效率干扰得到承认，持续与定期恢复支持四周作为合理底线。人员和时间安排妥当是该制度帮助表现的条件。",
+        "chain": [
+          "短期可能受扰",
+          "持续恢复及常规休息",
+          "合理最低年假",
+          "妥善安排支持表现"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "为至少四周补持续恢复理由",
+        "original": "",
+        "revised": "a two-week break for sustained recovery",
+        "explanation": "保留“支持至少四周年假”的立场，补充“两周连续休息＋其余时间分散休假”的具体理由；将四周表述为合理的最低安排，避免从休假有益直接跳到精确时长必不可少。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "可行性靠错峰代班而非善意",
+        "original": "",
+        "revised": "arrange cover in advance",
+        "explanation": "将未经核实的中国、澳大利亚制度改为假设情景；用错峰休假、提前代班和交叉培训解释可行性，不再用“目标文明、人道”充当可行性的充分条件。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "年假不可数并收敛断言",
+        "original": "Lengthened",
+        "revised": "An extended holiday",
+        "explanation": "修正 annual leave 的不可数用法、Lengthened 大写及含糊的 it；保留 give rise to、end up resigning 等表达，同时适度收敛 only、necessitates 和 easily 的断言力度。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "five-c3": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜盈利并非唯一考虑",
+        "explanation": "企业对经济发展的贡献得到承认，但核心盈利目标不能成为只顾利润的理由。作者直接支持同时承担社会责任。",
+        "chain": [
+          "企业推动经济",
+          "核心目标盈利",
+          "不应只顾利润",
+          "还需承担社会责任"
+        ]
+      },
+      {
+        "role": "主体一｜社会依赖与具体行动相连",
+        "explanation": "盈利依赖服务客户及稳定繁荣的社会，所以责任既对社会有益也帮助企业长久成功。安全食品、假设捐助、可持续采购与安全公平劳动展示实际路径。",
+        "chain": [
+          "盈利依赖客户和社会",
+          "支持社会亦利长期经营",
+          "安全食品及公益采购劳动行动",
+          "责任有理由也有实施手段"
+        ]
+      },
+      {
+        "role": "反方与回应｜自愿慈善和避免损害不同",
+        "explanation": "企业不捐款未必可责，但污染把成本转给他人应承担责任。重视责任的员工与消费者还可推动改变并支持企业成功。",
+        "chain": [
+          "慈善可有自主选择",
+          "环境损害强加成本",
+          "应承担避免伤害责任",
+          "员工消费者选择鼓励责任经营"
+        ]
+      },
+      {
+        "role": "结尾｜双向支持需写出机制",
+        "explanation": "企业通过减少损害、支持社会赢得形象和信任；社会繁荣又支持经营成功。两个方向分别解释，避免仅用vice versa暗示因果。",
+        "chain": [
+          "责任经营减少损害",
+          "赢得客户信任",
+          "支持社会繁荣",
+          "社会繁荣支持企业成功"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "责任及指代搭配修整",
+        "original": "carry out responsibility",
+        "revised": "fulfil their social responsibilities",
+        "explanation": "保留“盈利目标→依赖社会→承担责任→赢得信任”的原有推进，修正开头、necessitate businesses to 和 carry out responsibility 等搭配，并明确员工、原料等指代。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "具体公司改为假设及安全食品",
+        "original": "",
+        "revised": "providing safe food",
+        "explanation": "将苹果、星巴克、华为的具体行为改成假设公司的行动，保留慈善、可持续采购与员工福利三类论据；餐馆例子补入食品安全，使它直接体现社会责任。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "自愿捐助与外部损害分开",
+        "original": "Probably not",
+        "revised": "such damage imposes costs on others",
+        "explanation": "区分“是否自愿捐款”和“是否应对环境损害负责”，修复统一回答 Probably not 的逻辑冲突；结尾分别说明企业与社会如何相互支持，避免用 vice versa 代替因果论证。",
+        "paragraphIndex": 2
+      }
+    ]
+  },
+  "five-r1": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜评价强制要求而非志愿活动",
+        "explanation": "志愿工作受赞扬引出要求所有青年参加的政策。作者直接回答全面强制弊大于利，后文不能只争论活动本身有没有好处。",
+        "chain": [
+          "志愿服务受赞扬",
+          "提出全民青年强制",
+          "承认活动收益",
+          "强制要求弊更大"
+        ]
+      },
+      {
+        "role": "主体一｜青年与社区两类收益",
+        "explanation": "青年帮助别人获得满足并练习人际技能，社区在适当监督下获得服务支持。监督条件避免暗示未经训练者能直接承担专业保护工作。",
+        "chain": [
+          "帮助别人",
+          "青年满足与人际成长",
+          "适当监督下提供服务支持",
+          "个人社区双赢"
+        ]
+      },
+      {
+        "role": "反驳段｜额外强制带来的反效果",
+        "explanation": "道德义务变成强制可能引发抵触，导致完成后更不愿志愿服务；部分工作需要资质，人数增加不保证服务质量。自愿与培训更贴合目标。",
+        "chain": [
+          "全面强制",
+          "抵触及未来不再志愿",
+          "增员也未必有专业能力",
+          "鼓励自愿并适当培训"
+        ]
+      },
+      {
+        "role": "结尾｜用自愿替代比较额外得失",
+        "explanation": "自愿参与可以保留不少技能和社区收益，且不对不愿参加者施加同样义务。这个比较具体解释强制新增的代价为何更难合理化。",
+        "chain": [
+          "自愿仍保留收益",
+          "强制额外施加义务",
+          "可能抵触且实施困难",
+          "弊大于利并保留自愿选择"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "志愿与自愿固定搭配",
+        "original": "out of volition",
+        "revised": "of their own volition",
+        "explanation": "将 Volunteering work、out of volition 分别改为 Voluntary work、of their own volition，并把感叹句改为正式陈述；保留 With this comes、For young adults / For the community 及让步反驳结构。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "人数不等于专业服务能力",
+        "original": "",
+        "revised": "require relevant experience or qualifications",
+        "explanation": "把“增加人数也不会增加收益”限定为不一定，并补出部分服务需要经验、资质与适当监督，避免暗示未经培训的年轻人可以直接承担专业服务。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "直接比较全面强制的额外得失",
+        "original": "",
+        "revised": "voluntary participation can retain many of the gains",
+        "explanation": "开头和结尾直接回应“弊是否大于利”。保留反对全面强制的立场，说明自愿参与可以保留许多收益，而强制还会对不愿参与者施加义务、引起抵触；比较的对象是“强制参加”带来的额外得失，而不是志愿活动本身好不好。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-r2": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜训练国与选择自由",
+        "explanation": "全球流动引出个人职业发展与培训国贡献的争议。培训地点是讨论对象，不等于个人国籍；作者明确倾向选择自由。",
+        "chain": [
+          "职业机会推动流动",
+          "海外发展选择",
+          "培训国希望留才",
+          "支持选择自由"
+        ]
+      },
+      {
+        "role": "主体一｜解释留任要求的合理担忧",
+        "explanation": "尤其公共资助培训使国家投入资源，当地服务带来更直接回报。人才离开可能减少技能和发展机会，这支持担忧却未独立证明强制合理。",
+        "chain": [
+          "公共教育培训投资",
+          "培养稀缺专业人才",
+          "当地服务直接回报",
+          "外流可能损失技能和机会"
+        ]
+      },
+      {
+        "role": "主体二｜流动由个人处境推动",
+        "explanation": "自由追求成功包括个人和职业领域。前景暗淡、生活质量差及机会有限会推动人才寻找更好的工作与生活，避免把外流简单归为不负责。",
+        "chain": [
+          "职业前景与生活条件差",
+          "个人发展受限",
+          "寻找更好机会与生活",
+          "形成专业人才外流"
+        ]
+      },
+      {
+        "role": "个人判断｜道德责任不足以推出法律强制",
+        "explanation": "培训国投资损失确实值得关注，但帮助它发展是道德责任，不能单凭此要求法律禁止离开。改善工作条件与经济保障可直接回应人才离开的原因。",
+        "chain": [
+          "承认投资损失",
+          "保留道德责任",
+          "道德责任不足以强制",
+          "改善条件吸引留任回流"
+        ]
+      },
+      {
+        "role": "结尾｜尊重选择并鼓励贡献",
+        "explanation": "承认外流对培训国的潜在损害，但保留个人自由。政策应让人才愿意留下或回来，把政府行动与前文原因连接。",
+        "chain": [
+          "潜在发展损失",
+          "仍尊重职业选择",
+          "政府改善吸引力",
+          "鼓励留下或回流"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "职业价值与吸引方向校正",
+        "original": "entice the exodus",
+        "revised": "entice skilled professionals to stay or return",
+        "explanation": "保留 With ... comes、The primary justification ... resides in、Others, however 等正式结构；修正 achieve personal value、budget accrues to students，以及 entice the exodus 的搭配和方向。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "培训国不同于国籍国",
+        "original": "",
+        "revised": "public investment in these disciplines can pay off more directly",
+        "explanation": "将培训国与国籍国区分，并把公共投入“只有留在本国才有回报”改为“留在当地能带来更直接的回报”；保留支持留任一方的合理依据。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "道德义务不足以支持法律强制",
+        "original": "",
+        "revised": "a moral obligation alone does not justify compelling people to stay",
+        "explanation": "将未经核实的中国法律与政策例子改为假设场景；把人权断言和 morally wrong 改为职业选择自由的论点，保留道德责任，但不据此直接推出法律强制。",
+        "paragraphIndex": 3
+      }
+    ]
+  },
+  "five-r3": {
+    "paragraphNotes": [
+      {
+        "role": "开头｜给出监管胜过全面禁止的立场",
+        "explanation": "安全与自由两种观点都被引出。作者支持合理监管，后文需要解释何种风险可以管理，以及自由适用于哪些参与者。",
+        "chain": [
+          "危险运动受欢迎",
+          "安全支持禁令",
+          "自由支持选择",
+          "作者支持合理监管"
+        ]
+      },
+      {
+        "role": "主体一｜公平解释禁止一方",
+        "explanation": "极限运动暴露参与者于严重伤害风险，追求刺激的青年可能忽视危险。禁令只有被有效执行才可能减少伤害，而非宣称必然消除事故。",
+        "chain": [
+          "高风险活动",
+          "可能忽视危险",
+          "严重或长期伤害",
+          "有效执行禁令可能减少伤害"
+        ]
+      },
+      {
+        "role": "主体二｜类比提炼有条件的自由",
+        "explanation": "篮球和滑雪也有受伤风险，说明有风险本身不够支持全面禁止。类比并未把风险大小等同；自由限定于理解风险的成年人且不危及他人。",
+        "chain": [
+          "普通运动也有风险",
+          "风险存在不足以全面禁止",
+          "成人理解风险",
+          "不让他人承受不合理危险"
+        ]
+      },
+      {
+        "role": "个人判断与方案｜把公共风险落实为监管",
+        "explanation": "安全标准降低参与风险，救援人员与公共资源也需要保护。高难路线培训要求对应能力不足，拥挤或救援承压时限额对应容量风险。",
+        "chain": [
+          "保留成年人选择",
+          "安全标准减少风险",
+          "救援风险及资源压力",
+          "按培训与容量实施合理监管"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "title": "危险运动与资质搭配修正",
+        "original": "a minimum of qualification",
+        "revised": "minimum training requirements",
+        "explanation": "修正 parachute jump、leave injuries on their bodies、a minimum of qualification 等搭配，并保留原文四段结构及最后一段提出监管方案的安排。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "禁令效果须依赖执行",
+        "original": "",
+        "revised": "provided that the ban was effectively enforced",
+        "explanation": "把“禁令会消除问题”改为在有效执行的条件下可能减少伤害；普通运动的类比仅支持“存在风险本身不足以全面禁止”，不把不同运动的风险等同。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "知情选择、救援与监管边界",
+        "original": "",
+        "revised": "risks to rescuers and demands on public resources",
+        "explanation": "以知情成年人的选择自由替代笼统的权利术语，并补入不使他人承受不合理危险的边界；把救援风险、公共资源与培训要求、人数限额具体连起来。",
+        "paragraphIndex": 3
+      }
+    ]
+  }
+}

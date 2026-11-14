@@ -1,0 +1,1030 @@
+[
+  {
+    "ids": [
+      "22-001",
+      "22-002",
+      "22-003"
+    ],
+    "examples": [
+      {
+        "en": "The team keeps daily records, publishes monthly reports and holds quarterly reviews.",
+        "zh": "团队每天记录、每月发布报告，并每季度开展评估。"
+      },
+      {
+        "en": "Daily checks feed into our monthly summary and quarterly planning.",
+        "zh": "每日检查的结果会纳入月度总结和季度规划。"
+      },
+      {
+        "en": "The app lets users switch between daily, monthly and quarterly spending charts.",
+        "zh": "这款应用允许用户切换每日、每月和每季度的支出图表。"
+      }
+    ],
+    "collocations": {
+      "22-001": [
+        "daily exercise",
+        "每日锻炼"
+      ],
+      "22-002": [
+        "a monthly report",
+        "月度报告"
+      ],
+      "22-003": [
+        "a quarterly review",
+        "季度评估"
+      ]
+    },
+    "related": [
+      {
+        "word": "weekly",
+        "meaning": "每周的",
+        "relation": "同场景"
+      },
+      {
+        "word": "frequency",
+        "meaning": "频率",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-004",
+      "22-006"
+    ],
+    "examples": [
+      {
+        "en": "The annual festival marks the anniversary of the town’s founding.",
+        "zh": "每年的节日纪念这座城镇的建立。"
+      },
+      {
+        "en": "Our annual gathering falls on the anniversary of the school’s opening.",
+        "zh": "我们的年度聚会在学校成立周年纪念日举行。"
+      },
+      {
+        "en": "The club added an anniversary concert to its annual programme.",
+        "zh": "俱乐部在年度活动安排中加入了一场周年纪念音乐会。"
+      }
+    ],
+    "collocations": {
+      "22-004": [
+        "an annual festival",
+        "一年一度的节日"
+      ],
+      "22-006": [
+        "a wedding anniversary",
+        "结婚纪念日"
+      ]
+    },
+    "related": [
+      {
+        "word": "celebration",
+        "meaning": "庆祝活动",
+        "relation": "同场景"
+      },
+      {
+        "word": "commemoration",
+        "meaning": "纪念",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-005"
+    ],
+    "examples": [
+      {
+        "en": "The membership fee is paid yearly rather than monthly.",
+        "zh": "会员费按年缴纳，而不是按月缴纳。"
+      },
+      {
+        "en": "The museum records a yearly increase in visitor numbers.",
+        "zh": "这家博物馆记录了游客人数逐年增长的情况。"
+      },
+      {
+        "en": "A yearly inspection helps the owner identify maintenance needs.",
+        "zh": "每年一次的检查帮助业主发现维修需求。"
+      }
+    ],
+    "collocations": {
+      "22-005": [
+        "a yearly inspection",
+        "年度检查"
+      ]
+    },
+    "related": [
+      {
+        "word": "annual",
+        "meaning": "每年的",
+        "relation": "同场景"
+      },
+      {
+        "word": "renewal",
+        "meaning": "续期；更新",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-007",
+      "22-010",
+      "22-011"
+    ],
+    "examples": [
+      {
+        "en": "The curator chose one medieval century to illustrate the wider era.",
+        "zh": "策展人选取中世纪的一个世纪来呈现那个更广泛的时代。"
+      },
+      {
+        "en": "The course examines how medieval society changed from one century to the next during that era.",
+        "zh": "这门课程考察中世纪社会在那个时代如何从一个世纪发展到下一个世纪。"
+      },
+      {
+        "en": "A medieval manuscript offers evidence of daily life in a particular century of that era.",
+        "zh": "一份中世纪手稿提供了那个时代某一世纪日常生活的证据。"
+      }
+    ],
+    "collocations": {
+      "22-007": [
+        "a new era",
+        "新时代"
+      ],
+      "22-010": [
+        "medieval history",
+        "中世纪历史"
+      ],
+      "22-011": [
+        "the twentieth century",
+        "二十世纪"
+      ]
+    },
+    "related": [
+      {
+        "word": "historical period",
+        "meaning": "历史时期",
+        "relation": "同场景"
+      },
+      {
+        "word": "chronology",
+        "meaning": "年代顺序",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-008",
+      "22-009"
+    ],
+    "examples": [
+      {
+        "en": "Contemporary accounts help us connect the past with the present.",
+        "zh": "当时的记载帮助我们把过去与现在联系起来。"
+      },
+      {
+        "en": "The exhibition brings contemporary art into a discussion about the present.",
+        "zh": "这次展览把当代艺术带入关于当下的讨论。"
+      },
+      {
+        "en": "Her research compares contemporary descriptions of the event with what we know at present.",
+        "zh": "她的研究将事件发生时的描述与我们目前的认识进行比较。"
+      }
+    ],
+    "collocations": {
+      "22-008": [
+        "at present",
+        "目前"
+      ],
+      "22-009": [
+        "contemporary art",
+        "当代艺术"
+      ]
+    },
+    "related": [
+      {
+        "word": "the past",
+        "meaning": "过去",
+        "relation": "同场景"
+      },
+      {
+        "word": "current",
+        "meaning": "当前的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-012"
+    ],
+    "examples": [
+      {
+        "en": "The exhibition traces changes across an entire millennium.",
+        "zh": "展览追溯了整整一千年间的变化。"
+      },
+      {
+        "en": "The city held a celebration at the start of the new millennium.",
+        "zh": "这座城市在新千年开始时举行了庆祝活动。"
+      },
+      {
+        "en": "A millennium is a much longer period than a century.",
+        "zh": "一千年比一个世纪长得多。"
+      }
+    ],
+    "collocations": {
+      "22-012": [
+        "the new millennium",
+        "新千年"
+      ]
+    },
+    "related": [
+      {
+        "word": "century",
+        "meaning": "世纪",
+        "relation": "同场景"
+      },
+      {
+        "word": "decade",
+        "meaning": "十年",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-021",
+      "22-022",
+      "22-024"
+    ],
+    "examples": [
+      {
+        "en": "Modern laboratories need recent research and up-to-date equipment.",
+        "zh": "现代实验室需要最新研究成果和及时更新的设备。"
+      },
+      {
+        "en": "The guide combines recent findings with an up-to-date account of modern urban life.",
+        "zh": "这本指南结合最新发现，介绍现代城市生活的最新情况。"
+      },
+      {
+        "en": "A modern library should provide recent publications and keep its catalogue up-to-date.",
+        "zh": "现代图书馆应提供近期出版物，并及时更新目录。"
+      }
+    ],
+    "collocations": {
+      "22-021": [
+        "modern technology",
+        "现代科技"
+      ],
+      "22-022": [
+        "recent developments",
+        "近期发展"
+      ],
+      "22-024": [
+        "up-to-date information",
+        "最新信息"
+      ]
+    },
+    "related": [
+      {
+        "word": "update",
+        "meaning": "更新",
+        "relation": "同场景"
+      },
+      {
+        "word": "innovation",
+        "meaning": "创新",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-013",
+      "22-014",
+      "22-015"
+    ],
+    "examples": [
+      {
+        "en": "A dozen firms shared a billion dollars, while each training programme cost about a million.",
+        "zh": "十二家公司分享了十亿美元，而每个培训项目约耗资一百万美元。"
+      },
+      {
+        "en": "The plan allocates a million dollars to each of a dozen pilot schemes before considering a billion-dollar expansion.",
+        "zh": "该计划为十二个试点项目各拨款一百万美元，再考虑价值十亿美元的扩展。"
+      },
+      {
+        "en": "A dozen small grants of one million dollars would still be far below a billion.",
+        "zh": "十二笔各一百万美元的小额拨款加起来仍远低于十亿美元。"
+      }
+    ],
+    "collocations": {
+      "22-013": [
+        "one million people",
+        "一百万人"
+      ],
+      "22-014": [
+        "a billion dollars",
+        "十亿美元"
+      ],
+      "22-015": [
+        "a dozen eggs",
+        "十二个鸡蛋"
+      ]
+    },
+    "related": [
+      {
+        "word": "quantity",
+        "meaning": "数量",
+        "relation": "同场景"
+      },
+      {
+        "word": "budget",
+        "meaning": "预算",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-016",
+      "22-017",
+      "22-018"
+    ],
+    "examples": [
+      {
+        "en": "The crew worked from dawn until midday and returned for another shift at midnight.",
+        "zh": "工作人员从黎明工作到正午，又在午夜回来上另一班。"
+      },
+      {
+        "en": "The timetable lists departures at dawn, midday and midnight.",
+        "zh": "时刻表列出了黎明、正午和午夜的发车班次。"
+      },
+      {
+        "en": "He photographed the same square at dawn, at midday and again at midnight.",
+        "zh": "他在黎明、正午和午夜分别拍摄了同一个广场。"
+      }
+    ],
+    "collocations": {
+      "22-016": [
+        "at dawn",
+        "在黎明"
+      ],
+      "22-017": [
+        "at midday",
+        "在正午"
+      ],
+      "22-018": [
+        "at midnight",
+        "在午夜"
+      ]
+    },
+    "related": [
+      {
+        "word": "sunrise",
+        "meaning": "日出",
+        "relation": "同场景"
+      },
+      {
+        "word": "sunset",
+        "meaning": "日落",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-019",
+      "22-020"
+    ],
+    "examples": [
+      {
+        "en": "An overnight train allowed us to travel at night and arrive in the morning.",
+        "zh": "夜行列车让我们在晚上旅行，早上抵达。"
+      },
+      {
+        "en": "She spent the night at the airport because her overnight flight was delayed.",
+        "zh": "由于夜间航班延误，她在机场过了一夜。"
+      },
+      {
+        "en": "The overnight delivery service moves parcels during the night.",
+        "zh": "隔夜送达服务在夜间运输包裹。"
+      }
+    ],
+    "collocations": {
+      "22-019": [
+        "an overnight stay",
+        "过夜住宿"
+      ],
+      "22-020": [
+        "late at night",
+        "深夜"
+      ]
+    },
+    "related": [
+      {
+        "word": "accommodation",
+        "meaning": "住宿",
+        "relation": "同场景"
+      },
+      {
+        "word": "night shift",
+        "meaning": "夜班",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-023",
+      "22-025",
+      "22-026",
+      "22-027"
+    ],
+    "examples": [
+      {
+        "en": "First, gather the evidence; secondly, compare the results; finally, finish the report.",
+        "zh": "首先收集证据，其次比较结果，最后完成报告。"
+      },
+      {
+        "en": "First, choose a topic; secondly, prepare an outline; finally, finish the introduction.",
+        "zh": "首先选择话题，其次准备提纲，最后完成引言。"
+      },
+      {
+        "en": "First, check the ingredients; secondly, heat the oven; finally, finish preparing the dish.",
+        "zh": "首先检查食材，其次预热烤箱，最后完成菜肴的准备工作。"
+      }
+    ],
+    "collocations": {
+      "22-023": [
+        "the first step",
+        "第一步"
+      ],
+      "22-025": [
+        "secondly, consider the cost",
+        "其次，考虑成本"
+      ],
+      "22-026": [
+        "finally reach an agreement",
+        "最终达成协议"
+      ],
+      "22-027": [
+        "finish a task",
+        "完成任务"
+      ]
+    },
+    "related": [
+      {
+        "word": "sequence",
+        "meaning": "顺序",
+        "relation": "同场景"
+      },
+      {
+        "word": "procedure",
+        "meaning": "步骤；程序",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-028",
+      "22-029"
+    ],
+    "examples": [
+      {
+        "en": "For an instant she hesitated, but then she responded immediately.",
+        "zh": "她犹豫了一瞬间，但随后立即作出回应。"
+      },
+      {
+        "en": "The light came on immediately and illuminated the room for an instant.",
+        "zh": "灯立即亮起，把房间照亮了一瞬间。"
+      },
+      {
+        "en": "He knew in an instant that he needed to leave immediately.",
+        "zh": "他瞬间意识到自己必须立即离开。"
+      }
+    ],
+    "collocations": {
+      "22-028": [
+        "respond immediately",
+        "立即回应"
+      ],
+      "22-029": [
+        "in an instant",
+        "瞬间"
+      ]
+    },
+    "related": [
+      {
+        "word": "promptly",
+        "meaning": "迅速地",
+        "relation": "同场景"
+      },
+      {
+        "word": "delay",
+        "meaning": "延迟",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-030",
+      "22-031"
+    ],
+    "examples": [
+      {
+        "en": "Please wait a moment; I will be ready in a minute.",
+        "zh": "请稍等片刻，我一分钟后就准备好。"
+      },
+      {
+        "en": "A moment of hesitation cost the runner almost a minute.",
+        "zh": "片刻的犹豫让这位跑者损失了将近一分钟。"
+      },
+      {
+        "en": "She took a minute to think and then chose the right moment to speak.",
+        "zh": "她花了一分钟思考，然后选择了合适的时机发言。"
+      }
+    ],
+    "collocations": {
+      "22-030": [
+        "at the moment",
+        "此刻"
+      ],
+      "22-031": [
+        "in a minute",
+        "一分钟后；马上"
+      ]
+    },
+    "related": [
+      {
+        "word": "second",
+        "meaning": "秒",
+        "relation": "同场景"
+      },
+      {
+        "word": "timing",
+        "meaning": "时机",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-032",
+      "22-033",
+      "22-034"
+    ],
+    "examples": [
+      {
+        "en": "The former director reviewed the preceding report prior to the meeting.",
+        "zh": "前任主任在开会前审阅了上一份报告。"
+      },
+      {
+        "en": "Prior to taking office, she consulted the former manager about the preceding year.",
+        "zh": "上任前，她就上一年的情况咨询了前任经理。"
+      },
+      {
+        "en": "The former teacher compared the preceding lesson with the material prepared prior to the holiday.",
+        "zh": "这位前教师把上一节课与假期前准备的材料作了比较。"
+      }
+    ],
+    "collocations": {
+      "22-032": [
+        "prior to arrival",
+        "到达之前"
+      ],
+      "22-033": [
+        "a former colleague",
+        "以前的同事"
+      ],
+      "22-034": [
+        "the preceding year",
+        "上一年"
+      ]
+    },
+    "related": [
+      {
+        "word": "previous",
+        "meaning": "先前的",
+        "relation": "同场景"
+      },
+      {
+        "word": "subsequent",
+        "meaning": "随后的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-035",
+      "22-036"
+    ],
+    "examples": [
+      {
+        "en": "Foremost in their minds was the risk of setting a dangerous precedent.",
+        "zh": "他们最担心的是树立危险先例的风险。"
+      },
+      {
+        "en": "The lawyer’s foremost concern was whether the decision would create a legal precedent.",
+        "zh": "律师首要关心的是这一决定是否会创立法律先例。"
+      },
+      {
+        "en": "One of the country’s foremost judges explained the importance of the precedent.",
+        "zh": "该国最杰出的法官之一解释了这一判例的重要性。"
+      }
+    ],
+    "collocations": {
+      "22-035": [
+        "set a precedent",
+        "开创先例"
+      ],
+      "22-036": [
+        "the foremost concern",
+        "首要关切"
+      ]
+    },
+    "related": [
+      {
+        "word": "priority",
+        "meaning": "优先事项",
+        "relation": "同场景"
+      },
+      {
+        "word": "legal ruling",
+        "meaning": "法律裁定",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-037",
+      "22-038"
+    ],
+    "examples": [
+      {
+        "en": "Initially, the museum planned an opening ceremony for local residents only.",
+        "zh": "起初，博物馆只计划为当地居民举办开幕式。"
+      },
+      {
+        "en": "The opening paragraph was initially much longer than the final version.",
+        "zh": "开头一段最初比最终版本长得多。"
+      },
+      {
+        "en": "Initially, heavy rain threatened the opening of the new park.",
+        "zh": "起初，大雨可能影响新公园的开放。"
+      }
+    ],
+    "collocations": {
+      "22-037": [
+        "an opening ceremony",
+        "开幕式"
+      ],
+      "22-038": [
+        "initially planned",
+        "最初计划的"
+      ]
+    },
+    "related": [
+      {
+        "word": "beginning",
+        "meaning": "开始",
+        "relation": "同场景"
+      },
+      {
+        "word": "launch",
+        "meaning": "启动；推出",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-039",
+      "22-040"
+    ],
+    "examples": [
+      {
+        "en": "In the midst of the course, the learners moved to an intermediate level.",
+        "zh": "课程进行到一半时，学习者进入了中级阶段。"
+      },
+      {
+        "en": "The team reached an intermediate milestone in the midst of a difficult renovation.",
+        "zh": "在艰难的翻修过程中，团队达到了一个中期里程碑。"
+      },
+      {
+        "en": "She found herself in the midst of an intermediate language class despite being a beginner.",
+        "zh": "虽然是初学者，她却发现自己身处一堂中级语言课之中。"
+      }
+    ],
+    "collocations": {
+      "22-039": [
+        "an intermediate stage",
+        "中间阶段"
+      ],
+      "22-040": [
+        "in the midst of change",
+        "处于变化之中"
+      ]
+    },
+    "related": [
+      {
+        "word": "beginner",
+        "meaning": "初学者",
+        "relation": "同场景"
+      },
+      {
+        "word": "advanced",
+        "meaning": "高级的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-041"
+    ],
+    "examples": [
+      {
+        "en": "The repairs will take a week; in the meantime, we can use the other entrance.",
+        "zh": "维修需要一周时间，在此期间我们可以使用另一个入口。"
+      },
+      {
+        "en": "She applied for a permanent job and worked part-time in the meantime.",
+        "zh": "她申请了一份长期工作，在等待期间做兼职。"
+      },
+      {
+        "en": "The results are not ready, so in the meantime the team is checking its notes.",
+        "zh": "结果还没有出来，所以团队暂时在检查记录。"
+      }
+    ],
+    "collocations": {
+      "22-041": [
+        "in the meantime",
+        "在此期间；与此同时"
+      ]
+    },
+    "related": [
+      {
+        "word": "meanwhile",
+        "meaning": "与此同时",
+        "relation": "同场景"
+      },
+      {
+        "word": "temporary",
+        "meaning": "暂时的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-042"
+    ],
+    "examples": [
+      {
+        "en": "The teacher explained the task; meanwhile, the students opened their books.",
+        "zh": "老师解释任务的同时，学生们打开了书。"
+      },
+      {
+        "en": "Housing costs have risen; meanwhile, wages have remained almost unchanged.",
+        "zh": "住房成本上涨了，与此同时工资几乎没有变化。"
+      },
+      {
+        "en": "The soup was simmering; meanwhile, she prepared the vegetables.",
+        "zh": "汤炖着的同时，她准备了蔬菜。"
+      }
+    ],
+    "collocations": {
+      "22-042": [
+        "meanwhile, at home",
+        "与此同时，在家中"
+      ]
+    },
+    "related": [
+      {
+        "word": "simultaneously",
+        "meaning": "同时地",
+        "relation": "同场景"
+      },
+      {
+        "word": "in the meantime",
+        "meaning": "在此期间",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-043",
+      "22-044"
+    ],
+    "examples": [
+      {
+        "en": "The team dealt with simultaneous faults during the ongoing experiment.",
+        "zh": "在持续进行的实验中，团队处理了同时发生的故障。"
+      },
+      {
+        "en": "Ongoing construction made two simultaneous road closures especially disruptive.",
+        "zh": "持续施工使两处同时封路造成了特别大的影响。"
+      },
+      {
+        "en": "The ongoing study records simultaneous changes in temperature and pressure.",
+        "zh": "这项持续进行的研究记录了温度和压力的同时变化。"
+      }
+    ],
+    "collocations": {
+      "22-043": [
+        "simultaneous changes",
+        "同时发生的变化"
+      ],
+      "22-044": [
+        "an ongoing investigation",
+        "正在进行的调查"
+      ]
+    },
+    "related": [
+      {
+        "word": "concurrent",
+        "meaning": "同时发生的",
+        "relation": "同场景"
+      },
+      {
+        "word": "continuous",
+        "meaning": "持续的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-045",
+      "22-046"
+    ],
+    "examples": [
+      {
+        "en": "The artist wanted a permanent memorial to express the community’s everlasting gratitude.",
+        "zh": "艺术家希望用一座永久纪念碑表达社区永恒的感激之情。"
+      },
+      {
+        "en": "A permanent home gave the family stability, although they knew no comfort was everlasting.",
+        "zh": "一个长久的家给这个家庭带来了稳定，尽管他们知道没有任何舒适是永恒的。"
+      },
+      {
+        "en": "The poem contrasts a permanent monument with the writer’s hope for everlasting peace.",
+        "zh": "诗歌将永久的纪念碑与作者对永恒和平的期望进行对照。"
+      }
+    ],
+    "collocations": {
+      "22-045": [
+        "everlasting peace",
+        "永久的和平"
+      ],
+      "22-046": [
+        "a permanent residence",
+        "永久住所"
+      ]
+    },
+    "related": [
+      {
+        "word": "lasting",
+        "meaning": "持久的",
+        "relation": "同场景"
+      },
+      {
+        "word": "temporary",
+        "meaning": "暂时的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-047",
+      "22-048",
+      "22-049"
+    ],
+    "examples": [
+      {
+        "en": "For the duration of the project, she was punctual on every one of ten consecutive mornings.",
+        "zh": "项目期间，她连续十个早晨都准时到达。"
+      },
+      {
+        "en": "The punctual driver completed three consecutive shifts within the agreed duration.",
+        "zh": "这位守时的司机在约定时长内连续完成了三个班次。"
+      },
+      {
+        "en": "Punctual attendance was required for the duration of the course, which ran on five consecutive days.",
+        "zh": "这门连续五天开设的课程要求学员在整个期间准时出席。"
+      }
+    ],
+    "collocations": {
+      "22-047": [
+        "be punctual for meetings",
+        "开会准时"
+      ],
+      "22-048": [
+        "for the duration of the course",
+        "在整个课程期间"
+      ],
+      "22-049": [
+        "three consecutive days",
+        "连续三天"
+      ]
+    },
+    "related": [
+      {
+        "word": "schedule",
+        "meaning": "时间表",
+        "relation": "同场景"
+      },
+      {
+        "word": "attendance",
+        "meaning": "出席",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-050",
+      "22-051"
+    ],
+    "examples": [
+      {
+        "en": "As the deadline became imminent, she checked the shared document periodically.",
+        "zh": "随着截止日期临近，她定期查看共享文档。"
+      },
+      {
+        "en": "The engineers tested the alarm periodically because a storm was imminent.",
+        "zh": "由于暴风雨即将来临，工程师定期测试警报。"
+      },
+      {
+        "en": "Residents were updated periodically about the imminent closure of the bridge.",
+        "zh": "居民定期获知关于大桥即将关闭的最新消息。"
+      }
+    ],
+    "collocations": {
+      "22-050": [
+        "check periodically",
+        "定期检查"
+      ],
+      "22-051": [
+        "an imminent threat",
+        "迫在眉睫的威胁"
+      ]
+    },
+    "related": [
+      {
+        "word": "interval",
+        "meaning": "间隔",
+        "relation": "同场景"
+      },
+      {
+        "word": "approaching",
+        "meaning": "临近的",
+        "relation": "同场景"
+      }
+    ]
+  },
+  {
+    "ids": [
+      "22-052"
+    ],
+    "examples": [
+      {
+        "en": "Incidentally, the museum is free on the first Sunday of each month.",
+        "zh": "顺便说一句，博物馆每月第一个星期日免费开放。"
+      },
+      {
+        "en": "I have finished the report; incidentally, your suggestion improved the final paragraph.",
+        "zh": "我已经完成报告了，顺便说一句，你的建议让最后一段变得更好。"
+      },
+      {
+        "en": "The café closes early today; incidentally, it now serves vegetarian lunches.",
+        "zh": "这家咖啡馆今天提早打烊，顺便说一下，它现在供应素食午餐。"
+      }
+    ],
+    "collocations": {
+      "22-052": [
+        "incidentally, I should mention",
+        "顺便说一下，我应该提到"
+      ]
+    },
+    "related": [
+      {
+        "word": "by the way",
+        "meaning": "顺便说一下",
+        "relation": "同场景"
+      },
+      {
+        "word": "as an aside",
+        "meaning": "顺带一提",
+        "relation": "同场景"
+      }
+    ]
+  }
+]

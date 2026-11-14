@@ -1,0 +1,6 @@
+Merriweather font binaries restored on 2026-11-07.
+The original merge excluded binary assets. These are matching-family Latin webfonts, not verified byte-identical to the lost originals.
+Source: https://registry.npmjs.org/@fontsource/merriweather/-/merriweather-4.5.14.tgz
+Upstream package: @fontsource/merriweather@4.5.14
+Google Fonts version: v30 (last modified 2022-09-22).
+License: SIL Open Font License 1.1; see merriweather-OFL.txt in the editor public fonts directory.

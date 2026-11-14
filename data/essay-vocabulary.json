@@ -1,0 +1,2374 @@
+{
+  "conservation": [
+    {
+      "phrase": "the foremost of which are",
+      "source": "熟悉（讲义）",
+      "usage": "从前述多项原因挑出主要项；which 有明确的复数先行词，后列两项用 are",
+      "example": "This problem has several causes, the foremost of which are high rents and low wages."
+    },
+    {
+      "phrase": "an increasing need for essential items",
+      "source": "熟悉（讲义）",
+      "usage": "need for + N，表达需求增长",
+      "example": "An ageing population can create an increasing need for accessible housing."
+    },
+    {
+      "phrase": "releasing toxic chemicals or pesticides into the waterways",
+      "source": "熟悉（讲义）",
+      "usage": "release + 排放物 + into + 接收环境，交代污染机制",
+      "example": "Factories may release harmful gases into the atmosphere."
+    },
+    {
+      "phrase": "is also being exacerbated by wasteful daily habits",
+      "source": "熟悉（讲义）句型／校正搭配",
+      "usage": "be exacerbated by + N/V-ing，已有问题被加剧",
+      "example": "Traffic congestion can be exacerbated by unreliable bus services."
+    },
+    {
+      "phrase": "the sheer size of the population",
+      "source": "熟悉（讲义）",
+      "usage": "the sheer size of + N，规模放大小影响",
+      "example": "The sheer size of the student population makes small improvements to school meals significant."
+    },
+    {
+      "phrase": "impose regulations governing industrial processes",
+      "source": "熟悉（讲义）",
+      "usage": "impose regulations + governing N，明确规定管理对象",
+      "example": "Governments could impose regulations governing the collection of personal data."
+    },
+    {
+      "phrase": "impose sanctions on water polluters",
+      "source": "校正",
+      "usage": "impose sanctions on + 受罚主体，交代违规后果",
+      "example": "Authorities could impose sanctions on companies that breach safety rules."
+    },
+    {
+      "phrase": "have given rise to a shortage of drinkable water",
+      "source": "熟悉（讲义）句型／校正宾语",
+      "usage": "give rise to + N，指出形成的结果；to 是介词",
+      "example": "A shortage of affordable homes can give rise to longer commutes."
+    }
+  ],
+  "restriction": [
+    {
+      "phrase": "opinions differ as to how water should be used",
+      "source": "熟悉（讲义）",
+      "usage": "as to + 疑问从句，说明分歧对象；嵌入问句用陈述语序",
+      "example": "Opinions differ as to how public transport should be funded."
+    },
+    {
+      "phrase": "The argument in favour of giving priority to individuals' needs is that",
+      "source": "熟悉（讲义）",
+      "usage": "in favour of + N/V-ing；give priority to + N/V-ing；is that 后完整从句",
+      "example": "The argument in favour of giving priority to practical training is that students can develop job-related skills."
+    },
+    {
+      "phrase": "lay exclusive claim to it",
+      "source": "熟悉（讲义）句型／通用补充限定词",
+      "usage": "lay claim to + N，主张拥有；exclusive 表示排他",
+      "example": "No single department should lay exclusive claim to shared research facilities."
+    },
+    {
+      "phrase": "highlight the urgent need for governments to impose regulations",
+      "source": "熟悉（讲义）",
+      "usage": "highlight + N；need for sb to do，明确行动主体",
+      "example": "This case highlights the urgent need for schools to improve data protection."
+    },
+    {
+      "phrase": "contribute to the depletion of fresh water",
+      "source": "熟悉（通用搭配库）／熟悉（讲义）名词",
+      "usage": "contribute to + N/V-ing；depletion of + 资源，表达促成耗减",
+      "example": "Excessive household energy use can contribute to the depletion of finite fuel resources."
+    },
+    {
+      "phrase": "concern for future generations justifies measures to limit excessive water usage",
+      "source": "校正",
+      "usage": "concern for + 关切对象；justify + N；measures to do，给出限制的理由",
+      "example": "Concern for children's privacy justifies measures to limit unnecessary data collection."
+    },
+    {
+      "phrase": "providing an incentive to reduce excessive use",
+      "source": "熟悉（讲义）句型／校正语境",
+      "usage": "provide an incentive to do；也可 provide an incentive for sb to do",
+      "example": "Affordable training can provide an incentive for employees to update their skills."
+    },
+    {
+      "phrase": "without restricting access to water for basic needs",
+      "source": "熟悉（讲义）access to／通用补充组合",
+      "usage": "without + V-ing；access to + N，说明措施应保护的边界",
+      "example": "Libraries could reduce operating costs without restricting access to essential learning resources."
+    }
+  ],
+  "eight-te01": [
+    {
+      "phrase": "would otherwise be spent",
+      "source": "校正",
+      "usage": "机会成本：time/money that would otherwise be spent on + N/V-ing。",
+      "example": "Money that would otherwise be spent on printed manuals could fund teacher training."
+    },
+    {
+      "phrase": "cover the overhead costs",
+      "source": "校正",
+      "usage": "承担经常性开销：cover + costs；overhead修饰间接运营成本。",
+      "example": "Small museums may struggle to cover the overhead costs of maintaining their buildings."
+    },
+    {
+      "phrase": "take a heavy toll on",
+      "source": "熟悉（讲义）",
+      "usage": "说明严重负面影响：take a heavy toll on + 人/状态/活动。",
+      "example": "An excessive exam workload can take a heavy toll on students’ well-being."
+    },
+    {
+      "phrase": "communicate face to face",
+      "source": "校正",
+      "usage": "说明沟通方式：communicate + face to face；名词前用face-to-face。",
+      "example": "Language learners can build confidence when they communicate face to face with visitors."
+    },
+    {
+      "phrase": "forge bonds",
+      "source": "熟悉（讲义）",
+      "usage": "建立关系：forge bonds with + 人 / between + 双方。",
+      "example": "Community sports can help residents forge bonds with their neighbours."
+    }
+  ],
+  "eight-te02": [
+    {
+      "phrase": "providing a helping hand",
+      "source": "熟悉（讲义）",
+      "usage": "说明辅助作用：provide a helping hand for + 群体 / in + V-ing。",
+      "example": "Public libraries are providing a helping hand for adults learning digital skills."
+    },
+    {
+      "phrase": "domestic chores",
+      "source": "熟悉（讲义）",
+      "usage": "家务劳动：escape from / spend time on + domestic chores。",
+      "example": "Shared housing arrangements can help students divide domestic chores fairly."
+    },
+    {
+      "phrase": "can displace workers",
+      "source": "校正",
+      "usage": "限定就业影响：can displace workers in + 行业/岗位。",
+      "example": "A shift towards online retail can displace workers in traditional shops."
+    },
+    {
+      "phrase": "boost operational efficiency",
+      "source": "熟悉（讲义）",
+      "usage": "提升运行效率：boost + efficiency；须说明靠哪一环节。",
+      "example": "A shared booking system can boost operational efficiency in sports centres."
+    },
+    {
+      "phrase": "provided that",
+      "source": "校正",
+      "usage": "给判断附条件：provided that + 完整从句。",
+      "example": "Tourism can benefit a village, provided that visitor income supports local conservation."
+    }
+  ],
+  "eight-t01": [
+    {
+      "phrase": "the pursuit of convenience",
+      "source": "校正",
+      "usage": "解释偏好动机：the pursuit of + 抽象目标；不等于收入能力。",
+      "example": "The pursuit of convenience may encourage shoppers to choose home delivery."
+    },
+    {
+      "phrase": "opting for another affordable mode of transport",
+      "source": "熟悉（讲义）",
+      "usage": "选择替代：opt for + N；opting为与reducing并列的V-ing。",
+      "example": "Parents may respond to high fees by opting for a community childcare scheme."
+    },
+    {
+      "phrase": "the questionable assumption that",
+      "source": "校正",
+      "usage": "指出可疑前提：be based on the questionable assumption that + 从句。",
+      "example": "The policy rests on the questionable assumption that every student has a quiet room."
+    },
+    {
+      "phrase": "may be less responsive to fuel prices",
+      "source": "校正",
+      "usage": "说明较弱反应：be responsive to + N；less不等于完全不反应。",
+      "example": "Experienced employees may be less responsive to small financial bonuses."
+    },
+    {
+      "phrase": "may voluntarily shift",
+      "source": "校正",
+      "usage": "行为转变：may voluntarily shift from + 起点 + to + 终点。",
+      "example": "With affordable local facilities, families may voluntarily shift from indoor entertainment to outdoor activities."
+    }
+  ],
+  "eight-t02": [
+    {
+      "phrase": "act as a catalyst for",
+      "source": "校正",
+      "usage": "催化变化：act as a catalyst for + N/V-ing。",
+      "example": "A community festival can act as a catalyst for interest in local history."
+    },
+    {
+      "phrase": "through direct experience",
+      "source": "校正",
+      "usage": "说明认识来源：learn/recognise + 宾语 + through direct experience。",
+      "example": "Students can understand workplace expectations through direct experience."
+    },
+    {
+      "phrase": "reduces their dependence on private cars",
+      "source": "熟悉（讲义）",
+      "usage": "降低依赖：reduce dependence on + N。",
+      "example": "Practical cookery lessons may reduce students’ dependence on ready-made meals."
+    },
+    {
+      "phrase": "increasing budget allocation",
+      "source": "熟悉（讲义）",
+      "usage": "增加预算分配：increase budget allocation for + N/V-ing；表示目的可另接 to + 动词原形。",
+      "example": "Increasing budget allocation for mentoring could improve support for new teachers."
+    },
+    {
+      "phrase": "helping to justify its cost",
+      "source": "校正",
+      "usage": "提供成本合理性：help to justify + cost；helping为结果补充。",
+      "example": "A shared hall can serve both classes and local events, helping to justify its cost."
+    }
+  ],
+  "eight-t03": [
+    {
+      "phrase": "give relatively little weight to fares",
+      "source": "校正",
+      "usage": "说明考虑权重：give little weight to + N；不是完全忽视。",
+      "example": "Employers may give relatively little weight to grades when applicants have strong practical experience."
+    },
+    {
+      "phrase": "in exchange for comfort and convenience",
+      "source": "校正",
+      "usage": "交换关系：accept/pay + 成本 + in exchange for + 收益。",
+      "example": "Some tourists pay higher prices in exchange for more personalised guidance."
+    },
+    {
+      "phrase": "may do little to relieve peak-hour congestion",
+      "source": "校正",
+      "usage": "限定作用：do little to + V，表示作用小而非完全无效。",
+      "example": "Extra homework may do little to improve understanding when students receive no feedback."
+    },
+    {
+      "phrase": "place additional pressure on",
+      "source": "校正",
+      "usage": "增加负担：place pressure on + 承受者；additional修饰pressure。",
+      "example": "Rising rents can place additional pressure on small cultural organisations."
+    },
+    {
+      "phrase": "less cost-effective than targeted improvements",
+      "source": "校正",
+      "usage": "成本效益比较：be less cost-effective than + N/V-ing。",
+      "example": "A universal subsidy may be less cost-effective than targeted support for disadvantaged learners."
+    }
+  ],
+  "eight-f01": [
+    {
+      "phrase": "a blanket ban on",
+      "source": "熟悉（讲义）",
+      "usage": "全面禁令：impose a blanket ban on + N/V-ing；范围强，需相称理由。",
+      "example": "A blanket ban on school trips could deprive pupils of valuable learning experiences."
+    },
+    {
+      "phrase": "customers’ access to these products",
+      "source": "校正",
+      "usage": "资源渠道：restrict + 人’s access to + N。",
+      "example": "High ticket prices can restrict families’ access to cultural events."
+    },
+    {
+      "phrase": "is grounded on the premise that",
+      "source": "熟悉（讲义）",
+      "usage": "指出论证前提：be grounded on the premise that + 完整从句。",
+      "example": "The proposal is grounded on the premise that every household has reliable internet."
+    },
+    {
+      "phrase": "generates tax revenue",
+      "source": "校正",
+      "usage": "经济收益：generate tax revenue from + 销售/活动。",
+      "example": "A well-managed tourism sector generates tax revenue that can support local services."
+    },
+    {
+      "phrase": "given consumers’ practical needs",
+      "source": "校正",
+      "usage": "给判断理由：given + N；相当于考虑到该因素。",
+      "example": "Given students’ practical needs, evening transport services deserve attention."
+    }
+  ],
+  "eight-f02": [
+    {
+      "phrase": "associated with excessive sugar consumption",
+      "source": "校正",
+      "usage": "关联而非确证唯一因果：be associated with + N/V-ing。",
+      "example": "Long journeys may be associated with fatigue and reduced family time."
+    },
+    {
+      "phrase": "in moderation",
+      "source": "校正",
+      "usage": "限定程度：consume/use/enjoy + N + in moderation。",
+      "example": "Digital entertainment can be enjoyable when used in moderation."
+    },
+    {
+      "phrase": "facing a heavy workload",
+      "source": "校正",
+      "usage": "说明负担情景：face a heavy workload；workload为可数负担量。",
+      "example": "Teachers facing a heavy workload may need more administrative support."
+    },
+    {
+      "phrase": "do not, by themselves, justify",
+      "source": "校正",
+      "usage": "区分问题与措施合理性：X do not, by themselves, justify + N/V-ing。",
+      "example": "Occasional delays do not, by themselves, justify closing an entire railway line."
+    },
+    {
+      "phrase": "help consumers make informed choices",
+      "source": "校正",
+      "usage": "信息支持：help + sb + (to) make informed choices about + N。",
+      "example": "Career workshops can help students make informed choices about vocational courses."
+    }
+  ],
+  "eight-f03": [
+    {
+      "phrase": "the convenience of and ready access to",
+      "source": "校正",
+      "usage": "并列名词各带介词：the convenience of + N；ready access to + N。",
+      "example": "Learners value the convenience of and ready access to recorded lectures."
+    },
+    {
+      "phrase": "invest a lot of time in preparing",
+      "source": "熟悉（讲义）",
+      "usage": "时间投入：invest time in + V-ing；in不是to。",
+      "example": "Residents may be unwilling to invest a lot of time in maintaining a shared garden."
+    },
+    {
+      "phrase": "pale into insignificance",
+      "source": "熟悉（讲义）",
+      "usage": "相对不重要：X pale into insignificance compared with + Y。",
+      "example": "Small savings may pale into insignificance compared with the value of reliable medical care."
+    },
+    {
+      "phrase": "represent the cultural identity of a group",
+      "source": "校正",
+      "usage": "文化象征：represent the cultural identity of + 群体。",
+      "example": "Local festivals can represent the cultural identity of a group."
+    },
+    {
+      "phrase": "their emotional bond can be strengthened",
+      "source": "校正",
+      "usage": "关系结果：an emotional bond can be strengthened by + V-ing。",
+      "example": "The emotional bond between teammates can be strengthened by working towards a shared goal."
+    }
+  ],
+  "eight-a01": [
+    {
+      "phrase": "the benefits that accrue to companies and children",
+      "source": "校正",
+      "usage": "利益归属：benefits that accrue to + 受益者；that引导定语从句。",
+      "example": "The benefits that accrue to local residents should be considered when funding festivals."
+    },
+    {
+      "phrase": "a wide array of options",
+      "source": "熟悉（讲义）",
+      "usage": "选项多样：choose among / offer + a wide array of + 复数名词。",
+      "example": "Public libraries offer a wide array of options for independent study."
+    },
+    {
+      "phrase": "the fine line between persuasive advertising and misleading information",
+      "source": "校正",
+      "usage": "相近概念边界：the fine line between + A + and + B。",
+      "example": "Teachers should recognise the fine line between encouragement and excessive pressure."
+    },
+    {
+      "phrase": "are susceptible to such strategies",
+      "source": "熟悉（讲义）",
+      "usage": "易受影响：be susceptible to + N；不表示必然上当。",
+      "example": "Inexperienced tourists may be susceptible to misleading sales tactics."
+    },
+    {
+      "phrase": "make the distinction between",
+      "source": "熟悉（讲义）",
+      "usage": "辨别两者：make the distinction between + A + and + B。",
+      "example": "Students need to make the distinction between memorising a rule and understanding its use."
+    }
+  ],
+  "eight-a02": [
+    {
+      "phrase": "the habit of ignoring it",
+      "source": "校正",
+      "usage": "习惯结构：develop the habit of + V-ing；it回指不可数advertising。",
+      "example": "Students can develop the habit of checking their work before submission."
+    },
+    {
+      "phrase": "aligns with brand images",
+      "source": "校正",
+      "usage": "与目标一致：align with + N；aligns由单数主语决定。",
+      "example": "Vocational training should align with local employment needs."
+    },
+    {
+      "phrase": "sparks their followers’ interest",
+      "source": "熟悉（讲义）",
+      "usage": "激发兴趣：spark + 人’s interest in + N/V-ing。",
+      "example": "A visit to a museum can spark pupils’ interest in local history."
+    },
+    {
+      "phrase": "be inclined to choose",
+      "source": "熟悉（讲义）",
+      "usage": "倾向行为：be inclined to + V；不是必然选择。",
+      "example": "Learners may be inclined to choose courses recommended by trusted classmates."
+    },
+    {
+      "phrase": "stimulate consumer spending",
+      "source": "校正",
+      "usage": "经济作用：stimulate + spending/demand；需说明信息或激励机制。",
+      "example": "Improved access to town centres may stimulate consumer spending in local shops."
+    }
+  ],
+  "eight-a03": [
+    {
+      "phrase": "acts as a catalyst for",
+      "source": "熟悉（讲义）",
+      "usage": "推动现象：act as a catalyst for + N/V-ing；不是唯一原因。",
+      "example": "International cooperation acts as a catalyst for scientific exchange."
+    },
+    {
+      "phrase": "run through algorithms",
+      "source": "熟悉（讲义）",
+      "usage": "信息处理：data are run through + 算法/系统；run过去分词同形。",
+      "example": "Traffic data can be run through algorithms to identify congested routes."
+    },
+    {
+      "phrase": "weigh their needs against the cost",
+      "source": "校正",
+      "usage": "比较权衡：weigh + A + against + B。",
+      "example": "Policymakers should weigh the benefits of new stadiums against the cost."
+    },
+    {
+      "phrase": "serve a practical purpose",
+      "source": "校正",
+      "usage": "有实际用途：serve + a practical purpose；不等于只追求低价。",
+      "example": "Community language classes serve a practical purpose for new residents."
+    },
+    {
+      "phrase": "respond to an existing need",
+      "source": "校正",
+      "usage": "回应已有需求：respond to + N；区别于制造需要。",
+      "example": "Evening childcare can respond to an existing need among shift workers."
+    }
+  ],
+  "eight-a04": [
+    {
+      "phrase": "acts as a vehicle for promotion",
+      "source": "熟悉（讲义）",
+      "usage": "承担传播功能：act as a vehicle for + N；vehicle为比喻。",
+      "example": "A local festival can act as a vehicle for cultural exchange."
+    },
+    {
+      "phrase": "prospective buyers",
+      "source": "熟悉（讲义）",
+      "usage": "潜在购买者：introduce products to / attract + prospective buyers。",
+      "example": "Clear online descriptions can help prospective buyers compare handmade products."
+    },
+    {
+      "phrase": "beyond the reach of all but the wealthy",
+      "source": "熟悉（讲义）",
+      "usage": "可获得性差距：be beyond the reach of + 人；all but此处为除……之外皆。",
+      "example": "High university fees may put some courses beyond the reach of all but the wealthy."
+    },
+    {
+      "phrase": "material possessions",
+      "source": "熟悉（讲义）",
+      "usage": "物质财产：regard material possessions as + 评价；不是精神财富。",
+      "example": "Children should not learn to measure personal worth solely through material possessions."
+    },
+    {
+      "phrase": "adopt a more critical attitude",
+      "source": "校正",
+      "usage": "主动判断：adopt a critical attitude towards + N。",
+      "example": "Students should adopt a more critical attitude towards unverified online information."
+    }
+  ],
+  "eight-a05": [
+    {
+      "phrase": "put a premium on",
+      "source": "熟悉（讲义）",
+      "usage": "高度重视：put a premium on + N/V-ing；不是字面溢价。",
+      "example": "Employers may put a premium on practical experience when recruiting technicians."
+    },
+    {
+      "phrase": "get their hands on",
+      "source": "校正",
+      "usage": "获得想要物品：get one’s hands on + N；hands复数，介词on。",
+      "example": "Young readers may queue to get their hands on a popular novel."
+    },
+    {
+      "phrase": "distinguish themselves from the competition",
+      "source": "熟悉（讲义）",
+      "usage": "与竞争者区分：distinguish A from + B；the competition指竞争对手整体。",
+      "example": "Small museums can distinguish themselves from the competition through local expertise."
+    },
+    {
+      "phrase": "the resulting benefits could accrue",
+      "source": "校正",
+      "usage": "收益归属：the resulting benefits could accrue to + 人；benefits作主语。",
+      "example": "If buses become more reliable, the resulting benefits could accrue to workers and students."
+    },
+    {
+      "phrase": "places an unnecessary financial burden on consumers",
+      "source": "校正",
+      "usage": "财务代价：place a financial burden on + 承受者。",
+      "example": "Frequent changes to school uniforms place an unnecessary financial burden on parents."
+    }
+  ],
+  "eight-l01": [
+    {
+      "phrase": "place a premium on",
+      "source": "熟悉（讲义）",
+      "usage": "高度重视：place a premium on + N/V-ing。",
+      "example": "Universities should place a premium on helping students evaluate evidence."
+    },
+    {
+      "phrase": "foster and cement business relationships",
+      "source": "校正",
+      "usage": "建立并巩固关系：foster/cement + relationships with + 人。",
+      "example": "Joint community projects can foster and cement relationships between neighbours."
+    },
+    {
+      "phrase": "break down language barriers",
+      "source": "熟悉（讲义）",
+      "usage": "减少沟通障碍：break down + barriers to + N/V-ing。",
+      "example": "Accessible teaching materials can break down barriers to adult education."
+    },
+    {
+      "phrase": "a lingua franca",
+      "source": "校正",
+      "usage": "共同交流语言：use/need + a lingua franca；单数可数名词需冠词。",
+      "example": "An international sporting event may need a lingua franca for volunteers from different countries."
+    },
+    {
+      "phrase": "widen access to knowledge",
+      "source": "校正",
+      "usage": "扩大获取机会：widen access to + N；access通常不可数。",
+      "example": "Free public libraries can widen access to knowledge in disadvantaged communities."
+    }
+  ],
+  "eight-l02": [
+    {
+      "phrase": "spare students the trouble of learning",
+      "source": "熟悉（讲义）",
+      "usage": "省去麻烦：spare + sb + the trouble of + V-ing。",
+      "example": "Clear transport information can spare visitors the trouble of asking for directions."
+    },
+    {
+      "phrase": "develop a good command of",
+      "source": "校正",
+      "usage": "形成熟练掌握：develop a good command of + 语言/知识领域。",
+      "example": "Apprentices need to develop a good command of basic safety procedures."
+    },
+    {
+      "phrase": "would otherwise be spent on",
+      "source": "校正",
+      "usage": "机会成本：time that would otherwise be spent on + N/V-ing。",
+      "example": "Time that would otherwise be spent on paperwork could be used for lesson planning."
+    },
+    {
+      "phrase": "prevent the message from getting garbled",
+      "source": "校正",
+      "usage": "防止失真：prevent + N + from + V-ing；message为被影响对象。",
+      "example": "Careful instructions can prevent new employees from making avoidable mistakes."
+    },
+    {
+      "phrase": "have access to a specific culture",
+      "source": "熟悉（讲义）",
+      "usage": "获得文化入口：have access to + N，不把access当可数。",
+      "example": "Affordable exhibitions give schoolchildren access to a wider range of artistic traditions."
+    }
+  ],
+  "eight-l03": [
+    {
+      "phrase": "a natural aptitude for",
+      "source": "校正",
+      "usage": "天赋能力：have/lack a natural aptitude for + N/V-ing。",
+      "example": "A natural aptitude for drawing does not remove the need for regular practice."
+    },
+    {
+      "phrase": "have little in common with",
+      "source": "校正",
+      "usage": "相似度低：A have little in common with + B。",
+      "example": "A classroom simulation may have little in common with the pressure of a real workplace."
+    },
+    {
+      "phrase": "devote themselves to other subjects",
+      "source": "熟悉（讲义）",
+      "usage": "投入领域：devote oneself/time to + N/V-ing，to为介词。",
+      "example": "Employees could devote more time to developing transferable skills."
+    },
+    {
+      "phrase": "a means of broadening their horizons",
+      "source": "校正",
+      "usage": "途径作用：a means of + V-ing；broaden one’s horizons拓宽视野。",
+      "example": "Volunteering can be a means of broadening young people’s horizons."
+    },
+    {
+      "phrase": "with teaching and expectations adapted to their needs",
+      "source": "校正",
+      "usage": "条件配套：with + N + 过去分词；adapt X to + 需要。",
+      "example": "A public exercise programme can be inclusive, with activities adapted to participants’ needs."
+    }
+  ],
+  "eight-c01": [
+    {
+      "phrase": "set a good example for",
+      "source": "熟悉（讲义）",
+      "usage": "行为示范：set a good example for + 人；example可被关系从句展开。",
+      "example": "Teachers can set a good example for pupils by checking uncertain information."
+    },
+    {
+      "phrase": "have a propensity for aggressive behaviour",
+      "source": "熟悉（讲义）",
+      "usage": "描述倾向：have a propensity for + N/V-ing；不代表必然行为。",
+      "example": "Some businesses have a propensity for prioritising short-term sales over service quality."
+    },
+    {
+      "phrase": "be it in video games or violent movies",
+      "source": "校正",
+      "usage": "两类场景推广：be it + A + or + B，正式表达。",
+      "example": "Students need reliable guidance, be it in academic study or vocational training."
+    },
+    {
+      "phrase": "the extent to which they are culpable",
+      "source": "校正",
+      "usage": "程度限定：the extent to which + 主谓；culpable为应负责任。",
+      "example": "Schools should consider the extent to which their rules affect disadvantaged families."
+    },
+    {
+      "phrase": "take the offender's maturity into account",
+      "source": "校正",
+      "usage": "纳入判断：take + 因素 + into account。",
+      "example": "Course designers should take learners’ prior knowledge into account."
+    }
+  ],
+  "eight-c02": [
+    {
+      "phrase": "proportionate punishment",
+      "source": "校正",
+      "usage": "相称处罚：punishment proportionate to + 罪行；形容词用proportionate。",
+      "example": "Schools should use proportionate sanctions for repeated rule violations."
+    },
+    {
+      "phrase": "weigh the benefits against the risks",
+      "source": "校正",
+      "usage": "权衡两侧：weigh + benefits + against + risks。",
+      "example": "Tourists should weigh the benefits of remote travel against the risks to fragile environments."
+    },
+    {
+      "phrase": "be a mitigating factor",
+      "source": "校正",
+      "usage": "减轻情形：X may be a mitigating factor；不是自动免罚条件。",
+      "example": "A lack of clear instructions may be a mitigating factor when assessing an employee’s mistake."
+    },
+    {
+      "phrase": "are led astray by extrinsic factors",
+      "source": "熟悉（讲义）",
+      "usage": "受到外在因素误导：be led astray by + 原因；lead过去分词led。",
+      "example": "Young consumers may be led astray by exaggerated claims about expensive products."
+    },
+    {
+      "phrase": "tailored to the maturity of delinquents",
+      "source": "熟悉（讲义）",
+      "usage": "按特征适配：tailor + N + to + 需要/特征；被动为be tailored to。",
+      "example": "Support sessions should be tailored to the needs of new language learners."
+    }
+  ],
+  "eight-c03": [
+    {
+      "phrase": "weigh the potential rewards against the punishment",
+      "source": "校正",
+      "usage": "得失比较：weigh + 收益 + against + 代价。",
+      "example": "Employees may weigh the potential rewards of promotion against the additional workload."
+    },
+    {
+      "phrase": "refrain from offending",
+      "source": "校正",
+      "usage": "克制行动：refrain from + V-ing，from后不可接原形。",
+      "example": "Consumers may refrain from buying unnecessary products when they track their spending."
+    },
+    {
+      "phrase": "escape justice",
+      "source": "熟悉（讲义）",
+      "usage": "逃脱应负后果：escape + justice，不加from。",
+      "example": "Stronger checks can make it harder for fraudulent advertisers to escape justice."
+    },
+    {
+      "phrase": "developing moral judgment",
+      "source": "校正",
+      "usage": "培养判断：develop + 能力名词；developing为by后的V-ing。",
+      "example": "Literature discussions can help pupils develop moral judgment without prescribing a single answer."
+    },
+    {
+      "phrase": "make concerted efforts",
+      "source": "熟悉（讲义）",
+      "usage": "共同协作：make concerted efforts to + V；说明参与主体。",
+      "example": "Schools and families should make concerted efforts to support struggling readers."
+    }
+  ],
+  "eight-c04": [
+    {
+      "phrase": "secure a job",
+      "source": "熟悉（讲义）",
+      "usage": "获得稳定岗位：secure + a job/employment；不指工作安全。",
+      "example": "Vocational courses can help school leavers secure a job in skilled trades."
+    },
+    {
+      "phrase": "a means of livelihood",
+      "source": "熟悉（讲义）",
+      "usage": "谋生方式：as a means of livelihood；means单复数同形。",
+      "example": "Traditional crafts remain a means of livelihood for some rural households."
+    },
+    {
+      "phrase": "a major barrier to employment",
+      "source": "熟悉（讲义）",
+      "usage": "就业障碍：a barrier to + N/V-ing；to是介词。",
+      "example": "Unaffordable transport can be a major barrier to employment in remote areas."
+    },
+    {
+      "phrase": "a sense of self-efficacy and accomplishment",
+      "source": "熟悉（讲义）",
+      "usage": "能力信念与成就感：develop a sense of + 抽象名词。",
+      "example": "Completing a group project can give students a sense of self-efficacy and accomplishment."
+    },
+    {
+      "phrase": "a stabilizing routine",
+      "source": "熟悉（讲义）",
+      "usage": "稳定生活安排：provide a stabilizing routine for + 人。",
+      "example": "Regular sports sessions can provide a stabilizing routine for new university students."
+    }
+  ],
+  "eight-e01": [
+    {
+      "phrase": "a wealth of job opportunities",
+      "source": "熟悉（讲义）",
+      "usage": "机会丰富：a wealth of + N；wealth为丰富量而非仅金钱。",
+      "example": "Learning digital skills may open up a wealth of job opportunities for older workers."
+    },
+    {
+      "phrase": "does not necessarily amount to success",
+      "source": "熟悉（讲义）",
+      "usage": "否定等同：X does not necessarily amount to + N。",
+      "example": "A large tourism industry does not necessarily amount to prosperity for local residents."
+    },
+    {
+      "phrase": "hands-on, job-specific instruction",
+      "source": "熟悉（讲义）",
+      "usage": "实践与岗位针对性：provide/receive + hands-on, job-specific instruction。",
+      "example": "New museum guides could receive hands-on, job-specific instruction before leading tours."
+    },
+    {
+      "phrase": "affords graduates access to",
+      "source": "校正",
+      "usage": "提供机会：afford + 人 + access to + N；不同于afford to do负担得起。",
+      "example": "An affordable bus network affords rural residents access to medical services."
+    },
+    {
+      "phrase": "should not be defined in terms of",
+      "source": "校正",
+      "usage": "界定标准：define X in terms of + N；被动be defined。",
+      "example": "A successful city should not be defined in terms of economic output alone."
+    }
+  ],
+  "eight-e02": [
+    {
+      "phrase": "equip students with the skills and knowledge",
+      "source": "熟悉（讲义）",
+      "usage": "赋予能力：equip + sb + with + N；不能equip sb of。",
+      "example": "Community classes can equip older residents with the skills and knowledge needed for online services."
+    },
+    {
+      "phrase": "the alignment between the goal of education and the growing needs of the job market",
+      "source": "校正",
+      "usage": "目标匹配：the alignment between + A + and + B。",
+      "example": "The alignment between bus routes and residents’ travel needs can improve public transport use."
+    },
+    {
+      "phrase": "hands-on experience",
+      "source": "熟悉（讲义）",
+      "usage": "实际操作经验：gain/provide + hands-on experience in + N/V-ing。",
+      "example": "Conservation projects give volunteers hands-on experience in maintaining habitats."
+    },
+    {
+      "phrase": "a broad foundation in general education",
+      "source": "校正",
+      "usage": "基础构建：a broad foundation in + 领域。",
+      "example": "A broad foundation in science can help citizens evaluate environmental claims."
+    },
+    {
+      "phrase": "exercise their freedom to choose",
+      "source": "熟悉（讲义）",
+      "usage": "行使选择自由：exercise one’s freedom to + V。",
+      "example": "Adults should be able to exercise their freedom to choose suitable training courses."
+    }
+  ],
+  "eight-e03": [
+    {
+      "phrase": "mixed-ability classes",
+      "source": "熟悉（讲义）",
+      "usage": "混合能力教学：teach students in + mixed-ability classes。",
+      "example": "Mixed-ability classes in community sports can encourage mutual support."
+    },
+    {
+      "phrase": "feel stigmatized",
+      "source": "熟悉（讲义）",
+      "usage": "受污名感：feel/be stigmatized by/as + N；此处可能损害心理。",
+      "example": "Residents may feel stigmatized when public support is described as a personal failure."
+    },
+    {
+      "phrase": "undermine their confidence and self-esteem",
+      "source": "熟悉（讲义）",
+      "usage": "负面心理结果：undermine + confidence/self-esteem。",
+      "example": "Repeated public criticism can undermine employees’ confidence and self-esteem."
+    },
+    {
+      "phrase": "assimilate new knowledge",
+      "source": "校正",
+      "usage": "理解吸收：assimilate + knowledge/information；不是只死记。",
+      "example": "Practical demonstrations can help apprentices assimilate new knowledge."
+    },
+    {
+      "phrase": "allowing movement between groups",
+      "source": "校正",
+      "usage": "制度可变性：allow movement between + 复数群组；allowing作伴随补充。",
+      "example": "Adult courses can remain flexible by allowing movement between groups as learners progress."
+    }
+  ],
+  "eight-e04": [
+    {
+      "phrase": "little, if any, hands-on experience",
+      "source": "校正",
+      "usage": "程度限定：little, if any, + 不可数名词；if any两侧逗号。",
+      "example": "New volunteers may have little, if any, hands-on experience in habitat restoration."
+    },
+    {
+      "phrase": "channelled into employee training",
+      "source": "熟悉（讲义）",
+      "usage": "资金投入：channel money/time into + N/V-ing；此处被动。",
+      "example": "Funds could be channelled into improving public transport reliability."
+    },
+    {
+      "phrase": "acquire professional competence",
+      "source": "熟悉（讲义）",
+      "usage": "获得专业胜任能力：acquire + competence in + 领域；不是竞争力competitiveness。",
+      "example": "Supervised practice helps trainee nurses acquire professional competence."
+    },
+    {
+      "phrase": "cope with unforeseeable emergencies",
+      "source": "熟悉（讲义）",
+      "usage": "应对突发紧急情况：cope with + N；unforeseeable不能预见的。",
+      "example": "Well-trained tour guides may be better able to cope with unforeseeable emergencies."
+    },
+    {
+      "phrase": "an indispensable aspect of higher education",
+      "source": "熟悉（讲义）",
+      "usage": "必要组成：an indispensable aspect of + N；本篇对象为高教内容。",
+      "example": "Critical reading is an indispensable aspect of responsible media use."
+    }
+  ],
+  "eight-e05": [
+    {
+      "phrase": "devote substantial time to their studies",
+      "source": "校正",
+      "usage": "时间分配：devote + time + to + N/V-ing；to是介词。",
+      "example": "Local councils should devote substantial time to consulting residents before changing bus routes."
+    },
+    {
+      "phrase": "like-minded people",
+      "source": "校正",
+      "usage": "共同兴趣者：interact with / meet + like-minded people。",
+      "example": "Community gardens allow residents to meet like-minded people."
+    },
+    {
+      "phrase": "sharpen or acquire skills",
+      "source": "熟悉（讲义）",
+      "usage": "磨炼或获取能力：sharpen/acquire + skills；不可sharpen人。",
+      "example": "Volunteering can help young adults sharpen or acquire skills in teamwork."
+    },
+    {
+      "phrase": "an important ingredient of personal socialization",
+      "source": "校正",
+      "usage": "组成因素：an important ingredient of + 过程/结果。",
+      "example": "Trust is an important ingredient of effective international cooperation."
+    },
+    {
+      "phrase": "Only when the pursuit of academic achievement is integrated with social learning through activities can",
+      "source": "校正",
+      "usage": "必要条件倒装：Only when + 正常从句 + can + 主语 + V。",
+      "example": "Only when safer routes are combined with affordable fares can public transport attract more drivers."
+    }
+  ],
+  "eight-e06": [
+    {
+      "phrase": "the focused use of effort and attention",
+      "source": "校正",
+      "usage": "投入方式：the focused use of + 资源；focused指集中而非量最大。",
+      "example": "The focused use of public funds can improve services on overcrowded bus routes."
+    },
+    {
+      "phrase": "at the frontiers of knowledge",
+      "source": "校正",
+      "usage": "知识前沿：work/research at the frontiers of + 领域/knowledge。",
+      "example": "Researchers at the frontiers of environmental science need to exchange ideas across disciplines."
+    },
+    {
+      "phrase": "climb the career ladder",
+      "source": "校正",
+      "usage": "职业晋升：help + sb + climb the career ladder。",
+      "example": "Communication skills can help employees climb the career ladder in international firms."
+    },
+    {
+      "phrase": "can complement professional competence",
+      "source": "校正",
+      "usage": "互补关系：complement + N，不能加with作该动词宾语结构。",
+      "example": "Experience of volunteering can complement the professional competence gained through formal study."
+    },
+    {
+      "phrase": "equips them to sharpen their skills and knowledge",
+      "source": "校正",
+      "usage": "能力准备：equip + sb + to + V；sharpen + skills/knowledge。",
+      "example": "Critical reading equips students to evaluate unfamiliar claims more carefully."
+    }
+  ],
+  "nine-01": [
+    {
+      "phrase": "adapt to",
+      "source": "校正",
+      "usage": "主动调整以适应；adapt to + N/V-ing，to是介词。",
+      "example": "New employees may need time to adapt to working with an international team."
+    },
+    {
+      "phrase": "alleviate its effects",
+      "source": "校正",
+      "usage": "减轻后果而非消除根源；alleviate + effects of N，its须有清楚指代。",
+      "example": "School examinations may cause anxiety, but clear guidance can alleviate its effects."
+    },
+    {
+      "phrase": "reduce reliance",
+      "source": "校正",
+      "usage": "降低依赖；reduce reliance on + N/V-ing。",
+      "example": "Better buses could reduce reliance on private cars."
+    },
+    {
+      "phrase": "alternative energy sources",
+      "source": "校正",
+      "usage": "指出替代资源；alternative + N，sources可用作develop的宾语。",
+      "example": "Schools could explore alternative funding sources before raising tuition fees."
+    },
+    {
+      "phrase": "should never be underestimated",
+      "source": "校正",
+      "usage": "强调不应低估；N + should never be underestimated，被动后不再加宾语。",
+      "example": "The value of regular feedback should never be underestimated in language learning."
+    }
+  ],
+  "nine-02": [
+    {
+      "phrase": "can be morally justified",
+      "source": "校正",
+      "usage": "给出道德辩护而非事实解释；N/V-ing + can be morally justified + 条件。",
+      "example": "Temporary restrictions on travel can be morally justified when they protect people from an immediate danger."
+    },
+    {
+      "phrase": "rely solely on",
+      "source": "校正",
+      "usage": "强调唯一依赖对象；rely solely on + N/V-ing，随后应检查有无替代。",
+      "example": "Rural schools should not rely solely on unpaid volunteers."
+    },
+    {
+      "phrase": "provided that",
+      "source": "校正",
+      "usage": "引入必要条件；provided that + 完整从句。",
+      "example": "Remote working can be expanded, provided that staff receive adequate technical support."
+    },
+    {
+      "phrase": "on a large scale",
+      "source": "校正",
+      "usage": "说明实施或生产规模；produce/implement + N + on a large scale。",
+      "example": "Affordable learning materials can be distributed on a large scale through online platforms."
+    },
+    {
+      "phrase": "strict prohibition on",
+      "source": "校正",
+      "usage": "表达严厉禁止；a strict prohibition on + N/V-ing。",
+      "example": "A strict prohibition on misleading advertisements could protect vulnerable consumers."
+    }
+  ],
+  "nine-03": [
+    {
+      "phrase": "prevent animals from dying out",
+      "source": "熟悉（讲义）",
+      "usage": "防止灭绝；prevent + 对象 + from V-ing，die out不及物。",
+      "example": "Affordable meals can prevent students from dropping out because of financial pressure."
+    },
+    {
+      "phrase": "better-adapted",
+      "source": "校正",
+      "usage": "更能适应环境；better-adapted + N，也可be better adapted to + N。",
+      "example": "Better-adapted teaching materials can support learners with different needs."
+    },
+    {
+      "phrase": "correlate with",
+      "source": "校正",
+      "usage": "表达相关而非已证实因果；A correlate with B。",
+      "example": "Long commuting times may correlate with lower job satisfaction."
+    },
+    {
+      "phrase": "mutually exclusive",
+      "source": "校正",
+      "usage": "说明两选项互斥；A and B + be mutually exclusive，否定时表示可以并存。",
+      "example": "Economic growth and fair working conditions need not be mutually exclusive."
+    },
+    {
+      "phrase": "far-reaching effects on",
+      "source": "熟悉（讲义）",
+      "usage": "说明影响范围广或持久；have far-reaching effects on + N。",
+      "example": "Unequal access to education can have far-reaching effects on employment opportunities."
+    }
+  ],
+  "nine-04": [
+    {
+      "phrase": "be distinguished from",
+      "source": "校正",
+      "usage": "区分对象；A should be distinguished from B，情态动词后保留be。",
+      "example": "Temporary unemployment should be distinguished from a long-term skills mismatch."
+    },
+    {
+      "phrase": "insufficient justification for",
+      "source": "校正",
+      "usage": "说明理由不足；there is insufficient justification for + N/V-ing。",
+      "example": "There is insufficient justification for banning all online lessons because some are poorly designed."
+    },
+    {
+      "phrase": "deserve protection",
+      "source": "校正",
+      "usage": "表达应受保护；对象 + deserve protection from + 伤害。",
+      "example": "Children deserve protection from misleading commercial messages."
+    },
+    {
+      "phrase": "closely interconnected",
+      "source": "校正",
+      "usage": "强调相互联系；复数事物 + be closely interconnected，不能据此推出价值相等。",
+      "example": "Housing costs and commuting choices are closely interconnected."
+    },
+    {
+      "phrase": "according to the threats they face",
+      "source": "校正",
+      "usage": "按风险分配；according to + N/名词性结构，they应有明确先行词。",
+      "example": "Schools could direct support to learners according to the difficulties they face."
+    }
+  ],
+  "nine-05": [
+    {
+      "phrase": "depriving countless species of their natural homes",
+      "source": "熟悉（讲义）",
+      "usage": "用分词写结果；deprive + 对象 + of + N，不能写from。",
+      "example": "Excessive overtime can deprive workers of their opportunity to rest."
+    },
+    {
+      "phrase": "driven by high demand for",
+      "source": "熟悉（讲义）",
+      "usage": "说明需求推动行为；be driven by demand for + N。",
+      "example": "The expansion of online courses is partly driven by high demand for flexible study."
+    },
+    {
+      "phrase": "conservation and restoration efforts",
+      "source": "熟悉（讲义）",
+      "usage": "区分保护与修复；efforts to + V，也可将整组作主语。",
+      "example": "Maintenance and restoration efforts could make old schools safer to use."
+    },
+    {
+      "phrase": "take to halt and reverse the trend",
+      "source": "熟悉（讲义）",
+      "usage": "询问具体步骤；take steps to + V，halt停止、reverse扭转。",
+      "example": "What steps can employers take to halt and reverse the trend towards longer working hours?"
+    },
+    {
+      "phrase": "taken a heavy toll on",
+      "source": "校正",
+      "usage": "造成严重损害；have/has taken a heavy toll on + N。",
+      "example": "Repeated delays have taken a heavy toll on passengers' confidence in the rail service."
+    }
+  ],
+  "nine-06": [
+    {
+      "phrase": "disposable income",
+      "source": "熟悉（讲义）",
+      "usage": "可支配收入，即缴税后可用于消费或储蓄的收入；disposable income 通常不可数，不等于扣除基本生活开销后的剩余收入。",
+      "example": "Higher disposable income may allow families to buy additional learning materials."
+    },
+    {
+      "phrase": "the middle class is expanding",
+      "source": "校正",
+      "usage": "描述群体扩大；the middle class + 单数谓语，不写the number...proliferates。",
+      "example": "As the local workforce is expanding, demand for reliable public transport may rise."
+    },
+    {
+      "phrase": "ranging from",
+      "source": "熟悉（讲义）",
+      "usage": "展示范围；ranging from + A + to + B，两端结构应平行。",
+      "example": "Students need support ranging from academic advice to affordable accommodation."
+    },
+    {
+      "phrase": "concerted efforts from",
+      "source": "熟悉（讲义）",
+      "usage": "多方协同行动；concerted efforts from + 主体，须补谁做什么。",
+      "example": "Improving school meals requires concerted efforts from teachers and catering staff."
+    },
+    {
+      "phrase": "provided that",
+      "source": "校正",
+      "usage": "限定积极结论；provided that + 完整条件从句。",
+      "example": "Longer opening hours could benefit library users, provided that staffing costs remain manageable."
+    }
+  ],
+  "nine-07": [
+    {
+      "phrase": "earn foreign exchange",
+      "source": "校正",
+      "usage": "说明外汇收益；earn + foreign exchange，exchange此义不可数。",
+      "example": "Exporting educational software can help small firms earn foreign exchange."
+    },
+    {
+      "phrase": "take its toll on",
+      "source": "熟悉（讲义）",
+      "usage": "损害某对象；N + take its toll on + N，its指前述事物。",
+      "example": "Persistent staff shortages can take their toll on hospital services."
+    },
+    {
+      "phrase": "place a premium on",
+      "source": "熟悉（讲义）",
+      "usage": "高度重视；place a premium on + N/V-ing。",
+      "example": "Employers should place a premium on relevant skills when recruiting graduates."
+    },
+    {
+      "phrase": "a vehicle for",
+      "source": "熟悉（讲义）",
+      "usage": "把活动视为实现目标的载体；become/serve as a vehicle for + N/V-ing。",
+      "example": "Community theatre can serve as a vehicle for discussing local concerns."
+    },
+    {
+      "phrase": "heighten a sense of belonging",
+      "source": "校正",
+      "usage": "增强归属感；heighten a sense of + N，不表示人数增加。",
+      "example": "Inclusive school activities may heighten a sense of belonging among new pupils."
+    }
+  ],
+  "nine-08": [
+    {
+      "phrase": "cannot fully replace",
+      "source": "校正",
+      "usage": "承认部分替代但否定完全替代；A cannot fully replace B。",
+      "example": "Recorded lessons cannot fully replace individual feedback from a teacher."
+    },
+    {
+      "phrase": "be it time or money",
+      "source": "熟悉（讲义）",
+      "usage": "列出无论哪种资源；resource, be it A or B，正式让步结构。",
+      "example": "Every form of support, be it advice or funding, should address a clear need."
+    },
+    {
+      "phrase": "in the comfort of their own homes",
+      "source": "校正",
+      "usage": "说明在家舒适获取；in the comfort of + 所有格 + own home(s)。",
+      "example": "Older patients can speak to a doctor in the comfort of their own homes."
+    },
+    {
+      "phrase": "discrepancy between the plan and the reality",
+      "source": "熟悉（讲义）",
+      "usage": "比较预期与实际差距；a discrepancy between A and B。",
+      "example": "A discrepancy between advertised prices and final charges may damage consumer trust."
+    },
+    {
+      "phrase": "cannot fully reproduce",
+      "source": "校正",
+      "usage": "不能完整复现体验；媒介 + cannot fully reproduce + N。",
+      "example": "A virtual laboratory cannot fully reproduce the experience of handling physical equipment."
+    }
+  ],
+  "nine-09": [
+    {
+      "phrase": "susceptible to",
+      "source": "熟悉（讲义）",
+      "usage": "容易受某因素影响；be susceptible to + N，to是介词。",
+      "example": "Inexperienced consumers may be susceptible to misleading advertising."
+    },
+    {
+      "phrase": "cope with interpersonal conflicts",
+      "source": "校正",
+      "usage": "处理人际冲突；cope with + N，不直接接宾语。",
+      "example": "School mediation programmes can help pupils cope with interpersonal conflicts."
+    },
+    {
+      "phrase": "played in moderation",
+      "source": "校正",
+      "usage": "适度使用；be played in moderation，也可consume/use N in moderation。",
+      "example": "Social media can support communication when used in moderation."
+    },
+    {
+      "phrase": "hand-eye coordination",
+      "source": "熟悉（讲义）",
+      "usage": "手眼协调；develop/improve + hand-eye coordination。",
+      "example": "Practical craft lessons may improve children's hand-eye coordination."
+    },
+    {
+      "phrase": "fictional elements need to be distinguished from historical facts",
+      "source": "校正",
+      "usage": "区分虚构与事实；A need to be distinguished from B。",
+      "example": "In science lessons, tentative explanations need to be distinguished from established findings."
+    }
+  ],
+  "nine-10": [
+    {
+      "phrase": "ready accessibility",
+      "source": "校正",
+      "usage": "随时容易接触；the ready accessibility of + N，区别有没有与负担得起。",
+      "example": "The ready accessibility of online dictionaries can support independent reading."
+    },
+    {
+      "phrase": "switch off from the pressures of real life",
+      "source": "熟悉（讲义）",
+      "usage": "暂时摆脱压力；switch off from + N，不等于解决压力根源。",
+      "example": "A short walk can help employees switch off from the pressures of work."
+    },
+    {
+      "phrase": "keep users occupied",
+      "source": "校正",
+      "usage": "使人持续投入；keep + 对象 + 形容词或分词，不写keep sb to do。",
+      "example": "Interactive museum exhibits can keep visitors occupied while they wait for a tour."
+    },
+    {
+      "phrase": "could otherwise be spent with",
+      "source": "校正",
+      "usage": "表达时间的替代用途；time + that could otherwise be spent with + 人。",
+      "example": "Long commutes consume time that could otherwise be spent with children."
+    },
+    {
+      "phrase": "pursue other hobbies",
+      "source": "校正",
+      "usage": "主动发展其他兴趣；pursue + hobby/interest，不必加介词。",
+      "example": "A shorter working week may give employees time to pursue other hobbies."
+    }
+  ],
+  "nine-11": [
+    {
+      "phrase": "distinguishing between the virtual world and reality",
+      "source": "校正",
+      "usage": "区分两对象；have difficulty distinguishing between A and B，difficulty后接V-ing。",
+      "example": "Some consumers have difficulty distinguishing between reliable advice and paid promotion."
+    },
+    {
+      "phrase": "cope with interpersonal conflicts",
+      "source": "熟悉（讲义）",
+      "usage": "处理人际冲突；cope with + N。",
+      "example": "Workplace training can teach staff to cope with interpersonal conflicts through discussion."
+    },
+    {
+      "phrase": "experiencing a vicarious thrill",
+      "source": "熟悉（讲义）",
+      "usage": "通过他人经历获得刺激；experience a vicarious thrill，不推出实际行为意愿。",
+      "example": "Reading an adventure novel can give pupils a vicarious thrill without exposing them to danger."
+    },
+    {
+      "phrase": "dissuaded from such behaviour",
+      "source": "校正",
+      "usage": "劝阻某种行为；be dissuaded from + N/V-ing。",
+      "example": "Drivers may be dissuaded from speeding when they understand the risks to pedestrians."
+    },
+    {
+      "phrase": "impose appropriate restrictions on",
+      "source": "校正",
+      "usage": "施加针对性限制；impose restrictions on + 内容或行为。",
+      "example": "Schools may impose appropriate restrictions on phone use during lessons."
+    }
+  ],
+  "nine-12": [
+    {
+      "phrase": "ill-equipped to work",
+      "source": "熟悉（讲义）",
+      "usage": "缺乏任职准备或条件；be ill-equipped to + V，应以实际能力证明。",
+      "example": "Schools without reliable internet may be ill-equipped to work with digital teaching platforms."
+    },
+    {
+      "phrase": "regardless of gender",
+      "source": "校正",
+      "usage": "排除性别作为筛选依据；regardless of + N。",
+      "example": "All applicants should receive the same assessment regardless of age."
+    },
+    {
+      "phrase": "rely on judgement and communication",
+      "source": "校正",
+      "usage": "说明任务依赖能力；rely on + N/V-ing。",
+      "example": "Effective customer support may rely on judgement and communication as well as technical knowledge."
+    },
+    {
+      "phrase": "rests not only on",
+      "source": "校正",
+      "usage": "列出不止一个基础；X rests not only on A but also on B，结构平行。",
+      "example": "Successful language learning rests not only on memory but also on regular practice."
+    },
+    {
+      "phrase": "a central role in",
+      "source": "熟悉（讲义）",
+      "usage": "参与的关键作用；play a central role in + N/V-ing；正文的play被插入语隔开。",
+      "example": "Parents can play a central role in helping children develop healthy reading habits."
+    }
+  ],
+  "nine-13": [
+    {
+      "phrase": "breadwinners",
+      "source": "熟悉（讲义）",
+      "usage": "家庭主要收入提供者；be/become breadwinners，勿与所有就业者混同。",
+      "example": "Flexible training can help unemployed parents become breadwinners again."
+    },
+    {
+      "phrase": "make financial sense",
+      "source": "校正",
+      "usage": "从财务上合理；it makes financial sense for + 人 + to V。",
+      "example": "It may make financial sense for a small company to rent shared office space."
+    },
+    {
+      "phrase": "earning prospects",
+      "source": "校正",
+      "usage": "未来收入机会；have stronger/better earning prospects than + 比较对象。",
+      "example": "Graduates with practical experience may have better earning prospects than equally qualified applicants without it."
+    },
+    {
+      "phrase": "family-oriented",
+      "source": "熟悉（讲义）",
+      "usage": "重视家庭；be family-oriented或a family-oriented + N，不代表缺乏事业投入。",
+      "example": "Family-oriented workplace policies may improve staff retention."
+    },
+    {
+      "phrase": "freedom of choice",
+      "source": "熟悉（讲义）",
+      "usage": "选择自主权；freedom of choice over + N，本文涉及工作与照护。",
+      "example": "Students need freedom of choice over optional subjects."
+    }
+  ],
+  "nine-14": [
+    {
+      "phrase": "as a blanket requirement",
+      "source": "校正",
+      "usage": "指不分情况的统一要求；impose/introduce N as a blanket requirement。",
+      "example": "Daily office attendance may be unnecessary as a blanket requirement for all staff."
+    },
+    {
+      "phrase": "denied places",
+      "source": "校正",
+      "usage": "被拒绝录取名额；be denied places in + 专业或机构。",
+      "example": "Qualified rural applicants may be denied places if interviews are only held in distant cities."
+    },
+    {
+      "phrase": "freedom of choice",
+      "source": "熟悉（讲义）",
+      "usage": "自由选择；protect/restrict freedom of choice，说明选择对象。",
+      "example": "A wider range of bus routes can increase commuters' freedom of choice."
+    },
+    {
+      "phrase": "preferences for",
+      "source": "校正",
+      "usage": "对某对象的偏好：a preference / preferences for + N/V-ing；for 标示偏好对象。",
+      "example": "People's preferences for working hours may change after they become parents."
+    },
+    {
+      "phrase": "not in itself evidence of",
+      "source": "校正",
+      "usage": "单一现象不足证明结论；A is not in itself evidence of B。",
+      "example": "A low price is not in itself evidence of poor product quality."
+    }
+  ],
+  "nine-15": [
+    {
+      "phrase": "in favour of this equal-number policy",
+      "source": "校正",
+      "usage": "引出政策支持理由；the argument in favour of + N/V-ing。",
+      "example": "The argument in favour of free school meals is that every child can eat during the school day."
+    },
+    {
+      "phrase": "place a premium on",
+      "source": "熟悉（讲义）",
+      "usage": "高度重视或偏向；place a premium on + N。",
+      "example": "Recruiters should place a premium on demonstrated competence rather than familiar university names."
+    },
+    {
+      "phrase": "access to these professions",
+      "source": "校正",
+      "usage": "进入职业的机会；improve/provide access to + N，access不可数。",
+      "example": "Affordable apprenticeships can improve access to skilled professions."
+    },
+    {
+      "phrase": "barriers to the full and equal participation",
+      "source": "熟悉（讲义）",
+      "usage": "阻碍充分平等参与；barriers to + N/V-ing，to是介词。",
+      "example": "Unreliable transport can create barriers to the full and equal participation of rural students."
+    },
+    {
+      "phrase": "discrimination related to",
+      "source": "校正",
+      "usage": "明确歧视涉及何事；discrimination related to + N，不用松散about。",
+      "example": "Recruitment rules should address discrimination related to age and disability."
+    }
+  ],
+  "nine-16": [
+    {
+      "phrase": "without a language barrier",
+      "source": "熟悉（讲义）",
+      "usage": "无需跨越语言障碍；communicate/appreciate N without a language barrier。",
+      "example": "Clear diagrams can help visitors understand safety instructions without a language barrier."
+    },
+    {
+      "phrase": "resonate emotionally with",
+      "source": "校正",
+      "usage": "与听众情绪共鸣；N may resonate emotionally with + 人。",
+      "example": "A documentary about family separation may resonate emotionally with migrant workers."
+    },
+    {
+      "phrase": "convey information accurately",
+      "source": "熟悉（讲义）",
+      "usage": "准确传递信息；convey + information + accurately，不与定义混淆。",
+      "example": "Public transport signs should convey information accurately to unfamiliar passengers."
+    },
+    {
+      "phrase": "exchange precise ideas",
+      "source": "校正",
+      "usage": "交换精确思想；exchange + N，通常需共同语境。",
+      "example": "Shared terminology helps engineers exchange precise ideas during a complex project."
+    },
+    {
+      "phrase": "goes beyond spoken language",
+      "source": "校正",
+      "usage": "超出口语表达；N goes beyond + N，关系从句须有谓语。",
+      "example": "A learner's confidence goes beyond spoken language and may affect classroom participation."
+    }
+  ],
+  "nine-17": [
+    {
+      "phrase": "take their minds off",
+      "source": "熟悉（讲义）",
+      "usage": "暂时不想烦恼；take + 人的mind(s) + off + N。",
+      "example": "An outdoor break can take students' minds off a difficult assignment."
+    },
+    {
+      "phrase": "in the background",
+      "source": "校正",
+      "usage": "作为背景播放；play music/audio in the background。",
+      "example": "A recorded announcement may be difficult to hear when other audio is playing in the background."
+    },
+    {
+      "phrase": "lift their spirits",
+      "source": "熟悉（讲义）",
+      "usage": "振奋情绪；lift + 人的spirits，spirits用复数。",
+      "example": "Encouraging feedback can lift employees' spirits after a demanding week."
+    },
+    {
+      "phrase": "bring comfort and enjoyment",
+      "source": "校正",
+      "usage": "带来安慰愉悦；bring + N + to + 人，勿机械用trigger。",
+      "example": "A familiar public garden can bring comfort and enjoyment to older residents."
+    },
+    {
+      "phrase": "judged by their contribution to everyday well-being",
+      "source": "校正",
+      "usage": "明确评价标准；judged by + N，contribution to + N/V-ing。",
+      "example": "Judged by their contribution to community well-being, affordable bus services may deserve priority."
+    }
+  ],
+  "nine-18": [
+    {
+      "phrase": "shoulder such responsibilities",
+      "source": "熟悉（讲义）",
+      "usage": "承担前述职责；shoulder responsibility for + N/V-ing。",
+      "example": "Employers should shoulder responsibility for maintaining safe working conditions."
+    },
+    {
+      "phrase": "provide funding",
+      "source": "校正",
+      "usage": "提供经费；provide funding to + V / for + N，不写pay for the money。",
+      "example": "Councils could provide funding to repair unsafe pedestrian crossings."
+    },
+    {
+      "phrase": "have the capacity to do so",
+      "source": "校正",
+      "usage": "表达执行能力；have the capacity to + V，do so回指前一动作。",
+      "example": "Small schools may wish to offer specialist courses but lack the capacity to do so."
+    },
+    {
+      "phrase": "seek a compromise between",
+      "source": "熟悉（讲义）",
+      "usage": "在两方间找折中；seek a compromise between A and B。",
+      "example": "Transport planners should seek a compromise between faster journeys and quieter neighbourhoods."
+    },
+    {
+      "phrase": "equal access to basic services",
+      "source": "校正",
+      "usage": "基本服务平等可及；have/ensure equal access to + N，access不可数。",
+      "example": "Digital reform should preserve equal access to basic services for people without smartphones."
+    }
+  ],
+  "nine-19": [
+    {
+      "phrase": "shoulder some responsibility",
+      "source": "校正",
+      "usage": "承担部分责任；shoulder responsibility for + N/V-ing，some不表示唯一。",
+      "example": "Technology firms should shoulder some responsibility for helping users identify misleading content."
+    },
+    {
+      "phrase": "financially viable",
+      "source": "熟悉（讲义）",
+      "usage": "财务上可行；be financially viable，须比较成本与可用资源。",
+      "example": "A new theatre may attract audiences but must also be financially viable."
+    },
+    {
+      "phrase": "laying the groundwork for",
+      "source": "校正",
+      "usage": "为后续发展打基础；lay the groundwork for + N/V-ing。",
+      "example": "Early reading practice can lay the groundwork for independent learning."
+    },
+    {
+      "phrase": "full grants",
+      "source": "校正",
+      "usage": "全额资助金；provide full grants to + 人 / for + N，grants区别于需还款loans。",
+      "example": "A council could provide full grants for essential repairs in low-income households."
+    },
+    {
+      "phrase": "public funding can later be recovered",
+      "source": "校正",
+      "usage": "说明资金回收可能；funding + can be recovered，不推出零成本。",
+      "example": "If the project earns fees, some public funding can later be recovered."
+    }
+  ],
+  "nine-20": [
+    {
+      "phrase": "take responsibility for",
+      "source": "熟悉（讲义）",
+      "usage": "承担某事责任；take responsibility for + N/V-ing，不等于only负责。",
+      "example": "Schools should take responsibility for keeping play areas safe."
+    },
+    {
+      "phrase": "concerted efforts by",
+      "source": "校正",
+      "usage": "说明由谁合作行动；concerted efforts by + 复数主体。",
+      "example": "Reducing traffic around schools requires concerted efforts by councils and families."
+    },
+    {
+      "phrase": "introduce and enforce laws",
+      "source": "校正",
+      "usage": "区分立法与执法；introduce and enforce + laws，不把enforce当颁布。",
+      "example": "Authorities can introduce and enforce laws against deceptive financial advertising."
+    },
+    {
+      "phrase": "time that could otherwise be spent on",
+      "source": "校正",
+      "usage": "时间机会成本；time that could otherwise be spent on + N/V-ing。",
+      "example": "Unnecessary meetings consume time that could otherwise be spent on preparing lessons."
+    },
+    {
+      "phrase": "an environment conducive to",
+      "source": "熟悉（讲义）",
+      "usage": "创造有利环境；an environment conducive to + N/V-ing，to是介词。",
+      "example": "Quiet libraries offer an environment conducive to independent study."
+    }
+  ],
+  "nine-21": [
+    {
+      "phrase": "acts as a catalyst for",
+      "source": "校正",
+      "usage": "促成某进展；act as a catalyst for + N/V-ing，不表示唯一原因。",
+      "example": "Affordable childcare can act as a catalyst for wider participation in employment."
+    },
+    {
+      "phrase": "strive for excellence",
+      "source": "熟悉（讲义）",
+      "usage": "努力追求卓越；strive for + N，也可strive to + V。",
+      "example": "Regular feedback can encourage trainees to strive for excellence."
+    },
+    {
+      "phrase": "rests on the efforts of",
+      "source": "校正",
+      "usage": "说明成果依赖多方；X rests on the efforts of + 人或团队。",
+      "example": "The success of a public festival rests on the efforts of volunteers and local organisers."
+    },
+    {
+      "phrase": "reach a compromise",
+      "source": "校正",
+      "usage": "达成折中；reach a compromise when + 完整从句，勿用comprise。",
+      "example": "Residents and developers may reach a compromise when their priorities differ."
+    },
+    {
+      "phrase": "well equipped for their future lives",
+      "source": "校正",
+      "usage": "为未来做好准备；be well equipped for + N / to + V。",
+      "example": "Practical budgeting lessons can leave school leavers well equipped for independent life."
+    }
+  ],
+  "nine-22": [
+    {
+      "phrase": "So interconnected is the world that",
+      "source": "校正",
+      "usage": "强调程度的倒装；So + 形容词 + be + 主语 + that + 完整结果句，that前不加逗号。",
+      "example": "So limited is the school budget that essential repairs must be prioritised."
+    },
+    {
+      "phrase": "responsibility for mitigating",
+      "source": "校正",
+      "usage": "承担减轻某问题的责任；responsibility for + V-ing。",
+      "example": "Employers share responsibility for mitigating workplace stress."
+    },
+    {
+      "phrase": "albeit to varying degrees",
+      "source": "熟悉（讲义）",
+      "usage": "承认程度不同；完整判断后接albeit + 短语，勿另当主句。",
+      "example": "Rising housing costs affect many households, albeit to varying degrees."
+    },
+    {
+      "phrase": "limited immediate effects",
+      "source": "校正",
+      "usage": "限定短期效果；have limited immediate effects on + N，不等于不可行。",
+      "example": "New cycling lanes may have limited immediate effects where few residents own bicycles."
+    },
+    {
+      "phrase": "without waiting for an international agreement",
+      "source": "校正",
+      "usage": "突出可独立行动；without + V-ing，wait for + N。",
+      "example": "A town can repair unsafe crossings without waiting for a national transport reform."
+    }
+  ],
+  "nine-23": [
+    {
+      "phrase": "impose a heavy financial burden on",
+      "source": "校正",
+      "usage": "把负担落到承担者；impose a burden on + 人或机构，不用to。",
+      "example": "Unexpected tuition increases can impose a heavy financial burden on low-income families."
+    },
+    {
+      "phrase": "transport infrastructure",
+      "source": "校正",
+      "usage": "交通基础设施；infrastructure不可数，build/improve + infrastructure。",
+      "example": "Better transport infrastructure could connect rural workers with urban jobs."
+    },
+    {
+      "phrase": "grow in stature",
+      "source": "熟悉（讲义）",
+      "usage": "提高声望或地位；人或机构 + grow in stature，不等于规模增长。",
+      "example": "A university may grow in stature when its research addresses important public needs."
+    },
+    {
+      "phrase": "financially viable",
+      "source": "熟悉（讲义）",
+      "usage": "财务上可行；become/be financially viable，收入与成本均需评估。",
+      "example": "A free museum may remain financially viable if stable grants cover its operating costs."
+    },
+    {
+      "phrase": "gross revenue",
+      "source": "熟悉（讲义）",
+      "usage": "总收入而非净利润；generate/report gross revenue，利润需扣成本。",
+      "example": "High gross revenue does not guarantee that an online retailer can cover delivery and storage costs."
+    }
+  ],
+  "nine-24": [
+    {
+      "phrase": "have the edge over their competitors",
+      "source": "熟悉（讲义）",
+      "usage": "具有竞争优势；have the edge over + 对手，不等于保证获胜。",
+      "example": "Applicants with practical experience may have the edge over their competitors."
+    },
+    {
+      "phrase": "hinges more on",
+      "source": "熟悉（讲义）",
+      "usage": "更依赖某基础；hinge on + N/V-ing，more需比较对象。",
+      "example": "The success of online learning may hinge more on consistent feedback than on expensive software."
+    },
+    {
+      "phrase": "greater than the sum of its parts",
+      "source": "熟悉（讲义）",
+      "usage": "整体产生协作增益；be greater than the sum of its parts。",
+      "example": "A research group can be greater than the sum of its parts when members share different skills."
+    },
+    {
+      "phrase": "overcome strong opponents",
+      "source": "校正",
+      "usage": "战胜强劲对手；overcome + N，勿用make sb over。",
+      "example": "A small firm may overcome strong opponents by serving a neglected market."
+    },
+    {
+      "phrase": "push their limits",
+      "source": "校正",
+      "usage": "突破自身能力边界；push + 所有格 + limits，常用复数。",
+      "example": "Challenging projects can encourage students to push their limits."
+    }
+  ],
+  "nine-25": [
+    {
+      "phrase": "in proportion to",
+      "source": "熟悉（讲义）",
+      "usage": "按比例对应；be in proportion to + N，说明评价尺度。",
+      "example": "Training budgets should be in proportion to employees' actual learning needs."
+    },
+    {
+      "phrase": "exceptional talent",
+      "source": "校正",
+      "usage": "卓越才能而非泛指真实才能；have/possess exceptional talent，talent不可数。",
+      "example": "Scholarships can help students with exceptional talent continue their education."
+    },
+    {
+      "phrase": "in the spotlight",
+      "source": "校正",
+      "usage": "受到公众密切关注；be in the spotlight，区别out of。",
+      "example": "A public official in the spotlight may face intense scrutiny over everyday decisions."
+    },
+    {
+      "phrase": "generate commercial revenue",
+      "source": "校正",
+      "usage": "产生商业收入；generate + revenue，不自动等于净利润。",
+      "example": "Popular educational videos can generate commercial revenue for their creators."
+    },
+    {
+      "phrase": "a substantial share of it",
+      "source": "校正",
+      "usage": "分享前述收入的较大份额；receive a share of + N，it须清楚回指。",
+      "example": "If a community business succeeds, local workers should receive a substantial share of its benefits."
+    }
+  ],
+  "nine-26": [
+    {
+      "phrase": "when compared with",
+      "source": "校正",
+      "usage": "比较同类对象；A appears + 形容词 + when compared with B，被动省略逻辑主语清楚。",
+      "example": "Online courses may appear inexpensive when compared with residential programmes."
+    },
+    {
+      "phrase": "few in number",
+      "source": "校正",
+      "usage": "数量稀少；复数人或物 + be few in number，区别the number is small。",
+      "example": "Qualified interpreters may be few in number in remote hospitals."
+    },
+    {
+      "phrase": "make breakthroughs",
+      "source": "校正",
+      "usage": "取得突破；make breakthroughs in + 领域，不能只写breakthrough当动词。",
+      "example": "Long-term investment can help engineers make breakthroughs in energy storage."
+    },
+    {
+      "phrase": "improving food security",
+      "source": "校正",
+      "usage": "说明粮食保障结果；improve + food security，也可分词补充前述行动结果。",
+      "example": "Better rural roads could reduce delivery losses, improving food security in isolated communities."
+    },
+    {
+      "phrase": "on the basis of their social contribution",
+      "source": "校正",
+      "usage": "明确评价依据；on the basis of + N，不与市场形成机制混为一谈。",
+      "example": "Community grants could be assessed on the basis of their social contribution."
+    }
+  ],
+  "five-a1": [
+    {
+      "phrase": "artistic potential",
+      "source": "熟悉（讲义）",
+      "usage": "说明能力可能性：one’s artistic potential；potential表潜能通常不可数。",
+      "example": "Schools can develop children’s scientific potential through practical experiments."
+    },
+    {
+      "phrase": "a channel for",
+      "source": "熟悉（讲义）",
+      "usage": "定义表达渠道：a channel for + 人 + to V，或for + N/V-ing。",
+      "example": "Community meetings provide a channel for residents to discuss transport problems."
+    },
+    {
+      "phrase": "a low barrier to entry",
+      "source": "校正",
+      "usage": "说明入门容易：a low barrier to entry；to是介词，entry为名词。",
+      "example": "Free coding tools create a low barrier to entry for students with limited resources."
+    },
+    {
+      "phrase": "a high level of technical skill",
+      "source": "校正",
+      "usage": "评价能力：a high level of + N；skill此处为能力总称。",
+      "example": "Repairing medical equipment requires a high level of technical skill."
+    },
+    {
+      "phrase": "extensive training",
+      "source": "校正",
+      "usage": "说明技能形成条件：undergo/receive + extensive training，training不可数。",
+      "example": "Rescue workers need extensive training before attempting difficult operations."
+    },
+    {
+      "phrase": "gains wide recognition",
+      "source": "校正",
+      "usage": "说明获得社会认可：work/achievement + gain(s) wide recognition。",
+      "example": "A successful community recycling project may gain wide recognition."
+    }
+  ],
+  "five-a2": [
+    {
+      "phrase": "allow for self-expression",
+      "source": "熟悉（讲义）",
+      "usage": "说明提供表达可能：allow for + N；区别allow sb to V。",
+      "example": "Drama clubs allow for self-expression without requiring students to compete for grades."
+    },
+    {
+      "phrase": "gain a better understanding of",
+      "source": "熟悉（讲义）",
+      "usage": "写认知收益：gain a better understanding of + N/V-ing。",
+      "example": "Studying abroad can help learners gain a better understanding of other cultures."
+    },
+    {
+      "phrase": "distinctive character",
+      "source": "校正",
+      "usage": "说明整体特色：the distinctive character of + 地方/时期。",
+      "example": "Local markets contribute to the distinctive character of a neighbourhood."
+    },
+    {
+      "phrase": "making tangible improvements in",
+      "source": "熟悉（讲义）",
+      "usage": "写切实改善：make tangible improvements in + 领域；正文为V-ing形式。",
+      "example": "Reliable buses can make tangible improvements in rural residents’ daily lives."
+    },
+    {
+      "phrase": "industrial design",
+      "source": "熟悉（讲义）",
+      "usage": "说明产品外观与实用设计：industrial design；可作主语或介词宾语。",
+      "example": "Industrial design can make household appliances easier for older people to use."
+    },
+    {
+      "phrase": "complement scientific knowledge",
+      "source": "校正",
+      "usage": "说明补充而非替代：complement + N，不加with才接直接宾语。",
+      "example": "Accounts from local residents can complement scientific knowledge of environmental change."
+    }
+  ],
+  "five-a3": [
+    {
+      "phrase": "investment in the arts",
+      "source": "校正",
+      "usage": "表达经费投入：investment in + 领域；避免art construction。",
+      "example": "Investment in public transport can reduce dependence on private cars."
+    },
+    {
+      "phrase": "allocated to public services",
+      "source": "熟悉（讲义）",
+      "usage": "说明资金去向：funds be allocated to + N/V-ing；to为介词。",
+      "example": "Additional resources could be allocated to supporting students with disabilities."
+    },
+    {
+      "phrase": "maintaining mental well-being",
+      "source": "校正",
+      "usage": "说明心理收益：maintain + mental well-being；正文作V-ing并列成分。",
+      "example": "Regular contact with friends can help people maintain mental well-being."
+    },
+    {
+      "phrase": "reflect shared values",
+      "source": "校正",
+      "usage": "说明文化呈现作用：reflect + N；shared作定语。",
+      "example": "Community celebrations can reflect shared values while welcoming newcomers."
+    },
+    {
+      "phrase": "principle of diminishing returns",
+      "source": "校正",
+      "usage": "比较追加收益：the principle of + N；须补需求已较满足等条件。",
+      "example": "The principle of diminishing returns may become relevant once basic classroom equipment is adequate."
+    },
+    {
+      "phrase": "opportunities for cultural participation",
+      "source": "校正",
+      "usage": "说明资源保留的具体价值：opportunities for + N/V-ing。",
+      "example": "Public libraries offer opportunities for independent learning to residents of all ages."
+    }
+  ],
+  "five-b1": [
+    {
+      "phrase": "channelled into road development",
+      "source": "熟悉（讲义）",
+      "usage": "说明预算转向：money be channelled into + N/V-ing。",
+      "example": "More funding could be channelled into improving bus reliability."
+    },
+    {
+      "phrase": "city dwellers’ well-being",
+      "source": "熟悉（讲义）",
+      "usage": "指出受益群体：群体所有格 + well-being；不是泛指everyone。",
+      "example": "Affordable childcare can improve working parents’ well-being."
+    },
+    {
+      "phrase": "removal of traffic bottlenecks",
+      "source": "校正",
+      "usage": "写具体改善措施：the removal of + 障碍名词。",
+      "example": "The removal of unnecessary paperwork can shorten the application process."
+    },
+    {
+      "phrase": "cultural identity",
+      "source": "熟悉（讲义）",
+      "usage": "说明遗产对身份的意义：preserve/recognize + cultural identity。",
+      "example": "Language teaching can help young people understand their cultural identity."
+    },
+    {
+      "phrase": "capitalizing on",
+      "source": "熟悉（讲义）",
+      "usage": "说明利用优势：capitalize on + N + to V；on不能省。",
+      "example": "A rural school could attract visitors by capitalizing on its access to local wildlife."
+    },
+    {
+      "phrase": "according to a strict set of criteria",
+      "source": "熟悉（讲义）",
+      "usage": "说明决策依据：according to + N；criterion复数criteria。",
+      "example": "Scholarships should be awarded according to a clear set of criteria."
+    }
+  ],
+  "five-b2": [
+    {
+      "phrase": "financially viable",
+      "source": "熟悉（讲义）",
+      "usage": "检验能否负担实施：be financially viable；不同于effective。",
+      "example": "A free meal programme may be financially viable if local suppliers offer stable prices."
+    },
+    {
+      "phrase": "sedentary lifestyle",
+      "source": "熟悉（讲义）",
+      "usage": "描述缺少活动的生活方式：a sedentary lifestyle；lifestyle可数。",
+      "example": "Remote workers may develop a sedentary lifestyle unless they plan regular activity."
+    },
+    {
+      "phrase": "ongoing maintenance costs",
+      "source": "校正",
+      "usage": "揭示持续成本：ongoing + maintenance costs；costs复数列支出。",
+      "example": "Digital learning platforms also involve ongoing maintenance costs."
+    },
+    {
+      "phrase": "discourage people from exercising regularly",
+      "source": "校正",
+      "usage": "解释行为障碍：discourage + sb + from + V-ing。",
+      "example": "High fares may discourage families from visiting museums regularly."
+    },
+    {
+      "phrase": "making time for",
+      "source": "校正",
+      "usage": "提出针对时间障碍的措施：make time for + N/V-ing。",
+      "example": "Students can protect their health by making time for exercise during examination periods."
+    },
+    {
+      "phrase": "warrants attention",
+      "source": "熟悉（讲义）",
+      "usage": "说明问题值得重视：问题N + warrant(s) attention，不接to。",
+      "example": "The loss of local languages warrants attention because it can weaken cultural continuity."
+    }
+  ],
+  "five-b3": [
+    {
+      "phrase": "on the periphery of the city",
+      "source": "熟悉（讲义）",
+      "usage": "定位外围地区：on the periphery of + 地方。",
+      "example": "Wildlife on the periphery of the city may lose habitat when new roads are built."
+    },
+    {
+      "phrase": "spend less time travelling",
+      "source": "校正",
+      "usage": "说明时间收益：spend + 时间 + V-ing，不写on + 动词原形。",
+      "example": "Online appointments allow patients to spend less time travelling to routine consultations."
+    },
+    {
+      "phrase": "may have limited effects",
+      "source": "校正",
+      "usage": "限制效果判断：措施 + may have limited effects；不等于完全无效。",
+      "example": "Lower tuition fees may have limited effects if students still cannot afford accommodation."
+    },
+    {
+      "phrase": "have far-reaching effects",
+      "source": "熟悉（讲义）",
+      "usage": "写广泛长远影响：政策N + have far-reaching effects；需具体解释影响。",
+      "example": "Changes to teacher training can have far-reaching effects on classroom practice."
+    },
+    {
+      "phrase": "the first being",
+      "source": "熟悉（讲义）",
+      "usage": "列出多项之一：主句提到复数项目，the first being + N，独立主格。",
+      "example": "Two barriers prevent enrolment, the first being the cost of transport."
+    },
+    {
+      "phrase": "without sacrificing public green spaces",
+      "source": "校正",
+      "usage": "比较避免损失：without + V-ing + 宾语。",
+      "example": "Digital services can improve access without sacrificing opportunities for face-to-face support."
+    }
+  ],
+  "five-b4": [
+    {
+      "phrase": "resides in the belief that",
+      "source": "熟悉（讲义）",
+      "usage": "引出论证前提：justification + resides in the belief that + 完整从句。",
+      "example": "The case for later school starts resides in the belief that rested students learn more effectively."
+    },
+    {
+      "phrase": "giving rise to physical health problems",
+      "source": "熟悉（讲义）",
+      "usage": "说明不良后果：give rise to + N；to为介词。",
+      "example": "Unreliable transport can give rise to difficulties for workers on early shifts."
+    },
+    {
+      "phrase": "available and accessible to",
+      "source": "熟悉（讲义）",
+      "usage": "区分存在与真正可用：become/be available and accessible to + 人群。",
+      "example": "Learning materials should be available and accessible to students with visual impairments."
+    },
+    {
+      "phrase": "build a sense of community",
+      "source": "熟悉（讲义）",
+      "usage": "说明互动的社会收益：build a sense of + N。",
+      "example": "Shared gardening projects can build a sense of community among residents."
+    },
+    {
+      "phrase": "provide shelter from bad weather",
+      "source": "校正",
+      "usage": "说明具体保护作用：provide shelter from + 风险/天气。",
+      "example": "Covered bus stops provide shelter from bad weather for elderly passengers."
+    },
+    {
+      "phrase": "in accordance with the needs",
+      "source": "熟悉（讲义）",
+      "usage": "以需求为规划依据：in accordance with + N；正文needs补足指代。",
+      "example": "Training should be provided in accordance with the needs of each department."
+    }
+  ],
+  "five-t1": [
+    {
+      "phrase": "gain a better understanding of the world",
+      "source": "熟悉（讲义）",
+      "usage": "说明认知收益：gain a better understanding of + N。",
+      "example": "Field trips can help children gain a better understanding of local agriculture."
+    },
+    {
+      "phrase": "acquire knowledge systematically",
+      "source": "熟悉（讲义）",
+      "usage": "说明系统学习：acquire + knowledge + systematically；knowledge不可数。",
+      "example": "A structured apprenticeship helps trainees acquire knowledge systematically."
+    },
+    {
+      "phrase": "impart the knowledge gradually, effectively, and systematically",
+      "source": "熟悉（讲义）",
+      "usage": "说明教师传授方式：impart knowledge to + sb；三副词结构并列。",
+      "example": "Mentors can impart practical knowledge gradually and systematically to new employees."
+    },
+    {
+      "phrase": "lead a sedentary lifestyle",
+      "source": "校正",
+      "usage": "说明行为风险：lead + a/an + 形容词 + lifestyle。",
+      "example": "Long hours of online work may encourage adults to lead a sedentary lifestyle."
+    },
+    {
+      "phrase": "seek a compromise between",
+      "source": "熟悉（讲义）",
+      "usage": "提出平衡：seek a compromise between + A + and + B；两项形式平行。",
+      "example": "Cities must seek a compromise between visitor access and habitat protection."
+    },
+    {
+      "phrase": "act with moderation",
+      "source": "熟悉（讲义）",
+      "usage": "限制行为程度：act with moderation；with + 抽象名词。",
+      "example": "Consumers can enjoy convenience foods while acting with moderation."
+    }
+  ],
+  "five-t2": [
+    {
+      "phrase": "having to compromise",
+      "source": "校正",
+      "usage": "表达不得不妥协：have to + V；compromise with sb on/over + N。",
+      "example": "Shared housing can involve having to compromise with others over quiet hours."
+    },
+    {
+      "phrase": "depending on their mood and preferences",
+      "source": "熟悉（讲义）",
+      "usage": "说明选择依据：depending on + N；介词on不可省。",
+      "example": "Learners can select an optional module depending on their interests and career plans."
+    },
+    {
+      "phrase": "social contact and communication",
+      "source": "校正",
+      "usage": "说明互动渠道：social contact通常不可数，communication表交流不可数。",
+      "example": "Community centres provide opportunities for social contact and communication."
+    },
+    {
+      "phrase": "forge and strengthen bonds with others",
+      "source": "熟悉（讲义）",
+      "usage": "说明关系形成与加深：forge/strengthen bonds with + 人。",
+      "example": "Team projects can help students forge and strengthen bonds with others."
+    },
+    {
+      "phrase": "meet their social needs",
+      "source": "校正",
+      "usage": "说明满足社交需求：meet + 所有格 + needs。",
+      "example": "Older residents may meet their social needs through regular community activities."
+    },
+    {
+      "phrase": "outweigh this disadvantage",
+      "source": "熟悉（讲义）",
+      "usage": "回应权衡：benefits + outweigh + drawbacks，不加than。",
+      "example": "The flexibility of online study may outweigh this disadvantage when reliable support is available."
+    }
+  ],
+  "five-t3": [
+    {
+      "phrase": "detrimental to children",
+      "source": "熟悉（讲义）",
+      "usage": "表达不利影响：be detrimental to + N；to为介词。",
+      "example": "Unpredictable schedules can be detrimental to family life."
+    },
+    {
+      "phrase": "acts as a catalyst for",
+      "source": "校正",
+      "usage": "说明促进作用：act as a catalyst for + N/V-ing；a不可漏。",
+      "example": "Affordable childcare can act as a catalyst for greater workforce participation."
+    },
+    {
+      "phrase": "predispose some children to aggressive behaviour",
+      "source": "熟悉（讲义）",
+      "usage": "表达倾向而非必然：predispose + sb + to + N/V-ing；some和may限制人群强度。",
+      "example": "Repeated setbacks may predispose some learners to avoiding difficult tasks."
+    },
+    {
+      "phrase": "as a means of imparting knowledge",
+      "source": "熟悉（讲义）",
+      "usage": "表达教学工具：as a means of + V-ing；means单复数同形。",
+      "example": "Museums can use interactive exhibits as a means of imparting knowledge."
+    },
+    {
+      "phrase": "distinguish fiction from reality",
+      "source": "校正",
+      "usage": "说明辨别能力：distinguish + A + from + B。",
+      "example": "Media lessons can help teenagers distinguish advertising claims from reliable evidence."
+    },
+    {
+      "phrase": "the possible consequences of",
+      "source": "校正",
+      "usage": "让后果具体化：the possible consequences of + N/V-ing。",
+      "example": "Applicants should consider the possible consequences of accepting an unpaid placement."
+    }
+  ],
+  "five-c1": [
+    {
+      "phrase": "place a premium on",
+      "source": "熟悉（讲义）",
+      "usage": "说明高度重视：place a premium on + N/V-ing。",
+      "example": "Schools should place a premium on feedback that students can understand."
+    },
+    {
+      "phrase": "be in proportion to",
+      "source": "校正",
+      "usage": "说明分配相称：be in proportion to + N；be不可漏。",
+      "example": "Training support should be in proportion to the difficulties employees face."
+    },
+    {
+      "phrase": "on the basis of",
+      "source": "熟悉（讲义）",
+      "usage": "说明评价基础：assess/decide + on the basis of + N。",
+      "example": "Students should be assessed on the basis of their own work."
+    },
+    {
+      "phrase": "assessed in terms of",
+      "source": "校正",
+      "usage": "说明评价维度：be assessed in terms of + N。",
+      "example": "Transport projects should be assessed in terms of reliability as well as speed."
+    },
+    {
+      "phrase": "factors beyond their control",
+      "source": "校正",
+      "usage": "区分责任与外部因素：factors beyond + 所有格 + control。",
+      "example": "Farmers may suffer losses because of factors beyond their control."
+    },
+    {
+      "phrase": "by no means guarantee success",
+      "source": "熟悉（讲义）",
+      "usage": "限制必然推论：主体 + by no means guarantee(s) + N。",
+      "example": "Expensive equipment can improve a laboratory but can by no means guarantee success."
+    }
+  ],
+  "five-c2": [
+    {
+      "phrase": "weeks of annual leave",
+      "source": "校正",
+      "usage": "说明假期时长：数词 + weeks of annual leave；leave不可数。",
+      "example": "A longer period of paid study leave may help nurses complete advanced training."
+    },
+    {
+      "phrase": "rest and recharge themselves",
+      "source": "熟悉（讲义）",
+      "usage": "解释恢复机制：rest and recharge (oneself)；反身代词与主语一致。",
+      "example": "A quiet lunch area gives students a chance to rest and recharge themselves."
+    },
+    {
+      "phrase": "give rise to stress",
+      "source": "熟悉（讲义）",
+      "usage": "写压力原因：give rise to + N，to为介词。",
+      "example": "Unclear examination instructions can give rise to stress."
+    },
+    {
+      "phrase": "end up resigning",
+      "source": "熟悉（讲义）",
+      "usage": "写最终行为后果：end up + V-ing，不接to V。",
+      "example": "Students who receive no support may end up abandoning their courses."
+    },
+    {
+      "phrase": "arrange cover in advance",
+      "source": "校正",
+      "usage": "提出提前替代安排：arrange cover；in advance作时间状语。",
+      "example": "Hospitals can arrange cover in advance when staff attend training courses."
+    },
+    {
+      "phrase": "provided that staffing and scheduling are properly managed",
+      "source": "校正",
+      "usage": "把可行性条件写明：provided that + 完整从句。",
+      "example": "Flexible classes can improve access, provided that timetables are properly coordinated."
+    }
+  ],
+  "five-c3": [
+    {
+      "phrase": "in the interests of society as a whole",
+      "source": "熟悉（讲义）",
+      "usage": "说明整体利益：in the interests of + 群体，不用interest单数表达此义。",
+      "example": "Transport planning should operate in the interests of society as a whole."
+    },
+    {
+      "phrase": "rests on providing safe food",
+      "source": "校正",
+      "usage": "写成功依赖的机制：rest on + N/V-ing；此处providing是V-ing。",
+      "example": "The success of online learning rests on providing reliable feedback."
+    },
+    {
+      "phrase": "in proportion to their efforts",
+      "source": "熟悉（讲义）",
+      "usage": "说明报酬相称：in proportion to + N。",
+      "example": "Scholarship support need not be in proportion to family income if the goal is equal access."
+    },
+    {
+      "phrase": "taking a toll on the environment",
+      "source": "熟悉（讲义）",
+      "usage": "说明损害：take a toll on + N，常含累积负面影响。",
+      "example": "Repeated overnight work may take a toll on employees’ health."
+    },
+    {
+      "phrase": "earn customer trust",
+      "source": "熟悉（讲义）",
+      "usage": "说明责任经营回报：earn + 人群所有格/名词修饰语 + trust。",
+      "example": "Clear assessment criteria can help schools earn parents’ trust."
+    },
+    {
+      "phrase": "support business success",
+      "source": "校正",
+      "usage": "写社会与机构相互支持：support + N；须解释中间机制。",
+      "example": "Reliable public transport can support business success by helping employees arrive on time."
+    }
+  ],
+  "five-r1": [
+    {
+      "phrase": "a deep sense of satisfaction",
+      "source": "熟悉（讲义）",
+      "usage": "说明个人心理收益：a sense of + N；deep强化程度。",
+      "example": "Completing a difficult project can give learners a deep sense of satisfaction."
+    },
+    {
+      "phrase": "interpersonal skills",
+      "source": "熟悉（讲义）",
+      "usage": "写能力收益：develop/improve + interpersonal skills，通常复数。",
+      "example": "Group laboratory work can help students develop interpersonal skills."
+    },
+    {
+      "phrase": "make community work mandatory for all",
+      "source": "熟悉（讲义）",
+      "usage": "说明政策强度：make + N + mandatory for + 人群。",
+      "example": "Making online registration mandatory for all may exclude residents without reliable internet."
+    },
+    {
+      "phrase": "a moral obligation",
+      "source": "熟悉（讲义）",
+      "usage": "区分道德责任与法律要求：a moral obligation to V。",
+      "example": "Schools have a moral obligation to provide accessible learning materials."
+    },
+    {
+      "phrase": "A better option would be to",
+      "source": "熟悉（讲义）",
+      "usage": "提出替代措施：a better option would be to + V。",
+      "example": "A better option would be to provide reliable buses before increasing parking charges."
+    },
+    {
+      "phrase": "of their own volition",
+      "source": "校正",
+      "usage": "表示自愿：of + 所有格 + own volition；不是out of。",
+      "example": "Students should be able to join debate clubs of their own volition."
+    }
+  ],
+  "five-r2": [
+    {
+      "phrase": "embark on their careers abroad",
+      "source": "校正",
+      "usage": "说明职业起步：embark on + N；on不可漏。",
+      "example": "Cities may embark on ambitious recycling programmes when waste collection systems are reliable."
+    },
+    {
+      "phrase": "places a premium on",
+      "source": "熟悉（讲义）",
+      "usage": "说明社会重视：第三人称主语 + places a premium on + N。",
+      "example": "An effective school places a premium on inclusive teaching."
+    },
+    {
+      "phrase": "brain drain",
+      "source": "熟悉（讲义）",
+      "usage": "描述技能外流：brain drain；避免与所有migration等同。",
+      "example": "A region may experience brain drain when skilled workers lack career opportunities."
+    },
+    {
+      "phrase": "bleak career prospects",
+      "source": "熟悉（讲义）",
+      "usage": "解释流动动因：bleak + career prospects；prospects通常复数。",
+      "example": "Young people facing bleak career prospects may seek further training."
+    },
+    {
+      "phrase": "a blanket legal requirement",
+      "source": "校正",
+      "usage": "批评不分情形的强制：a blanket + legal requirement/restriction。",
+      "example": "A blanket legal requirement to use digital services could disadvantage older residents."
+    },
+    {
+      "phrase": "entice skilled professionals to stay or return",
+      "source": "校正",
+      "usage": "说明激励方向：entice + sb + to V；不能把流出作为留才目的。",
+      "example": "Flexible schedules may entice experienced teachers to return to the classroom."
+    }
+  ],
+  "five-r3": [
+    {
+      "phrase": "a blanket ban",
+      "source": "校正",
+      "usage": "明确全面禁止力度：a blanket ban on + N/V-ing。",
+      "example": "A blanket ban on all mobile devices may remove useful learning tools."
+    },
+    {
+      "phrase": "a high level of risk",
+      "source": "熟悉（讲义）",
+      "usage": "说明风险程度：a high level of + risk；需给具体风险。",
+      "example": "Working without protective equipment can involve a high level of risk."
+    },
+    {
+      "phrase": "safeguarding people’s well-being",
+      "source": "熟悉（讲义）",
+      "usage": "说明保护责任：safeguard + N；正文为V-ing。",
+      "example": "Housing standards can play a role in safeguarding tenants’ well-being."
+    },
+    {
+      "phrase": "provided that the ban was effectively enforced",
+      "source": "校正",
+      "usage": "交代效果依赖执行：provided that + 完整从句；enforce是执行。",
+      "example": "Parking restrictions could reduce congestion, provided that they were consistently enforced."
+    },
+    {
+      "phrase": "allowing informed choices despite some risk",
+      "source": "校正",
+      "usage": "提炼有条件原则：allow + N；despite + N。",
+      "example": "Patient education can support informed choices despite some uncertainty."
+    },
+    {
+      "phrase": "minimum training requirements",
+      "source": "校正",
+      "usage": "提出能力门槛：meet + minimum training requirements。",
+      "example": "Laboratory assistants should meet minimum training requirements before handling hazardous substances."
+    }
+  ]
+}

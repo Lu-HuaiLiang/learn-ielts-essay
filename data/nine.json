@@ -1,0 +1,3474 @@
+[
+  {
+    "id": "nine-01",
+    "code": "N01",
+    "title": "气候变化 适应与预防",
+    "sourceHeading": "## 第01篇 气候变化 适应与预防 335词",
+    "declaredWords": 335,
+    "sourceGroup": "nine",
+    "topic": "气候变化",
+    "topicEn": "Global warming",
+    "question": "Some people think instead of preventing climate change, we need to find a way to live with it. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "There has been a fierce yet unresolved debate as to how to deal with climate change. With the difficulty in tackling the changes to weather patterns on a global scale comes a belief that efforts should be made, not to prevent **further warming,** but to live with **climate change.** Although efforts should be made to adapt to the current situation, the importance of prevention **should not** be diminished.",
+      "The argument in favour of coexisting with climate change is that such a problem cannot be **resolved** in a short time. There are many contributors to **climate** change, such as **fossil-fuel** consumption, **industrial** emissions, and population growth, among others, some of which are **difficult** to stop completely. As a result, a **sensible** way to alleviate **its effects** is to **adapt** to such a worrying situation. **For** example, **residents** and developers **can** heatproof **buildings** by planting large trees that offer shade and putting plants and gardens on top of roofs **to** help **reduce heat entering buildings. Streets can also be covered** with light-coloured materials that reflect rather than absorb **sunlight,** so they remain cooler than typical black roads. Therefore, learning to live with this problem is viable and necessary.",
+      "However, reaching such a conclusion does not necessarily diminish the importance of prevention. **Growth in** energy **consumption** can be restricted **through greater efficiency** in a way that **supports** economic development while slowing down the **rate** at which fossil fuels are being burned; meanwhile, efforts are being made to develop alternative energy **sources** (e.g., solar power and wind energy), which **can reduce reliance** on **fossil fuels. Completely halting** climate change is impossible in a short time, but **efforts** to **limit further warming** should never be underestimated. **Such** progress, however minimal it is, can ultimately help us to achieve our goal: **preventing further damage from** climate **change.**",
+      "In conclusion, although efforts should be made to adapt to the current situation, the achievement of sustainable development necessitates **efforts to prevent further warming.** Only with both adaptation and prevention can society truly **benefit.**"
+    ],
+    "corrections": [
+      {
+        "title": "适应行动与被动习惯",
+        "original": "a more sensible way to alleviate the problem is to be accustomed to such a worrying situation",
+        "revised": "a sensible way to alleviate its effects is to adapt to such a worrying situation",
+        "explanation": "be accustomed to 只是“习惯于”，不能解释损害为何减少；adapt to 才是采取适应措施。把 problem 改为 its effects，也区分了“减轻高温带来的影响”与“阻止气候变化本身”，与后面的遮阴、屋顶绿化和浅色路面形成因果链。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "屋顶绿化的降温目的",
+        "original": "putting plants and gardens on top of roofs that use vegetation to help trap heat",
+        "revised": "putting plants and gardens on top of roofs to help reduce heat entering buildings",
+        "explanation": "原来的 that use vegetation 修饰 roofs，既生硬，又把降温机制写成“困住热量”。改为不定式说明种植的目的：减少进入建筑物的热量；这样保留绿化例子，同时让措施与降温结果一致。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "停止升温与限制升温",
+        "original": "Prevention of climate change is impossible in a short time, but attempting to do such a try should never be underestimated.",
+        "revised": "Completely halting climate change is impossible in a short time, but efforts to limit further warming should never be underestimated.",
+        "explanation": "do such a try 搭配不成立；更关键的是，全文已经承认气候变化发生，不能再以“让它从未发生”为目标。completely halting 与 limit further warming 区分“短期彻底停止”及“限制进一步升温”，所以前者困难并不否定后者的价值。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "Climate Change: Adaptation and Prevention",
+    "type": "同意程度题",
+    "position": "部分同意适应已有变化；不同意用适应取代预防，应同时限制进一步升温。",
+    "paragraphNotes": [
+      {
+        "role": "开头：区分目标",
+        "explanation": "承认天气变化难以短期解决，但把预防对象写成进一步升温，避免将已经发生的变化说成能全部撤销。",
+        "chain": [
+          "全球气候变化难处理",
+          "需要适应当前影响",
+          "仍需预防进一步升温"
+        ]
+      },
+      {
+        "role": "主体一：适应的可行性",
+        "explanation": "能源消耗、工业排放等难立刻消失，所以用遮阴、屋顶绿化和反射路面减轻建筑与街道高温；适应是行动而非习惯。",
+        "chain": [
+          "成因难短期消除",
+          "种树与屋顶绿化",
+          "减少建筑吸热",
+          "浅色路面反射阳光",
+          "降低当前热影响"
+        ]
+      },
+      {
+        "role": "主体二：预防仍有价值",
+        "explanation": "提升能效限制能源消耗增长，替代能源减少化石燃料依赖；不能彻底停止变化，不等于小幅减缓没有价值。",
+        "chain": [
+          "提高能效",
+          "放慢化石燃料燃烧",
+          "发展替代能源",
+          "限制进一步升温",
+          "减少未来损害"
+        ]
+      },
+      {
+        "role": "结尾：双轨答案",
+        "explanation": "可持续发展既要承受眼前变化，也要减少未来损害；结尾保留两项措施，不用适应成功否定减排。",
+        "chain": [
+          "适应当前情况",
+          "预防进一步升温",
+          "共同支持可持续发展"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "adapt to",
+        "source": "校正",
+        "usage": "主动调整以适应；adapt to + N/V-ing，to是介词。",
+        "example": "New employees may need time to adapt to working with an international team."
+      },
+      {
+        "phrase": "alleviate its effects",
+        "source": "校正",
+        "usage": "减轻后果而非消除根源；alleviate + effects of N，its须有清楚指代。",
+        "example": "Long commutes may cause fatigue, but flexible hours can alleviate its effects."
+      },
+      {
+        "phrase": "reduce reliance",
+        "source": "校正",
+        "usage": "降低依赖；reduce reliance on + N/V-ing。",
+        "example": "Better buses could reduce reliance on private cars."
+      },
+      {
+        "phrase": "alternative energy sources",
+        "source": "校正",
+        "usage": "指出替代资源；alternative + N，sources可用作develop的宾语。",
+        "example": "Schools could explore alternative funding sources before raising tuition fees."
+      },
+      {
+        "phrase": "should never be underestimated",
+        "source": "校正",
+        "usage": "强调不应低估；N + should never be underestimated，被动后不再加宾语。",
+        "example": "The value of regular feedback should never be underestimated in language learning."
+      }
+    ],
+    "questions": [
+      "为什么be accustomed to不能说明适应措施降低损害？",
+      "主体二如何从能源效率接到预防目标？",
+      "本文为何承认短期无法彻底停止变化，却仍支持预防？"
+    ],
+    "answers": [
+      "它只表示习惯；adapt to包含调整行为，遮阴和绿化才能解释高温影响如何减少。",
+      "能效提升限制能源消耗增长，放慢燃烧化石燃料；替代能源再减少依赖，从而限制进一步升温。",
+      "完全停止与限制进一步升温是不同目标，前者困难不取消后者减少未来损害的价值。"
+    ],
+    "transfer": "换成城市拥堵：用两句区分适应当前拥堵与减少未来拥堵，写出具体措施。",
+    "transferAnswer": "Flexible working hours can help commuters adapt to current congestion. Cities should also improve bus services to reduce reliance on private cars and limit future traffic growth."
+  },
+  {
+    "id": "nine-02",
+    "code": "N02",
+    "title": "动物利用 食物 衣物与医药",
+    "sourceHeading": "## 第02篇 动物利用 食物 衣物与医药 341词",
+    "declaredWords": 341,
+    "sourceGroup": "nine",
+    "topic": "动物保护",
+    "topicEn": "Animal",
+    "question": "In modern society, it is no longer necessary to slaughter animals for producing food, or non-food products such as clothes or medicine. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "The killing and slaughter of animals for food, research and product testing have **been** sanctioned by long usage; however, with **advances in modern society** comes a belief that such behaviour should cease forthwith. Even though animals have a prima facie right to life, **some uses** of animals **remain necessary and** can be morally justified, **while certain practices are** unacceptable.",
+      "The argument against such exploitation for food is that animals deserve **a** prima facie right to life, which **could** be overridden by **human** survival **needs** in the past due to the scarcity of food resources. Agriculture has thrived in recent years, making it possible for **many** people to **rely** on **plant-based foods** to acquire the necessary **protein** and **other nutrients.** However, it is not realistic to **assume** that all people **can** stop eating meat and **rely** solely **on plant-based foods immediately,** nor **can we assume that** the world population **currently has access to nutritionally adequate alternatives.**",
+      "The same principles also apply to medical research. The use of animals in **testing** can be morally acceptable, given that **developing** and **testing** a vaccine for a lethal human **disease may require** animal **studies where validated alternatives are unavailable. In such cases, the practice can** be **morally** justified, **provided that** these animals used in experimentation are humanely treated.",
+      "However, **when** it comes to non-food products such as clothes, **it** is worthwhile to point out that **alternatives** to animals’ skins and hides, **including** man-made **fibres such as** rayon, already exist and **can be produced on a large** scale, thus making it unnecessary to kill animals **solely** for clothes. However, the skins and hides that are produced by **the meat-packing** industry should be fully used. Nonetheless, some species are hunted and killed solely for their skins and furs, including lizards, foxes, and crocodiles, among others, which **justifies a** strict prohibition on such slaughter.",
+      "In conclusion, **slaughtering** animals to produce food and medicine **can be justified where it remains necessary,** while a total ban on **hunting animals solely** for **their skins and furs** to make clothes should be imposed."
+    ],
+    "corrections": [
+      {
+        "title": "替代食品的可获得性",
+        "original": "nor is it possible to feed the world population with fruits and vegetables only",
+        "revised": "nor can we assume that the world population currently has access to nutritionally adequate alternatives",
+        "explanation": "原句把植物性食物缩成蔬果，并直接断言全世界不可能依靠它们生存，超出了段落的依据。修改后保留“尚不能要求所有人立即改用替代食品”的论证功能，但把理由限定为营养充分的替代品是否人人可获得；同时保留 nor 引导的倒装长句。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "医学研究的必要条件",
+        "original": "either an animal will be killed by research or testing, or a human will die from the disease or unsafe vaccinations",
+        "revised": "developing and testing a vaccine for a lethal human disease may require animal studies where validated alternatives are unavailable",
+        "explanation": "原句构造“动物死或人死”的必然二选一，无法由前文推出。现在保留医学研究的重要性，但只在有效替代方法不存在时提出动物研究可能有必要；may 与 where 条件从句使论证范围更准确，后句的人道对待条件也能自然承接。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "大类、成员与生产规模",
+        "original": "available alternatives to animals’ skins and hides, ranging from man-made fibre to rayon, already exist and reach economies of scale",
+        "revised": "alternatives to animals’ skins and hides, including man-made fibres such as rayon, already exist and can be produced on a large scale",
+        "explanation": "rayon 属于人造纤维，不能自然地用 from…to…把大类与其成员当作两个端点；including…such as…保留熟悉例子并理顺分类。economies of scale 通常由生产活动实现，改成 can be produced on a large scale，让“替代品可大量生产→某些屠杀不再必要”的关系更清楚。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Animal Use for Food, Medicine and Clothing",
+    "type": "同意程度题",
+    "position": "不同意一概停止：食物和医药在仍有必要且缺少替代时可合理使用动物；反对仅为皮毛屠杀。",
+    "paragraphNotes": [
+      {
+        "role": "开头：用途分类",
+        "explanation": "动物有生命权，但不是每种利用都同样必要；先提出有条件允许与禁止并存，后文按用途检验。",
+        "chain": [
+          "承认动物生命权",
+          "判断用途必要性",
+          "部分利用可辩护",
+          "部分实践不可接受"
+        ]
+      },
+      {
+        "role": "主体一：食物替代的边界",
+        "explanation": "农业发展让许多人可采用植物性饮食，但不能假设所有人立即获得营养充分的替代食物，因此拒绝全球一刀切。",
+        "chain": [
+          "植物性食物可提供营养",
+          "许多人可以替代肉食",
+          "充分替代品尚非人人可得",
+          "不能要求立即全面停食"
+        ]
+      },
+      {
+        "role": "主体二：医学条件",
+        "explanation": "致命疾病研究的必要性须与缺少已验证替代方案相结合，并加上人道对待；不是动物死亡与人死亡的必然二选一。",
+        "chain": [
+          "严重疾病研究需求",
+          "有效替代方案缺失",
+          "动物研究可能必要",
+          "人道对待成为条件"
+        ]
+      },
+      {
+        "role": "主体三：衣物区别",
+        "explanation": "人造纤维能大规模供应，削弱仅为皮毛杀动物的必要性；肉类产业副产品利用与专为皮毛猎杀分开判断。",
+        "chain": [
+          "替代纤维存在",
+          "可以大量生产",
+          "专为衣物屠杀无必要",
+          "利用现有副产品",
+          "禁止专门猎杀"
+        ]
+      },
+      {
+        "role": "结尾：条件保持一致",
+        "explanation": "结尾允许的是仍有必要的食品和医药用途，禁令只针对专为皮毛的猎杀；避免把正文条件丢掉。",
+        "chain": [
+          "必要性保留",
+          "食物医药有条件允许",
+          "专为皮毛猎杀应禁止"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "can be morally justified",
+        "source": "校正",
+        "usage": "给出道德辩护而非事实解释；N/V-ing + can be morally justified + 条件。",
+        "example": "Temporary restrictions on travel can be morally justified when they protect people from an immediate danger."
+      },
+      {
+        "phrase": "rely solely on",
+        "source": "校正",
+        "usage": "强调唯一依赖对象；rely solely on + N/V-ing，随后应检查有无替代。",
+        "example": "Rural schools should not rely solely on unpaid volunteers."
+      },
+      {
+        "phrase": "provided that",
+        "source": "校正",
+        "usage": "引入必要条件；provided that + 完整从句。",
+        "example": "Remote working can be expanded, provided that staff receive adequate technical support."
+      },
+      {
+        "phrase": "on a large scale",
+        "source": "校正",
+        "usage": "说明实施或生产规模；produce/implement + N + on a large scale。",
+        "example": "Affordable learning materials can be distributed on a large scale through online platforms."
+      },
+      {
+        "phrase": "strict prohibition on",
+        "source": "校正",
+        "usage": "表达严厉禁止；a strict prohibition on + N/V-ing。",
+        "example": "A strict prohibition on misleading advertisements could protect vulnerable consumers."
+      }
+    ],
+    "questions": [
+      "为什么不能用“蔬果不能养活全世界”直接支持食用动物？",
+      "医药段允许动物研究的两个条件是什么？",
+      "衣物段怎样区分副产品利用与专门猎杀？"
+    ],
+    "answers": [
+      "植物性食品不只蔬果；本文真正保留的条件是营养充分的替代品是否人人可获得。",
+      "已验证替代方法不可用，且研究中的动物受到人道对待。",
+      "可充分利用肉类产业已经产生的皮革，但有大规模替代品时，不应仅为皮毛猎杀动物。"
+    ],
+    "transfer": "换成学校使用人工智能：写两句有条件允许，说明何时仍需教师参与。",
+    "transferAnswer": "AI tools can assist with routine practice, provided that teachers check their feedback. Schools should not rely solely on automated systems when learners need individual explanations."
+  },
+  {
+    "id": "nine-03",
+    "code": "N03",
+    "title": "动物保护是否投入过多",
+    "sourceHeading": "## 第03篇 动物保护是否投入过多 349词",
+    "declaredWords": 349,
+    "sourceGroup": "nine",
+    "topic": "动物保护",
+    "topicEn": "Animal",
+    "question": "Some people claim that too much focus and resources have been spent on protecting wild animals and birds. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "The answer is unequivocal as to the importance of protecting animals; however, some people argue that undue emphasis is put on the safeguarding of various species of wild animals and birds. Although such efforts may seem unnecessary, less effort has been made than **is needed** to prevent animals from dying out.",
+      "The argument against current conservation initiatives is that they are an unnecessary waste of valuable resources. **Critics argue that the** natural development of ecosystems involves survival of the fittest, whereby **better-adapted** animals **are more likely** to **survive** while some **species** go extinct. **They believe that this** should not be interrupted by **human** intervention arising from the seeming kindness and care for certain animals. However, **much of the current reduction in biodiversity** is **associated with** human activities **rather than natural processes alone.** The **populations** of some **species,** such as cheetahs and snow **leopards, have declined, putting them at risk of extinction.** Such problems, in fact, strongly correlate **with** human activities such as commercial logging, **urban** sprawl, and poaching, among others, thus necessitating **conservation efforts to reduce this damage.**",
+      "Moreover, opponents of animal protection claim that with too much focus on such conservation comes an economic burden. **Many** endangered **species** are **found** in developing nations in Africa, Southeast Asia, and South America. National governments in these countries have a variety of other concerns related to healthcare, education, and employment, among others. The money **spent** on animal conservation could otherwise be **used** to **address these human needs.** However, **the** government budget **can be allocated** to address **both conservation and human welfare, rather than treating them** as **mutually exclusive.** If **a relatively small** conservation **budget** were to be used for other concerns, it **might** bring **only limited improvements** in other **areas while failing** to mitigate the problem of **declining wildlife populations,** a problem that **can have** far-reaching effects on **humans through damage to ecosystems.**",
+      "In conclusion, despite the financial cost, it is essential to protect wild animals which may go extinct. **More attention to** animal protection is **still needed;** governments should continue to take action before it is too **little,** too **late.**"
+    ],
+    "corrections": [
+      {
+        "title": "比较标准补完整",
+        "original": "less effort has been made than it should",
+        "revised": "less effort has been made than is needed",
+        "explanation": "原句的 it should 不能完整承接“本应投入多少努力”的比较关系。than is needed 直接补出比较标准，即“实际投入的努力少于所需”，保留原作者认为保护不足的立场。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "适者并非最强壮者",
+        "original": "whereby only the strongest and most successful animals continue to exist while some animals go extinct",
+        "revised": "whereby better-adapted animals are more likely to survive while some species go extinct",
+        "explanation": "适者生存不等于只有最强壮的动物存活；better-adapted 对应“更适应环境”，more likely 也避免必然性。段首增加 Critics argue、后句用 They believe，是为了把这套反对保护的推理清楚归给反方，随后才能用人为破坏作回应。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "预算机会成本须有条件",
+        "original": "If the money allocated to animal conservation were to be used for other concerns, it would bring trivial changes in other aspects",
+        "revised": "If a relatively small conservation budget were to be used for other concerns, it might bring only limited improvements in other areas",
+        "explanation": "原句无依据地断言挪用所有保护预算只能带来微不足道的改善。改为“若这笔预算相对较小，挪用它可能只能带来有限改善”，保留机会成本比较，但加入适用情境和 might；也删除了“政府已完美分配预算”的无证据前提。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "Is Wildlife Conservation Overfunded?",
+    "type": "同意程度题",
+    "position": "不同意保护投入过多；人为损害仍要求保护，预算应兼顾生态与人的需要。",
+    "paragraphNotes": [
+      {
+        "role": "开头：比较投入标准",
+        "explanation": "争论不是动物是否重要，而是现有努力是否超过所需；文章明确判断实际努力仍少于防止灭绝的需要。",
+        "chain": [
+          "保护重要",
+          "出现资源过多质疑",
+          "现有努力少于所需"
+        ]
+      },
+      {
+        "role": "主体一：回应自然淘汰说",
+        "explanation": "先把适者生存归给反方，再区分自然灭绝与伐木、扩城、偷猎造成的下降；人为损害提供干预理由。",
+        "chain": [
+          "反方诉诸自然淘汰",
+          "当前下降也关联人类活动",
+          "栖息地破坏和偷猎加剧风险",
+          "需要保护减损"
+        ]
+      },
+      {
+        "role": "主体二：比较预算机会成本",
+        "explanation": "承认发展中国家有医疗、教育和就业需求，但两类支出并非互斥；小额保护预算转移可能帮助有限，却放任生态损害。",
+        "chain": [
+          "公共预算有多项需求",
+          "可兼顾保护与民生",
+          "小额转移改善可能有限",
+          "生态受损也影响人类"
+        ]
+      },
+      {
+        "role": "结尾：及时投入",
+        "explanation": "有财政成本不等于应停止保护；面对物种灭绝风险，结尾主张继续行动并增加所需关注。",
+        "chain": [
+          "保护有成本",
+          "灭绝风险仍存在",
+          "继续及时保护"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "prevent animals from dying out",
+        "source": "熟悉（讲义）",
+        "usage": "防止灭绝；prevent + 对象 + from V-ing，die out不及物。",
+        "example": "Affordable meals can prevent students from dropping out because of financial pressure."
+      },
+      {
+        "phrase": "better-adapted",
+        "source": "校正",
+        "usage": "更能适应环境；better-adapted + N，也可be better adapted to + N。",
+        "example": "Better-adapted teaching materials can support learners with different needs."
+      },
+      {
+        "phrase": "correlate with",
+        "source": "校正",
+        "usage": "表达相关而非已证实因果；A correlate with B。",
+        "example": "Long commuting times may correlate with lower job satisfaction."
+      },
+      {
+        "phrase": "mutually exclusive",
+        "source": "校正",
+        "usage": "说明两选项互斥；A and B + be mutually exclusive，否定时表示可以并存。",
+        "example": "Economic growth and fair working conditions need not be mutually exclusive."
+      },
+      {
+        "phrase": "far-reaching effects on",
+        "source": "熟悉（讲义）",
+        "usage": "说明影响范围广或持久；have far-reaching effects on + N。",
+        "example": "Unequal access to education can have far-reaching effects on employment opportunities."
+      }
+    ],
+    "questions": [
+      "反方的适者生存论为什么不能直接排除保护？",
+      "本文怎样限定挪用保护预算的机会成本判断？",
+      "mutually exclusive在预算段否定了哪种前提？"
+    ],
+    "answers": [
+      "当前物种下降不只是自然过程，还关联伐木、城市扩张和偷猎等人为损害。",
+      "只说相对较小的预算可能给其他领域带来有限改善，未断言转移所有保护经费都没有帮助。",
+      "否定保护动物与改善人类福祉只能选其一，政府可以同时分配资源。"
+    ],
+    "transfer": "换成图书馆与医疗预算：承认财政竞争，再说明不能仅因另一领域有需求就取消小额文化支出。",
+    "transferAnswer": "Healthcare and public libraries need not be mutually exclusive budget priorities. Transferring a small library budget may bring limited medical improvements while removing a valuable learning service."
+  },
+  {
+    "id": "nine-04",
+    "code": "N04",
+    "title": "保护所有动物还是部分动物",
+    "sourceHeading": "## 第04篇 保护所有动物还是部分动物 381词",
+    "declaredWords": 381,
+    "sourceGroup": "nine",
+    "topic": "动物保护",
+    "topicEn": "Animal",
+    "question": "Many believe that it is important to protect all wild animals, while others think that it is important to protect some, not all of them. Discuss both views and give your opinion.",
+    "essayParagraphs": [
+      "The answer is unequivocal as to the importance of protecting animals; however, **some** have suggested that the protection of wild animals should be selective, whereas others believe that all wild animals deserve attention. Both views are discussed here to seek a **conclusion.**",
+      "The argument in favour of safeguarding certain wild animals is that they should **be** distinguished from other species by the **threats they** face and **their value.** For instance, **unlike** animals such as rats and pigeons, which have adapted **successfully** to urban environments, tigers are **endangered** wild **animals** and require intensive conservation efforts. Therefore, **there is** insufficient **justification for** providing equal support to species in different circumstances. Moreover, **advocates of selective protection regard** some animals **as** more deserving of preservation. The tiger, to continue the previous example, is greatly valued for being elegant and for being rare, while **animals** such as **bees** are valuable not for their beauty but for their usefulness to humanity. However, the **urgency** of **protecting a particular bee species may be lower if it has a** large **and stable population.**",
+      "However, all **wild** animals **deserve protection from human harm,** as humanity has been **a** catalyst for **the endangerment of many species.** The **populations** of some **species, including** cheetahs, snow leopards and **certain bee species, have declined, raising concerns about their survival.** Such problems, in fact, strongly correlate **with** human activities such as commercial logging, **urban** sprawl, and poaching, among others, thus necessitating efforts to stop such destructive behaviour rather than simply protect some species for **their perceived value.**",
+      "I think biodiversity is **a** sine qua non for **the** sustainable **functioning** of **ecosystems** because **species are** closely **interconnected,** thus **challenging** the idea that **only** certain animals **deserve protection.** For example, the **loss** of bees in **an area could cause** problems for pollination and thus **for herbivores that depend on affected plants,** eventually **disrupting** the food chain and **potentially affecting predators such as** tigers. Therefore, all animals **deserve protection,** albeit **with** differing **levels of attention** and **resources:** efforts (e.g., **sanctuaries)** to protect tigers are **tangible,** while bees **may** receive help **through** less obvious **measures to preserve their habitats.**",
+      "In conclusion, humans should endeavour to protect as many animals as possible, although **some** species may be prioritized in **terms** of **attention** and resources according to the **threats they face.**"
+    ],
+    "corrections": [
+      {
+        "title": "情态动词后的被动",
+        "original": "they should distinguished from other species by the threat the specific animals face and the value of the animal itself",
+        "revised": "they should be distinguished from other species by the threats they face and their value",
+        "explanation": "情态动词后的被动结构必须是 should be distinguished。后半句用 they/their 统一指代这些动物，并用 threats 表示可能存在多种威胁，避免 specific animals、animal itself 在单复数和指代上来回切换。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "紧迫性与生态价值",
+        "original": "the importance of bees is diminished by large population size and ubiquity",
+        "revised": "the urgency of protecting a particular bee species may be lower if it has a large and stable population",
+        "explanation": "常见或数量多，并不意味着生态价值更低。修改保留原来的资源排序思路，但比较的是某种蜂类保护的“紧迫性”，而非蜜蜂的“重要性”；if 条件也避免一概认定所有蜂类都数量庞大，与下一段提到蜂类受威胁保持一致。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "整体保护不等于等额投入",
+        "original": "because every species is closely interconnected and is equally important, thus refuting the idea that certain animals should be prioritized",
+        "revised": "because species are closely interconnected, thus challenging the idea that only certain animals deserve protection",
+        "explanation": "相互关联可以支持整体保护，却不能单独证明所有物种价值完全相同、资源投入必须相等。将争论对象改成“是否只有部分动物值得保护”，保留支持广泛保护的立场，同时允许结尾按风险优先分配资源，消除原文前后冲突。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Protect All Wildlife or Selected Species?",
+    "type": "双边讨论＋个人观点题",
+    "position": "所有野生动物都值得免受人为伤害，但可按威胁程度分配不同资源。",
+    "paragraphNotes": [
+      {
+        "role": "开头：提出两种保护范围",
+        "explanation": "区分选择性保护与所有动物都应得到关注，为后文把保护原则和资源分配拆开作铺垫。",
+        "chain": [
+          "保护重要",
+          "选择部分物种",
+          "广泛保护所有物种",
+          "需要明确分配原则"
+        ]
+      },
+      {
+        "role": "主体一：解释选择性投入",
+        "explanation": "老虎濒危而城市鼠鸽适应良好，支持不同强度投入；蜂类若种群稳定，较低的是紧迫性而非生态价值。",
+        "chain": [
+          "物种威胁不同",
+          "濒危者需密集保护",
+          "稳定种群紧迫性较低",
+          "无需同等投入"
+        ]
+      },
+      {
+        "role": "主体二：普遍保护的责任",
+        "explanation": "人类伐木、扩城和偷猎使多类物种受威胁，因此不能只按外观或主观价值挑选，必须减少普遍的人为伤害。",
+        "chain": [
+          "人类活动损害多种物种",
+          "部分种群下降",
+          "应阻止破坏行为",
+          "保护不只限于高观赏价值动物"
+        ]
+      },
+      {
+        "role": "观点段：生态联系与分层措施",
+        "explanation": "蜂类减少可能影响授粉，再影响草食动物和捕食者；关联支持整体保护，但不要求每种动物获同额经费。",
+        "chain": [
+          "蜂类减少",
+          "授粉受影响",
+          "依赖植物的草食动物受影响",
+          "食物链可能波及捕食者",
+          "保护广泛而投入有别"
+        ]
+      },
+      {
+        "role": "结尾：原则与优先级并存",
+        "explanation": "尽量保护更多物种，同时按具体风险优先分配关注和资源；不是先支持全部、最后又取消部分动物资格。",
+        "chain": [
+          "尽量广泛保护",
+          "评估物种风险",
+          "确定资源优先级"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "be distinguished from",
+        "source": "校正",
+        "usage": "区分对象；A should be distinguished from B，情态动词后保留be。",
+        "example": "Temporary unemployment should be distinguished from a long-term skills mismatch."
+      },
+      {
+        "phrase": "insufficient justification for",
+        "source": "校正",
+        "usage": "说明理由不足；there is insufficient justification for + N/V-ing。",
+        "example": "There is insufficient justification for banning all online lessons because some are poorly designed."
+      },
+      {
+        "phrase": "deserve protection",
+        "source": "校正",
+        "usage": "表达应受保护；对象 + deserve protection from + 伤害。",
+        "example": "Children deserve protection from misleading commercial messages."
+      },
+      {
+        "phrase": "closely interconnected",
+        "source": "校正",
+        "usage": "强调相互联系；复数事物 + be closely interconnected，不能据此推出价值相等。",
+        "example": "Housing costs and commuting choices are closely interconnected."
+      },
+      {
+        "phrase": "according to the threats they face",
+        "source": "校正",
+        "usage": "按风险分配；according to + N/名词性结构，they应有明确先行词。",
+        "example": "Schools could direct support to learners according to the difficulties they face."
+      }
+    ],
+    "questions": [
+      "种群数量稳定为什么不能推出动物不重要？",
+      "蜂类例子如何从授粉接到捕食者？",
+      "“保护全部”与“部分优先”如何不矛盾？"
+    ],
+    "answers": [
+      "数量与生态价值是不同维度；稳定种群只可能降低立即保护的紧迫性。",
+      "蜂类减少可能损害授粉，进而影响相关植物、依赖这些植物的草食动物，最后可能波及捕食者。",
+      "全部动物都有免受人为伤害的资格，具体投入可以按面临威胁的程度区别安排。"
+    ],
+    "transfer": "换成教育公平：说明所有学生都有学习机会，但辅导强度可因需要不同而不同。",
+    "transferAnswer": "All students deserve access to suitable learning resources. Schools can nevertheless provide different levels of support according to the difficulties learners face."
+  },
+  {
+    "id": "nine-05",
+    "code": "N05",
+    "title": "动植物数量下降的原因与对策",
+    "sourceHeading": "## 第05篇 动植物数量下降的原因与对策 288词",
+    "declaredWords": 288,
+    "sourceGroup": "nine",
+    "topic": "动物保护",
+    "topicEn": "Animal",
+    "question": "In many countries, the number of animals and plants is declining. Why do you think this is happening? How can this issue be solved?",
+    "essayParagraphs": [
+      "One of the worrying trends in modern society is that the number of animals and plants is **declining.** This occurs for several reasons, the foremost of which is **destructive** human **activity.** Concerted efforts should be made by governments and individuals.",
+      "The underlying reason for this **trend** is human **activity. Many** forests are being threatened by deforestation for agricultural expansion, logging, and infrastructure development. A typical example can be found **in** the Amazon rainforest, **where** pristine habitats are being cleared for cattle ranching, depriving countless species of their natural homes. An additional human activity that deserves attention is the illegal wildlife trade. This practice is driven by high demand for exotic pets, traditional medicine, and animal parts, pushing many species, be they animals or plants, towards endangerment and potential extinction.",
+      "What steps can governments and individuals take to halt and reverse the trend? For governments, the keys to reversing **environmental** degradation are conservation and restoration efforts. For instance, reforestation initiatives can aim to replant native tree species in deforested areas, providing crucial habitats for various wildlife species. Individuals can also **help** by **recognizing** how their daily behaviour could lead to catastrophes for certain animals or **plants and avoiding products that contribute to this damage.** For example, a figure delicately carved in ivory **can mean** that an elephant **has been** killed for **commercial gain;** a so-called magic medicine **can involve** uncontrolled exploitation of wild plants. When the buying stops, the killing can too.",
+      "In conclusion, human activities have taken a heavy **toll** on flora and fauna; therefore, efforts, ranging from government policies to **individuals refusing to buy illegally traded wildlife products, should** be made to mitigate the problems. Otherwise, the **continued** reduction of biodiversity **could be** a recipe for disaster."
+    ],
+    "corrections": [
+      {
+        "title": "用where连接地点与机制",
+        "original": "A typical example can be found In the Amazon rainforest, pristine habitats are being cleared for cattle ranching, depriving countless species of their natural homes.",
+        "revised": "A typical example can be found in the Amazon rainforest, where pristine habitats are being cleared for cattle ranching, depriving countless species of their natural homes.",
+        "explanation": "原句把两个完整分句用一个逗号硬接起来，In 也不应大写。改后用 where 引导定语从句，修饰 Amazon rainforest，让“清理栖息地以放牧→物种失去家园”的机制在同一个长句中完整展开，原有例子和 depriving 结果结构均保留。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "从意识落实到拒买",
+        "original": "their environmental awareness should be raised by realizing how their daily behaviour could lead to catastrophes for certain animals or plants",
+        "revised": "Individuals can also help by recognizing how their daily behaviour could lead to catastrophes for certain animals or plants and avoiding products that contribute to this damage",
+        "explanation": "原句让 environmental awareness 去 realizing，表达不自然，而且提高意识尚未等于解决问题。改成 Individuals…by recognizing…and avoiding…，让人同时承担“认识后果”和“停止相关购买”两个动作，才能接上最后的 When the buying stops…。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "take a heavy toll on",
+        "original": "human activities have taken a heavy on flora and fauna",
+        "revised": "human activities have taken a heavy toll on flora and fauna",
+        "explanation": "固定搭配是 take a heavy toll on，toll 表示损害，不能省略。结尾还把含糊的 stopping of individual trade 明确为个人拒买非法交易的野生动植物产品，使措施对应前文的非法交易问题。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Declining Animal and Plant Populations",
+    "type": "原因＋解决措施双问题",
+    "position": "主因是破坏性人类活动；政府修复栖息地，个人拒买非法野生动植物产品。",
+    "paragraphNotes": [
+      {
+        "role": "开头：原因与行动主体",
+        "explanation": "题目问为什么及如何解决；开头同时给出人为破坏与政府、个人共同努力，避免只描述数量下降。",
+        "chain": [
+          "动植物数量下降",
+          "破坏性人类活动",
+          "政府与个人都需行动"
+        ]
+      },
+      {
+        "role": "主体一：拆分两类人为压力",
+        "explanation": "农业扩张、伐木和基建直接清理家园；宠物、药材和动物部位的需求推动非法交易，两条机制共同增加灭绝风险。",
+        "chain": [
+          "开发土地",
+          "自然栖息地减少",
+          "物种失去家园",
+          "非法交易需求增加",
+          "生存风险上升"
+        ]
+      },
+      {
+        "role": "主体二：措施对准成因",
+        "explanation": "政府用本土树种重造栖息地，个人从认识伤害转为拒买象牙和非法药材；意识必须落实为减少需求。",
+        "chain": [
+          "重植本土树种",
+          "恢复栖息地",
+          "识别消费造成的损害",
+          "拒买相关非法产品",
+          "降低猎杀和采集需求"
+        ]
+      },
+      {
+        "role": "结尾：统一因果与措施",
+        "explanation": "take a heavy toll on概括人为伤害，再用政策与个人拒买对应两条成因；不把责任只推给政府。",
+        "chain": [
+          "人为活动造成损害",
+          "政策修复与个人拒买",
+          "缓解生物多样性下降"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "depriving countless species of their natural homes",
+        "source": "熟悉（讲义）",
+        "usage": "用分词写结果；deprive + 对象 + of + N，不能写from。",
+        "example": "Excessive overtime can deprive workers of their opportunity to rest."
+      },
+      {
+        "phrase": "driven by high demand for",
+        "source": "熟悉（讲义）",
+        "usage": "说明需求推动行为；be driven by demand for + N。",
+        "example": "The expansion of online courses is partly driven by high demand for flexible study."
+      },
+      {
+        "phrase": "conservation and restoration efforts",
+        "source": "熟悉（讲义）",
+        "usage": "区分保护与修复；efforts to + V，也可将整组作主语。",
+        "example": "Maintenance and restoration efforts could make old schools safer to use."
+      },
+      {
+        "phrase": "take to halt and reverse the trend",
+        "source": "熟悉（讲义）",
+        "usage": "询问具体步骤；take steps to + V，halt停止、reverse扭转。",
+        "example": "What steps can employers take to halt and reverse the trend towards longer working hours?"
+      },
+      {
+        "phrase": "taken a heavy toll on",
+        "source": "校正",
+        "usage": "造成严重损害；have/has taken a heavy toll on + N。",
+        "example": "Repeated delays have taken a heavy toll on passengers' confidence in the rail service."
+      }
+    ],
+    "questions": [
+      "土地开发和非法交易分别通过什么机制损害物种？",
+      "为什么只提高环保意识还不足以完成解决方案？",
+      "政府的重新造林怎样对应主体一？"
+    ],
+    "answers": [
+      "前者清理栖息地使物种失去家园；后者由消费需求推动过量捕猎和采集。",
+      "必须把认识伤害接到拒买非法产品，减少需求才可能减弱猎杀和采集动机。",
+      "在受毁林地区重植本土树种，为失去家园的物种重新提供适合栖息的空间。"
+    ],
+    "transfer": "换成食品浪费：政府改善设施，个人改变购买行为，用两句分别对应成因。",
+    "transferAnswer": "Local councils can improve food collection facilities to reduce waste from disposal. Individuals can also help by planning meals and avoiding purchases they are unlikely to use."
+  },
+  {
+    "id": "nine-06",
+    "code": "N06",
+    "title": "国际旅游兴起的原因与影响",
+    "sourceHeading": "## 第06篇 国际旅游兴起的原因与影响 392词",
+    "declaredWords": 392,
+    "sourceGroup": "nine",
+    "topic": "旅游",
+    "topicEn": "Tourism",
+    "question": "Many people today are choosing to travel to other countries. Why is this happening? Is this a positive or negative development?",
+    "essayParagraphs": [
+      "One of the growing trends in modern society is that people increasingly choose to travel abroad. This occurs for several reasons, foremost of which are **higher** per capita income and the development of the airline industry. Despite the potential adverse effects on the environment, **this trend,** on **balance,** produces positive **outcomes when its risks are managed.**",
+      "The primary reason lies in the fact that **more people** today can afford to travel internationally. As world trade thrives, the **middle** class **is expanding,** thus making it possible for **more people** to use disposable income to travel to other countries. This boom is also attributed to the fact that companies like Boeing **have produced** more efficient planes, the fact that competition **among airlines has intensified,** and the fact that budget airlines **have expanded,** all of which combined have ushered in an era of international tourism. For example, **Chinese** tourists **can take** advantage of budget airlines to travel to countries such as **Thailand.**",
+      "This boom brings cultural benefits to individuals and economic benefits to destinations. International travel exposes tourists to exotic **cultures,** ranging from what people usually eat **to** how people celebrate **local** festivals. For example, tourists can eat sushi and enjoy the fireworks during summer in Japan. In addition, international tourism contributes to greater economic prosperity. Wildlife viewing, for example, has become a source of income for African countries such as Tanzania; the Pyramids bring a large influx of tourists to Egypt, **and their spending can help raise local incomes and improve living standards.**",
+      "With this boom also **come** problems. The environmental impacts are largely attributable to the development of the hospitality industry (e.g., hotels, restaurants, and shops) and infrastructure (e.g., roads and power supply). This **can give** rise to higher levels of deforestation and construction, thus leading to damage to **wildlife habitats** and a decline in biodiversity. However, such problems **can be** mitigated by concerted efforts from governments (e.g., regulations governing sustainable development) and individuals (e.g., **environmentally responsible behaviour).** For example, **governments can restrict deforestation for tourist facilities and ban single-use** plastic **bags, while** tourists **can avoid** touching **coral reefs when** diving.",
+      "In conclusion, increased income and low-cost air travel act as **catalysts** for international tourism. It **can be** a win-win situation for tourists and tourist destinations despite the possible environmental problems, **provided that** government policies and individual **efforts keep such damage under control.**"
+    ],
+    "corrections": [
+      {
+        "title": "中产群体扩大",
+        "original": "the number of the middle class proliferates",
+        "revised": "the middle class is expanding",
+        "explanation": "the middle class 指一个社会群体，the number of the middle class 不自然；proliferate 也不适合直接与这里的 number 搭配。is expanding 保留“中产群体扩大→更多人拥有可用于旅行的收入”的原因链，后文也明确写 more people，避免 them 指代含糊。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "from A to B范围结构",
+        "original": "ranging from what people usually eat and how people celebrate the local festivals",
+        "revised": "ranging from what people usually eat to how people celebrate local festivals",
+        "explanation": "范围结构应为 ranging from A to B。A、B 继续保留两个名词性从句，因此长句形式没有被拆掉，只修正连接关系；local festivals 泛指当地节日，不需要 the。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "倒装中的复数主语",
+        "original": "With this boom also comes problems.",
+        "revised": "With this boom also come problems.",
+        "explanation": "这是完全倒装，真正的主语是后面的复数 problems，因此谓语用 come。下文还把已有国家禁令改为可采取的一般措施，并补上限制旅游设施毁林这一动作，使政府措施直接回应本段的栖息地损失问题。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Why International Tourism Is Growing",
+    "type": "原因＋正负评价双问题",
+    "position": "收入和廉价航空推动国际旅游；风险受管理时总体积极。",
+    "paragraphNotes": [
+      {
+        "role": "开头：两问同时回答",
+        "explanation": "收入与航空发展回答增长原因，积极评价附带风险管理条件；不是无条件声称游客越多越好。",
+        "chain": [
+          "更多人出国",
+          "收入和航空发展",
+          "风险受控时总体积极"
+        ]
+      },
+      {
+        "role": "主体一：支付能力与可达性",
+        "explanation": "中产扩大使更多人有可支配收入；飞机效率、航空竞争和廉航扩展一起降低旅行门槛，构成需求与供给双侧解释。",
+        "chain": [
+          "中产扩大",
+          "可支配收入增多",
+          "飞机效率与航空竞争提高",
+          "廉航扩展",
+          "国际旅行更可负担"
+        ]
+      },
+      {
+        "role": "主体二：文化与经济收益",
+        "explanation": "旅游者亲历饮食节日，目的地从景点吸引的消费获得收入；居民生活改善依赖游客消费进入本地经济。",
+        "chain": [
+          "接触当地饮食节日",
+          "获得文化体验",
+          "景点吸引游客",
+          "游客消费",
+          "本地收入可能提高"
+        ]
+      },
+      {
+        "role": "主体三：环境损害与对应措施",
+        "explanation": "酒店道路开发可毁林并损害栖息地，政府限制开发、个人保护珊瑚等各有作用；具体行动解释风险如何受控。",
+        "chain": [
+          "旅游设施扩张",
+          "毁林建设",
+          "栖息地与物种受损",
+          "政府限制破坏",
+          "游客减少直接伤害"
+        ]
+      },
+      {
+        "role": "结尾：有条件的双赢",
+        "explanation": "重申收入与廉价航空原因，收益判断依靠政策和个人行为控制损害；结尾保留provided that条件。",
+        "chain": [
+          "收入与低价航空推动",
+          "旅游者和目的地受益",
+          "政策与个人努力控制风险"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "disposable income",
+        "source": "熟悉（讲义）",
+        "usage": "可用于储蓄或非基本消费的收入；use disposable income to + V。",
+        "example": "Higher disposable income may allow families to buy additional learning materials."
+      },
+      {
+        "phrase": "the middle class is expanding",
+        "source": "校正",
+        "usage": "描述群体扩大；the middle class + 单数谓语，不写the number...proliferates。",
+        "example": "As the local workforce is expanding, demand for reliable public transport may rise."
+      },
+      {
+        "phrase": "ranging from",
+        "source": "熟悉（讲义）",
+        "usage": "展示范围；ranging from + A + to + B，两端结构应平行。",
+        "example": "Students need support ranging from academic advice to affordable accommodation."
+      },
+      {
+        "phrase": "concerted efforts from",
+        "source": "熟悉（讲义）",
+        "usage": "多方协同行动；concerted efforts from + 主体，须补谁做什么。",
+        "example": "Improving school meals requires concerted efforts from teachers and catering staff."
+      },
+      {
+        "phrase": "provided that",
+        "source": "校正",
+        "usage": "限定积极结论；provided that + 完整条件从句。",
+        "example": "Longer opening hours could benefit library users, provided that staffing costs remain manageable."
+      }
+    ],
+    "questions": [
+      "本篇把旅游增长拆成哪两类门槛降低？",
+      "游客到来怎样可能改善本地生活？",
+      "政府和游客各做什么来对应环境损害？"
+    ],
+    "answers": [
+      "收入增长提高支付能力，飞机效率、航空竞争和廉航发展改善可达性与价格。",
+      "景点吸引游客，游客消费进入本地服务和收入，才可能提高居民生活水平。",
+      "政府限制为旅游设施毁林并管理塑料用品；游客采取负责任行为，例如潜水不触碰珊瑚。"
+    ],
+    "transfer": "换成在线教育增长：解释设备与价格门槛下降，并给积极判断加上质量条件。",
+    "transferAnswer": "Affordable devices and wider internet access have made online courses easier to use. This can be a positive development, provided that learners receive reliable content and appropriate feedback."
+  },
+  {
+    "id": "nine-07",
+    "code": "N07",
+    "title": "国际旅游的利弊权衡",
+    "sourceHeading": "## 第07篇 国际旅游的利弊权衡 430词",
+    "declaredWords": 430,
+    "sourceGroup": "nine",
+    "topic": "旅游",
+    "topicEn": "Tourism",
+    "question": "International tourism has brought enormous benefits to many places. At the same time, there is some concern about its impact on local inhabitants and the environment. Do the disadvantages outweigh the advantages?",
+    "essayParagraphs": [
+      "The market for international tourism has thrived in recent years; however, a fierce debate remains as to **its** overall effects on **local** inhabitants and the **environment. On balance, it** yields positive outcomes in the form of economic prosperity and cultural **preservation, despite** some potential environmental and cultural issues.",
+      "The tourism industry can be **an** effective **way** to **create** job opportunities and earn **foreign** exchange. Wildlife viewing, for example, has become a source of income for African countries such as Tanzania, and **this revenue can contribute** to higher per capita income, improved living standards and greater prosperity. Therefore, it is **people** in **developing** economies who **may** have **particular** need **of an** influx of tourists, as **participation in** international **tourism can bring valuable employment opportunities.**",
+      "However, it is argued that this boom could take its toll on the local environment and culture. The environmental impacts are largely attributed to the development of the hospitality industry (e.g., hotels, restaurants, and shops) and infrastructure (e.g., roads and power supply). This **can give** rise to higher levels of deforestation and construction, thus leading to damage to **wildlife habitats** and a decline in biodiversity. However, such problems **can be** mitigated by concerted efforts from governments (e.g., regulations governing sustainable development) and individuals (e.g., **environmentally responsible behaviour).** For example, **governments can restrict deforestation for tourist facilities and ban single-use** plastic **bags, while** tourists **can avoid** touching **coral reefs when** diving.",
+      "Moreover, critics worry that when mass tourism **enters a** place, acculturation **may occur** (i.e., the **modification** of **an** existing culture through **contact with other** cultures). It **can lead** to **cultural** homogenization **and weaken local traditions,** as **local** communities **may** commercialize the indigenous culture or disregard their traditional customs and values so that they can advertise their modernity to attract more tourists. However, **with** policies that place a premium on cultural histories, local heritage sites, and customs, **the adverse effects on local culture** can be mitigated **and tourism itself can become** a vehicle for preserving and revitalizing local cultures. **Local communities,** for instance, **could operate** tour businesses themselves, encouraging tourists to visit their **villages and using the income to sustain local customs.** This **culture-based** tourism **can strengthen** cultural identity and **heighten** a sense of **belonging.**",
+      "In conclusion, even though stories abound as to how international tourism affects the local environment and culture, it is sensible to encourage global **tourism** that is safeguarded by regulation from governments and concerted efforts from local inhabitants and visitors. **Where these safeguards keep environmental and cultural damage limited, I believe that continuing gains in local livelihoods and cultural preservation outweigh those remaining harms.**"
+    ],
+    "corrections": [
+      {
+        "title": "恢复句界与让步主句",
+        "original": "the environment t on balance yields positive outcomes in the form of economic prosperity and cultural preservation. Despite some potential environmental and cultural issues.",
+        "revised": "the environment. On balance, it yields positive outcomes in the form of economic prosperity and cultural preservation, despite some potential environmental and cultural issues.",
+        "explanation": "原文在 environment 后漏了清楚的句界和主语，Despite 短语又单独成了残句。修改补出 On balance, it…，并将 despite 接回完整主句，使“存在风险，但总体利大于弊”的原立场在引言中明确成立。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "旅游并非唯一发展途径",
+        "original": "the opportunities only come with being part of international tourism",
+        "revised": "participation in international tourism can bring valuable employment opportunities",
+        "explanation": "only 把旅游写成发展机会的唯一来源，前文没有证明这一点。改为 can bring 仍保留“游客带来收入与岗位”的论证，但不排除其他产业；原来的 greatest need 也相应收窄，避免把旅游收益直接变成所有发展中经济体都最需要旅游。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "负面影响与旅游的主语分开",
+        "original": "the adverse effects on local culture, with policies that place a premium on cultural histories, local heritage sites, and customs, can be mitigated or even transformed into a vehicle for preserving and revitalizing local cultures",
+        "revised": "with policies that place a premium on cultural histories, local heritage sites, and customs, the adverse effects on local culture can be mitigated and tourism itself can become a vehicle for preserving and revitalizing local cultures",
+        "explanation": "可以被缓解的是 adverse effects；能成为文化保护载体的是 tourism。原句让“负面影响”直接变成“载体”，逻辑主语错位。现在保留长句与 place a premium on、a vehicle for 等表达，通过两个清楚的主谓结构把“减轻风险”和“用旅游支持文化”接起来。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Weighing International Tourism",
+    "type": "利弊权衡题（是否弊大于利）",
+    "position": "不同意弊大于利；有效监管限制剩余损害时，就业收入与文化保护的持续收益更大。",
+    "paragraphNotes": [
+      {
+        "role": "开头：直接给权衡答案",
+        "explanation": "用On balance明确总体收益更大，同时承认环境与文化问题，后文须解释为何这些损害不足以压过收益。",
+        "chain": [
+          "国际旅游繁荣",
+          "环境文化风险存在",
+          "总体经济与文化收益较大"
+        ]
+      },
+      {
+        "role": "主体一：就业与收入",
+        "explanation": "游客消费创造岗位和外汇，旅游收入可提高人均收入；特别需要岗位的地区受益，但旅游并非唯一发展渠道。",
+        "chain": [
+          "游客进入",
+          "岗位与外汇增加",
+          "收入可能提高",
+          "发展中地区获得就业机会"
+        ]
+      },
+      {
+        "role": "主体二：环境风险可被限制",
+        "explanation": "设施和基建扩展导致毁林与栖息地损害，监管开发与游客行为可削弱这条链；承认可缓解还不是完整权衡。",
+        "chain": [
+          "设施扩展",
+          "毁林建设",
+          "栖息地损失",
+          "限制开发与减少游客伤害",
+          "剩余损害降低"
+        ]
+      },
+      {
+        "role": "主体三：文化风险可转为保护动力",
+        "explanation": "迎合游客可能商业化传统；若本地人经营旅游并把收入用于习俗，旅游本身可成为文化保护载体。",
+        "chain": [
+          "迎合外来需求",
+          "传统可能弱化",
+          "政策重视文化",
+          "本地社区经营并回投收入",
+          "文化认同增强"
+        ]
+      },
+      {
+        "role": "结尾：比较剩余损害与持续收益",
+        "explanation": "只在保护措施限制损害时支持旅游，比较的是持续生计和文化保存收益与控制后的损害，不是单纯数优点。",
+        "chain": [
+          "监管和各方努力",
+          "环境文化损害有限",
+          "持续生计与文化收益",
+          "收益超过剩余损害"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "earn foreign exchange",
+        "source": "校正",
+        "usage": "说明外汇收益；earn + foreign exchange，exchange此义不可数。",
+        "example": "Exporting educational software can help small firms earn foreign exchange."
+      },
+      {
+        "phrase": "take its toll on",
+        "source": "熟悉（讲义）",
+        "usage": "损害某对象；N + take its toll on + N，its指前述事物。",
+        "example": "Persistent staff shortages can take their toll on hospital services."
+      },
+      {
+        "phrase": "place a premium on",
+        "source": "熟悉（讲义）",
+        "usage": "高度重视；place a premium on + N/V-ing。",
+        "example": "Employers should place a premium on relevant skills when recruiting graduates."
+      },
+      {
+        "phrase": "a vehicle for",
+        "source": "熟悉（讲义）",
+        "usage": "把活动视为实现目标的载体；become/serve as a vehicle for + N/V-ing。",
+        "example": "Community theatre can serve as a vehicle for discussing local concerns."
+      },
+      {
+        "phrase": "heighten a sense of belonging",
+        "source": "校正",
+        "usage": "增强归属感；heighten a sense of + N，不表示人数增加。",
+        "example": "Inclusive school activities may heighten a sense of belonging among new pupils."
+      }
+    ],
+    "questions": [
+      "为什么删掉旅游机会“only come with”这一说法？",
+      "文化段中谁被缓解，谁成为保护载体？",
+      "结尾用什么具体依据判断利大于弊？"
+    ],
+    "answers": [
+      "旅游可创造岗位，但没有证据表明所有发展机会只能来自旅游。",
+      "负面影响被缓解；旅游本身成为保护和复兴文化的载体，不能让负面影响充当载体。",
+      "监管使环境文化损害有限后，持续的本地生计和文化保存收益超过剩余损害。"
+    ],
+    "transfer": "换成城市艺术节的利弊：说明社区收入回投与噪声管控，给出有条件权衡。",
+    "transferAnswer": "A community arts festival can generate income that residents use to maintain local venues. Where organisers keep noise and waste limited, these continuing cultural benefits may outweigh the remaining disruption."
+  },
+  {
+    "id": "nine-08",
+    "code": "N08",
+    "title": "了解文化是否需要亲自旅行",
+    "sourceHeading": "## 第08篇 了解文化是否需要亲自旅行 462词",
+    "declaredWords": 462,
+    "sourceGroup": "nine",
+    "topic": "旅游",
+    "topicEn": "Tourism",
+    "question": "It is not necessary to travel to other places to learn about culture and people, because people can learn from books, films or the Internet. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "The resources from books, films, and the Internet have grown significantly in cultural importance. With this comes a belief that long gone are the days when people **had** to travel to other places to learn **about local** culture. Despite the advantages accruing from these **resources,** they **cannot fully replace** tourism in view of its **value as a direct** cultural **experience** and the **personal** nature of travel.",
+      "The primary justification for such an idea resides in the belief that **some of** the **educational functions** of tourism **can be fulfilled** by **other media.** Traditionally, people spend significant resources on transportation and accommodation, be it time or money; however, books, films, and the **Internet** can provide us with information about **many cultures** from anywhere in the world and save the money and time that would otherwise be spent on tourism. Travel enthusiasts, for example, can just look through the information in **the comfort of** their **own homes** with their computers or tablets. It seems, therefore, sensible to agree **with** the opinion in **question to some extent.**",
+      "However, **this** does not necessarily mean that **such resources can replace the firsthand learning that** tourism **provides.** It brings cultural benefits to individuals and economic benefits to destinations. It exposes tourists to exotic cultures, ranging from what people usually eat **to** how people celebrate **local** festivals. For example, tourists can eat sushi and enjoy the fireworks during summer in Japan with local people, **gaining direct experiences** of **local customs that descriptions alone cannot fully reproduce.** In addition, **a separate benefit of** tourism **is its contribution** to greater economic prosperity. Wildlife viewing, for example, has become a source of income for African countries such as Tanzania; the Pyramids bring a large influx of tourists to Egypt, **and their spending can help raise local incomes and improve** living standards.",
+      "Moreover, tourism, however it is defined, **offers** a unique individual **experience, distinct from** the **experiences conveyed by** writers, bloggers, or filmmakers. This experience involves the preparation for the trip (e.g., reading **a** travel book to find useful information to make travel plans); **unforgettable events** (e.g., getting lost in big cities or missing the train); and an understanding of the discrepancy between the plan and the reality (e.g., the food does not taste as good as the writer says). Such experiences, be they bitter or pleasant, ultimately become personal **memories,** abiding and precious. Therefore, books **and** the **Internet, as ways** to communicate travel information and share travel experiences, **cannot fully reproduce such a personal experience.**",
+      "In conclusion, people can learn from books, films or the Internet about other places, which should be regarded as a way to explore the world; however, **travel enables them to experience** local culture **directly** and **deepen their understanding of local people. It can** also **benefit** the destinations economically."
+    ],
+    "corrections": [
+      {
+        "title": "回答能否替代亲历学习",
+        "original": "However, it does not necessarily mean that tourism is of no importance.",
+        "revised": "However, this does not necessarily mean that such resources can replace the firsthand learning that tourism provides.",
+        "explanation": "题目问“了解文化是否需要旅行”，而不是“旅行是否重要”。原句只证明重要性，还不能反驳可由媒介学习的观点。修改把反驳限定为亲历学习能否被替代，并在前段承认媒介可以提供部分文化知识；经济收益则保留为附带作用，不用它证明旅行的必要性。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "在家查阅的自然搭配",
+        "original": "in their comfort at home",
+        "revised": "in the comfort of their own homes",
+        "explanation": "表示“舒舒服服地待在自己家里”，自然搭配是 in the comfort of one’s own home。原来的 in their comfort at home 不是惯常表达；修正后仍是原有的“无需出门即可查阅资料”例子。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "信息传递与个人体验",
+        "original": "books or the internet, a way to communicate travel information and share travel experiences, fails to make travel personal",
+        "revised": "books and the Internet, as ways to communicate travel information and share travel experiences, cannot fully reproduce such a personal experience",
+        "explanation": "原句用单数 a way 概括两类媒介，且 fails to make travel personal 把结论说得过于绝对。修改后的 and…as ways… 指代清楚，cannot fully reproduce 对应前面的个人经历：媒介可以传递信息，却不能完整重现旅行者自己的体验；不再推出“没旅行就无法理解文化”。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Travel and Learning About Culture",
+    "type": "同意程度题",
+    "position": "部分同意媒介能提供文化知识，但不能完全替代旅行的亲身学习与个人体验。",
+    "paragraphNotes": [
+      {
+        "role": "开头：限定替代程度",
+        "explanation": "问题在于媒介能否替代了解文化所需的旅行，而非旅游是否重要；用cannot fully replace保留部分替代的空间。",
+        "chain": [
+          "媒介文化资源增长",
+          "有人认为无需旅行",
+          "信息可替代一部分",
+          "直接体验不可完全替代"
+        ]
+      },
+      {
+        "role": "主体一：承认媒介优势",
+        "explanation": "书影网络让人在家获取文化信息，节约交通住宿的时间和费用，因此对无需旅行的命题作程度性让步。",
+        "chain": [
+          "旅行耗费时间金钱",
+          "媒介在家可访问",
+          "获得部分文化信息",
+          "节省旅行成本"
+        ]
+      },
+      {
+        "role": "主体二：文化亲历与附带经济效益",
+        "explanation": "和当地人一起饮食过节带来描述难复现的学习；目的地收入另列为附带收益，不拿经济价值证明学习必要性。",
+        "chain": [
+          "与当地人共同参与习俗",
+          "获得直接文化经验",
+          "文字描述难完全复现",
+          "游客消费另有经济收益"
+        ]
+      },
+      {
+        "role": "主体三：个人经历不可复制",
+        "explanation": "计划、迷路、误车以及现实与介绍不符，形成旅行者自己的记忆；他人的叙述不能完整替代此种个人经历。",
+        "chain": [
+          "计划旅行",
+          "经历意外与现实差异",
+          "形成个人理解",
+          "留下自己的记忆",
+          "媒介无法完整复现"
+        ]
+      },
+      {
+        "role": "结尾：知识与体验分开",
+        "explanation": "媒介可探索世界，旅行可直接体验并加深理解；结尾不推出只有出行才能理解文化的绝对结论。",
+        "chain": [
+          "媒介提供知识",
+          "旅行深化亲历理解",
+          "目的地另获经济收益"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "cannot fully replace",
+        "source": "校正",
+        "usage": "承认部分替代但否定完全替代；A cannot fully replace B。",
+        "example": "Recorded lessons cannot fully replace individual feedback from a teacher."
+      },
+      {
+        "phrase": "be it time or money",
+        "source": "熟悉（讲义）",
+        "usage": "列出无论哪种资源；resource, be it A or B，正式让步结构。",
+        "example": "Every form of support, be it advice or funding, should address a clear need."
+      },
+      {
+        "phrase": "in the comfort of their own homes",
+        "source": "校正",
+        "usage": "说明在家舒适获取；in the comfort of + 所有格 + own home(s)。",
+        "example": "Older patients can speak to a doctor in the comfort of their own homes."
+      },
+      {
+        "phrase": "discrepancy between the plan and the reality",
+        "source": "熟悉（讲义）",
+        "usage": "比较预期与实际差距；a discrepancy between A and B。",
+        "example": "A discrepancy between advertised prices and final charges may damage consumer trust."
+      },
+      {
+        "phrase": "cannot fully reproduce",
+        "source": "校正",
+        "usage": "不能完整复现体验；媒介 + cannot fully reproduce + N。",
+        "example": "A virtual laboratory cannot fully reproduce the experience of handling physical equipment."
+      }
+    ],
+    "questions": [
+      "为什么经济收益不能单独反驳“了解文化无需旅行”？",
+      "主体一承认媒介能实现哪些功能？",
+      "个人旅行体验的链条有哪些环节？"
+    ],
+    "answers": [
+      "它证明旅游对目的地有利，却没有证明旅游对文化学习不可替代；需要亲历学习的理由。",
+      "人在家获得部分文化知识，并节省本来用于交通住宿的时间和金钱。",
+      "做计划，遭遇误车迷路等事件，认识计划与现实差异，形成自己的长期记忆。"
+    ],
+    "transfer": "换成远程实验教学：承认视频能传递步骤，再说明操作经验的替代边界。",
+    "transferAnswer": "Videos can explain laboratory procedures in the comfort of students' own homes. However, they cannot fully reproduce the practical judgement developed through handling equipment and correcting mistakes."
+  },
+  {
+    "id": "nine-09",
+    "code": "N09",
+    "title": "电子游戏的利弊",
+    "sourceHeading": "## 第09篇 电子游戏的利弊 335词",
+    "declaredWords": 335,
+    "sourceGroup": "nine",
+    "topic": "游戏",
+    "topicEn": "Games",
+    "question": "Some people regard video games as harmless fun, or even as a useful educational tool. Others, however, believe that video games are having an adverse effect on the people who play them. Do you think the advantages outweigh the disadvantages?",
+    "essayParagraphs": [
+      "Video games have thrived for many years; however, a fierce debate rages as to their overall effect on people. Some people worry about the mental and **physical** health problems that **can** ensue from addiction to games, whereas others regard them as educational tools and mass entertainment. On balance, I think **their advantages outweigh their disadvantages.**",
+      "One demerit of video games is that **excessive or inappropriate use can take** a heavy toll on young users mentally and physically. **Some young** users are susceptible to violent content in **games,** which **may lead** them **to** regard violence as an appropriate and natural way to cope with interpersonal **conflicts,** especially when the situation is sufficiently similar. In addition, when users fail to detach themselves from **games,** physical problems **may arise:** they **have fewer** opportunities to participate in outdoor activities, thus **becoming more** accustomed to a sedentary lifestyle. **Prolonged inactivity may contribute** to **obesity, while excessive gaming may also interfere with their concentration on other tasks.**",
+      "However, **recognising** such **risks** does not necessarily diminish their **value.** They **can be** harmless fun **when played in moderation,** because **physical** problems and **a** sedentary **lifestyle** are more **closely linked** to **excessive use than to playing games per se. People can** play computer games in moderation just to switch off from the **pressures** of real life. In addition, gamers, when operating gaming controls, can develop good hand-eye coordination and sharpen skills like decision-making, anticipation, and resource management. For example, when **users play** a game **set in a historical period,** they **may be taken** on a trip down historical memory lane, as **the** game **can introduce them to** historical events **and figures, although fictional elements need to be distinguished from historical facts.**",
+      "In conclusion, video games on balance afford people **valuable** opportunities to learn and have **fun, while many of their risks** can be **reduced by choosing suitable content and limiting playing time. I therefore consider their advantages greater than their disadvantages, provided that governments and individuals make** concerted efforts **through appropriate regulation** and **self-discipline.**"
+    ],
+    "corrections": [
+      {
+        "title": "久坐链条与因果强度",
+        "original": "thus making them short-sighted or even accustomed to a sedentary lifestyle",
+        "revised": "thus becoming more accustomed to a sedentary lifestyle",
+        "explanation": "原句把长时间游戏、缺少户外活动和近视压成必然因果；这里保留“占用运动时间→形成久坐习惯”这条能直接说明的链条，去掉未经论证的视力结论。前面也用 may arise 限定健康风险，并非所有玩家都会出现问题。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "适度使用才支持无害娱乐",
+        "original": "They are harmless fun because it is the users who are addicted to video games, not the games per se that lead to physical problems and even a sedentary lifestyle.",
+        "revised": "They can be harmless fun when played in moderation, because physical problems and a sedentary lifestyle are more closely linked to excessive use than to playing games per se.",
+        "explanation": "“责任在成瘾的玩家”不能推出“游戏无害”。改为有条件的判断：适度使用可以带来娱乐，而过度使用更容易挤占活动时间。保留 per se 和原因从句，同时让本段对上一段的让步成立。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "历史情景与虚构边界",
+        "original": "a game called Assassin’s Creed franchise",
+        "revised": "a game set in a historical period",
+        "explanation": "franchise 指系列，不能把它当成单款游戏名称；原句还把 Darwin 人名当作历史事件，并断言系列每款游戏都如此。改成历史背景游戏的假设性例子，保留“接触历史→产生学习价值”的作用，同时补上虚构内容与历史事实需要区分。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "The Benefits and Risks of Video Games",
+    "type": "利弊权衡题",
+    "position": "适当内容与适度使用下利大于弊；承认不适当或过量使用的健康和行为风险。",
+    "paragraphNotes": [
+      {
+        "role": "开头：明确收益胜出",
+        "explanation": "开头承认成瘾可能带来身心问题，也呈现学习娱乐功能，直接回答advantages outweigh；后文必须提供适用条件。",
+        "chain": [
+          "游戏受欢迎",
+          "成瘾风险与教育娱乐价值并存",
+          "总体认为收益更大"
+        ]
+      },
+      {
+        "role": "主体一：风险具体化",
+        "explanation": "暴力内容可能影响冲突处理观念；过度游戏挤占户外活动形成久坐，并可能干扰其他任务注意力，不能把所有玩家都归为受害者。",
+        "chain": [
+          "不当内容影响暴力观念",
+          "过度游戏挤占活动",
+          "久坐习惯",
+          "可能增加健康与注意力问题"
+        ]
+      },
+      {
+        "role": "主体二：适度价值与学习边界",
+        "explanation": "适度游戏可暂离压力，操作训练协调和决策；历史背景游戏可引入知识，但虚构内容仍须与史实区分。",
+        "chain": [
+          "控制时长",
+          "减轻过量使用风险",
+          "暂时放松",
+          "练习协调决策",
+          "接触历史但辨别虚构"
+        ]
+      },
+      {
+        "role": "结尾：解释为何收益更大",
+        "explanation": "用选择内容、限制时间和监管自律降低许多风险，使娱乐学习价值保留；权衡结论依赖这些条件。",
+        "chain": [
+          "选择适当内容",
+          "限制时长",
+          "多类风险减少",
+          "娱乐学习收益得以保留"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "susceptible to",
+        "source": "熟悉（讲义）",
+        "usage": "容易受某因素影响；be susceptible to + N，to是介词。",
+        "example": "Inexperienced consumers may be susceptible to misleading advertising."
+      },
+      {
+        "phrase": "cope with interpersonal conflicts",
+        "source": "校正",
+        "usage": "处理人际冲突；cope with + N，不直接接宾语。",
+        "example": "School mediation programmes can help pupils cope with interpersonal conflicts."
+      },
+      {
+        "phrase": "played in moderation",
+        "source": "校正",
+        "usage": "适度使用；be played in moderation，也可consume/use N in moderation。",
+        "example": "Social media can support communication when used in moderation."
+      },
+      {
+        "phrase": "hand-eye coordination",
+        "source": "熟悉（讲义）",
+        "usage": "手眼协调；develop/improve + hand-eye coordination。",
+        "example": "Practical craft lessons may improve children's hand-eye coordination."
+      },
+      {
+        "phrase": "fictional elements need to be distinguished from historical facts",
+        "source": "校正",
+        "usage": "区分虚构与事实；A need to be distinguished from B。",
+        "example": "In science lessons, tentative explanations need to be distinguished from established findings."
+      }
+    ],
+    "questions": [
+      "健康风险段怎样避免“游戏必然使人近视”的跳跃？",
+      "为什么把责任推给上瘾玩家仍不能证明游戏无害？",
+      "历史游戏带来学习收益时还需要什么限制？"
+    ],
+    "answers": [
+      "只展开过度游戏减少户外活动并形成久坐的链条，用may保留风险程度，没有推出必然近视。",
+      "责任归属与风险存在是两回事；只有限定适度使用，才可支持有条件的娱乐价值。",
+      "可能介绍历史事件人物，但玩家必须区分虚构元素与历史事实。"
+    ],
+    "transfer": "换成社交媒体的利弊：用适度使用保留沟通收益，说明限制时间如何减少成本。",
+    "transferAnswer": "Social media can help distant relatives remain in contact when used in moderation. Limiting daily use may reduce time lost to repetitive browsing while preserving this communication benefit."
+  },
+  {
+    "id": "nine-10",
+    "code": "N10",
+    "title": "成年人为何偏爱手游",
+    "sourceHeading": "## 第10篇 成年人为何偏爱手游 343词",
+    "declaredWords": 343,
+    "sourceGroup": "nine",
+    "topic": "游戏",
+    "topicEn": "Games",
+    "question": "Many adults nowadays prefer spending their free time playing mobile games. Why do they do this? Is this a positive or negative development?",
+    "essayParagraphs": [
+      "One of the growing trends in modern society is that **a** large proportion of adults now enjoy playing mobile games during their free time. This occurs for several reasons, foremost of which is **their** ready accessibility. Despite **its** entertainment value, **this trend** on balance produces negative outcomes because **gaming can be** addictive and time-wasting.",
+      "The primary cause of such popularity of **mobile** games is their availability. **In** the past, **many digital** games **were** played on desktop **computers or consoles;** however, **games** are **now** accessible **on** smartphones, therefore making it possible for people to play anywhere whenever they **want, such as** on the commute to **work.** In addition, compared with **recreational** activities **such as** fishing or mountain **climbing,** which **can require considerable** money and time, **mobile** games **can be** one of the cheapest and easiest ways to switch off from the pressures of real life, to pass the time while waiting for other activities, and to connect with other players socially.",
+      "However, the entertainment value of such behaviour pales in comparison to **its potential** impact on health and time **management when gaming becomes excessive. Some mobile** games **involve repetitive tasks** and **frequent rewards that can keep** users **occupied** and entertained for hours, which **may be** detrimental to their mental and physical **health if gaming displaces sleep and exercise. In** addition, gaming companies **can use** daily rewards to encourage people to log into **a** game every day, which means **that excessive amounts of** time **may be spent on it,** time that **could** otherwise **be spent with** family members or **used to pursue other** hobbies. The cumulative effect could **be to make individuals** less active and **leave them with fewer opportunities for** creative **pursuits.**",
+      "In conclusion, adults play mobile games more often these days because of the availability of mobile technology and **the opportunities for inexpensive entertainment, and I regard** this **trend as** harmful **when habitual gaming displaces more active or productive uses of time. This pattern** should be **changed:** adults should play in moderation and **recognise** that **some of** their time could be better used."
+    ],
+    "corrections": [
+      {
+        "title": "过去游戏平台的范围",
+        "original": "Traditionally, In the past, games could only be played on desktop computers",
+        "revised": "In the past, many digital games were played on desktop computers or consoles",
+        "explanation": "Traditionally 与 In the past 重复，only 又错误地把过去的游戏平台限定为台式电脑。保留昔今对比，但用 many 并补上 consoles，使“过去受设备限制→手机扩大可获得性”的论证更准确。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "奖励机制而非医学断言",
+        "original": "Computer games require a minimal level of mental activity and feed users with small bursts of dopamine that keep them occupied and entertained for hours",
+        "revised": "Some mobile games involve repetitive tasks and frequent rewards that can keep users occupied and entertained for hours",
+        "explanation": "原句把所有游戏都说成几乎不用脑，并用简化的生理机制解释沉迷。改为部分手游的重复任务与频繁奖励，再接“挤占睡眠和运动→可能影响健康”，保留原来的时间消耗论证而不冒充医学结论。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "陪伴家人与培养爱好",
+        "original": "time that otherwise could be used to accompany family members or develop personal hobbies",
+        "revised": "time that could otherwise be spent with family members or used to pursue other hobbies",
+        "explanation": "保留重复名词 time 加定语从句的结构。accompany 通常指陪同前往某处，日常陪伴家人用 spend time with 更贴切，这里写成被动的 time…be spent with；pursue hobbies 也更自然。加 other 是因为游戏本身也可以是爱好，批评对象应是过度占用时间。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "Why Adults Choose Mobile Games",
+    "type": "原因＋正负评价双问题",
+    "position": "便捷、便宜及社交娱乐推动手游；习惯性或过度游戏挤占活动时总体负面。",
+    "paragraphNotes": [
+      {
+        "role": "开头：原因与评价",
+        "explanation": "先用随时可接触性解释增长，再提出成瘾和浪费时间的风险；负面评价须结合后文的过度使用条件理解。",
+        "chain": [
+          "成人空闲玩手游增多",
+          "随手可得",
+          "娱乐有价值",
+          "过度使用可能损害时间安排"
+        ]
+      },
+      {
+        "role": "主体一：设备与成本优势",
+        "explanation": "手机让游戏脱离电脑和主机，通勤等碎片时间也能玩；比钓鱼爬山更省准备、时间和金钱，并能与玩家交流。",
+        "chain": [
+          "手机可随身携带",
+          "任何地点短时游戏",
+          "时间金钱门槛较低",
+          "放松打发时间并社交"
+        ]
+      },
+      {
+        "role": "主体二：奖励机制与机会成本",
+        "explanation": "部分手游的重复任务和每日奖励延长参与；当它们挤占睡眠、运动、家人和其他兴趣，才产生明确损失，不借简化生理解释代替机制。",
+        "chain": [
+          "重复任务与频繁奖励",
+          "长时间占用与每日登录",
+          "睡眠运动被挤占",
+          "陪伴与其他爱好机会减少"
+        ]
+      },
+      {
+        "role": "结尾：限制评价范围",
+        "explanation": "重申技术便利和低价娱乐原因，批评的是习惯性游戏替代更积极用途的情形，因此提出适度使用而非全面停止。",
+        "chain": [
+          "便利与廉价推动",
+          "习惯游戏挤占其他活动",
+          "负面时间成本",
+          "适度游戏并重新分配时间"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "ready accessibility",
+        "source": "校正",
+        "usage": "随时容易接触；the ready accessibility of + N，区别有没有与负担得起。",
+        "example": "The ready accessibility of online dictionaries can support independent reading."
+      },
+      {
+        "phrase": "switch off from the pressures of real life",
+        "source": "熟悉（讲义）",
+        "usage": "暂时摆脱压力；switch off from + N，不等于解决压力根源。",
+        "example": "A short walk can help employees switch off from the pressures of work."
+      },
+      {
+        "phrase": "keep users occupied",
+        "source": "校正",
+        "usage": "使人持续投入；keep + 对象 + 形容词或分词，不写keep sb to do。",
+        "example": "Interactive museum exhibits can keep visitors occupied while they wait for a tour."
+      },
+      {
+        "phrase": "could otherwise be spent with",
+        "source": "校正",
+        "usage": "表达时间的替代用途；time + that could otherwise be spent with + 人。",
+        "example": "Long commutes consume time that could otherwise be spent with children."
+      },
+      {
+        "phrase": "pursue other hobbies",
+        "source": "校正",
+        "usage": "主动发展其他兴趣；pursue + hobby/interest，不必加介词。",
+        "example": "A shorter working week may give employees time to pursue other hobbies."
+      }
+    ],
+    "questions": [
+      "手游的便利除了价格低还包括什么？",
+      "奖励机制怎样接到健康风险，中间不能省哪一步？",
+      "为什么用other hobbies而不是暗示游戏不是爱好？"
+    ],
+    "answers": [
+      "手机随身可用，通勤或等待时能玩，不需要电脑主机或户外活动的准备。",
+      "频繁奖励与每日登录延长游戏时间，只有当时间挤占睡眠和运动时，才说明可能损害健康。",
+      "游戏本身可以是爱好；文章批评过度游戏减少其他兴趣和家庭时间。"
+    ],
+    "transfer": "换成短视频：写便利原因，再以睡眠和家庭时间说明过度使用的机会成本。",
+    "transferAnswer": "Short videos are readily available on smartphones, making them easy to watch during brief breaks. Excessive viewing may nevertheless consume time that could otherwise be spent with family members or used for sleep."
+  },
+  {
+    "id": "nine-11",
+    "code": "N11",
+    "title": "暴力电影与游戏是否应受审查",
+    "sourceHeading": "## 第11篇 暴力电影与游戏是否应受审查 366词",
+    "declaredWords": 366,
+    "sourceGroup": "nine",
+    "topic": "游戏",
+    "topicEn": "Games",
+    "question": "Movies and computer games containing violence are popular. Some people say they have a negative effect on society and should be censored. Others say they are just harmless relaxation. Discuss both these views and give your own opinion.",
+    "essayParagraphs": [
+      "Movies and computer games are growing in popularity; however, opinions differ as to those containing violence. Some feel that such violence **contributes to** problems in society and **that these movies and games** should thus be censored, whereas others believe **they are harmless relaxation.** Both views are discussed here to seek a conclusion.",
+      "The argument against such movies and computer games is that they **may take** a heavy toll on young users mentally. **Some young** users **may have difficulty distinguishing between** the virtual world and reality, **making them** susceptible to violent content in **games,** which **may lead** them **to** regard violence as an appropriate and natural way to cope with interpersonal conflicts, especially when the situation is sufficiently similar. For example, **a young viewer might imitate threatening behaviour shown** in **a movie when faced with a conflict, potentially worsening** the **conflict.**",
+      "Others, however, highlight the fact that **many** individuals have no difficulty distinguishing between fiction and reality. Rather than necessarily being attracted to violence per se, consumers of violent entertainment **may** simply **be** passing the time or experiencing a vicarious thrill. **Their enjoyment of fictional violence does** not **in itself establish a willingness to commit violence in real life. Moreover,** problems in society **may also** relate to employment, **economic conditions,** discrimination, income inequality, and various systemic **barriers; attributing them to violent entertainment therefore requires more than a similarity between fictional and real behaviour.**",
+      "I think that **depictions of** violence **can deepen people's** understanding of **it.** By watching **entertainment that portrays the consequences of violence, some** people **may** be dissuaded from such behaviour because they gain a better understanding of what violence is in reality and what **harm** it can result in. Meanwhile, **depictions** of violence that are perceived as meaningful and thought-provoking can foster empathy with victims, admiration for acts of courage and moral beauty in the face of violence, or self-reflection about violent impulses.",
+      "In conclusion, although **violent content** may **pose risks** for **some viewers, much** of it ought to be permitted in games and movies **because it can provide** relaxation and **serve an** educational **purpose. A balanced approach would allow such content while governments** impose **appropriate restrictions on** extremely violent **scenes and protect younger audiences.**"
+    ],
+    "corrections": [
+      {
+        "title": "区分现实与虚构",
+        "original": "Young users lack the ability to distinguish the virtual world and reality",
+        "revised": "Some young users may have difficulty distinguishing between the virtual world and reality",
+        "explanation": "distinguish between A and B 是准确搭配；Some 与 may 则避免把所有年轻人都说成无法区分现实与虚构。后面的模仿情景也改成可能发生的例子，保留风险机制，不再把未经核实的印度犯罪案例写成事实。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "非必要条件不等于无害",
+        "original": "watching such movies or playing such games is not the sine qua non for crimes",
+        "revised": "Their enjoyment of fictional violence does not in itself establish a willingness to commit violence in real life.",
+        "explanation": "sine qua non 是“必要条件”，但某事不是犯罪的必要条件，并不能证明它无害。修改直接区分“欣赏虚构刺激”与“愿意现实施暴”；后面的社会原因也只提示不能草率归因，不能凭存在其他原因就排除娱乐内容的影响。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "教育效果须有内容条件",
+        "original": "By watching violent entertainment, most people will be dissuaded from such behaviour",
+        "revised": "By watching entertainment that portrays the consequences of violence, some people may be dissuaded from such behaviour",
+        "explanation": "原句的 most people 与 will 保证了多数人的效果，论据不足。加入“呈现暴力后果”的内容条件，再用 some / may，因果链才清楚：看见伤害与后果→产生反思和共情→可能打消施暴意愿。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Censorship of Violent Entertainment",
+    "type": "双边讨论＋个人观点题",
+    "position": "大部分暴力娱乐可以保留，兼顾内容的反思价值，并限制极端场面、保护年轻观众。",
+    "paragraphNotes": [
+      {
+        "role": "开头：准确列出双方",
+        "explanation": "一方担忧社会影响并主张审查，另一方视为无害放松；后文应检验风险与价值，不把所有娱乐自动归为同类。",
+        "chain": [
+          "暴力娱乐流行",
+          "一方担忧社会影响",
+          "另一方强调放松",
+          "需要平衡判断"
+        ]
+      },
+      {
+        "role": "主体一：模仿风险",
+        "explanation": "部分年轻人难分虚构与现实，可能把作品中的暴力当作应对冲突的方法；假设模仿情景说明可能性，不冒充实际犯罪证据。",
+        "chain": [
+          "部分年轻人辨别困难",
+          "受暴力内容影响",
+          "把威胁当作处理冲突方法",
+          "现实冲突可能恶化"
+        ]
+      },
+      {
+        "role": "主体二：反对草率归因",
+        "explanation": "许多人能区分虚构，享受替代性刺激并不直接证明愿意现实施暴；社会问题有多种背景，外观相似不足以确定因果。",
+        "chain": [
+          "观众可分虚构现实",
+          "娱乐刺激不等于施暴意愿",
+          "社会问题有多重因素",
+          "不能仅凭相似行为归因"
+        ]
+      },
+      {
+        "role": "观点段：教育效果的内容条件",
+        "explanation": "呈现暴力后果可能引发共情、反思和敬佩勇气；只有特定内容、部分观众才支持可能的劝阻效果。",
+        "chain": [
+          "看到暴力后果",
+          "理解受害伤害",
+          "共情与反思",
+          "部分观众可能打消施暴念头"
+        ]
+      },
+      {
+        "role": "结尾：允许与限制并行",
+        "explanation": "允许放松和教育价值存在的内容，同时针对极端场景及年轻观众施加限制；不是一概审查或无条件开放。",
+        "chain": [
+          "风险因人和内容而异",
+          "多数内容可允许",
+          "限制极端场景",
+          "保护年轻观众"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "distinguishing between the virtual world and reality",
+        "source": "校正",
+        "usage": "区分两对象；have difficulty distinguishing between A and B，difficulty后接V-ing。",
+        "example": "Some consumers have difficulty distinguishing between reliable advice and paid promotion."
+      },
+      {
+        "phrase": "cope with interpersonal conflicts",
+        "source": "熟悉（讲义）",
+        "usage": "处理人际冲突；cope with + N。",
+        "example": "Workplace training can teach staff to cope with interpersonal conflicts through discussion."
+      },
+      {
+        "phrase": "experiencing a vicarious thrill",
+        "source": "熟悉（讲义）",
+        "usage": "通过他人经历获得刺激；experience a vicarious thrill，不推出实际行为意愿。",
+        "example": "Reading an adventure novel can give pupils a vicarious thrill without exposing them to danger."
+      },
+      {
+        "phrase": "dissuaded from such behaviour",
+        "source": "校正",
+        "usage": "劝阻某种行为；be dissuaded from + N/V-ing。",
+        "example": "Drivers may be dissuaded from speeding when they understand the risks to pedestrians."
+      },
+      {
+        "phrase": "impose appropriate restrictions on",
+        "source": "校正",
+        "usage": "施加针对性限制；impose restrictions on + 内容或行为。",
+        "example": "Schools may impose appropriate restrictions on phone use during lessons."
+      }
+    ],
+    "questions": [
+      "“不是犯罪的必要条件”为什么不能证明暴力娱乐无害？",
+      "本篇如何限定观看暴力内容的教育效果？",
+      "作者允许大部分内容时保留哪些监管？"
+    ],
+    "answers": [
+      "不是必要条件只说明没有它也能犯罪，不能排除某些内容对某些人的影响。",
+      "限定为呈现暴力后果的内容，对部分人可能产生理解、共情和反思，而非多数人必然被劝阻。",
+      "对极端暴力场景施加适当限制，并保护年轻观众。"
+    ],
+    "transfer": "换成社交媒体谣言监管：承认使用价值，解释针对性限制而非全面禁止。",
+    "transferAnswer": "Social media can help residents exchange useful local information. Platforms should nevertheless impose appropriate restrictions on demonstrably misleading content that may expose vulnerable users to harm."
+  },
+  {
+    "id": "nine-12",
+    "code": "N12",
+    "title": "女性参与警务与军事",
+    "sourceHeading": "## 第12篇 女性参与警务与军事 410词",
+    "declaredWords": 410,
+    "sourceGroup": "nine",
+    "topic": "性别",
+    "topicEn": "Gender",
+    "question": "Some people believe that women should play an equal role as men in a country’s police force or military force, while others think women are not suitable for these jobs. Discuss both views and give your opinion.",
+    "essayParagraphs": [
+      "There has been a fierce yet unresolved debate as to what **roles** males and females **should play** in **society.** With **perceived differences** in physical ability comes the belief that women are ill-equipped to work in the police force or the army, whereas others insist that women **can be** as capable as their male counterparts in such professions. Both views are discussed here to seek a conclusion.",
+      "The argument against women serving in the military **or** law enforcement agencies **rests on concerns** that **some** duties **may be** too **physically** demanding for **them** to qualify. Unlike **many less physically demanding jobs,** being a soldier or a sworn officer **can require** applicants to be tough and strong physically and mentally, **standards that critics believe some** female candidates **may struggle** to **meet.** These traits enable **applicants** to pass **physical** fitness assessments, endure **rotating** shift work, and **help protect** their safety when they are confronted with criminals or hostile forces. Therefore, **applicants** who **do not meet the relevant standards, regardless of gender,** are not **suitable** for these **particular duties; this does not establish that women as a group are unsuitable.**",
+      "Others, however, highlight the **important role that** females **can play in** the police force. **Day-to-day** policing **includes** community-oriented **work,** and in an institution designed to serve communities, **many tasks rely on judgement and communication as well as** physical **fitness, so** women can function and perform as well as men **do, for example in** conducting interviews, patrol activities, and traffic **investigations.** In view of the **importance of being** approachable, sympathetic, and communicative, female officers **who possess these qualities** can greatly contribute to the relationship between police departments and communities.",
+      "With regard to the military, **soldiers do not always** get involved in armed conflicts **or** have to undertake **combat duties.** Even though disparities **in average** physical **strength exist,** the gender gap in performing **some** military duties **may be narrowed by** the development of **weapons and equipment.** The success of a war or a battle **rests not only on stamina and physical fitness but also** on tactics and **strategies.** Such requirements justify the role of females, be they in the army, navy or **air force,** as **gender alone does not determine an individual's intellectual ability.**",
+      "In conclusion, even though gender **differences may exist** in terms of **average** physical **strength,** females can **play,** and **already play,** a central role in policing and **the armed forces, given the range of responsibilities in these occupations** and the **individual abilities they require.**"
+    ],
+    "corrections": [
+      {
+        "title": "间接疑问句与角色搭配",
+        "original": "what role should males and females take in societies",
+        "revised": "what roles males and females should play in society",
+        "explanation": "as to 后接间接疑问从句，要用陈述语序 males and females should，而非 should males and females。表达在社会中的角色通常用 play a role in society；两性承担多种角色，这里用 roles。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "按个人能力评估适岗性",
+        "original": "Therefore, women, who are generally less sturdy and more fragile, are not the optimal choice for these occupations.",
+        "revised": "Therefore, applicants who do not meet the relevant standards, regardless of gender, are not suitable for these particular duties; this does not establish that women as a group are unsuitable.",
+        "explanation": "岗位需要体能，并不能推出所有女性都不适合。原文由群体印象跳到整类人的适岗结论；修改仍承认高体能岗位的门槛，但把筛选单位改为个人、标准改为具体职责，从而与全文支持女性参与的立场一致。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "can play与already play",
+        "original": "females can and are playing a central role in policing and troops",
+        "revised": "females can play, and already play, a central role in policing and the armed forces",
+        "explanation": "can 后要接 play，are 后才接 playing，原来的两个助动词不能共同支配 playing。policing 是工作而 troops 是人员，改为 policing and the armed forces，使并列对象清楚。保留“有能力参与且已在参与”的双重含义。",
+        "paragraphIndex": 4
+      }
+    ],
+    "englishTitle": "Women in Policing and the Military",
+    "type": "双边讨论＋个人观点题",
+    "position": "支持女性参与；以具体职责和个人能力判断适岗，而非以性别整体排除。",
+    "paragraphNotes": [
+      {
+        "role": "开头：争议与群体印象",
+        "explanation": "呈现体能差异论和女性同样能胜任论，后文用岗位内容与个体能力检验，不把平均差异直接变成每个人结论。",
+        "chain": [
+          "体能差异认知",
+          "有人反对女性入职",
+          "有人支持能力平等",
+          "检验岗位与个人"
+        ]
+      },
+      {
+        "role": "主体一：承认高体能门槛",
+        "explanation": "值勤、轮班和面对危险确有体能心理要求，但不达标者不适合特定任务的结论对所有性别适用。",
+        "chain": [
+          "具体职责体能要求高",
+          "需通过体测并应对危险",
+          "按相关标准筛选",
+          "不达标不适合该任务"
+        ]
+      },
+      {
+        "role": "主体二：警务职责多样",
+        "explanation": "社区警务不只依赖力量，还需判断、沟通及亲和；具备这些能力的女性可改善警民关系，避免说所有女性天生更善沟通。",
+        "chain": [
+          "日常警务服务社区",
+          "访谈巡逻调查需判断沟通",
+          "具备能力的女性可胜任",
+          "促进警民联系"
+        ]
+      },
+      {
+        "role": "主体三：军务超出战斗",
+        "explanation": "士兵并非总从事战斗，装备可能缩小部分体能差距，战术策略也影响成败；性别不决定个人智力。",
+        "chain": [
+          "军事岗位不全是战斗",
+          "装备改变部分体能要求",
+          "战术策略也重要",
+          "女性可在多军种贡献"
+        ]
+      },
+      {
+        "role": "结尾：能力与参与统一",
+        "explanation": "承认平均体能差异，同时重申职责范围广且依赖不同个人能力，因此女性有能力参与且已经参与。",
+        "chain": [
+          "平均差异可能存在",
+          "岗位需要多种能力",
+          "女性能参与且已参与"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "ill-equipped to work",
+        "source": "熟悉（讲义）",
+        "usage": "缺乏任职准备或条件；be ill-equipped to + V，应以实际能力证明。",
+        "example": "Schools without reliable internet may be ill-equipped to work with digital teaching platforms."
+      },
+      {
+        "phrase": "regardless of gender",
+        "source": "校正",
+        "usage": "排除性别作为筛选依据；regardless of + N。",
+        "example": "All applicants should receive the same assessment regardless of age."
+      },
+      {
+        "phrase": "rely on judgement and communication",
+        "source": "校正",
+        "usage": "说明任务依赖能力；rely on + N/V-ing。",
+        "example": "Effective customer support may rely on judgement and communication as well as technical knowledge."
+      },
+      {
+        "phrase": "rests not only on",
+        "source": "校正",
+        "usage": "列出不止一个基础；X rests not only on A but also on B，结构平行。",
+        "example": "Successful language learning rests not only on memory but also on regular practice."
+      },
+      {
+        "phrase": "a central role in",
+        "source": "熟悉（讲义）",
+        "usage": "参与的关键作用；play a central role in + N/V-ing；正文的play被插入语隔开。",
+        "example": "Parents can play a central role in helping children develop healthy reading habits."
+      }
+    ],
+    "questions": [
+      "岗位体能要求为什么不能证明女性整体不适合？",
+      "社区警务段列出哪些不只靠力量的能力？",
+      "军事段如何支持女性参与又避免否认战斗存在？"
+    ],
+    "answers": [
+      "只能说明未达到相关标准的个人不适合特定职责，性别不能替代个体能力评估。",
+      "判断、沟通、亲和和同理；这些能力用于访谈、巡逻、交通调查及建立警民关系。",
+      "承认士兵并非总执行战斗任务，装备可能缩小部分差距，策略能力也重要，不说现代军人不再作战。"
+    ],
+    "transfer": "换成年长员工招聘：承认部分岗位要求，再用个人能力标准避免年龄整体排除。",
+    "transferAnswer": "Some technical jobs require staff to learn new systems quickly. Employers should assess each applicant against these requirements rather than assume that older workers are ill-equipped to meet them."
+  },
+  {
+    "id": "nine-13",
+    "code": "N13",
+    "title": "父亲在家照顾孩子",
+    "sourceHeading": "## 第13篇 父亲在家照顾孩子 289词",
+    "declaredWords": 289,
+    "sourceGroup": "nine",
+    "topic": "性别",
+    "topicEn": "Gender",
+    "question": "In many countries, more and more fathers are staying at home to look after children, while mothers work full-time. What are the reasons? Is it positive or negative?",
+    "essayParagraphs": [
+      "**In many families,** the **traditional division in which** the husband was the provider **and** the wife was the **homemaker is changing; nowadays,** both can be **providers** and active parents. This occurs for several **reasons:** discrimination against women in **many workplaces** has lessened and the definition of success for men has changed. This on balance is a positive change.",
+      "One factor is that discrimination against women **has been reduced** in **parts of** university education and **the** labour market, which **can lead** to **higher incomes for women.** Rather than being channelled into **gender-stereotyped** occupations **such as** education, human resources, and financial **management, more** women are now able to embrace **opportunities** to study **academic specialities** that lead to higher-paid occupations, such as **engineering, which has traditionally been male-dominated.** This financially enables **more** women to be **breadwinners; when a mother has stronger earning prospects than her partner, it can make financial sense for the father to stay at home.**",
+      "The change in evaluation criteria for men’s success is also seen as an important explanation. Traditionally, people **regarded** career achievement and material success as the criteria of masculinity, and males **were assumed** to be less family-oriented, unskilled in parenting, and impatient with their children. However, with **changing social attitudes** comes **greater respect for** their choices, attitudes and **preferences.** No longer should fathers be worried about being **criticised** or feel embarrassed if they stay at home to look after their **children;** instead, they can feel comfortable and confident about what they do, and **may** even **receive** a compliment from neighbours on their good **parenting.**",
+      "This trend **is, on balance,** an indicator of progress towards gender equality and empowerment, as **greater** freedom of choice **over paid work and childcare** is given to both males and females."
+    ],
+    "corrections": [
+      {
+        "title": "传统分工正在改变",
+        "original": "Long gone are the days when the husband was the provider the wife was the homemaker",
+        "revised": "In many families, the traditional division in which the husband was the provider and the wife was the homemaker is changing",
+        "explanation": "原文两个分句间缺 and；同时 Long gone 把传统分工说成已经消失。改为 in many families 与 is changing，仍保留丈夫挣钱、妻子顾家的对照，但把范围和变化程度说得更准确。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "收入比较接回父亲留家",
+        "original": "This financially enables women to be breadwinners.",
+        "revised": "This financially enables more women to be breadwinners; when a mother has stronger earning prospects than her partner, it can make financial sense for the father to stay at home.",
+        "explanation": "原句只解释了母亲为什么能挣钱，没有接回“父亲为什么留家照顾孩子”。补上家庭内部收入比较这个中间环节：母亲收入前景较好→让母亲工作更有利→父亲承担照护。用 when 保留条件，不把它说成所有家庭的原因。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "instead前用分号",
+        "original": "look after their children, instead, they can feel comfortable and confident",
+        "revised": "look after their children; instead, they can feel comfortable and confident",
+        "explanation": "instead 是副词，不能仅靠逗号连接前后两个独立分句。改为分号即可保留长句推进；前面的 No longer should 仍表示“不应再因育儿选择而羞愧”，不是断言现实中批评已经完全消失。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "Fathers as Stay-at-Home Parents",
+    "type": "原因＋正负评价双问题",
+    "position": "女性收入机会与男性成功观念变化促成父亲留家；双方工作和照护选择更多，总体积极。",
+    "paragraphNotes": [
+      {
+        "role": "开头：变化程度与两问",
+        "explanation": "传统分工是在许多家庭中改变，并非已经消失；开头指出职场歧视减轻和男性成功标准变化，再明确积极评价。",
+        "chain": [
+          "传统分工改变",
+          "女性机会增多",
+          "男性成功标准变化",
+          "总体积极"
+        ]
+      },
+      {
+        "role": "主体一：补足家庭收入比较",
+        "explanation": "女性获得高薪专业与就业机会提高挣钱能力；只有接上母亲收入前景优于伴侣，才能解释为什么父亲选择留家。",
+        "chain": [
+          "教育就业障碍减少",
+          "更多女性进入高薪职业",
+          "母亲收入前景更强",
+          "母亲工作更合算",
+          "父亲承担照护"
+        ]
+      },
+      {
+        "role": "主体二：育儿选择获得尊重",
+        "explanation": "成功不再只按事业和物质衡量，父亲育儿更可能得到尊重，降低羞耻和被批评的顾虑；No longer should是规范主张而非现实已无偏见。",
+        "chain": [
+          "成功标准不只限事业",
+          "社会更尊重个人选择",
+          "父亲育儿顾虑减轻",
+          "更能自信承担照护"
+        ]
+      },
+      {
+        "role": "结尾：评价依据",
+        "explanation": "积极性来自男女均可选择有偿工作与育儿分工，属于机会与自主权扩大，不是简单把传统角色互换。",
+        "chain": [
+          "有偿工作与照护自由扩大",
+          "男女自主权提高",
+          "平等取得进步"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "breadwinners",
+        "source": "熟悉（讲义）",
+        "usage": "家庭主要收入提供者；be/become breadwinners，勿与所有就业者混同。",
+        "example": "Flexible training can help unemployed parents become breadwinners again."
+      },
+      {
+        "phrase": "make financial sense",
+        "source": "校正",
+        "usage": "从财务上合理；it makes financial sense for + 人 + to V。",
+        "example": "It may make financial sense for a small company to rent shared office space."
+      },
+      {
+        "phrase": "earning prospects",
+        "source": "校正",
+        "usage": "未来收入机会；have stronger/better earning prospects than + 比较对象。",
+        "example": "Graduates with practical experience may have better earning prospects than equally qualified applicants without it."
+      },
+      {
+        "phrase": "family-oriented",
+        "source": "熟悉（讲义）",
+        "usage": "重视家庭；be family-oriented或a family-oriented + N，不代表缺乏事业投入。",
+        "example": "Family-oriented workplace policies may improve staff retention."
+      },
+      {
+        "phrase": "freedom of choice",
+        "source": "熟悉（讲义）",
+        "usage": "选择自主权；freedom of choice over + N，本文涉及工作与照护。",
+        "example": "Students need freedom of choice over optional subjects."
+      }
+    ],
+    "questions": [
+      "女性能够成为养家者与父亲留家之间缺哪一步？",
+      "男性成功标准变化如何影响育儿选择？",
+      "本文为什么认为趋势积极，而非只描述分工改变？"
+    ],
+    "answers": [
+      "比较家庭双方收入前景；当母亲更有挣钱优势时，让父亲照护可能更合算。",
+      "社会不只用事业与物质评价男性，更尊重父亲的偏好，使留家育儿更容易获得认可。",
+      "男女都得到更多决定工作与育儿安排的自由，机会和自主权扩大。"
+    ],
+    "transfer": "换成伴侣一方转为远程工作：说明收入与家庭安排共同决定选择，不按性别预设。",
+    "transferAnswer": "When one partner has stronger earning prospects, it may make financial sense for the other to choose flexible work. The decision should reflect the household's needs and both partners' preferences."
+  },
+  {
+    "id": "nine-14",
+    "code": "N14",
+    "title": "大学各专业男女等额招生",
+    "sourceHeading": "## 第14篇 大学各专业男女等额招生 346词",
+    "declaredWords": 346,
+    "sourceGroup": "nine",
+    "topic": "性别",
+    "topicEn": "Gender",
+    "question": "Universities should accept equal numbers of male and female students in every subject. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "There has been a fierce yet unresolved debate as to how to improve gender equality. Some **people** propose introducing equal quotas for every subject at universities. Even though this proposal can **seemingly** be **regarded** as a manifestation of improved gender equality, it **can be** counterproductive and **is unnecessary as a blanket requirement.**",
+      "There seems to be a gender stereotype in higher education, whereby female students are often channelled into **subjects associated with** gender-stereotyped **occupations, such as** education, human resources, and financial **management.** If this proposal for equal numbers were to be adopted, then **academic** specialities that otherwise would be dominated by male students, such as engineering, **could admit** more female students, thus **appearing to embody** improved gender equality.",
+      "However, **a rigid** equal-number policy **can restrict** students’ **freedom of choice. When qualified** girls who want to study education are **denied places** merely to achieve **a** quota, problems **arise:** universities are in fact **restricting** their **opportunity** to select **their** own path of development. In the meantime, **boys** who plan to study engineering **may** also suffer, as **some** may **be denied places in their preferred subject and** end up studying other subjects such as nursing. Students, therefore, should be given freedom with regard to what subjects they would like to **study, with applications judged on relevant academic criteria.**",
+      "Moreover, this proposal ignores the fact that males and females, although equal in their fundamental human rights in education, are **different** as individuals, differing in their choices, attitudes, and preferences. In effect, **alongside** discrimination **in** certain **domains, preferences for** future working conditions and duties **may make some** women **less** likely to choose **male-dominated** professions and therefore the related **subjects; the same applies to some men considering female-dominated subjects.** Hence, **a** disparity in the number of male and female students in **a** subject is **not in itself evidence of unequal opportunity.**",
+      "In conclusion, it is unrealistic and unnecessary to **require** the same number of male and female students **in** all subjects. **Universities** should **protect students’ freedom of choice while removing discriminatory barriers, rather than assuming that** every **numerical difference requires a quota.**"
+    ],
+    "corrections": [
+      {
+        "title": "配额限制名额而非强制分科",
+        "original": "some girls who want to study education are forced to study engineering merely to achieve the unrealistic quota",
+        "revised": "qualified girls who want to study education are denied places merely to achieve a quota",
+        "explanation": "男女录取配额并不必然意味着把教育专业申请者强制分去工程。改为“合格申请者可能因配额而失去名额”，保留原来的选择受限观点，也补出政策真正可能产生的机制。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "歧视与偏好可以并存",
+        "original": "it is not the discrimination against women in certain domains but the preference towards future working conditions and duties",
+        "revised": "alongside discrimination in certain domains, preferences for future working conditions and duties",
+        "explanation": "原文把歧视和个人偏好设成非此即彼，依据不足；两者可能同时影响选择。改为 alongside 保留偏好这一原论点，且将搭配修成 preferences for，而不是 preference towards。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "尊重选择同时去除障碍",
+        "original": "The status quo should be maintained, for every choice is the product of volition.",
+        "revised": "Universities should protect students’ freedom of choice while removing discriminatory barriers, rather than assuming that every numerical difference requires a quota.",
+        "explanation": "每个选择都完全自愿这一前提不成立，因此不能据此主张原状一概不变。结尾仍反对所有专业一律等额，但把依据限定为“尊重选择、去除障碍、不能仅凭人数差就认定机会不平等”，与前文修正后的论证相接。",
+        "paragraphIndex": 4
+      }
+    ],
+    "englishTitle": "Equal University Admissions by Gender",
+    "type": "同意程度题",
+    "position": "反对所有专业一律男女等额；应尊重选择、按相关学术标准录取并去除歧视障碍。",
+    "paragraphNotes": [
+      {
+        "role": "开头：反对一刀切",
+        "explanation": "平等配额看似代表改善，但文章反对每个专业统一强制；判断对象是普遍要求，不是否认促进平等的目标。",
+        "chain": [
+          "促进性别平等",
+          "提出各专业等额",
+          "表面体现平等",
+          "一刀切可能反效果"
+        ]
+      },
+      {
+        "role": "主体一：先解释政策吸引力",
+        "explanation": "性别刻板印象使女生被导向特定专业，配额可增加工程等男性主导专业的女生名额，因而看似改善机会。",
+        "chain": [
+          "刻板印象限制专业选择",
+          "工程等专业男性占多",
+          "配额增加女生名额",
+          "看似推进平等"
+        ]
+      },
+      {
+        "role": "主体二：名额限制机制",
+        "explanation": "合格申请者可能仅因比例目标被拒，男女均可能失去偏好专业名额；配额不是必然强制分配专业。",
+        "chain": [
+          "固定男女比例",
+          "合格申请者因性别被拒",
+          "偏好专业机会减少",
+          "个人发展选择受限"
+        ]
+      },
+      {
+        "role": "主体三：人数差与机会差区分",
+        "explanation": "个人偏好和歧视可共同影响申请；有数量差不能单独证明机会不平等，也不能据此否认存在歧视。",
+        "chain": [
+          "个人偏好与歧视并存",
+          "专业申请人数可能不同",
+          "人数差本身不足证明机会差"
+        ]
+      },
+      {
+        "role": "结尾：提出替代原则",
+        "explanation": "保留自由选择并去掉歧视障碍，再按相关学术要求评估；不是把现状全部合理化。",
+        "chain": [
+          "保护学生选择",
+          "去除歧视障碍",
+          "不以每个人数差强行配额"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "as a blanket requirement",
+        "source": "校正",
+        "usage": "指不分情况的统一要求；impose/introduce N as a blanket requirement。",
+        "example": "Daily office attendance may be unnecessary as a blanket requirement for all staff."
+      },
+      {
+        "phrase": "denied places",
+        "source": "校正",
+        "usage": "被拒绝录取名额；be denied places in + 专业或机构。",
+        "example": "Qualified rural applicants may be denied places if interviews are only held in distant cities."
+      },
+      {
+        "phrase": "freedom of choice",
+        "source": "熟悉（讲义）",
+        "usage": "自由选择；protect/restrict freedom of choice，说明选择对象。",
+        "example": "A wider range of bus routes can increase commuters' freedom of choice."
+      },
+      {
+        "phrase": "preferences for",
+        "source": "校正",
+        "usage": "对某对象的偏好；preferences for + N/V-ing，不用towards。",
+        "example": "People's preferences for working hours may change after they become parents."
+      },
+      {
+        "phrase": "not in itself evidence of",
+        "source": "校正",
+        "usage": "单一现象不足证明结论；A is not in itself evidence of B。",
+        "example": "A low price is not in itself evidence of poor product quality."
+      }
+    ],
+    "questions": [
+      "配额可能怎样限制选择，为什么不写成强制分科？",
+      "本篇为什么把not discrimination but preference改成alongside？",
+      "反对等额后应提出哪两个兼容原则？"
+    ],
+    "answers": [
+      "合格申请者可能因比例要求被拒绝偏好专业名额，但配额不必然把他们直接分配去另一专业。",
+      "歧视和偏好可以同时影响选择，没有依据把两者排成非此即彼。",
+      "保护学生选择自由，同时消除歧视障碍，并按相关学术标准录取。"
+    ],
+    "transfer": "换成城市公共设施规划：说明人数差不能直接证明机会差，要求检查参与障碍。",
+    "transferAnswer": "Unequal attendance at two community centres is not in itself evidence of unequal opportunity. Planners should examine residents' preferences while removing transport and access barriers."
+  },
+  {
+    "id": "nine-15",
+    "code": "N15",
+    "title": "工作场所男女等额招聘",
+    "sourceHeading": "## 第15篇 工作场所男女等额招聘 351词",
+    "declaredWords": 351,
+    "sourceGroup": "nine",
+    "topic": "性别",
+    "topicEn": "Gender",
+    "question": "Nowadays, some workplaces tend to employ equal numbers of men and women workers. Do you think it is a positive or negative development?",
+    "essayParagraphs": [
+      "Efforts have always been made to improve gender equality from generation to generation; some workplaces are adopting a policy whereby equal numbers of men and women should be employed. Although it seemingly manifests improved gender equality, it can be used as a cover for **continuing inequality, which makes reliance on numerical equality a negative development in my view.**",
+      "The argument **in** favour of this equal-number policy is that it can **help** tackle gender inequality in employment. A gender stereotype in the workplace exists, whereby female employees **are sometimes** perceived as less capable and less **assertive** than their male counterparts; therefore, **some employers tend** to place a premium on male candidates. However, with this policy, female candidates can get more job opportunities than before. For example, **occupations such as engineering, surgery,** and **dentistry could attract more female recruits where men** have **traditionally predominated,** which **could improve women’s access to these professions.**",
+      "However, **numerical equality alone** is **insufficient** and **can be counterproductive if it diverts attention from other barriers.** The aim of gender equality in the workplace is to achieve broadly equal opportunities and outcomes for women and men, not necessarily outcomes that are exactly the same for all. **Female** and male employees can differ in number when equal pay is offered for work of equal or comparable value; when the barriers to the full and equal participation of women in the workforce are removed; when access is provided to all occupations and industries, including leadership roles, regardless of gender; and when **discrimination** based on gender is eliminated, particularly **discrimination related to** family and caring responsibilities. Therefore, **an equal-number** policy is far from **enough,** and some companies may adopt **it while** pretending that they have already done their best to achieve **gender equality. If this discourages further action, less visible inequalities in pay and promotion may persist.**",
+      "In conclusion, although this equal-number policy **can afford** more job opportunities for women, **treating** it **as sufficient** ignores what gender equality means in the workplace. More efforts are needed to truly reduce and remove inequality rather than letting it **persist behind** a **policy of** equal **numbers.**"
+    ],
+    "corrections": [
+      {
+        "title": "in favour of不可缺in",
+        "original": "The argument favour of this equal-number policy",
+        "revised": "The argument in favour of this equal-number policy",
+        "explanation": "固定结构是 the argument in favour of，原文缺 in。这个结构引出支持该政策的理由，后面仍保留“减少录用偏见→增加女性机会”的正方因果链。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "不足与适得其反有别",
+        "original": "However, this policy is unnecessary and counterproductive.",
+        "revised": "However, numerical equality alone is insufficient and can be counterproductive if it diverts attention from other barriers.",
+        "explanation": "原段能证明的是“人数相等不足以实现平等”，还不能直接证明政策总会适得其反。加上转移对其他障碍的关注这一条件，并在段末接到薪资、晋升问题可能持续，才说明何时会产生反效果。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "照护责任相关歧视",
+        "original": "the discrimination based on gender is eliminated, particularly about family and caring responsibilities",
+        "revised": "discrimination based on gender is eliminated, particularly discrimination related to family and caring responsibilities",
+        "explanation": "about 挂接松散，不能准确说明是哪类歧视。重复 discrimination 并接 related to，清楚指向与家庭和照护责任有关的不公平待遇；原有 when…; when… 的并列长句结构保留。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "Equal Numbers in the Workplace",
+    "type": "正负发展评价题",
+    "position": "仅依赖人数相等是负面发展；它虽增机会，但可能掩盖薪资、晋升与照护障碍。",
+    "paragraphNotes": [
+      {
+        "role": "开头：锁定依赖人数的风险",
+        "explanation": "等额招聘表面体现平等，但文章评价的是把人数当成完成平等工作的充分证据，负面判断由此成立。",
+        "chain": [
+          "企业推行等额招聘",
+          "表面平等",
+          "可能掩盖持续不平等",
+          "依赖人数达标有负面效果"
+        ]
+      },
+      {
+        "role": "主体一：承认招聘收益",
+        "explanation": "刻板印象使一些雇主更偏好男性，等额政策可提高女性进入工程、外科等领域的机会；先公平解释正方。",
+        "chain": [
+          "刻板印象影响招聘",
+          "雇主偏好男性",
+          "等额政策增加女候选人机会",
+          "更多进入原男性主导职业"
+        ]
+      },
+      {
+        "role": "主体二：数量不足与条件反效果",
+        "explanation": "真正平等涉及同值同酬、参与、领导和照护责任；若企业以人数达标替代进一步行动，薪资晋升障碍可能继续。",
+        "chain": [
+          "人数相等不涵盖待遇机会",
+          "薪资晋升照护障碍仍在",
+          "企业以达标宣称已尽责",
+          "后续改革减少",
+          "隐藏不平等持续"
+        ]
+      },
+      {
+        "role": "结尾：结论保持限定",
+        "explanation": "不否认岗位机会增加，但反对把等额视为充分措施；要求继续减少实际障碍。",
+        "chain": [
+          "承认招聘收益",
+          "等额不充分",
+          "继续处理实际不平等"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "in favour of this equal-number policy",
+        "source": "校正",
+        "usage": "引出政策支持理由；the argument in favour of + N/V-ing。",
+        "example": "The argument in favour of free school meals is that every child can eat during the school day."
+      },
+      {
+        "phrase": "place a premium on",
+        "source": "熟悉（讲义）",
+        "usage": "高度重视或偏向；place a premium on + N。",
+        "example": "Recruiters should place a premium on demonstrated competence rather than familiar university names."
+      },
+      {
+        "phrase": "access to these professions",
+        "source": "校正",
+        "usage": "进入职业的机会；improve/provide access to + N，access不可数。",
+        "example": "Affordable apprenticeships can improve access to skilled professions."
+      },
+      {
+        "phrase": "barriers to the full and equal participation",
+        "source": "熟悉（讲义）",
+        "usage": "阻碍充分平等参与；barriers to + N/V-ing，to是介词。",
+        "example": "Unreliable transport can create barriers to the full and equal participation of rural students."
+      },
+      {
+        "phrase": "discrimination related to",
+        "source": "校正",
+        "usage": "明确歧视涉及何事；discrimination related to + N，不用松散about。",
+        "example": "Recruitment rules should address discrimination related to age and disability."
+      }
+    ],
+    "questions": [
+      "人数相等为什么不足以证明工作场所平等？",
+      "等额政策在什么条件下可能适得其反？",
+      "主体一怎样解释政策可能增加女性机会？"
+    ],
+    "answers": [
+      "仍需检查同值同酬、充分参与、晋升领导机会以及与照护责任相关的歧视。",
+      "企业把达标当作已完成平等工作，转移对其他障碍的关注并减少进一步行动。",
+      "它可抵消部分雇主偏好男性的招聘倾向，让女性更多进入原男性主导职业。"
+    ],
+    "transfer": "换成学校数字设备公平：说明发放同样数量设备仍可能掩盖使用条件差异。",
+    "transferAnswer": "Giving every pupil a tablet can improve access to learning materials. Treating equal device numbers as sufficient may nevertheless hide differences in internet access and adult support at home."
+  },
+  {
+    "id": "nine-16",
+    "code": "N16",
+    "title": "音乐是否是通用语言",
+    "sourceHeading": "## 第16篇 音乐是否是通用语言 350词",
+    "declaredWords": 350,
+    "sourceGroup": "nine",
+    "topic": "音乐",
+    "topicEn": "Music",
+    "question": "Music has always been and continues to be the universal language of mankind. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "The **significance** of **music is unquestionable; as** a language that differs from what we speak every **day,** it **is sometimes regarded as a** universal **means** of human **communication.** Although music does have the power to **communicate feelings** to listeners, it is not **a fully** universal **means of communicating specific meanings,** in view of listeners’ diverse interpretations.",
+      "The primary justification for the belief in music as a **universal** language resides in the fact that individuals can appreciate music without a language barrier. **Listening** to music seems like a one-sided conversation, during which listeners perceive **common** elements of **communication, such as** feelings and **emotions,** without **analysing** the meaning of every word and sentence. **Listeners from different backgrounds, age groups** or **nationalities may** sense peacefulness when listening to **a gentle** melody **and feel** relaxed and happy when listening to **a lively song.** Therefore, **certain melodies may resonate emotionally with people across cultures, which helps explain why music** is **described as universal.**",
+      "However, does **this** mean that music is a worldwide language? Probably **not in every sense.** One important **function** of **language** is to convey information accurately to avoid misunderstandings and **ambiguity, although verbal language** can **also** be **ambiguous. Music may be less suited to conveying precise information** when listeners have different educational and life experiences; for example, a teenager might appreciate the **literal meaning of a song’s** lyrics **while** a **listener familiar with its historical background might recognise a reference to a social** movement. Such metaphors **can be** hard to **interpret.** Music can also be ambiguous because **listeners unfamiliar with Chinese opera** may have no idea **how** to **interpret its conventions, just as those unfamiliar with a Western musical tradition may miss** the **cultural associations** of **its melodies.** Therefore, music can be regarded as a language, a language that can **convey** some common **emotions,** but not **one** that **reliably** allows people to **exchange precise ideas without a shared context.**",
+      "In conclusion, although music achieves a kind of **emotional** communication that **goes** beyond **spoken** language, potentially **connecting** people all over the world, it **does not provide** a **universally shared system for conveying precise meanings.**"
+    ],
+    "corrections": [
+      {
+        "title": "跨文化共鸣保留可能性",
+        "original": "there is no doubt that people have a common emotional resonance with certain melodies, which justifies their universality",
+        "revised": "certain melodies may resonate emotionally with people across cultures, which helps explain why music is described as universal",
+        "explanation": "几个听歌场景不足以证明所有人的反应一致。may 与 helps explain 将结论限定为跨文化情绪共鸣的可能性；resonate emotionally with 也比 have a common emotional resonance with 更自然。这样仍能充分说明正方理由。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "功能不等于严格定义",
+        "original": "One important definition of a language is to convey information accurately to avoid misunderstandings and ambiguity.",
+        "revised": "One important function of language is to convey information accurately to avoid misunderstandings and ambiguity, although verbal language can also be ambiguous.",
+        "explanation": "准确传递信息是一种功能，不是语言必须毫无歧义的定义。承认语言本身也可能含糊，再比较音乐传递精确信息的局限，能保留原反驳方向，避免用过严标准先把音乐排除。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "关系从句补出谓语",
+        "original": "a kind of perceptual communication that beyond speaking language, potentially bridgeing people all over the world",
+        "revised": "a kind of emotional communication that goes beyond spoken language, potentially connecting people all over the world",
+        "explanation": "that 后原来缺谓语，补 goes beyond；“口头语言”用 spoken language。bridgeing 拼写不对，且 bridge people 不自然，因此改为 connecting people。emotional 与全文讨论的情绪共鸣对应。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Is Music a Universal Language?",
+    "type": "同意程度题",
+    "position": "部分同意跨文化情绪交流；不同意音乐能普遍、可靠地传递精确含义。",
+    "paragraphNotes": [
+      {
+        "role": "开头：拆开通用的含义",
+        "explanation": "承认音乐能传递感受，限制的是无需共同背景也能传递具体意义的普遍性；避免把语言资格要求设成绝不含糊。",
+        "chain": [
+          "音乐可传达感受",
+          "听众解释多样",
+          "精确意义不完全通用"
+        ]
+      },
+      {
+        "role": "主体一：跨文化情绪共鸣",
+        "explanation": "不逐字分析也能感知温柔或欢快旋律的情绪，不同背景者可能共鸣；may避免声称所有听众反应一致。",
+        "chain": [
+          "不需逐字理解",
+          "感知旋律情绪",
+          "跨背景听众可能共鸣",
+          "解释通用语言称谓"
+        ]
+      },
+      {
+        "role": "主体二：精确信息受背景限制",
+        "explanation": "歌词隐喻及中西音乐传统需教育、历史与文化背景；同曲不同解说明音乐不可靠地传递精确思想，同时承认口头语言也会含糊。",
+        "chain": [
+          "生活教育经验不同",
+          "对歌词背景和惯例理解不同",
+          "隐喻及文化联想可能丢失",
+          "精确信息交流受限"
+        ]
+      },
+      {
+        "role": "结尾：保留情绪价值",
+        "explanation": "音乐可以跨越口语连接情感，但没有 universally shared 的精确意义体系；结论不是说音乐无交流功能。",
+        "chain": [
+          "情绪交流跨语言",
+          "可连接人群",
+          "精确含义缺乏普遍共享体系"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "without a language barrier",
+        "source": "熟悉（讲义）",
+        "usage": "无需跨越语言障碍；communicate/appreciate N without a language barrier。",
+        "example": "Clear diagrams can help visitors understand safety instructions without a language barrier."
+      },
+      {
+        "phrase": "resonate emotionally with",
+        "source": "校正",
+        "usage": "与听众情绪共鸣；N may resonate emotionally with + 人。",
+        "example": "A documentary about family separation may resonate emotionally with migrant workers."
+      },
+      {
+        "phrase": "convey information accurately",
+        "source": "熟悉（讲义）",
+        "usage": "准确传递信息；convey + information + accurately，不与定义混淆。",
+        "example": "Public transport signs should convey information accurately to unfamiliar passengers."
+      },
+      {
+        "phrase": "exchange precise ideas",
+        "source": "校正",
+        "usage": "交换精确思想；exchange + N，通常需共同语境。",
+        "example": "Shared terminology helps engineers exchange precise ideas during a complex project."
+      },
+      {
+        "phrase": "goes beyond spoken language",
+        "source": "校正",
+        "usage": "超出口语表达；N goes beyond + N，关系从句须有谓语。",
+        "example": "A learner's confidence goes beyond spoken language and may affect classroom participation."
+      }
+    ],
+    "questions": [
+      "本文把“通用语言”分成哪两种交流能力？",
+      "歌词背景例子怎样显示精确信息的局限？",
+      "为什么要承认verbal language can also be ambiguous？"
+    ],
+    "answers": [
+      "跨文化传递某些情绪，与不需共享背景也能可靠传递精确含义。",
+      "一人只懂歌词字面，熟悉历史者却识别社会运动隐喻；理解依赖共同背景。",
+      "避免用所有语言都做不到的绝无歧义标准排除音乐，再比较音乐精确传意的实际局限。"
+    ],
+    "transfer": "换成公共信息图标：说明直观图像的跨语言优势与精确规则需要文字的边界。",
+    "transferAnswer": "Simple icons can convey basic warnings without a language barrier. However, unfamiliar visitors may still need written explanations to understand precise rules and exceptions."
+  },
+  {
+    "id": "nine-17",
+    "code": "N17",
+    "title": "放松是否是音乐最重要的功能",
+    "sourceHeading": "## 第17篇 放松是否是音乐最重要的功能 295词",
+    "declaredWords": 295,
+    "sourceGroup": "nine",
+    "topic": "音乐",
+    "topicEn": "Music",
+    "question": "Some people think that the most important function of music is to help people relax. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "The **significance** of music **throughout history is clear;** however, opinions differ as to the main purpose of listening to music. Many believe that music serves primarily as a means of relaxation. Although music serves other purposes, **I regard relaxation as its** most **important function in everyday life.**",
+      "The argument in favour of the relaxation-centred idea is that music can be an escape from the routine drudgery of life. Examples abound as to how people relax by listening to music. Workers **may** listen to music on the commute to work so that they **are less distracted** by the noise on the subway; students **may** listen to music after doing homework to take their minds off the problems they are facing; parents **may play** music **in the** background **when** doing chores at home.",
+      "However, **other** purposes **also deserve consideration.** In difficult emotional periods, including after a bad breakup or the loss of a loved one, some individuals turn to music to lift their spirits. They may listen to sad music, which can not only trigger pain and sadness but also **bring** comfort and enjoyment. Moreover, music serves **multiple** purposes **that** include aiding memory, inspiring others, and fostering culture. **Educational** songs can help impart knowledge; the national anthem can encourage people and inspire citizens; **lyrics** can be regarded as cultural products. However, **judged by their contribution to everyday well-being, these** functions **need** not **outweigh relaxation: relief from routine pressures can benefit** people **repeatedly across work, study and home life, while some educational and ceremonial uses serve narrower purposes on particular occasions.**",
+      "In conclusion, **relaxation** is **music’s most important everyday function in my view,** though this takes **different forms** depending on the person in question. This desire to relax is part of a shared humanity that unites all people."
+    ],
+    "corrections": [
+      {
+        "title": "背景音乐的自然表达",
+        "original": "parents listen to music as a piece of background music when doing chores at home",
+        "revised": "parents may play music in the background when doing chores at home",
+        "explanation": "a piece of music 本身正确，但原句把 music 重复挂接为“作为一段背景音乐听音乐”，显得累赘。play music in the background 直接表达做家务时播放背景音乐；may 说明这是合理场景，而非每位父母的固定行为。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "trigger与bring分别搭配",
+        "original": "not only trigger pain and sadness but also comfort and enjoyment",
+        "revised": "not only trigger pain and sadness but also bring comfort and enjoyment",
+        "explanation": "原句理论上可让 trigger 同时带两组宾语，不一定是缺谓语的语法错；问题在搭配。trigger pain/sadness 自然，安慰和愉悦更适合用 bring。保留 not only… but also… 展示悲伤与安慰并存。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "最重要须建立比较标准",
+        "original": "such functions are not necessarily the main purpose, because people do such things once in a while, but listen to music for relaxation quite often.",
+        "revised": "judged by their contribution to everyday well-being, these functions need not outweigh relaxation: relief from routine pressures can benefit people repeatedly across work, study and home life, while some educational and ceremonial uses serve narrower purposes on particular occasions.",
+        "explanation": "题目问“最重要”，存在其他功能并不能反驳它；反过来，听得更频繁也不自动代表更重要。保留作者支持放松居首的立场，明确以对日常身心状态的持续贡献为标准，再比较跨工作、学习、家务的反复受益和特定场景的用途。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "Music and Everyday Relaxation",
+    "type": "同意程度题（最重要功能）",
+    "position": "同意放松是最重要的日常功能；依据是反复、广泛改善日常身心状态，而非只有放松有价值。",
+    "paragraphNotes": [
+      {
+        "role": "开头：明确比较范围",
+        "explanation": "承认音乐有多种用途，支持的是日常生活中的放松居首；把everyday life作为后文权衡边界。",
+        "chain": [
+          "音乐用途多样",
+          "比较日常主要功能",
+          "放松最重要"
+        ]
+      },
+      {
+        "role": "主体一：跨场景放松",
+        "explanation": "通勤、学习后和家务时的情景展示音乐暂离噪声或烦恼的作用，同一功能反复服务工作、学习和家庭生活。",
+        "chain": [
+          "通勤噪声或学习烦恼",
+          "音乐暂时转移注意",
+          "家务背景音乐",
+          "多场景日常减压"
+        ]
+      },
+      {
+        "role": "主体二：承认其他用途并按标准比较",
+        "explanation": "悲伤音乐也可能安慰，歌曲可助记、鼓舞和传文化；按持续日常福祉贡献比较，放松的广泛重复收益超过部分场合的较窄用途。",
+        "chain": [
+          "情绪安慰与教育文化功能存在",
+          "明确日常福祉标准",
+          "放松跨生活场景反复受益",
+          "部分仪式教育用途较特定"
+        ]
+      },
+      {
+        "role": "结尾：主要不等于唯一",
+        "explanation": "以最重要日常功能重申立场，同时承认个人放松形式不同；不能因另一功能存在就推翻主要功能。",
+        "chain": [
+          "放松形式因人而异",
+          "共享日常减压需求",
+          "仍为最重要日常功能"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "take their minds off",
+        "source": "熟悉（讲义）",
+        "usage": "暂时不想烦恼；take + 人的mind(s) + off + N。",
+        "example": "An outdoor break can take students' minds off a difficult assignment."
+      },
+      {
+        "phrase": "in the background",
+        "source": "校正",
+        "usage": "作为背景播放；play music/audio in the background。",
+        "example": "A recorded announcement may be difficult to hear when other audio is playing in the background."
+      },
+      {
+        "phrase": "lift their spirits",
+        "source": "熟悉（讲义）",
+        "usage": "振奋情绪；lift + 人的spirits，spirits用复数。",
+        "example": "Encouraging feedback can lift employees' spirits after a demanding week."
+      },
+      {
+        "phrase": "bring comfort and enjoyment",
+        "source": "校正",
+        "usage": "带来安慰愉悦；bring + N + to + 人，勿机械用trigger。",
+        "example": "A familiar public garden can bring comfort and enjoyment to older residents."
+      },
+      {
+        "phrase": "judged by their contribution to everyday well-being",
+        "source": "校正",
+        "usage": "明确评价标准；judged by + N，contribution to + N/V-ing。",
+        "example": "Judged by their contribution to community well-being, affordable bus services may deserve priority."
+      }
+    ],
+    "questions": [
+      "存在教育和文化用途是否自动否定放松最重要？",
+      "本篇采用什么重要性标准，怎样比较？",
+      "not only...but also中的两个动词为什么分别用trigger与bring？"
+    ],
+    "answers": [
+      "不能；必须按相关标准比较各功能，而非只证明其他功能存在。",
+      "以对日常身心状态的贡献为准；放松跨工作学习家庭反复受益，部分仪式教育用途范围与场合较窄。",
+      "trigger自然搭配pain/sadness，comfort/enjoyment更自然用bring，不必把优化夸成原句绝对缺谓语。"
+    ],
+    "transfer": "换成公共公园的主要用途：承认活动与文化价值，再按日常福祉贡献比较休闲功能。",
+    "transferAnswer": "Public parks can host cultural events, but their contribution to everyday well-being also matters. Regular opportunities to walk and relax may benefit residents more consistently than occasional ceremonies."
+  },
+  {
+    "id": "nine-18",
+    "code": "N18",
+    "title": "政府负责教育医疗",
+    "sourceHeading": "## 第18篇 政府负责教育医疗 436词",
+    "declaredWords": 436,
+    "sourceGroup": "nine",
+    "topic": "政府",
+    "topicEn": "Government",
+    "question": "some people think the government should pay for health care and education, but others believe it is not the responsibility of the government. Discuss both views and give your own opinion.",
+    "essayParagraphs": [
+      "Opinions differ as to how the government budget should be allocated. Some people argue the government should pay for health care and education, whereas others believe that individuals should **assume** such responsibility. Both views are discussed here to seek a **conclusion.**",
+      "**The** argument in favour of requiring efforts from governments is that they should and can shoulder such responsibilities. Everyone has a stake in education and health care: society benefits from a well-educated workforce and people can suffer less when health care is available. Therefore, governments, as the **protectors** and organizers of **society** aiming to achieve future prosperity, should **provide funding** to support the development of health care and education. Moreover, governments **have the capacity to do** so because **they collect taxes, so they should use this** money **to benefit** the **public** in a different way; for example, government-funded schools and hospitals are built to better serve people’s needs.",
+      "Others, however, highlight that it is individuals who should **pay** for what they **directly** benefit from. **When** paying **taxes,** individuals are investing their money **in** social programs that they can benefit from; for example, governments channel the money into public transport **projects** such as the construction of the metro, **from which the wider community** can **benefit.** By contrast, **they view** health care and education **as more personal; from this perspective,** it **seems** unfair to use money from all to **pay for services that some people use much more than others.** In addition, public education and health care **aim to give** everyone **equal** access to educational resources and **medical** services. Problems **may** arise **if public provision excludes paid alternatives, since** those **willing** to pay extra money **for additional services may be unable** to **do so.** This also applies to education: extra efforts are made by parents, but their children **may have no access** to **better** educational resources, advanced learning facilities, and a **lower student-teacher** ratio. In view of this, **opponents argue that** governments should not pay for education and health care, **leaving their provision to the market.**",
+      "I think it is better to seek a compromise between **the** two sides rather than take **either position** to extremes. Governments should pay for health care and education, as they both lay a solid foundation for the sustainable development of nations; nonetheless, while governments should spare no **effort** to make sure every citizen has equal access **to basic services** by subsidizing schools and hospitals, they should also **allow those who wish to pay for additional services to do so,** and this is why **private hospitals** and schools **exist** in the real world. Governments strive for all and individuals strive for themselves."
+    ],
+    "corrections": [
+      {
+        "title": "提供经费而非购买金钱",
+        "original": "should pay for the money to support the development",
+        "revised": "should provide funding to support the development",
+        "explanation": "pay for 后面接所购买的商品或服务，不能把 money 当成购买对象。这里要表达政府提供经费，因此改成 provide funding；保留“社会受益→政府应资助”的原推进。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "共同出资与使用程度",
+        "original": "health care and education are rather personal, it is intuitively unfair to use money from all to benefit very few",
+        "revised": "they view health care and education as more personal; from this perspective, it seems unfair to use money from all to pay for services that some people use much more than others",
+        "explanation": "原句既用逗号连接两个独立分句，也把教育医疗说成只有极少数人受益。改用分号，并把反方的公平担忧落在“个人使用程度不同，却共同出资”上，仍保留原来的个人受益论证。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "允许额外私人服务",
+        "original": "guarantee that few people could have better access",
+        "revised": "allow those who wish to pay for additional services to do so",
+        "explanation": "few 表示“几乎没有人”，与原文允许私人选择的本意相反。改成允许有意愿的人购买额外服务，并在前文明确公共服务保障的是 basic services，公共保障与私人选择才不冲突。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Public Funding for Health and Education",
+    "type": "双边讨论＋个人观点题",
+    "position": "政府资助基本教育医疗，同时允许愿意者购买额外私人服务。",
+    "paragraphNotes": [
+      {
+        "role": "开头：公平呈现财政分歧",
+        "explanation": "双方分别主张政府出资与个人承担，论题是预算分配及责任，而非先预设私人服务必须被禁止。",
+        "chain": [
+          "公共预算如何分配",
+          "政府支付",
+          "个人支付",
+          "需要比较公共与个人收益"
+        ]
+      },
+      {
+        "role": "主体一：责任与能力分别论证",
+        "explanation": "教育劳动力和可及医疗使社会整体受益，支持政府责任；税收提供出资能力，两条理由不能互相替代。",
+        "chain": [
+          "教育医疗产生社会收益",
+          "政府应资助",
+          "税收提供能力",
+          "建设公共学校医院"
+        ]
+      },
+      {
+        "role": "主体二：个人付费与选择担忧",
+        "explanation": "反方担心使用不同却共同付费，另担心公费供给排除付费选择；后一风险以if限定，不能把所有公共保障等同禁私人服务。",
+        "chain": [
+          "个人使用程度不同",
+          "反方质疑共同出资公平",
+          "若公共供给排除额外服务",
+          "愿付费者选择受限"
+        ]
+      },
+      {
+        "role": "观点结尾：基本保障加私人选择",
+        "explanation": "基本服务关系国家持续发展，应给每个人平等机会；在此基础上允许额外购买，兼顾公共责任与个人意愿。",
+        "chain": [
+          "政府补贴基本服务",
+          "全民基本可及",
+          "允许私人额外选择",
+          "公共与个人努力并存"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "shoulder such responsibilities",
+        "source": "熟悉（讲义）",
+        "usage": "承担前述职责；shoulder responsibility for + N/V-ing。",
+        "example": "Employers should shoulder responsibility for maintaining safe working conditions."
+      },
+      {
+        "phrase": "provide funding",
+        "source": "校正",
+        "usage": "提供经费；provide funding to + V / for + N，不写pay for the money。",
+        "example": "Councils could provide funding to repair unsafe pedestrian crossings."
+      },
+      {
+        "phrase": "have the capacity to do so",
+        "source": "校正",
+        "usage": "表达执行能力；have the capacity to + V，do so回指前一动作。",
+        "example": "Small schools may wish to offer specialist courses but lack the capacity to do so."
+      },
+      {
+        "phrase": "seek a compromise between",
+        "source": "熟悉（讲义）",
+        "usage": "在两方间找折中；seek a compromise between A and B。",
+        "example": "Transport planners should seek a compromise between faster journeys and quieter neighbourhoods."
+      },
+      {
+        "phrase": "equal access to basic services",
+        "source": "校正",
+        "usage": "基本服务平等可及；have/ensure equal access to + N，access不可数。",
+        "example": "Digital reform should preserve equal access to basic services for people without smartphones."
+      }
+    ],
+    "questions": [
+      "政府应该资助与有能力资助分别用什么理由？",
+      "反方关于私人选择的担忧为何要加if？",
+      "折中方案如何使基本公平与私人选择并存？"
+    ],
+    "answers": [
+      "社会受益支持责任；税收资源支持财政能力，不能只用一条代替两项判断。",
+      "只有公共供给排除付费替代时选择才被限制，公费保障本身不必禁止私人服务。",
+      "政府补贴学校医院确保基本服务平等可及，同时允许愿意付费者购买额外服务。"
+    ],
+    "transfer": "换成公共交通：写基本服务公共保障与额外私人选择并存的两句方案。",
+    "transferAnswer": "Cities should provide funding for reliable basic bus services so that residents can reach work and education. They can also allow private operators to offer additional services for passengers willing to pay more."
+  },
+  {
+    "id": "nine-19",
+    "code": "N19",
+    "title": "政府资助大学贫困生",
+    "sourceHeading": "## 第19篇 政府资助大学贫困生 384词",
+    "declaredWords": 384,
+    "sourceGroup": "nine",
+    "topic": "政府",
+    "topicEn": "Government",
+    "question": "For some students from poor families, it is a tough mission to attend college nowadays. Some believe that it is the government’s obligation rather than individual duty to pay the tuition fees. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "There has been a fierce yet unresolved debate as to how to assist low-income students to access higher education. Some people propose introducing a policy whereby these students can be supported by government budgets. Even though the government should **shoulder some** responsibility, **paying their tuition fees in full may be** impractical **where budgets are limited,** and thus a compromise is **necessary.**",
+      "The primary justification for requiring financial **support** from **governments** resides in the belief that they should and can mitigate the problem. Central to any nation is a well-educated workforce; thus, as the organizer of a nation, the government should take responsibility for supporting those students from poor families so that they can better contribute to **society as a** whole **(e.g., by becoming** medical experts, engineers, and lawyers). In addition, every year, **governments collect** money from **taxpayers** and **allocate part of their budgets** to higher education, which means it could be financially viable for governments to support those students. **These** duties and **resources,** therefore, **support a** role **for** government in educational **assistance.**",
+      "However, reaching such a conclusion does not mean it is financially viable for governments to **cover all tuition fees. Often,** a **large** education budget has **already** been allocated to free primary education, which can enable individuals to acquire basic skills and knowledge, **laying the groundwork for** many to secure employment after graduating from middle or high school. This kind of support **may be a priority** in **developing** and underprivileged areas. However, **fully** supporting economically deprived college students **may seem** to require little, but in fact **may cost** more than **governments** can afford. **This suggests a compromise** whereby the government does not provide **full grants** but can offer loans to assist these students in pursuing their education. For example, **a** government **could make** such loans available to help low-income **families,** and students **could repay them** after graduation, a **potentially beneficial arrangement in which** students can continue their education **and some public funding can later be recovered, although loans still involve public costs.**",
+      "In conclusion, although **governments** should support students, **paying their tuition fees in full may be impractical where budgets are limited. A compromise** should be **reached** between students from poor families and the government: further education **could** be **made more accessible through** interest-free student **loans, provided the associated public costs are manageable.**"
+    ],
+    "corrections": [
+      {
+        "title": "financial后接名词",
+        "original": "requiring financial from politicians",
+        "revised": "requiring financial support from governments",
+        "explanation": "financial 是形容词，需要后接 support 等名词。这里讨论公共预算的制度安排，用 governments 比 politicians 更准确，不会把政府财政职责写成政治人物个人出钱。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "贷款回收不等于零成本",
+        "original": "students can pay for it after graduation, a win-win situation where students can continue their education with no further budget deficit for the government",
+        "revised": "students could repay them after graduation, a potentially beneficial arrangement in which students can continue their education and some public funding can later be recovered, although loans still involve public costs",
+        "explanation": "偿还贷款用 repay，复数 loans 对应 them。贷款可以回收部分资金，但不能据此保证政府没有新增成本；保留“让学生继续读书，同时减少永久性支出”的论证功能，收窄零成本断言。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "全额学费与所有资助有别",
+        "original": "financial aid for education at the college level is impractical",
+        "revised": "paying their tuition fees in full may be impractical where budgets are limited",
+        "explanation": "financial aid 包含贷款，原句一面否定所有助学支持、一面主张助学贷款，范围不一致。改为预算紧张时“全额支付学费”可能不可行，反对的对象便与后文的贷款折中一致。",
+        "paragraphIndex": 0
+      }
+    ],
+    "englishTitle": "Government Support for Low-Income Students",
+    "type": "同意程度题",
+    "position": "同意政府承担部分责任；预算有限时不必全额支付，可在公共成本可控时提供无息贷款。",
+    "paragraphNotes": [
+      {
+        "role": "开头：责任范围与财政范围",
+        "explanation": "支持帮助贫困生，但反对预算紧张时必须全额承担学费；用some responsibility与in full区分资助职责和支付方式。",
+        "chain": [
+          "贫困生需要支持",
+          "政府承担部分责任",
+          "有限预算难全额支付",
+          "需要折中"
+        ]
+      },
+      {
+        "role": "主体一：社会回报与财政基础",
+        "explanation": "受教育劳动力服务社会，贫困生未来可能成为专业人才；税收与已有教育预算提供支持能力，但尚未证明能覆盖全部费用。",
+        "chain": [
+          "贫困生完成高教",
+          "未来贡献专业能力",
+          "政府有公共责任",
+          "税收与预算支持一定资助"
+        ]
+      },
+      {
+        "role": "主体二：预算优先与贷款回收",
+        "explanation": "基础教育已占用预算并可能优先，故以可偿还贷款代替全额拨款；毕业还款可回收部分资金，但无息贷款仍有成本。",
+        "chain": [
+          "基础教育优先占用预算",
+          "全额大学资助压力较大",
+          "提供助学贷款",
+          "毕业后偿还",
+          "部分资金回收但仍有公共成本"
+        ]
+      },
+      {
+        "role": "结尾：贷款的可行条件",
+        "explanation": "重申反对的对象是有限预算下全额支付，并以公共成本可管理为无息贷款的条件；不能一面否定所有financial aid一面支持贷款。",
+        "chain": [
+          "预算有限",
+          "全额支付可能不现实",
+          "无息贷款提高可及性",
+          "成本须可管理"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "shoulder some responsibility",
+        "source": "校正",
+        "usage": "承担部分责任；shoulder responsibility for + N/V-ing，some不表示唯一。",
+        "example": "Technology firms should shoulder some responsibility for helping users identify misleading content."
+      },
+      {
+        "phrase": "financially viable",
+        "source": "熟悉（讲义）",
+        "usage": "财务上可行；be financially viable，须比较成本与可用资源。",
+        "example": "A new theatre may attract audiences but must also be financially viable."
+      },
+      {
+        "phrase": "laying the groundwork for",
+        "source": "校正",
+        "usage": "为后续发展打基础；lay the groundwork for + N/V-ing。",
+        "example": "Early reading practice can lay the groundwork for independent learning."
+      },
+      {
+        "phrase": "full grants",
+        "source": "校正",
+        "usage": "全额资助金；provide full grants to + 人 / for + N，grants区别于需还款loans。",
+        "example": "A council could provide full grants for essential repairs in low-income households."
+      },
+      {
+        "phrase": "public funding can later be recovered",
+        "source": "校正",
+        "usage": "说明资金回收可能；funding + can be recovered，不推出零成本。",
+        "example": "If the project earns fees, some public funding can later be recovered."
+      }
+    ],
+    "questions": [
+      "“政府有资助责任”为什么不等于“应付清全部学费”？",
+      "贷款折中如何缓解永久性支出，又为什么不是零成本？",
+      "为什么把financial aid is impractical改为paying...in full may be impractical？"
+    ],
+    "answers": [
+      "责任可通过多种支持方式履行，税收资源与社会收益仍不足以证明有限预算能覆盖全部费用。",
+      "学生毕业偿还可回收部分资金，但政府仍承担提供和管理贷款的公共成本。",
+      "financial aid也包含贷款；只限定全额支付才能与后文支持贷款保持一致。"
+    ],
+    "transfer": "换成政府帮助小企业节能改造：区分全额拨款与可回收贷款，保留公共成本条件。",
+    "transferAnswer": "Governments can support small firms that cannot afford energy-saving equipment. Where full grants are too costly, low-interest loans may improve access while allowing some public funding to be recovered."
+  },
+  {
+    "id": "nine-20",
+    "code": "N20",
+    "title": "政府解决儿童肥胖",
+    "sourceHeading": "## 第20篇 政府解决儿童肥胖 331词",
+    "declaredWords": 331,
+    "sourceGroup": "nine",
+    "topic": "政府",
+    "topicEn": "Government",
+    "question": "In many countries, children are becoming overweight and unhealthy. Some people think that the government has the responsibility to change the situation. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "One of the worrying trends in modern society is that children have been increasingly suffering from obesity. It is believed by some **people** that the government should take **responsibility for tackling** this alarming situation. **I agree that** the government should do so, **although** success ultimately rests on concerted efforts **by** governments and parents.",
+      "The primary justification for requiring efforts from **governments** lies in the belief that they should and can **help** solve such problems. Central to the future well-being of any society is the healthy development of children; thus, as the protector of the citizenry and **an institution** aiming at sustainable development, the government should take responsibility for tackling the global obesity epidemic. In addition, governments can **introduce and** enforce laws; for example, they can place a ban on advertising **to children** for food and drinks high in sugar, salt, **or fat, since such advertising may encourage unhealthy eating habits** and **contribute** to **childhood** obesity. Stringent regulations **could be** imposed **to** mitigate the problem. Therefore, **these** duties and **powers support a** role **for** government in addressing this **issue.**",
+      "However, **this** worrying trend **can hardly** be halted or reversed by governments **alone.** At a macro level, the government can **help** mitigate the problems that ensue from an unbalanced diet by **restricting fast-food** advertising **to children.** At a micro level, governments, unfortunately, **often have limited influence over children’s** sedentary **habits at home.** Children are prone to **spend time** watching television, playing video games, or using a mobile phone, all of which **can** occupy **time that could otherwise be spent on** exercise. This makes it difficult for governments to remedy the **situation on their own,** thus necessitating the role of parents, with **whose guidance** children can **understand** the adverse effects that ensue from obesity and **move away from** unhealthy lifestyle choices.",
+      "In conclusion, **governments have a responsibility** to alleviate childhood obesity, **but** concerted efforts should be made **by** governments and **parents, as** both **play** indispensable **roles** in creating an environment conducive to children’s development."
+    ],
+    "corrections": [
+      {
+        "title": "共同责任仍然是同意",
+        "original": "Although the government should do so, the success ultimately rests on concerted efforts between governments and parents.",
+        "revised": "I agree that the government should do so, although success ultimately rests on concerted efforts by governments and parents.",
+        "explanation": "题目问政府是否有责任，并未问是否只有政府负责。明确写 I agree，再补充父母配合，避免把共同责任误写成对原命题的反驳；by 表示由双方作出努力。",
+        "paragraphIndex": 0
+      },
+      {
+        "title": "广告到饮食的中间机制",
+        "original": "food and drinks high in sugar, salt, and fat, all of which are the principal contributors to children’s obesity",
+        "revised": "food and drinks high in sugar, salt, or fat, since such advertising may encourage unhealthy eating habits and contribute to childhood obesity",
+        "explanation": "原句把糖、盐、脂肪一概断言为主要肥胖原因，因果太强，也没有解释广告为何相关。改成“广告可能鼓励不健康饮食→可能增加肥胖风险”，与政府广告监管这一措施直接对应。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "屏幕使用的时间机会成本",
+        "original": "all of which occupy their free time for exercise",
+        "revised": "all of which can occupy time that could otherwise be spent on exercise",
+        "explanation": "原来的 free time for exercise 不够自然，还暗示所有屏幕活动必然挤占运动。could otherwise be spent on exercise 明确时间机会成本；can 保留这种影响取决于使用时长的空间。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "Government Responsibility for Childhood Obesity",
+    "type": "同意程度题（责任命题）",
+    "position": "同意政府有责任；成功也需要父母配合，题目未要求政府独自解决。",
+    "paragraphNotes": [
+      {
+        "role": "开头：同意再补充主体",
+        "explanation": "先直接同意政府责任，再以although补充共同努力；父母也有作用不能当作反对政府应负责的理由。",
+        "chain": [
+          "儿童肥胖令人担忧",
+          "政府有责任",
+          "明确同意",
+          "成功仍需父母配合"
+        ]
+      },
+      {
+        "role": "主体一：责任与政策权力",
+        "explanation": "儿童健康关系社会未来，政府因此有职责；监管面向儿童的不健康食品广告，可通过减弱不良饮食诱导缓解问题。",
+        "chain": [
+          "儿童健康关系未来",
+          "政府应承担责任",
+          "制定执行广告限制",
+          "减少不健康饮食诱导",
+          "帮助缓解肥胖"
+        ]
+      },
+      {
+        "role": "主体二：家庭层面的能力边界",
+        "explanation": "宏观广告监管难直接改变居家久坐，屏幕活动可挤占运动；父母指导才补上政府触及有限的生活习惯环节。",
+        "chain": [
+          "政府能限制广告",
+          "居家久坐仍难单独改变",
+          "屏幕使用挤占运动",
+          "父母指导理解风险",
+          "改变不健康选择"
+        ]
+      },
+      {
+        "role": "结尾：两方责任相容",
+        "explanation": "政府责任仍然成立，父母作用用于解释解决条件；共同创造发展环境，不把共同责任写成取消政府责任。",
+        "chain": [
+          "政府负责宏观环境",
+          "父母指导日常习惯",
+          "共同支持儿童健康发展"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "take responsibility for",
+        "source": "熟悉（讲义）",
+        "usage": "承担某事责任；take responsibility for + N/V-ing，不等于only负责。",
+        "example": "Schools should take responsibility for keeping play areas safe."
+      },
+      {
+        "phrase": "concerted efforts by",
+        "source": "校正",
+        "usage": "说明由谁合作行动；concerted efforts by + 复数主体。",
+        "example": "Reducing traffic around schools requires concerted efforts by councils and families."
+      },
+      {
+        "phrase": "introduce and enforce laws",
+        "source": "校正",
+        "usage": "区分立法与执法；introduce and enforce + laws，不把enforce当颁布。",
+        "example": "Authorities can introduce and enforce laws against deceptive financial advertising."
+      },
+      {
+        "phrase": "time that could otherwise be spent on",
+        "source": "校正",
+        "usage": "时间机会成本；time that could otherwise be spent on + N/V-ing。",
+        "example": "Unnecessary meetings consume time that could otherwise be spent on preparing lessons."
+      },
+      {
+        "phrase": "an environment conducive to",
+        "source": "熟悉（讲义）",
+        "usage": "创造有利环境；an environment conducive to + N/V-ing，to是介词。",
+        "example": "Quiet libraries offer an environment conducive to independent study."
+      }
+    ],
+    "questions": [
+      "父母也有责任为什么不反驳原题？",
+      "食品广告监管通过什么中间步骤回应肥胖？",
+      "父母怎样补足政府的能力边界？"
+    ],
+    "answers": [
+      "原题问政府是否有责任，未写only；政府有责任与父母配合可以同时成立。",
+      "广告可能鼓励不健康饮食并增加肥胖风险，限制面向儿童的广告可削弱这条影响。",
+      "政府难直接改变家中久坐，父母可指导孩子理解风险并减少挤占运动的屏幕习惯。"
+    ],
+    "transfer": "换成网络安全教育：明确学校责任，再用家庭实践补充，不写成反对学校负责。",
+    "transferAnswer": "Schools should take responsibility for teaching children how to recognise online risks. Parents can reinforce these lessons at home by discussing suspicious messages and supervising unfamiliar services."
+  },
+  {
+    "id": "nine-21",
+    "code": "N21",
+    "title": "竞争和合作",
+    "sourceHeading": "## 第21篇 竞争和合作 339词",
+    "declaredWords": 339,
+    "sourceGroup": "nine",
+    "topic": "合作",
+    "topicEn": "Cooperation",
+    "question": "Some people think children should be encouraged to have a sense of competition. Others believe that children who are taught to cooperate rather than compete with others can become more useful adults in the future. Discuss both views and give your opinion.",
+    "essayParagraphs": [
+      "Opinions differ as to the topic of children’s education. Some people believe that they should **develop** a sense of competition to become good members of society; however, others claim that emphasis should be placed on how to cooperate with others. Both views are discussed here to seek a **conclusion.**",
+      "**The** argument in favour of competition is that it acts as **a** catalyst for personal progress. With a sense of competition, children can understand **one feature of modern society:** in **competitive situations,** students who have performed better **are often** given priority over others who have not, which can motivate them to strive for excellence. For example, students make efforts to excel **academically** to **gain admission** to famous universities. This is also true when they grow up. **Those** who **learn to respond to** competition can **perform better** when facing challenges rather than staying in their comfort zones, which **may allow** them to enjoy greater job opportunities, achieve better career progression, and thus play a **more useful** role in modern society.",
+      "Others, however, highlight the importance of cooperation. Many problems are too complex to be solved by individuals **alone,** thus necessitating the concerted efforts of a team. For example, the success of **a** company ultimately rests on the efforts of **its** departments, including the production department, advertising department, and marketing department, among others. **But** such cooperation between departments or **within** a department **depends on members knowing** how to share ideas with others, how to **reach a compromise when** ideas **differ,** and **how to** seek an optimum **solution together.** In view of this, collaboration skills should be cultivated during childhood, so children can be **well equipped** for their future lives.",
+      "It is better to seek a compromise between **the** two sides rather than take **either position** to extremes. Without competition, **some** children **may feel** less **motivated,** making it harder for them to **achieve their goals;** without cooperation, individuals **may find it difficult to** go further, considering the limitations on personal abilities. **By** integrating the **two, we** can **encourage** higher personal and team achievement."
+    ],
+    "corrections": [
+      {
+        "title": "竞争场景而非唯一社会法则",
+        "original": "the fundamental rule in modern society - survival of the fittest, a situation in which only students who have performed better can be given priority over others who have not",
+        "revised": "one feature of modern society: in competitive situations, students who have performed better are often given priority over others who have not",
+        "explanation": "保留“表现较好→更容易获得机会→产生努力动机”的因果链，但不把整个社会概括成唯一的适者生存规则。in competitive situations 限定场景，often 避免宣称成绩决定一切。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "compromise不是comprise",
+        "original": "how to comprise between different ideas",
+        "revised": "how to reach a compromise when ideas differ",
+        "explanation": "comprise 是“由……组成／包含”，并不是“妥协”。reach a compromise 表达达成折中，when ideas differ 交代需要协商的情境，使“分享意见→处理分歧→寻找较优方案”顺畅衔接。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "achieve接目标并收窄绝对判断",
+        "original": "making it harder for them to achieve; without cooperation, individuals can never go further",
+        "revised": "making it harder for them to achieve their goals; without cooperation, individuals may find it difficult to go further",
+        "explanation": "achieve 在此缺少目标，补 their goals；can never 把合作不足写成绝不可能进步，超过前文能支持的范围。改成 may find it difficult，保留个人能力有局限、需要合作的判断。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Teaching Competition and Cooperation",
+    "type": "双边讨论＋个人观点题",
+    "position": "竞争提供个人动力，合作突破个人能力限制；儿童教育应结合两者。",
+    "paragraphNotes": [
+      {
+        "role": "开头：两种教育方向",
+        "explanation": "一方强调竞争意识，另一方强调合作；题目关心未来成为有用成年人，后文应把儿童训练接到成年表现。",
+        "chain": [
+          "儿童教育目标",
+          "竞争意识培养",
+          "合作技能培养",
+          "比较未来社会作用"
+        ]
+      },
+      {
+        "role": "主体一：竞争激励成长",
+        "explanation": "在竞争情境中较好表现更易获优先，激励学业努力；学习应对挑战可迁移到工作，但不说成绩决定全部机会。",
+        "chain": [
+          "竞争时较好表现获优先",
+          "激励追求卓越",
+          "学会面对挑战",
+          "可能获得更多职业机会"
+        ]
+      },
+      {
+        "role": "主体二：合作处理复杂任务",
+        "explanation": "公司各部门相互依赖，分享意见还需处理分歧和协商方案；儿童练习这些技能，才可在未来有效团队工作。",
+        "chain": [
+          "复杂问题超出个人",
+          "部门协同",
+          "分享意见",
+          "分歧时达成折中",
+          "共同寻求较优方案"
+        ]
+      },
+      {
+        "role": "观点结尾：功能互补",
+        "explanation": "竞争不足可能减动力，合作不足限制走远；结合个人进步与团队成果，而非抽象说两个都好。",
+        "chain": [
+          "竞争促个人目标",
+          "合作补能力限制",
+          "融合两者",
+          "提高个人与团队成就"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "acts as a catalyst for",
+        "source": "校正",
+        "usage": "促成某进展；act as a catalyst for + N/V-ing，不表示唯一原因。",
+        "example": "Affordable childcare can act as a catalyst for wider participation in employment."
+      },
+      {
+        "phrase": "strive for excellence",
+        "source": "熟悉（讲义）",
+        "usage": "努力追求卓越；strive for + N，也可strive to + V。",
+        "example": "Regular feedback can encourage trainees to strive for excellence."
+      },
+      {
+        "phrase": "rests on the efforts of",
+        "source": "校正",
+        "usage": "说明成果依赖多方；X rests on the efforts of + 人或团队。",
+        "example": "The success of a public festival rests on the efforts of volunteers and local organisers."
+      },
+      {
+        "phrase": "reach a compromise",
+        "source": "校正",
+        "usage": "达成折中；reach a compromise when + 完整从句，勿用comprise。",
+        "example": "Residents and developers may reach a compromise when their priorities differ."
+      },
+      {
+        "phrase": "well equipped for their future lives",
+        "source": "校正",
+        "usage": "为未来做好准备；be well equipped for + N / to + V。",
+        "example": "Practical budgeting lessons can leave school leavers well equipped for independent life."
+      }
+    ],
+    "questions": [
+      "竞争段如何从学校表现接到成年社会作用？",
+      "合作段中分享意见之后还缺哪两步？",
+      "为什么两者需要结合，而非选出一个普遍胜者？"
+    ],
+    "answers": [
+      "竞争激励努力与追求卓越，训练应对挑战的能力，未来可能改善工作机会和职业发展。",
+      "意见不同时达成折中，再共同寻找较优方案，不能只用share ideas代替协作全过程。",
+      "竞争可提供个人动力，合作可突破个人能力局限；它们分别回应不同障碍。"
+    ],
+    "transfer": "换成公司绩效制度：用个人激励与跨团队协作各自解决的障碍写两句。",
+    "transferAnswer": "Individual targets can encourage employees to strive for excellence. Shared projects are also necessary when solving a problem rests on the efforts of several departments."
+  },
+  {
+    "id": "nine-22",
+    "code": "N22",
+    "title": "全球合作",
+    "sourceHeading": "## 第22篇 全球合作 418词",
+    "declaredWords": 418,
+    "sourceGroup": "nine",
+    "topic": "合作",
+    "topicEn": "Cooperation",
+    "question": "Many people feel that most of the urgent problems can only be solved by international cooperation. To what extent do you agree or disagree?",
+    "essayParagraphs": [
+      "Urgent problems abound in modern society; for example, global warming has caused changes in weather patterns on a global scale. With this comes the belief that **most** urgent issues can only be mitigated by international cooperation. Although **many global problems necessitate** international cooperation, **I only partly agree with this view, since some urgent regional** problems **can be addressed by** local **governments acting independently.**",
+      "The primary justification for requiring international cooperation is that **countries** should and can **work together to** mitigate such problems. So interconnected is the **world** that no country can evade **responsibility for mitigating shared** global problems **to which it contributes,** albeit to varying degrees. For example, all humans are facing the problem of global warming, the causes of which **include** industrial **emissions,** deforestation, and **emissions from air travel,** among others; therefore, global cooperation should be **pursued.** Moreover, efforts must be **coordinated** on a global scale **for these measures to** be effective. **High-income** countries such as the US and the UK should fully support **coordinated emission reductions, for example by** imposing regulations **on** carbon **emissions;** meanwhile, **lower-income** countries **can** also take **action,** such as **curbing** uncontrolled **deforestation.** The **need for shared responsibility** and **coordinated action** also **applies** to other urgent issues, ranging from pandemics to plastic pollution.",
+      "However, each country can also **take effective** action according to **its own circumstances.** In the case of global warming, **international agreements** to impose curbs on carbon **emissions can help,** but **countries** vary in economic, social and cultural conditions, which may give rise to **urgent** regional **issues that** local **governments** and residents can address **independently.** For example, electric cars are being encouraged **in many countries** to **help reduce transport emissions;** however, **where private vehicle ownership** is **low, replacing existing cars may have limited immediate effects.** These countries may **also** take action to solve other problems such as plastic pollution. For example, **where plastic waste blocks local drains and increases** the **risk** of **flooding, a local government could restrict** plastic bags **and improve waste collection without waiting for an international agreement.** Therefore, while global cooperation should be encouraged, efforts should **also** be made by each country, albeit differing in **which** problems they **tackle** and how they tackle **them.**",
+      "In conclusion, international cooperation can **provide** useful approaches to **tackling global** challenges, whereas **local** governments and individuals play a crucial role in **implementing** specific measures and **addressing some urgent** regional **issues independently.** Both are central to the advancement of global **society, and their relative importance depends on the scale and nature of the problem.**"
+    ],
+    "corrections": [
+      {
+        "title": "So...that倒装与责任范围",
+        "original": "So interconnected is the world, that no country can evade the responsibility to mitigate global problems because every country contributes to the problem, albeit to varying degrees.",
+        "revised": "So interconnected is the world that no country can evade responsibility for mitigating shared global problems to which it contributes, albeit to varying degrees.",
+        "explanation": "So + 形容词 + be + 主语 + that 是可保留的正式倒装，that 前不应加这个逗号。responsibility for doing 更自然；to which it contributes 也把责任限定在该国参与造成的共同问题上，避免每个国家都造成所有全球问题的过强概括。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "效果有限不等于不可行",
+        "original": "for underdevelopment countries, such a measure is far from viable because few people own their private vehicles",
+        "revised": "where private vehicle ownership is low, replacing existing cars may have limited immediate effects",
+        "explanation": "underdevelopment 是名词，不能这样修饰 countries；更重要的是，私家车少只能说明替换车辆的即时影响可能有限，不能直接证明政策不可行。改成条件场景，保留不同国情需要不同政策重点的原论证。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "独立本地行动回应only",
+        "original": "Tanzania made great progress in controlling the use of plastic bags while making little contribution to reducing carbon emissions",
+        "revised": "where plastic waste blocks local drains and increases the risk of flooding, a local government could restrict plastic bags and improve waste collection without waiting for an international agreement",
+        "explanation": "未经核验的坦桑尼亚对比不能充分回应 only。保留塑料污染例子，改为本地可以独立处理的紧急排水问题：无需等待国际协议就能采取措施。这样才能说明部分区域问题不以国际合作为前提，而不只是说国际协议还需要本地执行。",
+        "paragraphIndex": 2
+      }
+    ],
+    "englishTitle": "International Cooperation and Local Action",
+    "type": "同意程度题（most与only限定）",
+    "position": "部分同意：跨国问题需协调，但某些紧急区域问题可以独立处理，重要性取决于问题尺度。",
+    "paragraphNotes": [
+      {
+        "role": "开头：明确部分同意范围",
+        "explanation": "many与most不能混为一谈，only又是排他命题；承认许多全球问题需合作，同时保留区域问题可独立解决的范围。",
+        "chain": [
+          "全球问题紧迫",
+          "有人主张多数问题仅靠国际合作",
+          "全球问题常需协调",
+          "部分区域问题可独立处理"
+        ]
+      },
+      {
+        "role": "主体一：共同责任与协调必要",
+        "explanation": "气候问题由跨国活动形成，国家按贡献程度承担责任；不同收入国家可分工减排和限制毁林，协调提高共同措施效果。",
+        "chain": [
+          "各国共同贡献全球问题",
+          "承担程度不同的责任",
+          "跨国协调政策",
+          "各国分工减排与遏制毁林",
+          "共同措施更有效"
+        ]
+      },
+      {
+        "role": "主体二：因地制宜与独立行动",
+        "explanation": "车少地区换电车即时效果可能有限，需调整重点；塑料堵排水的紧急本地问题可以不等协议就限袋、收垃圾，真正回应only。",
+        "chain": [
+          "国情不同",
+          "统一措施即时效果有别",
+          "塑料堵塞本地排水",
+          "独立限袋与改善收集",
+          "无需等待国际协议"
+        ]
+      },
+      {
+        "role": "结尾：尺度决定分工",
+        "explanation": "国际合作提供全球框架，本地既执行协议也独立处理区域问题；一个本地例子只支持保留范围，不能自动证明多数问题不需合作。",
+        "chain": [
+          "全球挑战需要合作",
+          "本地落实具体措施",
+          "部分区域问题独立处理",
+          "相对重要性随尺度变化"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "So interconnected is the world that",
+        "source": "校正",
+        "usage": "强调程度的倒装；So + 形容词 + be + 主语 + that + 完整结果句，that前不加逗号。",
+        "example": "So limited is the school budget that essential repairs must be prioritised."
+      },
+      {
+        "phrase": "responsibility for mitigating",
+        "source": "校正",
+        "usage": "承担减轻某问题的责任；responsibility for + V-ing。",
+        "example": "Employers share responsibility for mitigating workplace stress."
+      },
+      {
+        "phrase": "albeit to varying degrees",
+        "source": "熟悉（讲义）",
+        "usage": "承认程度不同；完整判断后接albeit + 短语，勿另当主句。",
+        "example": "Rising housing costs affect many households, albeit to varying degrees."
+      },
+      {
+        "phrase": "limited immediate effects",
+        "source": "校正",
+        "usage": "限定短期效果；have limited immediate effects on + N，不等于不可行。",
+        "example": "New cycling lanes may have limited immediate effects where few residents own bicycles."
+      },
+      {
+        "phrase": "without waiting for an international agreement",
+        "source": "校正",
+        "usage": "突出可独立行动；without + V-ing，wait for + N。",
+        "example": "A town can repair unsafe crossings without waiting for a national transport reform."
+      }
+    ],
+    "questions": [
+      "本地执行国际协议为何还不足以反驳only？",
+      "塑料例子怎样构成独立本地行动？",
+      "一个区域反例能否直接推翻“多数紧急问题”需要合作？"
+    ],
+    "answers": [
+      "执行仍可能以国际合作为前提；必须提供无需协议也能独立解决的问题与行动。",
+      "当垃圾堵塞排水增加洪水风险，本地政府可立即限塑并改善收集，无需等待国际协议。",
+      "不能；它支持限定部分同意的范围，不能单凭一个例子得出多数问题均可独立解决。"
+    ],
+    "transfer": "换成学校联盟与校内问题：承认共享课程需要合作，但具体安全隐患可由学校独立处理。",
+    "transferAnswer": "Schools can cooperate to develop specialist courses that no single school can afford. However, an unsafe staircase can be repaired locally without waiting for an agreement across the entire network."
+  },
+  {
+    "id": "nine-23",
+    "code": "N23",
+    "title": "国际赛事的利弊",
+    "sourceHeading": "## 第23篇 国际赛事的利弊 397词",
+    "declaredWords": 397,
+    "sourceGroup": "nine",
+    "topic": "体育",
+    "topicEn": "Sports",
+    "question": "Some people think hosting major international sports events brings a lot of advantages to a country, while others believe there are more disadvantages. Discuss both views and give your own opinion.",
+    "essayParagraphs": [
+      "Holding international sports tournaments has grown significantly in both economic and cultural importance; however, a fierce debate remains as to the overall effect of **doing so:** some people think the host country benefits a lot from it, while others argue **that hosting such events is,** on **balance,** not sensible. Both views are discussed here to seek a conclusion.",
+      "The argument against such sports events is that they **impose** a heavy financial burden **on host** cities. Once a city wins the bid **to host** international sports **events** (e.g., **the** Olympics, **the** World Cup, **or the** European **Championship),** a large **amount** of money and resources **may need** to be poured into **preparations** because **cities** commonly construct stadiums, **transport infrastructure** (e.g., roads, **airports, and** railways) and catering facilities. This **can lead** to **substantial debt;** for example, **financial** problems **may plague a host city if construction costs exceed its available budget.**",
+      "Others, however, highlight that host countries **can** grow in stature and **benefit** economically and culturally. **Successful** bidding **may serve** as a signal that host countries **are willing** to **commit resources to** such capital-intensive events; host countries shoulder more **responsibility for organizing** global **events,** contributing to the international community. With this also comes cultural exchange. For example, **an event such as** the Beijing **Olympics can showcase** Chinese culture and traditions to the **world** and **give participants opportunities to learn** about the cultures of other countries, thus fostering understanding and cooperation between **countries.**",
+      "I think the **aforementioned** financial **burden,** although **a genuine concern, can be reduced.** When a country is expected to host an international sports event, opportunities abound for **it** to **receive** financial support from sponsors, such as airline companies, the food industry, and tech giants, among others; **this can make hosting more** financially viable. For example, **commercial sponsorship agreements could help pay for facilities and event operations.** Moreover, with such events **can come a** boom **in** tourism: visitors are attracted to **host** countries, where **revenue can be generated** by selling tickets and boosting tourism. **Such revenue may offset part of** the **costs, although** gross revenue **does not** by **itself demonstrate a net profit.**",
+      "In conclusion, although hosting international sports events may **impose** a financial burden on the **host** country, it **can generate revenue through** thriving tourism and **sponsorship, alongside cultural benefits. I therefore support hosting** such important **events where expected benefits justify the costs and financial risks are carefully managed.**"
+    ],
+    "corrections": [
+      {
+        "title": "burden on与成本清单",
+        "original": "pose a heavy financial burden to hosting cities",
+        "revised": "impose a heavy financial burden on host cities",
+        "explanation": "固定搭配是 impose a burden on someone；host cities 是“主办城市”的自然表达。后文同时把 traffic infrastructures 改为不可数的 transport infrastructure，并把航空公司 airlines 换为设施 airports，成本清单才是同一类别。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "赛事展示、参与者学习",
+        "original": "the Beijing 2008 Olympics showcased Chinese culture and traditions to the world, and learned about the cultures of other countries",
+        "revised": "an event such as the Beijing Olympics can showcase Chinese culture and traditions to the world and give participants opportunities to learn about the cultures of other countries",
+        "explanation": "原句的共同主语是 Olympics，结果变成赛事自己“学习文化”。给第二个动作补出 participants，并用 give participants opportunities to learn，让“赛事展示文化→参与者了解其他文化→增进理解”成立。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "总收入不能推出净利润",
+        "original": "where profits are made by selling tickets and boosting tourism. For example, in the 2018 FIFA World Cup in Russia, gross revenue was achieved by doing so.",
+        "revised": "where revenue can be generated by selling tickets and boosting tourism. Such revenue may offset part of the costs, although gross revenue does not by itself demonstrate a net profit.",
+        "explanation": "门票和旅游首先产生收入 revenue，扣掉成本以后才谈得上利润 profit。gross revenue 是总收入，不是纯利润；因此只能说相关收入可能抵消部分成本，不能直接推出财务风险不值得担心。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Hosting International Sports Events",
+    "type": "双边讨论＋个人观点题",
+    "position": "有条件支持办赛：预期经济文化收益足以支持成本，且财务风险得到管理。",
+    "paragraphNotes": [
+      {
+        "role": "开头：办赛收益与成本之争",
+        "explanation": "问题是主办重大国际赛事的整体效果；引言公平呈现利多与弊多两方，后文把总体判断落实为条件支持。",
+        "chain": [
+          "赛事重要性上升",
+          "主办有收益",
+          "也有重大成本",
+          "需整体评估"
+        ]
+      },
+      {
+        "role": "主体一：建设开支与债务",
+        "explanation": "赢得主办权后场馆、交通和配套设施耗资，若建造成本超预算可引发债务；投入不是自动形成可回收资产。",
+        "chain": [
+          "获得主办权",
+          "建设场馆交通配套",
+          "大量资源投入",
+          "成本超预算",
+          "可能出现债务"
+        ]
+      },
+      {
+        "role": "主体二：国家地位与文化交流",
+        "explanation": "投入和组织国际活动可提升地位；赛事展示文化，参与者学习其他文化，动作主体必须分清。",
+        "chain": [
+          "承担国际组织责任",
+          "展现国家与文化",
+          "参与者学习他国文化",
+          "促进理解合作"
+        ]
+      },
+      {
+        "role": "观点段：收入缓解而非保证盈利",
+        "explanation": "赞助可分担设施运营费，门票旅游产生收入，但收入仅可能抵消部分成本；总收入不能代替净利润检验。",
+        "chain": [
+          "赞助帮助支付成本",
+          "门票与旅游收入增加",
+          "抵消部分费用",
+          "仍需扣除全部相关成本",
+          "才可判断盈利"
+        ]
+      },
+      {
+        "role": "结尾：支持的具体门槛",
+        "explanation": "有经济文化潜力不等于无条件应办赛；需预期收益能支持成本且风险被管理，才能保持支持立场。",
+        "chain": [
+          "经济文化收益",
+          "与成本比较",
+          "财务风险可管理",
+          "有条件支持办赛"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "impose a heavy financial burden on",
+        "source": "校正",
+        "usage": "把负担落到承担者；impose a burden on + 人或机构，不用to。",
+        "example": "Unexpected tuition increases can impose a heavy financial burden on low-income families."
+      },
+      {
+        "phrase": "transport infrastructure",
+        "source": "校正",
+        "usage": "交通基础设施；infrastructure不可数，build/improve + infrastructure。",
+        "example": "Better transport infrastructure could connect rural workers with urban jobs."
+      },
+      {
+        "phrase": "grow in stature",
+        "source": "熟悉（讲义）",
+        "usage": "提高声望或地位；人或机构 + grow in stature，不等于规模增长。",
+        "example": "A university may grow in stature when its research addresses important public needs."
+      },
+      {
+        "phrase": "financially viable",
+        "source": "熟悉（讲义）",
+        "usage": "财务上可行；become/be financially viable，收入与成本均需评估。",
+        "example": "A free museum may remain financially viable if stable grants cover its operating costs."
+      },
+      {
+        "phrase": "gross revenue",
+        "source": "熟悉（讲义）",
+        "usage": "总收入而非净利润；generate/report gross revenue，利润需扣成本。",
+        "example": "High gross revenue does not guarantee that an online retailer can cover delivery and storage costs."
+      }
+    ],
+    "questions": [
+      "办赛财政负担的完整链条是什么？",
+      "“赛事展示并学习文化”的主语错在哪里？",
+      "赞助与门票收入为何不能直接证明办赛盈利？"
+    ],
+    "answers": [
+      "中标后建设场馆交通配套，投入大量资源；若建造费用超过预算，主办方可能陷入债务。",
+      "赛事可以展示文化，学习文化的是参与者；要给第二动作补出participants。",
+      "它们是收入并可能抵消部分成本，净利润仍须扣除相关费用；gross revenue不等于net profit。"
+    ],
+    "transfer": "换成城市建设新剧院：比较公共文化收益、收入和成本，写有条件支持。",
+    "transferAnswer": "A new theatre could attract visitors and provide space for local performances. It should proceed only where expected benefits justify construction and operating costs, since ticket revenue alone does not demonstrate a net profit."
+  },
+  {
+    "id": "nine-24",
+    "code": "N24",
+    "title": "体育成功 体能与心态",
+    "sourceHeading": "## 第24篇 体育成功 体能与心态 335词",
+    "declaredWords": 335,
+    "sourceGroup": "nine",
+    "topic": "体育",
+    "topicEn": "Sports",
+    "question": "Some people argue that the fittest and strongest individuals and teams can achieve the greatest success in sports. But other people think the success is much related to the mental attitude. Discuss both views and give your opinion.",
+    "essayParagraphs": [
+      "Opinions differ as to the decisive factor in **achieving** great success in sports. Some people think it rests on superior physical strength; however, others argue it hinges more on mental attitude. Both views are discussed here to seek a conclusion.",
+      "The argument in favour of **the** strength-oriented **view** is that **physical fitness** allows athletes to have the edge over their competitors in sporting competition. Being **among the** fittest and strongest means **athletes** can perform much better in **individual** sports including running, swimming, and alpine skiing, among others. **For example, a** sprinter **with exceptional speed** and **strength may dominate races when competitors are otherwise similarly skilled.** Even in team sports such as the **4 × 100-metre** relay, **these physical qualities can help the team win.** In view of these **advantages,** it is hard to deny how important physical fitness is in sports competition.",
+      "Others, however, highlight the importance of mental attitude. **In a** World Cup **final, although one team may have** greater **physical strength,** youthful energy, and a superstar **striker, its opponents may still manage** to lift the World Cup. **Mental attitude, alongside** physical **strength, can contribute to such** success. **The winners may be** a team that is greater than the sum of its parts and a team full of faith, initiative, and **persistence,** all of which **can help** them **overcome strong** opponents who seemingly hold all the aces.",
+      "I think **the** importance of being physically strong and mentally positive necessitates **integrating the two;** however, **although both are** important in achieving great success, **the** emphasis **placed** on **each differs** according to the **situation** and **sport.** When **a** premium is put on **speed and strength in** individual **sports,** being physically strong **can** be **a** decisive **factor,** as described in the motto ‘faster, higher, stronger’; by contrast, with regard to sports involving strategy and teamwork, the fitness of every sports player is of great importance, but mental attitude allows individuals to push their **limits** and work **much** better **as** a team. **When individuals perform well together,** a team thrives."
+    ],
+    "corrections": [
+      {
+        "title": "athletes才是发挥的主体",
+        "original": "Being fittest and strongest means sports can perform much better in Individual sports",
+        "revised": "Being among the fittest and strongest means athletes can perform much better in individual sports",
+        "explanation": "能比赛、能发挥的是 athletes，sports 表示运动项目，不能替代运动员。among the fittest and strongest 保留强调顶尖体能的作用，也避免只剩唯一“最强者”才能表现好的含义。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "坚持与战胜的准确搭配",
+        "original": "faith, initiative, and resistance, all of which make them over the strongest opponents",
+        "revised": "faith, initiative, and persistence, all of which can help them overcome strong opponents",
+        "explanation": "此处需要“坚持”persistence，resistance 是抵抗，意思不同。make them over 不能表示战胜；help them overcome 补齐谓语结构，can 也避免把心态直接说成获胜的唯一原因。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "much better与复数limits",
+        "original": "push their limit and work better much as a team",
+        "revised": "push their limits and work much better as a team",
+        "explanation": "push their limits 用复数表示突破自身能力边界；much 修饰比较级 better，必须放在其前。保留“积极心态→个人多发挥一点→团队协作更好”的推进。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "Sporting Success: Fitness and Mental Attitude",
+    "type": "双边讨论＋个人观点题",
+    "position": "体能与积极心态应结合；个人速度力量项目更侧重体能，策略团队项目也重心态协作。",
+    "paragraphNotes": [
+      {
+        "role": "开头：两种成功基础",
+        "explanation": "rest on与hinge on对应体能和心态，后文不是证明一项无用，而是比较在不同项目中的侧重点。",
+        "chain": [
+          "成功依赖体能的观点",
+          "成功更依赖心态的观点",
+          "按项目比较"
+        ]
+      },
+      {
+        "role": "主体一：体能优势的条件",
+        "explanation": "速度力量可让运动员在个人项目中领先；假设其他技能相近时短跑者更强的例子，支持体能重要而非只由体能定胜负。",
+        "chain": [
+          "速度力量更优",
+          "相近技术条件下表现更好",
+          "个人项目可能占优",
+          "接力团队也可受益"
+        ]
+      },
+      {
+        "role": "主体二：积极心态与团队增益",
+        "explanation": "身体更强的对手未必获胜，信念、主动性、坚持可让团队超越成员简单相加；心态只是与体能一起贡献，不保证独立决定结果。",
+        "chain": [
+          "对手身体条件强",
+          "团队信念与坚持",
+          "协作形成整体增益",
+          "可能战胜强手"
+        ]
+      },
+      {
+        "role": "观点结尾：按项目分配重点",
+        "explanation": "速度力量项目可更侧重体能，策略协作项目需积极心态帮助个体突破并配合；结合两者才回应双方而不绝对化。",
+        "chain": [
+          "整合体能与心态",
+          "个人项目重速度力量",
+          "团队策略项目重配合",
+          "个人共同发挥推动团队"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "have the edge over their competitors",
+        "source": "熟悉（讲义）",
+        "usage": "具有竞争优势；have the edge over + 对手，不等于保证获胜。",
+        "example": "Applicants with practical experience may have the edge over their competitors."
+      },
+      {
+        "phrase": "hinges more on",
+        "source": "熟悉（讲义）",
+        "usage": "更依赖某基础；hinge on + N/V-ing，more需比较对象。",
+        "example": "The success of online learning may hinge more on consistent feedback than on expensive software."
+      },
+      {
+        "phrase": "greater than the sum of its parts",
+        "source": "熟悉（讲义）",
+        "usage": "整体产生协作增益；be greater than the sum of its parts。",
+        "example": "A research group can be greater than the sum of its parts when members share different skills."
+      },
+      {
+        "phrase": "overcome strong opponents",
+        "source": "校正",
+        "usage": "战胜强劲对手；overcome + N，勿用make sb over。",
+        "example": "A small firm may overcome strong opponents by serving a neglected market."
+      },
+      {
+        "phrase": "push their limits",
+        "source": "校正",
+        "usage": "突破自身能力边界；push + 所有格 + limits，常用复数。",
+        "example": "Challenging projects can encourage students to push their limits."
+      }
+    ],
+    "questions": [
+      "短跑例子加“competitors are otherwise similarly skilled”有什么作用？",
+      "团队心态段怎样避免把一场胜利归因于唯一因素？",
+      "结尾怎样区分两类项目的重点？"
+    ],
+    "answers": [
+      "控制其他能力差异，具体说明速度与力量如何提供优势，不声称体能独自决定所有比赛。",
+      "用may与alongside physical strength，说明信念主动性坚持可共同贡献成功。",
+      "速度力量为核心的个人项目更看重体能；策略与团队项目中，心态有助突破个人边界和配合。"
+    ],
+    "transfer": "换成团队学习：区分个人基础知识与协作心态，并解释整体增益。",
+    "transferAnswer": "Strong subject knowledge gives each student a useful foundation. A team can nevertheless become greater than the sum of its parts when members share ideas and persist through difficult tasks."
+  },
+  {
+    "id": "nine-25",
+    "code": "N25",
+    "title": "运动员的薪水 合理",
+    "sourceHeading": "## 第25篇 运动员的薪水 合理 321词",
+    "declaredWords": 321,
+    "sourceGroup": "nine",
+    "topic": "体育",
+    "topicEn": "Sports",
+    "question": "Successful sports professionals can earn a great deal more money than people in other important professions. Some people think this is fully justified while others think it is unfair. Discuss both these views and give your own opinion.",
+    "essayParagraphs": [
+      "Opinions differ as to the **salaries** of sports professionals. While some people think their high salaries are fully justified, others think it is unfair that they receive a great deal more money than people in other important professions (e.g., scientists and government **leaders). Both** views are discussed here to seek a **conclusion.**",
+      "The argument against such high salaries for sports players is that salaries should be in proportion to the contribution individuals make to society. **Their salaries appear excessive** when **compared** with those of top surgeons, research scientists, or even leading politicians who have **responsibility for** governing the country. **From this perspective,** sports players should be paid less than those **people.**",
+      "Others, however, highlight the efforts made by sports players. **The** number of professionals with **exceptional** talent is very **small,** and the money is a recognition of the skills and dedication a person needs to be successful. Competition is constant and a player is tested every time they perform in their relatively short career. The pressure from the media is intense and there is little privacy **in** the spotlight. So all of these factors may justify the huge earnings.",
+      "I **think** sports salaries are not determined **solely** by considering the contribution to society a person makes, or the level of responsibility he or she holds. Instead, they reflect the **popularity** of sports in general and the level of public support that successful stars can generate. **When supporters voluntarily pay to watch them, these players help generate commercial revenue and can reasonably receive a substantial share of it.** So **fairness should not be judged solely by comparing** the **social responsibilities** of **different professions.**",
+      "In conclusion, even though **salaries are often expected to reflect** contribution and responsibility, **they** should **also** be based on other considerations such as public **support and the revenue generated.** It is my opinion, therefore, that the amount of money sports stars make **can be** fully **justifiable on this basis.**"
+    ],
+    "corrections": [
+      {
+        "title": "the number配small",
+        "original": "the number of professionals with real talent is very few",
+        "revised": "The number of professionals with exceptional talent is very small",
+        "explanation": "主语是 the number，指“数量”，所以用 small，不能用 few；few 修饰的是可数的人或物。exceptional talent 也把稀缺性落在卓越水平，而不是暗示大多数职业运动员没有真正才华。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "聚光灯内的隐私压力",
+        "original": "there is little privacy out of the spotlight",
+        "revised": "there is little privacy in the spotlight",
+        "explanation": "原文想表达媒体聚焦导致隐私减少，却写成“离开聚光灯后”。改为 in the spotlight，媒体关注→私人空间受限，因果才与本段支持高薪的理由吻合。",
+        "paragraphIndex": 2
+      },
+      {
+        "title": "市场收入到公平报酬的桥接",
+        "original": "So the notion of ‘fairness’ is not the issue.",
+        "revised": "When supporters voluntarily pay to watch them, these players help generate commercial revenue and can reasonably receive a substantial share of it. So fairness should not be judged solely by comparing the social responsibilities of different professions.",
+        "explanation": "市场为何形成高薪，并不自动证明高薪公平。补上“观众自愿付费→运动员创造商业收入→合理分享收入”的桥接，继续支持原文高薪合理的立场，同时保留公平问题本身。",
+        "paragraphIndex": 3
+      }
+    ],
+    "englishTitle": "High Sports Salaries: Justified",
+    "type": "双边讨论＋个人观点题",
+    "position": "支持高薪合理版：公众自愿付费形成商业收入，运动员有理由分享贡献创造的收入。",
+    "paragraphNotes": [
+      {
+        "role": "开头：共享题目，保留独立立场",
+        "explanation": "双方比较体育高薪与重要职业报酬；此版后文支持高薪合理，与下一篇同题反对版分别学习。",
+        "chain": [
+          "体育薪资很高",
+          "有人视为合理",
+          "有人以其他职业贡献质疑",
+          "比较公平标准"
+        ]
+      },
+      {
+        "role": "主体一：社会贡献尺度下的反方",
+        "explanation": "如果薪水按社会贡献和责任排序，外科医生、科研者和国家治理者有重大职责，体育报酬显得过高；先充分理解反方标准。",
+        "chain": [
+          "薪酬应反映社会贡献",
+          "其他职业责任重大",
+          "体育高薪比较下显得过高"
+        ]
+      },
+      {
+        "role": "主体二：才华、投入与职业压力",
+        "explanation": "卓越人才稀少，持续竞争、短职业期和媒体压力提供支持理由；注意the number配small，媒体聚焦内才会隐私减少。",
+        "chain": [
+          "卓越运动员稀少",
+          "技能投入受持续考验",
+          "职业期较短",
+          "媒体压力与隐私损失",
+          "提供高薪理由"
+        ]
+      },
+      {
+        "role": "观点段：市场解释接上公平桥梁",
+        "explanation": "受欢迎能解释高薪形成，还需观众自愿付费、运动员创造商业收入及合理分享这一桥接，才能讨论合理性。",
+        "chain": [
+          "公众支持与自愿付费",
+          "运动员创造商业收入",
+          "合理分享所创造收入",
+          "公平不只按社会责任比较"
+        ]
+      },
+      {
+        "role": "结尾：明确采用的标准",
+        "explanation": "承认贡献责任值得考虑，但加入公众支持与收入创造；在此商业分配标准上支持高薪可充分合理。",
+        "chain": [
+          "贡献责任并非唯一标准",
+          "公众支持和收入也相关",
+          "在此基础上高薪可合理"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "in proportion to",
+        "source": "熟悉（讲义）",
+        "usage": "按比例对应；be in proportion to + N，说明评价尺度。",
+        "example": "Training budgets should be in proportion to employees' actual learning needs."
+      },
+      {
+        "phrase": "exceptional talent",
+        "source": "校正",
+        "usage": "卓越才能而非泛指真实才能；have/possess exceptional talent，talent不可数。",
+        "example": "Scholarships can help students with exceptional talent continue their education."
+      },
+      {
+        "phrase": "in the spotlight",
+        "source": "校正",
+        "usage": "受到公众密切关注；be in the spotlight，区别out of。",
+        "example": "A public official in the spotlight may face intense scrutiny over everyday decisions."
+      },
+      {
+        "phrase": "generate commercial revenue",
+        "source": "校正",
+        "usage": "产生商业收入；generate + revenue，不自动等于净利润。",
+        "example": "Popular educational videos can generate commercial revenue for their creators."
+      },
+      {
+        "phrase": "a substantial share of it",
+        "source": "校正",
+        "usage": "分享前述收入的较大份额；receive a share of + N，it须清楚回指。",
+        "example": "If a community business succeeds, local workers should receive a substantial share of its benefits."
+      }
+    ],
+    "questions": [
+      "社会贡献标准为什么可能得出体育薪资过高？",
+      "市场受欢迎为什么还不足以单独证明公平？",
+      "本版结论与反对版的关键差别是什么？"
+    ],
+    "answers": [
+      "医生科研者等承担重大社会责任，若按此比例分配薪酬，运动员报酬相对显得过高。",
+      "它只解释收入形成；需补观众自愿付费、运动员创造收入、因此合理分享收入的规范桥梁。",
+      "此版把公众支持和商业收入创造纳入公平标准，因此支持高薪在此基础上可合理。"
+    ],
+    "transfer": "换成内容创作者收入：用自愿付费到合理分享收益的链条写两句，不只说受欢迎所以公平。",
+    "transferAnswer": "When viewers voluntarily subscribe to an educational channel, its creator helps generate commercial revenue. Receiving a substantial share of that income can be reasonable when the creator provides the work that attracts those subscriptions."
+  },
+  {
+    "id": "nine-26",
+    "code": "N26",
+    "title": "运动员的薪水 不合理",
+    "sourceHeading": "## 第26篇 运动员的薪水 不合理 357词",
+    "declaredWords": 357,
+    "sourceGroup": "nine",
+    "topic": "体育",
+    "topicEn": "Sports",
+    "question": "Successful sports professionals can earn a great deal more money than people in other important professions. Some people think this is fully justified while others think it is unfair. Discuss both these views and give your own opinion.",
+    "essayParagraphs": [
+      "Opinions differ as to the **salaries** of sports professionals. While some people think their high salaries are fully justified, others think it is unfair that they receive a great deal more money than people in other important professions (e.g., scientists and government **leaders). Both** views are discussed here to seek a **conclusion.**",
+      "The argument against such high salaries for sports players is that salaries should be in proportion to the contribution individuals make to society. **Their salaries appear excessive** when **compared** with those of top surgeons, research scientists, or even leading politicians who have **responsibility for** governing the country. **From this perspective,** sports players should be paid less than those **people.**",
+      "Others, however, highlight the efforts made by sports players. **The** number of professionals with **exceptional** talent is very **small,** and the money is a recognition of the skills and dedication a person needs to be successful. Competition is constant and a player is tested every time they perform in their relatively short career. The pressure from the media is intense and there is little privacy **in** the spotlight. So all of these factors may justify the huge earnings.",
+      "I think sports players are **overpaid when their salaries are assessed in proportion to their social contribution.** Scientists with **exceptional** talent are also **few in number,** and they also devote time and energy to **their fields over** the long term so that they can **make** breakthroughs. For example, **an agricultural** scientist **could develop higher-yielding** rice, **improving** food security and providing a **more reliable** food **supply** in areas with a high risk of famine. **Is** pressure from the media **necessarily** more intense than the pressure **on researchers working to help communities at risk** of **hunger?** The same principle **of rewarding scarce skills, dedication and responsibility** should also apply to other important professionals.",
+      "In conclusion, salaries should be based on contribution and **responsibility. The** high salaries of sports players **are difficult to justify by talent, dedication and pressure alone.** It is my opinion, therefore, that the amount of money sports stars make is **excessive when compared with the rewards received by other professionals on the basis of their social contribution.**"
+    ],
+    "corrections": [
+      {
+        "title": "薪水与薪水作比较",
+        "original": "They are overpaid especially when comparing these super salaries with those of top surgeons",
+        "revised": "Their salaries appear excessive when compared with those of top surgeons",
+        "explanation": "when comparing 的逻辑主语原本会落到 They，即运动员自己在比较。改成 Their salaries…when compared，把比较对象统一为“薪水与薪水”，也清楚呈现本段反方的评价尺度。",
+        "paragraphIndex": 1
+      },
+      {
+        "title": "假设研发例子取代未核验史实",
+        "original": "the scientist Yuan Longping, developed the first hybrid rice, boosting food security and providing a robust food source",
+        "revised": "an agricultural scientist could develop higher-yielding rice, improving food security and providing a more reliable food supply",
+        "explanation": "主谓之间原来的逗号应删除；“首个杂交稻”的科学史断言在材料中没有核验。改为农业科学家的条件性例子，保留“长期研发→提高产量→改善粮食供给”的原论证功能，food supply 也比 robust food source 更准确。",
+        "paragraphIndex": 3
+      },
+      {
+        "title": "结尾与反对高薪立场统一",
+        "original": "the amount of money sports stars make is fully justifiable",
+        "revised": "the amount of money sports stars make is excessive when compared with the rewards received by other professionals on the basis of their social contribution",
+        "explanation": "fully justifiable 支持高薪，与本篇反对立场直接冲突。改回 excessive，并明确依据是社会贡献与其他职业报酬的比较；同时正文说明稀缺技能、投入和压力也存在于其他职业，因此不能仅靠这些理由证明体育高薪合理。",
+        "paragraphIndex": 4
+      }
+    ],
+    "englishTitle": "High Sports Salaries: Excessive",
+    "type": "双边讨论＋个人观点题",
+    "position": "反对高薪合理版：按社会贡献比较，稀缺才能、投入与压力并非运动员独有，体育报酬过高。",
+    "paragraphNotes": [
+      {
+        "role": "开头：同题另一独立答案",
+        "explanation": "保留与合理版相同的双方介绍；学习时关注后续采用的社会贡献尺度，不把共享前三段误当重复贴错。",
+        "chain": [
+          "体育薪资很高",
+          "合理与不公平两方争论",
+          "本版按社会贡献判断"
+        ]
+      },
+      {
+        "role": "主体一：贡献与报酬比较",
+        "explanation": "把运动员薪水与外科医生、科学家、治理者薪水作同类比较，社会责任标准下前者显得过高。",
+        "chain": [
+          "以社会贡献为薪酬标准",
+          "其他职业承担重大责任",
+          "比较相应薪水",
+          "体育报酬显得过高"
+        ]
+      },
+      {
+        "role": "主体二：公平呈现支持高薪理由",
+        "explanation": "仍完整承认卓越人才稀少、投入、短职业期和媒体压力；反驳需要回应这些理由，而非删除正方。",
+        "chain": [
+          "人才稀少",
+          "技能奉献与持续竞争",
+          "短职业期及媒体压力",
+          "正方据此支持高薪"
+        ]
+      },
+      {
+        "role": "观点段：同一标准应适用他人",
+        "explanation": "科学家也稀少且长期投入，农业研究提高产量可改善粮食供给；科研压力亦重大，所以这些特质不足单独证明运动员应获远高报酬。",
+        "chain": [
+          "科研者也有稀缺才能与长期投入",
+          "提高产量",
+          "改善粮食供给",
+          "承担重大压力责任",
+          "相同奖励原则应适用于其他职业"
+        ]
+      },
+      {
+        "role": "结尾：修正立场冲突",
+        "explanation": "用excessive与社会贡献比较重申反对，删去原来误贴的fully justifiable；不是否认任何运动员收入都可支付。",
+        "chain": [
+          "贡献责任应作为标准",
+          "才能投入压力不足单独证明巨大差距",
+          "相对其他职业体育薪资过高"
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "phrase": "when compared with",
+        "source": "校正",
+        "usage": "比较同类对象；A appears + 形容词 + when compared with B，被动省略逻辑主语清楚。",
+        "example": "Online courses may appear inexpensive when compared with residential programmes."
+      },
+      {
+        "phrase": "few in number",
+        "source": "校正",
+        "usage": "数量稀少；复数人或物 + be few in number，区别the number is small。",
+        "example": "Qualified interpreters may be few in number in remote hospitals."
+      },
+      {
+        "phrase": "make breakthroughs",
+        "source": "校正",
+        "usage": "取得突破；make breakthroughs in + 领域，不能只写breakthrough当动词。",
+        "example": "Long-term investment can help engineers make breakthroughs in energy storage."
+      },
+      {
+        "phrase": "improving food security",
+        "source": "校正",
+        "usage": "说明粮食保障结果；improve + food security，也可分词补充前述行动结果。",
+        "example": "Better rural roads could reduce delivery losses, improving food security in isolated communities."
+      },
+      {
+        "phrase": "on the basis of their social contribution",
+        "source": "校正",
+        "usage": "明确评价依据；on the basis of + N，不与市场形成机制混为一谈。",
+        "example": "Community grants could be assessed on the basis of their social contribution."
+      }
+    ],
+    "questions": [
+      "本版怎样回应才华、投入与压力支持高薪的理由？",
+      "农业科学家的假设例子通过哪些步骤显示社会贡献？",
+      "为什么结尾必须由fully justifiable改为excessive？"
+    ],
+    "answers": [
+      "说明科学家等也具备稀缺能力、长期奉献和重大压力，故这些条件不能单独证明体育的巨大薪资优势。",
+      "开发高产水稻，提高粮食供给可靠性，改善粮食安全并帮助饥荒风险地区。",
+      "前文以社会贡献比较反对高薪，fully justifiable会直接支持相反立场；excessive才与本版论证一致。"
+    ],
+    "transfer": "换成娱乐明星与护理人员的薪资：公平解释明星收入形成，再用社会贡献标准提出评价。",
+    "transferAnswer": "Popular entertainers may generate substantial revenue through voluntary ticket sales. However, when pay is assessed on the basis of social contribution, the much lower rewards received by essential care workers deserve scrutiny."
+  }
+]
