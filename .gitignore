@@ -3,3 +3,4 @@ dist/
 site/.vitepress/cache/
 artifacts/
 site/public/mubu/
+tmp/
